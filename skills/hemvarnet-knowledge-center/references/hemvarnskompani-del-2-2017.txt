@@ -1,0 +1,2965 @@
+Handbok
+Hemvärnskompani del 2 Objektet
+
+                         2017
+        Handbok
+Hemvärnskompani
+   Del 2 Objektet
+         H Hvkomp Del 2
+                                 HANDBOK
+
+
+
+
+©Försvarsmakten
+
+Omslagsbild: Christian Wallenius/Försvarsmakten
+Grafisk bearbetning: FMV/FSV/Grafisk produktion
+Produktions-ID: 160511-011
+Publikationsformat: A5 format, InDesign
+Publikatiosområde: Hemvärn
+Förrådsbeteckning: M7739-352078
+HANDBOK
+
+VIDAR-handling: FM 2016:12291:5
+
+Beslut om fastställande av Handbok Hemvärnskompani Del 2.
+
+Handbok för hemvärnskompani del 2 (H Hvkomp del 2) fastställs att gälla
+från och med 2017-01-01.
+Publikationens registrerade M-nr är M7739-352078.
+
+Publikationen lagerhålls vid FMCL/FBE.
+
+Detta beslut är fattat av generallöjtnant Anders Silwer. I den slutliga hand-
+läggningen har som föredragande deltagit brigadgeneral Roland Ekenberg.
+
+Anders Silwer
+
+C PROD
+Roland Ekenberg
+RIKSHEMVÄRNSCHEF
+                                  HANDBOK
+
+
+
+Revidering - ändringslogg
+Nr   Mom     Omfattning av föränd-       Datum före-    VIDAR- hand-
+             ringar i stort              dragning       ling nr
+                                         Beslut av
+0            Ursprunglig fastställelse   2016-11-18     FM2016-12291:5
+                                         C Prod
+
+
+
+
+Sida avser sidnummer i den rättade versionen.
+Ändringar i texten framgår av ändringsmarkör.
+
+
+
+ Kom ihåg!
+
+ Om du läser denna publikation i pappersform – kontrollera att du
+ har den senaste utgåvan. Fastställd och gällande utgåva finns alltid
+ på Försvarsmaktens intranät.
+HANDBOK
+
+Förord
+
+Kraven och förväntningarna på Hemvärnsförbanden ökar varför det
+är viktigt att hemvärnsförbanden har bra och aktuella handböcker som
+beskriver den strid och de uppgifter de är dimensionerade för.
+
+Behovet av hemvärnsförband vid olika typer av objekt är sannolikt större
+än tillgången. Detta innebär att hemvärnsförbanden kan komma att grup-
+peras både utspritt respektive sammanhållet och att detta kan variera över
+tiden. Hemvärnsförbanden ska kunna verka under hela dygnet och i alla
+väderförhållanden. Detta ska kunna ske uthålligt under dygn till måna-
+der. Verksamheten ska dessutom i vissa skeden stödjas av nödvärnsrätt
+och skyddslag för att senare kunna hantera uppkomna situationer inom
+ramen för IKEN eller krigets lagar. Detta ställer stora krav på Hemvärns-
+förbandens personal i samtliga nivåer.
+
+Handbok Hemvärnskompani innehåller i huvudsak riktlinjer för förban-
+dets strid och övrig verksamhet. Dessa ska användas som stöd och exem-
+pel för chefers lösande av uppgift.
+
+Under fältförhållanden kan läget förändras snabbt. Handboken täcker
+inte alla situationer. Den som handlar enkelt, praktiskt och konsekvent
+når säkrast till målet. Obeslutsamhet skadar mer än misstag vid val av
+metoder.
+
+Chef är ansvarig för sitt förband och verksamheten vid detta. Chefens
+duglighet, fasthet, föredöme och omvårdnad om underlydande är avgö-
+rande för förbandets användbarhet och stridsvärde. Chefens förmåga att
+tänka flera steg framåt och kunna vid behov ge order efterhand kommer
+vara avgörande.
+
+God anda, fast disciplin samt förmåga att härda ut under ansträngande
+förhållanden är nödvändigt för framgång.
+HANDBOK
+
+”Enkla planer konsekvent genomförda leder säkrast till målet”
+
+Handboken är anpassad för hemvärnets uppgifter, organisation och mate-
+riel samt utbildningstid.
+
+Handbok Hemvärnskompani vänder sig främst till:
+
+. chef för hemvärnskompani
+
+. utbildare vid hemvärnets förband,
+
+. lärare och elever främst vid HvSS, men även vid Försvarsmaktens
+övriga skolor,
+
+« krigsförbandschefer.
+
+Handboken består av en serie om tre delar:
+Del 1: Grunder
+
+Del 2: Objektet
+
+Del 3: Anvisningar
+
+De begrepp, kommandon och tecken som beskrivs i Handboken får inte ges annan
+innebörd.
+HANDBOK
+
+Innehåll
+
+51
+5.2
+5.3
+5.4
+5.7
+
+5.8
+5.9
+5.10
+5.11
+5.12
+5.13
+
+6.1
+6.2
+
+6.3
+
+7.1
+
+8.1
+8.2
+8.3
+8.4
+8.5
+3.6
+8.7
+3.8
+
+Allmänt om striden
+
+Ta objekt
+
+Allmänt
+
+Kompaniets sammanstöt
+
+Kompaniet tar terräng hitom objektet
+Kompaniet tar terräng bortom objektet
+Kompaniets åtgärder då terrängen
+
+bortom objektet är tagen
+Ledning
+
+Eldledning/ indirekt eld
+Försvarsmedicin
+Underhåll
+
+Samband
+
+Ta objekt hamn - flygplats
+Bevaka
+
+Allmänt
+
+Kompaniet har tagit objekt som ska
+
+bevakas med mindre del
+Kompaniet bevakar
+Skydda
+
+Allmänt
+
+Försvar
+
+Allmänt
+
+Metoder för försvar
+Kompaniets försvarsstrid
+Planering av försvar
+Förberedelser för försvar
+Genomförande av försvar
+Försvar i bebyggelse
+Funktioner vid försvar
+
+12
+12
+13
+15
+16
+
+18
+20
+21
+22
+22
+22
+24
+29
+29
+
+30
+31
+34
+34
+38
+38
+40
+41
+42
+43
+44
+47
+49
+10
+
+11
+
+12
+
+13
+
+9.1
+9.2
+9.3
+9.4
+9.5
+9.6
+9.7
+9.8
+9.9
+
+10.1
+
+11.1
+11.2
+11.3
+
+12.1
+12.2
+12.3
+12.4
+
+HANDBOK
+
+Fördröjningsstrid
+
+Allmänt
+
+Motståndaren
+
+Förberedelser
+
+Genomförande
+
+Underrättelsebehov
+
+Fältarbeten
+
+Indirekt eld
+
+Logistik
+
+Ledning
+
+Störa
+
+Stridens förande
+Avlösning/mottagande av förband
+Grunder
+
+Samverkan och genomförande
+Exempel på tidsplan avlösning kompani
+mellan två förband
+
+Underställande av förband
+
+Allmänt
+
+Begreppen underställd och understödja
+Rekognoceringsstyrka och förpatrull
+Samverkan och order
+
+Strid i vintermiljö
+
+Bilaga 1
+Bildförteckning
+Källförteckning
+
+53
+53
+54
+55
+56
+60
+60
+61
+62
+64
+65
+66
+71
+71
+71
+
+72
+75
+75
+75
+76
+76
+77
+79
+81
+83
+HANDBOK
+
+4 - Allmänt om striden
+
+Förmågan att lösa en stridsuppgift varierar mellan förband. Flera fakto-
+rer påverkar såsom utbildningsståndpunkt, personal och materiel status,
+känd eller okänd terräng, viloläge m.m.
+
+Det finns flera olika sätt att lösa en uppgift, beroende på typförband och
+status kan möjligheterna minska eller öka. Hemvärnsförbands möjlighet
+att nyttja de taktiska och stridstekniska grunderna tillfullo varierar.
+
+Man kan inte nog understryka vikten av att cheferna känner sitt förbands
+förmåga och personal samt nyttan av rutiner som gör att förbandet kan
+utnyttjas optimalt. Val av rätt terräng och tid på dygnet mht kompaniets
+förmåga kan tex öka kompaniets möjligheter att lösa uppgiften.
+
+Kompanichefen väljer den stridsteknik som enligt sin bedömning är bäst lämpad för
+att lösa uppgiften med kompaniet.
+
+Inom förband använder vi ibland begreppet taktisk indelning. Taktisk
+indelning innebär att man för en viss uppgift, för en viss tidsperiod änd-
+rar på den ordinarie organisation. Man kanske har större nytta av tex hun-
+dar vid en pluton än vid de andra plutonerna och omfördelar kompaniets
+hundekipage. Vid ett annat tillfälle kanske en pluton behöver samtliga
+mörkerhjälpmedel eller fler understödsvapen för att lösa uppgiften maxi-
+malt varvid resurserna omfördelas. Detta sker genom ett formellt beslut
+om omfördelning och eller underställande.
+
+Detta måste i fredstid övas, chefer måste vara flexibla och bekväma med
+att deras organisation för tillfället kan förändras.
+
+Hemvärnets uppgifter att,i korthet beskrivet: vid en allvarlig kris kunna
+bevaka och/eller skydda militära skyddsobjekt, transporter och samhälls-
+viktig civil infrastruktur. Samt stödja insatsförbandens verksamhet och
+försvara viktigare knutpunkter, områden eller objekt från angrepp från
+marken av aktivister, kvalificerade sabotagestyrkor till reguljära mindre
+
+ALLMÄNT OM STRIDEN
+
+9
+10
+
+HANDBOK
+
+förband. Detta med stöd av skyddslagen, nödvärnsrätt och krigets lagar
+ska kunna ske över lång tid. Detta ställer stora krav på förbanden.
+
+Behovet av hemvärnsförband vid olika typer av objekt är sannolikt större
+än tillgången och av varierande karaktär.
+
+Det innebär att hemvärnsförbanden beroende på uppgifter kan komma att
+gruppera samlat i bataljon eller utspridda över mycket stor yta ner till enskilda
+plutonsenheter och i enstaka fall till och med grupp. Detta kan dessutom variera
+över tiden.
+
+Hemvärnsförbanden ska kunna verka under hela dygnet. Detta ska kunna
+ske under dygn till månader.
+
+Ett kompani kan sålunda komma att få i uppgift att bevaka och/eller
+skydda ett eller flera objekt. Ett objekt kan bestå av flera byggnader. Till
+uppgiften fogas ett syfte med uppgiften.
+
+När kompaniet genomför uppgiften bevaka och/eller skydda där plutoner
+bevakar, skyddar eller försvarar stridsställning inom ramen för kompa-
+niets uppgift så samordnar kompanichefen följande;
+
+.  Skjutgränser,
+
+. larmstyrka,
+
+.  tillträdeskontroll,
+
+«  patrullslingor,
+
+e fast spaning,
+
+. samlingsplats för skadade,
+
+e förläggning
+
+. återhämtning
+
+och med hänsyn till tidsaspekten: avlösningsförfarande.
+
+ALLMÄNT OM STRIDEN
+HANDBOK
+
+Principiell skillnad mellan olika uppgifter:
+
+(—
+
+N
+
+Bevaka objekt — vi upptäcker och = Försvara objekt- vi är i strid och
+försvårar motståndaren verksam- = håller terrängen/objektet men
+het eller tom får denne att avbryta — ordinarie verksamhet vid objek-
+sin verksamhet. tet kan inte genomföras.
+
+Skydda objekt- vi är i strid men
+
+q tar upp den i sådan terräng att
+egen verksamhet vid objektet kan
+fortgå.
+
+Bild4.1 — Principiell skillnad olika uppgifter. HvSS.
+
+Enkelhet är nyckeln till framgång.
+
+När möjlighet finns bör alltid en inriktning i tid ges till förband för när och hur länge en
+uppgift ska lösas.
+
+ALLMÄNT OM STRIDEN
+
+11
+12
+
+HANDBOK
+
+5 Ta objekt
+5.1 - Allmänt
+
+TA — stridsuppgift som syftar till att besätta viss terräng eller objekt i visst syfte.
+
+För att ta objekt/terräng utnyttjar kompaniet vedertagna stridsgruppe-
+ringsformer och olika grader av eld och rörelse enligt Handbok hvkom-
+pani del 1.
+
+Ju sämre underrättelseläge och större hot desto mer nyttjar förbandet eget
+understöd i sin framryckning.
+
+Den enklaste formen av ”ta objekt” för Hemvärnet är att man har kontakt
+med objektsägaren och med en mindre del säkrar objektet, därmed kan
+resten av kompaniet genomföra fordonsmarsch till objektet. Mest troligt
+är dock att kompaniet oftast måste framrycka via FAP och med huvuddel
+ta objekt.
+
+Objektet är taget när man behärskar objektets närområde med eld och att hela
+objektet är genomsökt..
+
+Kompanichef måste överväga om uppgiften ska lösas med kompaniets
+helhet eller plutonvis om kompaniet har flera objekt som ska tas, skyddas/
+bevakas. Viktigaste objektet tas först.
+
+Kompanichefen måste också bestämma och överväga om det är bråttom
+så att tillfälligt sammansatta plutoner ( allt eftersom de mobiliseras ) ska
+användas eller om försöka hålla ihop organisatoriska plutoner.
+
+Nedan beskriver Handbok när uppgiften löses av samlat kompani. För-
+
+farande vid plutonsvis lösandet av uppgifter återfinns i Handbok Hvplu-
+ton -grupp.
+
+TA OBJEKT
+HANDBOK
+
+Val av plats för fordonsavlämningsplats (FAP) och metod styrs av hotbild,
+terrängen och tid. Strävan är att FAP är så långt fram som möjligt.
+
+Möjligheten att inhämta underrättelser om möjliga framryckningsvägar
+och objektet ska tillvaratas. Detta kan ske genom att tidigt med förpa-
+trull för att spana mot objektet. Förpatrullen kan bestå av en pluton eller
+del därav. Förpatrullen kan även med fördel tilldelas hundekipage varvid
+indikationer från objektet på främmande verksamhet kan fås tidigt.
+
+Kompanichefen strävar efter att inte ha något längre uppehåll för order-
+givning på FAP utan kompletterar redan given order mht ev nya underrät-
+telser som framkommit från tex förpatrullen.
+
+Kompaniets framrycker på anbefalld stridsgrupperingsform utan uppe-
+håll från FAP mot respektive mål enligt kompanichefens stridsplan. Kom-
+panichefen kompletterar sina order efterhand som man når terräng och
+pekar om möjligt ut terrängpartier för plutonchefer samt samordnar
+framryckning inom kompaniet med skjutgränser osv. Plutonerna fram-
+rycker med en maximal bredd om ca 150 meter och med lucka inbördes
+om 100 -150 meter.
+
+Kompani som tar objekt i betäckt terräng tar objektet enligt följande princip:
+Tar terräng hitom objektet, samt grupperar ett understöd för att därefter ta
+terräng bortom objektet, försvarar tagen terräng och slutligen genomsöker
+
+objektet och rapporterar till högre chef.
+
+Kompaniet strävar efter att hela tiden ha uppsikt 360 grader.
+
+5.2 Kompaniets sammanstöt
+
+Exempel på kompaniets åtgärder vid sammanstöt är beskrivet i Handbok
+hvkompani del 1 grunder.
+
+TA OBJEKT
+
+13
+14
+
+HANDBOK
+
+När kompaniet får sammanstöt på väg mot objektet måste chefen snabbt
+fatta beslut inom ramen för sin stridsplan, kringgång eller omfattning
+alternativt välja helt ny framryckningsriktning.
+
+Dvs kompch måste värdera vad är viktigast och vilka risker kompaniet
+kan ta och för att inte äventyra uppdraget.
+
+Avgörande för kompanichefens beslut är också hur pass involverat kom-
+paniet blir sammanstöten sker dvs kan den drabbade plutonen själv lös-
+göra sig och fortsätta mot uppgiften eller är de så hårt ansatta att del av
+kompaniet eller hela måste sättas in för att lösgöra dem.
+
+Kompanichefen måste snabbt få en bild av läget, inövade rutiner vid sam-
+
+manstöt är en fördel för att snabbt kunna ta iniativet i striden. Avdelad
+enhet som reserv skapar handlingsfrihet för kompanichefen.
+
+TA OBJEKT
+HANDBOK
+
+5.3 Kompaniet tar terräng hitom objektet
+
+Inledningsvis tas terräng hitom objektet för att gruppera eget understöd
+och observera mot objektet. Disponeras hundar kan dessa nyttjas för
+bevakning och om tid finnes till ett avsök upp mot vindriktningen.
+
+OBJEKT
+
+Bild5.1 Exempel på kompani grupperad på stridskolonn som har tagit terräng hitom
+objektet. Illustration: Anna-Karin Wetzig, Grafisk Produktion, FSV/FMV
+
+TA OBJEKT | 15
+16
+
+HANDBOK
+
+5.4 Kompaniet tar terräng bortom
+objektet
+
+Kompaniet tar terräng bortom objektet. Detta sker med en eller flera plu-
+toner, och eget understöd .
+
+OBJEKT
+
+Bild 5.22 Exempel på kompani som tar terräng bortom objektet.
+Illustration: Anna-Karin Wetzig, Grafisk Produktion, FSV/FMV.
+
+Ex på kompch order
+1.pluton understödjer, 2. plutons tagande- eld på min order ,skjutgräns vänster...
+
+Beredd ta ytterligare terräng till höger och bortom objektet 75 meter -skjutgräns vänster
+
+2.pluton framryck till vänster om objektet ta terrängen bortom 75 meter.skjutgräns
+höger.....beredd...
+
+3.pluton beredd understödja 2. plutons tagande, skjutgräns vänster...skjutgräns hö..eld-
+upphör när 2. pluton passerar.... beredd genomsöka objektet samt upprätta infartspost.
+
+Kvm: beredd framgruppera samlingslats för skadade till objektet på min order.Trosstropp
+fram på min order.
+
+TA OBJEKT
+HANDBOK
+
+Bild 5.3 Kompaniet tar objektet genom omfattning höger, förpatrull / spaning grupperad till
+höger om objektet. Illustration: Anna-Karin Wetzig, Grafisk Produktion, FSV/FMV
+
+1. förpatrull spanar mot objektet
+
+2. två plutoner tar stridsställningar understödjer en plutons framryck-
+ning till omfattande plutoner tar stridsställning, understödjer en plu-
+
+tons tagande av objekt och terräng bortom(4). Risken för att objektet
+skadas ska beaktas.
+
+När kompaniet tar terräng bortom objektet är det en fördel om plutonerna får ta den
+terräng som de senare ska nyttja i lösandet av uppgiften skydda/bevaka/ försvara.
+
+TA OBJEKT
+
+17
+18
+
+HANDBOK
+
+5.3 Kompaniets åtgärder då terrängen
+bortom objektet är tagen
+
+När kompaniet behärskar terrängen runt objektet är det av vikt att per-
+sonal snarast avdelas för att genomsöka objektet så att inte motståndaren
+kvarlämnat eller i förväg placerat ut tex försåtsminering etc. Därmed är
+objektet taget och detta kan rapporteras till högre chef.
+
+Sjukvård och underhåll bör framgrupperas till kompaniets huvuddel och
+ammunition m.m ersätts och därmed kan stridsvärdet höjas vid förbandet.
+
+Kompaniet samordnar snabbt stridsställningar, förbereder växel och
+alternativa stridsställningar som synkroniseras av kompanichefen. Detta
+för att kunna avslå en motståndares snabba motanfall.
+
+Då stridsställningar med m.m är samordnade kan stridsberedskapen sän-
+kas och förstärkningsarbeten, mineringar och eventuella förläggningsar-
+beten mm påbörjas.
+
+Kompaniet tillser att utnyttja terrängen på bästa sätt i förhållande till upp-
+giften. Lämplig terräng för att lösa skydda uppgift är förmodligen inte
+densamma som om uppgiften är bevaka/försvara. Stridsställningar, väx-
+elstridsställningar och alternativa stridsställningar ska finnas vid respek-
+tive enhet och ska förövas. Patrullslingor rekas förberedas både i och utan-
+för objektet. Lyspatrull uppträdande ska förövas. Larmstyrka ska avdelas
+och förövas. Förläggning ordnas så bekvämt som möjligt med hänsyn till
+infrastruktur och hotbild.
+
+Patrullslingor och stridsställningar bör även beaktas med hänsyn till mör-
+ker och kanske kompaniet har olika rutiner vid objektet mht dagsljuset.
+
+Särskilt bör beaktas när, var och hur hundekipage ska nyttjas.
+
+Ljud och ljusdisciplin beaktas över tiden.
+
+TA OBJEKT
+HANDBOK
+
+Yttre
+
+patrullslinga $4
+”
+
+Inre AA
+
+LJ
+sy”
+
+. ”
+patrullslinga + Objekt
+
+mms —sE:
+
+Bild54 Exempel på kompani grupperat för skydda objekt.
+Illustration: Anna-Karin Wetzig, Grafisk Produktion, FSv/FMV
+
+Om kompaniet har till uppgift att ta flera objekt så kvarlämnas minst säk-
+ringsstyrka och huvuddelen av kompaniet fortsätter mot nästa objekt.
+
+Ett annat scenario är att insatskompaniet tar objekt som sedan överlämnas
+till bevakningskompaniet som löser bevaka/skydda uppgiften. Se kapitlet
+avlösning.
+
+Då kompaniet sprids ut enligt bild 5.35 krävs mindre samordning mellan
+plutoner vad avser eldområden och stridställningar men mer planering
+vad avser underhåll och samband. Larmstyrka ska kunna uppträda inom
+hela kompaniets område. Plutonerna kan i detta läge med fördel ges plu-
+tonsområde.
+
+TA OBJEKT
+
+19
+HANDBOK
+
+Bild 5.5 Kompaniets bevakar/skyddar flera objekt.
+Illustration: Anna-Karin Wetzig, Grafisk Produktion, FSV/FMV
+
+5.4 Ledning
+
+Under ta förfarandet bör kompanichef uppehålla sig med sin chefsom-
+gång där han anser det viktigast dvs hos den pluton i terrängen där avgö-
+rande kan komma att ske eller den mesta kritiska punkten i stridsplanen.
+Kompanichefen ska följa sitt kompani i terrängen.
+
+Med kompanichefen förutom hans chefsomgång kan tex kvartermästare
+medfölja. Likaså ev chef tilldelad eldledningsgrupp. Chef för kompaniets
+reservpluton eller om man framrycker på stridskolonn, de bakomvarande
+
+plutonernas chefer, finns också nära kompanichefen.
+
+Samband kan finnas med FAP dvs kompaniets fordonsdelar.
+
+20 | TA OBJEKT
+HANDBOK
+
+Kompanichefen stridsleder genom order och kommandon. Så ofta som
+möjligt direkt till plutonchef eller via radio. Optimalt är om kompaniche-
+fen kan peka i terrängen och samtidigt ge order.
+
+Kompanichefen är förutseende och tänker hela tiden i minst tre steg
+framåt och nyttjar möjligheten att ge DUC förberedande order och order
+efterhand:
+
+”ta höjden beredd...alternativt ....ytterligare beredd ta terräng 200 m
+längre fram ”. Detta ger ett tempo i striden som kan vara avgörande.
+
+Kompanichef stf håller sig uppdaterad beredd ta över stridsledningen.
+
+Denne kan också leda del av striden tex en kringgång, ett understöd osv.
+
+5.5 - Eldledning/ indirekt eld
+
+Om kompaniet disponerar indirekt eld ska en plan för detta ha upprättats
+— se åtgärder FAP i H hvkompani del 1.
+
+Registrerade mål för indirekt eld kan både finnas på vägen fram mot
+objektet och i anslutning till objektet i terräng som motståndaren behärs-
+kar/ absolut inte får behärska. Den indirekta elden kan också förberedas
+för rökskjutning eller lysskjutning dvs för att tex dölja vår framryckning
+eller möjliggöra bekämpning av motståndaren enklare under nattetid.
+
+När kompaniet löser uppgiften-erna skydda/ bevaka kan den indirekta
+elden utnyttjas på samma sätt. Oftast registreras då mål för den indirekta
+elden i anslutning till respektive plutons stridsställning.
+
+Eld kan avges med indirekta elden på andra platser än registrerade mål
+
+genom att ange ett felläge. ”Tex mål 1102 bortom 500 vänster 200 en eld-
+stöt”.
+
+TA OBJEKT
+
+21
+22
+
+HANDBOK
+
+Pluton ska kunna agera som eldobservatör. Eldobservatörsskiss ska upp-
+rättas för varje enhet som har registrerade mål i anslutning till sin strids-
+ställning.
+
+5.6 Försvarsmedicin
+
+Vid framryckning från FAP ska samlingsplatsen vara upprättad och
+känd. Sjuktransportresurser finnas avdelade inom kompaniet och om
+de inte kan framrycka med respektive pluton så ska de på order snabbt
+kunna framrycka till terräng nära eventuell skadeplats. Samlingsplats
+för skadade flyttas fram så fort det är möjligt med hänsyn till hotbil-
+den.
+
+5.7 - Underhåll
+
+Fordon med underhåll bör framrycka bakom sin respektive enhet om så
+möjligt med hänsyn till hotbild. Går inte det så hanteras den i likhet med
+sjuktransportresurserna. Underhållsdelar ansluter fram till förbandet så
+snart som är möjligt då objektet är taget.
+
+5.8 Samband
+
+Samband upprätthålls enligt ordinarie rutiner. Inledningsvis bör radio-
+tystnad råda men då chef bestämmer eller vid första stridskontakt bryts
+denna. Radiotystnad bryts på kodord.
+
+Plutoner rapporterar positivt dvs framåtriktat enligt minnesramsan FÖRS:
+
+”AR har tagit upk 10,inget att rapportera, fortsätter mot upk 11”.
+
+Kompanichef anmäler efterhand till bataljonchef enligt rutin när man
+påbörjar uppgift- når ett mål- har slutfört en uppgift- första stridskontakt.
+
+TA OBJEKT
+HANDBOK
+
+—
+
+I
+LJ
+I
+[|
+I
+I
+C
+
+Bild 5.6 — Översikt kompaniets ta förfarande.
+Illustration: Anna-Karin Wetzig, Grafisk Produktion, FSV/FMV
+
+TA OBJEKT
+
+HANDBOK
+
+5.9 Ta objekt hamn - flygplats
+
+När kompaniet ska ta objekt med större areal tex hamn, flygplats sker det
+mer självständigt mellan plutoner än vid det vanliga ”skyddsobjektet i sko-
+gen ”men fortfarande samordnat av kompanichefen.
+
+Vid dessa objekt gäller det att först få underrättelser om var det finns
+marin respektive flygvapenförband för att samordna tagandet och upp-
+rätta ett gemensamt radionät för markstrid. Därefter strävar kompaniet att
+upprätta kontroll över området genom att ta terräng varvid oplatser-pos-
+teringar vägspärrar upprättas. Med hänsyn till arealen kan detta komma
+och ske med stora avstånd mellan plutoner.
+
+ES
+
+Bild 5.7 Exempel på stridsteknik när kompani tar flygplats. Pilarna visar förbandens fram-
+ryckning, graden av eld och rörelse beror på egna förband och fiendeläget.
+Illustration: Anna-Karin Wetzig, Grafisk Produktion, FSV/FMV
+
+Kompanichefens GFI, målbild....
+
+Förpluton tar till vänster om terminalbyggnaden beredd understödja
+tagandet av höjden, upprättar vägspärr inkommande väg.
+
+24 | TA OBJEKT
+HANDBOK
+
+Nästkommande pluton omfattning vänster tar höjden, beredd under-
+stödja tagandet av dungen, upprättar postering inkommande väg.
+
+Sist anlända pluton kringgång höger, tar dungen, upprättar postering.
+
+Samtliga skyddar flygplatsen från innehavd gruppering.
+
+Flygbas —"
+
+Bild 5.8 — Principskiss hemvärnsbataljon skyddar flygbas. Försvarsmakten.
+
+Att tänka på i anslutning till flygbas:
+
+Hemvärnsbevakningsförband kan komma att lösa sina uppgifter i nära
+anslutning till landningsbanan samt bevakning av ammunition, drivme-
+delsupplag och flygplan.
+
+Hemvärnsinsatsförband kan komma, tillsammans med flygbassäk och
+flygbasjägarförband, skydda flygbasen från grupperingsplatser utanför
+flygplatsområdet (staketet).
+
+Miljön att verka i kan vara bullrig, dels av flygplan men också av mängden
+underhållstransporter som en aktiv flygbas kräver. Detta kan påverka för-
+
+bandets möjligheter till vila och förmåga att lösa uppgiften.
+
+Uppgiften ställer krav på stor samordning mellan flygvapenenheter och hem-
+värnsförband för att undvika vådabeskjutning.
+
+TA OBJEKT
+
+25
+26
+
+HANDBOK
+
+Markstridsförbanden kommer att ha begränsningar vad avser använ-
+dande av lys och signalammunition då basen används för flygning. Hem-
+värnsförbanden kommer av motsvarande anledning inte kunna nyttja
+hemvärnsflyget som stöd för sin strid i den utsträckning man är van vid.
+
+Del av Hemvärnsförbanden kommer att behövas dels för larmstyrka men
+också för omfattande konvojering av ammunition och drivmedelstran-
+sporter till flygbasen samt inpasseringskontroller.
+
+Är du som kompanichef med ditt förband ansvarig på platsen så ska du
+samverka med markstridsledaren ur Flygvapnet och ni två samordnar
+markstriden på objektet mellan era förband. Tydliga gränser är ett måste.
+Chef ur Flygvapnet är markstridsledare på basen.
+
+Markstridsledaren ur Flygvapnet måste prioritera vad som är skyddsvärt
+inom Flygbasen: tex piloter? Ledningscentralen? Uppställda flygplan och
+eller ammunition/bränsle? Detta kan skifta över tiden.
+
+Man måste också klargöra när flygplatsen eventuellt ska blockeras eller
+spärras. På vems order? Med vilka resurser? Blockera är relativt lätt att
+åstadkomma med tex egna fordon medan spärra kräver mer resurser
+oftast då i form av maskinkrävande fältarbeten.
+
+Detta kräver samövning i fredstid med olika scenarior under vilka Hem-
+värnsförbanden ska lösa uppgiften.Samma förhållanden gäller principi-
+ellt vid Marinbas/hamn. Samverkan sker med den ansvarige på plats hur
+stridsuppgifen bäst ska lösas.
+
+Även denne måste fastställa vad som är skyddsvärt och när, gränser,
+ansvar, sambandsmedel etc.
+
+I anslutning till hamn tillkommer ytterligare en dimension dvs vatten-
+ytan och terrängen under denna. Detta måste beaktas extra där hem-
+värnsförband eventuellt måste tillföras resurser för att kunna bevaka den
+miljön men även för att transportera sig. Tillgång till resurser för att even-
+
+TA OBJEKT
+HANDBOK
+
+tuellt blockera eller spärra hamn måste redas ut. Vem gör det? På vems
+order och med vilka resurser, detta samordnas av ansvarig ur marinbasen.
+
+I anslutning till större hamn kommer sannolikt hemvärnsförbanden att
+verka tillsammans med marina bassäkerhetsförband och marina logistik-
+förband. Hemvärnsförbanden som får uppgift i anslutning till kaj får då en
+klart avgränsad uppgift för att tydligt samordna verksamheten med mari-
+nens förband.
+
+Då uppgifter vid kaj erhålls är det verksamheten som ska skyddas. Det vill
+säga och under den tidsrymd som fartyget/-en ska logistikförsörjas vilket
+beroende på typ av fartyg kan ta flera timmar.
+
+Logistikförsörjning av fartyg kan även behöva ske på annan plats än ”den
+stora hamnen” Fartyget får då en hänvisning och anmäler någon timme
+innan de avser att anlöpa. Aktuellt Hemvärnsförband får då order av
+regional chef. Hemvärnsförbandet nyttjar förvarningen till att ta terrängen
+och gruppera för skydd. Terrängavsnittet som är aktuellt lyder markterri-
+toriellt för avsedd tid under marinbasen.
+
+På den aktuella platsen måste hemvärnsförbandet tänkta på att det är en
+antal fordon och trupp som kommer för att försörja fartyget och de är i
+behov av manöverutrymme på land närmast fartyget.
+
+TA OBJEKT
+
+27
+28
+
+HANDBOK
+
+Tagande av hamn sker principiellt på samma sätt som vid flygbas.
+
+Bild 5.9 Exempel på stridsteknik då kompani tar hamn, pilarna visar förbandens framryck-
+ning, graden av eld ochrörelse beror på egna förband och endeläget.
+Illustration: Anna-Karin Wetzig, Grafisk Produktion, FSV/FMV
+
+A). Först anlända pluton tar huvudinfarten upprättar vägpostering sök
+samband med marinens förband, patrullerar hamnområdet, skyddar far-
+tyg vid kaj beredd blockera hamnbassängen.
+
+B). Därefer anlända pluton tar terräng.
+
+C). Sist anlända pluton tar terrängen höger om hamnområdet, skyddar
+hamnområdet från innehavd terräng, upprättar postering på ön Z beredd
+en timme efter order eskortera fartyg in i hamn från bryt punkt Z, samt
+ut till Z.
+
+Reservplutonen grupperas. ....kompaniets larmstyrka beredd ta terräng
+alt a-b-c alt eskortera...
+
+TA OBJEKT
+HANDBOK
+
+6 Bevaka
+6.1 Allmänt
+
+BEVAKA —- Uppgift som syftar till att observera, rapportera och försvåra viss typ av hot
+mot visst objekt eller viss verksamhet.
+
+I sin enklaste form kan uppgiften lösas med en soldat som har uppsikt, ett
+vapen och ett kommunikationsmedel. Eftersom vi strävar efter stridspar-
+svis uppträdande så krävs två soldater. Uthålligheten gör att det behövs en
+grupp eller rent av en pluton för att lösa uppgiften över tiden. Terrängen
+eller objektets storlek påverkar också antalet soldater som erfordras.
+
+Hemvärnsförband tar oftast objekt med stridsenheten pluton för att skapa
+en överlägsenhet och uthållighet när man säkrar och genomsöker objek-
+tet. Likaså gör kompani när man tex har fått i uppgift att bevaka ett objekt
+som kräver kompani, tex marin -flygbas.
+
+Att bevaka innebär att man är på plats över tiden — dvs 24 timmar om dygnet.
+
+Bedömer chef med hänsyn till tillgänglig trupp etc att det är endast möj-
+ligt eller räcker med att patrullera objektet ett antal gånger per dygn ska
+det anges i ordern.
+
+Tex:
+”2 pluton bevakar objekt X from ...tom...... patrullerar under samma tid objekt Y fyra
+gånger per dygn...”
+
+Vanligt förkommande är att bevaka kombineras med skydda på ett och samma objekt
+tex:
+
+”2. kompaniet bevakar objektet X beredd 60 minuter efter order att skydda objektet
+vid ammunitionshämtning?”
+
+Exempel på hur kompaniet framrycker mot objekt och tar är beskrivet i tidigare kapitel.
+
+BEVAKA
+
+29
+30
+
+HANDBOK
+
+6.2 Kompaniet har tagit objekt som ska
+bevakas med mindre del
+
+Bild6.1 Kompaniet har tagit och genomsökt objektet.
+Illustration: FMV/FSVGrafisk produktion.
+
+Kompaniet har tagit objektet genomsökt enligt bild 5.2.
+
+Enligt kompanichefens stridsplan ska 3. pluton nu bevaka objektet under
+en veckas tid,
+
+1.-2. Pluton ska fortsätta mot andra uppgifter.
+
+3. pluton kan nu lösa uppgiften i olika ambitionsnivåer enligt kompani-
+chefens vilja.
+
+BEVAKA
+HANDBOK
+
+Hemvärnsförband som bevakar strävar att genom posttjänst,patruller och
+infartskontroll skapa en kontroll över närområdet. Detta kompletteras
+med fordonshinder och mineringar. Stridställningar förbereds (växel och
+alternativa) och förövas, larmstyrka avdelas och patrullsträckor fastställs.
+Stridsplan dager och mörker fastställs. Personal som inte är i tjänst vilar
+enligt anbefalld stridsberedskap.
+
+Detta beskrivs i Handbok hvpluton grupp del 2.
+
+Bild6.2 — Hemvärnspluton bevakar objekt. Illustration: FMV/FSVGrafisk produktion.
+
+6.3 Kompaniet bevakar
+Kompaniet framrycker och tar objektet som beskrivs i kapitel 4.
+Kompaniet har tex fått i uppgift att ”bevaka objektet/hamnen/flygba-
+
+sen beredd 2 timmar efter order skydda ammunitionsutlämning/fartyg i
+hamn/flygplans landning”
+
+BEVAKA
+
+31
+32
+
+HANDBOK
+
+Plutonerna i kompaniet får uppgifter i sitt respektive område eller från
+sin beordrade stridsställningar att ”bevaka beredd två timmar efter order
+
+skydda...”
+
+Detta innebär att Kompanichefen har minst två olika stridsplaner att sam-
+ordna. Den ena när kompaniet bevakar och den andra när man skyddar
+med variationer i mörker.
+
+>
+
+Objektet
+
+Bild6.3 Kompaniet har tagit objekt- bevakar beredd skydda.
+Illustration: FMV/FSVGrafisk produktion.
+
+Respektive pluton bevakar, i detta fall sitt avgränsade område enligt 6.3.
+
+Plutonerna har förberett stridsställningar för att lösa skydda uppgiften , i
+övrigt bedrivs posttjänst vid respektive pluton. Beordrade patrullslingor
+patrulleras, vägspärr upprättad. Varje pluton har en larmstyrka. Strids-
+ställningar är valda så att om eldgivning uppstår så kan egen verksamhet
+vid objektet fortgå.
+
+BEVAKA
+HANDBOK
+
+Kompanichefen har samordnat:
+
+.« Kompaniets gruppering och områdesansvar med objektsägaren
+
+. Inom kompaniet:
+
+. Kompaniets larmstyrka och stridsberedskap
+
+.« Eldområden- skjutgränser
+
+.  Patrullslingor vägspärrar och minor i ett sammanhängande system
+« Kompaniets underhållsplats och samlingplats för skadade
+
+När kompaniet ska växla upp från bevaka till skydda sker bl.a följande:
+« Stridsberedskapen höjs i stridsställningar för skydda uppgiften
+
+«  Posttjänst och patrullverksamhet intensifieras
+
+.  Evytterligare förberedda vägspärrar /posteringar upprättas
+
+BEVAKA | 33
+34
+
+HANDBOK
+
+7 Skydda
+
+7.1 - Allmänt
+
+SKYDDA - Uppgift som syftar till att förhindra motståndaren att ingripa mot viss ter-
+räng, verksamhet eller anläggning så att syftet med den strid eller verksamhet som ska
+skyddas inte äventyras.
+
+Skydda är en mer krävande uppgift än bevaka. Skillnaden är att nu ska
+förbandet inte bara försvåra för en motståndare utan förhindra denne att
+verka och därmed möjliggöra egen verksamhet.
+
+Det innebär för förbanden att terräng varifrån motståndaren kan verka
+mot det som ska skyddas måste behärskas. Tillexempel flygplan ska kunna
+landa/lyfta- fartyg kunna logistikförsörjas i hamn- ammunitionshämt-
+ning ske vid förråd, el och teletjänster ska kunna distribueras etc.
+
+Med motståndare syftas då främst till sabotageenheter som angriper från
+marken eller i samband med uppgift på marinbas/hamn även sjövägen.
+
+Vid lösande av skydda uppgift måste terrängens betydelse och motstån-
+darens möjligheter att verka på avstånd från marken beaktas och åtgärder
+vidtas.
+
+Områdets storlek som förbandet måste behärska blir avsevärt större, mer
+personal och förband åtgår. Uthålligheten ökar om förbandet om möjligt
+får förvarning om när ett objekt/verksamhet ska skyddas. Tex ”Bevaka
+hamnen beredd 2 timmar efter order skydda fartyg vid kaj under minst
+3 timmar”.
+
+Uppgiften kan innebära att skyddsobjektets gräns måste utökas för att
+kunna ingripa och därmed lösa uppgiften.
+
+SKYDDA
+HANDBOK
+
+Större objekt som hamn/marinbas och flygplats blir oftaste ett bataljons-
+gemensamt objekt och kompanichefen får uppgift inom ramen för batal-
+jonens lösande av uppgiften.
+
+Bataljonschefen samverkar med objektsägaren. Samordning av striden
+sker inom bataljon och mellan marin/flygvapen förband och egen batal-
+jon. Kompanichefen får oftast ett område inom vilket denne ska lösa sin
+uppgift. Detta måste vara förberett.
+
+Tex:
+- skydda västra delen av flygplatsen från tilldelat område, upprätta väg-
+spärr vid...beredd...
+
+= bevaka förrådet Y beredd två timmar efter order skydda ammunitions-
+hämtning vid förrådet under tre timmar...
+
+För förband som får uppgift att ”bevaka beredd skydda” innebär det en
+intensifiering av stridsberedskap, patrullering och posttjänst. Stridsställ-
+ningar för skydda är förmodligen inte de samma som för bevakauppgif-
+ten och de ska besättas. Intensiteten innebär också ett större slitage, sämre
+uthållighet på förbandet vilket tidigt måste beaktas. Av stor vikt är att för-
+bandet får en tidsinriktning tex ”beredd en timme efter order skydda far-
+tyg vid kaj under 3 timmar.”
+
+Fler åtgärder för att lokalisera motståndaren/hotet vidtas tex:
+
+« Spaning (fast och rörligt) sker genom kompanichefs försorg tidigt och
+”långt” från objektet,
+
+« patrullering (med fordon) och genomsök av terräng sker ” långt - när-
+mare” från objektet,
+
+«  postställe kan grupperas i sådan terräng där vi kan förvänta oss att
+påverka motståndaren tidigt,
+
+« - vägspärr upprättas i anslutning till infarten till objektet (kan även upp-
+rättas vid framskjuten gruppering),
+
+« - kontroll/genomsök sker på andra väsentliga platser utanför objektet
+(t.ex. tele, el och vatteninstallationer),
+
+« patrullering (till fots) genomförs utanför objektet,
+
+SKYDDA
+
+35
+36
+
+HANDBOK
+
+. larmsystem upprättas i objektets omedelbara närhet, redan befintliga
+larmsystem kompletteras,
+
+e bevakning och tillträdesskydd upprättas med fast bemannade poster,
+
+« bevakning inne på objektet sker med poster på vitala delar av objektet
+samt med patrullerande post.
+
+Som all annan strid bör den förövas - förövning kan ske genom:
+« Spel på stridsplanen på karta
+
+«  Förövning på terrängmodell
+
+. Muntlig stridsövning
+
+.  Kaderövning
+
+.  Torrövning
+
+« Utbildning (kompletterande utbildning)
+
+Personalen i förbandet roterar i lösandet av uppgifter som larmstyrka,pos
+ttjänst,patrullering,oplats, avlösning etc.
+
+Rutiner är viktiga men det får inte bli ett slentrianmässigt beteende i för-
+bandet.
+
+Indirekt eld
+
+Mål förbereds i anslutning till plutoners stridsställningar posteringar och
+vägspärrar. Eldobservatörsskisser upprättas. Den indirekta elden kan
+också förberedas mot terräng som vi inte når själva och som motstånda-
+ren inte får behärska.
+
+Försvarsmedicin
+
+Sjuktransport fordon finns avdelade vid respektive enhet och transportvä-
+gar till samlingsplats är inkörda. Förstärkningsfordon finns på samlings-
+plats. Sjukvårdsgruppen kan förstärka pluton som bedöms kunna vara
+extra ansträngd.
+
+SKYDDA
+HANDBOK
+
+Hundtjänst
+
+Hundarna och deras tidsmässiga utnyttjande på dygnet prioriteras.
+Omfördelning/koncentrering av hundekipage kan ge avsevärt större
+effektivitet i bevakningsarbetet.
+
+Logistik
+Vid plutoner har uppladdning skett avseende förplägnad, ammunition,
+sjukvårdsmaterial och batterier.
+
+Sambandstjänst
+
+Sambandet är kontrollerat, alternativa sambandsvägar tex via signalering
+är prövade. Ordonnanser har rekognoserat alternativa framryckningsvä-
+gar. Kompanichefen har upprättat ett upk system och kodordslista.
+
+Mörkermateriel
+Materielen är kontrollerad och batteriförsörjningen säkerställd, materiel
+ev omfördelad mellan plutoner.
+
+Larm och mintjänst
+
+Antalet larmminor och försvarladdningar är förtätat på känsliga platser
+för att underlätta bevakningen/skyddandet av objekt.
+
+Post och patrulltjänst
+
+Ett antal extra postställen är bemannande och avlösningsförfarande samt
+
+lösen har ändrats.
+
+Patrullerna patrullerar oftare och i delvis nya slingor.
+
+SKYDDA
+
+37
+38
+
+HANDBOK
+
+8 Försvar
+8.1 Allmänt
+
+FÖRSVARA = Stridsuppgift som syftar till att förhindra motståndaren att ta och utnyttja
+angiven terräng eller anläggning.
+
+Förbandet måste i mycket stor utsträckning vara noggrann vid val av ter-
+räng för den egna grupperingen och om möjligt använda indirekt eld och
+minor som stöd för sin strid för att minimera risken för oväntade hän-
+delseutvecklingar. Skyddsnivån på förbandet gör att behovet av fältar-
+beten för överlevnad påverkar stridsplanen.
+
+Försvar innebär i regel en hög ambitionsnivå i striden. Ambitionsnivån
+uttrycks i termer av hur länge, i vilket syfte och under vilka omständig-
+heter försvaret ska bedrivas.
+
+Om försvaret ska fortsätta även då delar av en motståndare passerat för-
+svaret eller om motståndaren har tagit och behärskar en del av ett område
+måste beskrivas tydligt av den som ställer uppgiften genom att ange ett
+
+syfte.
+
+Exempelvis så kan en bro försvaras för att motståndaren ska förvägras
+möjligheten att ta sig över vattendraget. Egna förband kan då grupperas
+på den hitre sidan av vattendraget och det gör inget om bron skadas under
+striden.
+
+FÖRSVAR
+HANDBOK
+
+Bild8.1 Försvar med syfte att motståndaren inte ska få nyttja bron.
+Illustration: Anna-Karin Wetzig, Grafisk produktion FSV /FMV.
+
+I samma terräng kan syftet istället vara att säkerställa egen tillgång till visst
+terrängparti eller anläggning.
+
+Detta kan exempelvis vara försvaret av bron för att möjliggöra egen trafik
+över denna. Här krävs att våra förband grupperas i huvudsak bortom vat-
+tendraget och bron får inte påverkas av striderna.
+
+FÖRSVAR
+
+39
+40
+
+HANDBOK
+
+Bild 8.2 Försvar av bron i syfte att själv kunna nyttja den.
+Illustration: Anna-Karin Wetzig, Grafisk produktion FSV /FMV.
+
+Motanfall i texten innebär ett begränsat anfall inom motståndslinje/-näste, för att
+återta övergivna stridsställningar, eller som framryckningar till förberedda stridsställ-
+ningar varifrån motståndaren bekämpas (eldöverfall).
+
+8.2 Metoder för försvar
+
+Försvar kan genomföras med gott eller ont om tid för förberedelser. För-
+band bör alltid arbeta utifrån grunden ”ont om tid”
+
+Vid gott om tid till förberedelser kan striden föras med högre ambitions-
+nivå och strävan är att använda områdets djup som stöd i försvaret.
+
+Längre förberedelsetid medger också:
+
+. utbyggnad av motståndsnästen och fältarbeten för överlevnad,
+« - kontroll av sammanhängande eldsystem,
+
+.  eldplanläggning,
+
+.  förövning,
+
+FÖRSVAR
+HANDBOK
+
+. rekognosering av omgrupperingar och motanfall samt
+. Övriga fältarbeten.
+
+Vid försvar med ont om tid till förberedelser försvarar kompaniet i regel
+stridsställning
+
+I regel prioriteras:
+
+.  Eldplanläggning.
+
+« Skapande av sammanhängande eldsystem.
+
+. Enklare fördröjande fältarbeten eller röjande av skottfält och omgrup-
+peringsvägar.
+
+« - Förövning.
+
+8.3 Kompaniets försvarsstrid
+
+Kompaniet kan få i uppgift att försvara stridsställning, motståndslinje,
+motståndsområde.
+
+Bild8.3 — Exempel på kompani grupperat för försvar på motståndslinje respektive motstånds-
+område. Illustration: Anna-Karin Wetzig, Grafisk produktion FSV /FMV.
+
+Kompani försvarar stridsställning eller motståndslinje med en bredd på ca
+1000 m eller ett motståndsområde om ca 500 x 500 m.
+
+En pluton som försvarar stridsställning strider i regel inte på en bredd
+överstigande 200 meter. Strävan är att på alla nivåer föra striden aktivt och
+rörligt från olika stridsställningar eller från väl utbyggda motståndsnäs-
+ten.
+
+FÖRSVAR
+
+41
+42
+
+HANDBOK
+
+Kompanichefens kontroller vid försvar
+
+En av de viktigaste uppgifterna för kompanichefen vid försvar är kontroll av eldområ-
+den. Särskilt viktigt blir det vid försvar av motståndsområde. Under stridens genomför-
+ande i motståndsområdet kan kompanichefen behöva kommandostyra plutoner med
+”eldtillstånd” och ”eldförbud”.
+
+8.4 Planering av försvar
+
+Planeringen ska ge svar på:
+
+. Syftet med försvaret,
+
+.  Tidsförhållanden omfattande tid till förberedelser samt hur länge upp-
+giften ska lösas.
+
+. Lämplig metod.
+
+. Behov av samordning mellan plutoner, indirekt eld och fältarbeten.
+
+« Hur omgrupperingar ska genomföras och samordnas.
+
+. Vilken terräng som är nyckelterräng.
+
+. I vilken terräng som motståndaren ska hejdas eller nedkämpas.
+
+« Var och när motanfall ska genomföras.
+
+Terrängvärderingen är ett avgörande beslutsunderlag för försvarsstriden.
+Ett framgångsrikt försvar vilar på en analys av motståndarens framryck-
+ningsmöjligheter och våra möjligheter att hindra dessa.
+
+Kompanichefens överväganden omfattar exempelvis:
+
+e Var motståndaren inte får framrycka.
+
+. Var vi vill att motståndaren ska framrycka.
+
+e Möjligheten att kraftsamla eld till platser där terrängen begränsar och
+kanaliserar motståndarens framryckning, (nyckelterräng).
+
+.« Lämpliga stridsställningar varifrån motståndaren kan nedkämpas.
+
+. Var omgruppering kan ske.
+
+. Var fältarbeten får störst effekt.
+
+Kompanichefens planering leder ofta till att viktig terräng och underrät-
+telse- eller målområden identifieras. Vid vissa av dessa grupperas förband,
+andra kan vara föremål för informationsinhämtning nu, efterhand eller
+över tiden. Om möjligt rekognoceras detta på plats.
+
+FÖRSVAR
+HANDBOK
+
+Försvaret organiseras som ett sammanhängande system av stridsställ-
+ningar, motståndsområden eller motståndslinjer där områdena mellan
+dessa övervakas.
+
+En motståndslinje består av stridsställningar och/eller motståndsnästen
+grupperade så att de skapar sammanhängande eldsystem främst i sida.
+
+I ett motståndsområde ska grupperingarna vara belägna så att eldsystemet
+är sammanhängande i både sida och djup.
+
+Strävan är att gruppera i terräng som ger skydd och skyl eller i bebyggelse.
+
+Inom ramen för försvarsuppgiften förbereds motanfall med delar av för-
+banden.
+
+Taktisk indelning ska särskilt övervägas vid planering av försvarsstrid.
+
+8.5 Förberedelser för försvar
+
+Förberedelser för försvar omfattar de nödvändiga åtgärder som krävs för
+att:
+
+. delge order,
+
+« fylla upp plutonerna avseende förnödenheter,
+
+» vid behov stridsindela kompaniet,
+
+.  framrycka till aktuellt område,
+
+. gruppera,
+« genomföra fältarbeten samt
+e föröva.
+
+Möjligheter till rekognosering ska alltid beaktas! Förband bör alltid arbeta efter tesen
+att det är ont om tid till förberedelser.
+
+Under förberedelserna kontrollerar kompanichefen:
+
+« att utförda fältarbeten är utförda i enlighet med dessas syften,
+« att eldområden och skjutgränser är rätt uppfattade samt
+
+«  tidsförhållanden.
+
+« kompaniets eldplan, om indirekt eld kan påräknas.
+
+FÖRSVAR
+
+43
+44
+
+HANDBOK
+
+Kontrollen genomförs som chefsbesök och genom förövning.
+
+Förövning kan genomföras som:
+
+«  förövning på karta,
+
+e  förövning på terrängmodell,
+
+. muntlig stridsövning,
+
+«  kaderövning samt
+
+. fullständig förövning av hela striden med hela förbandet.
+
+Vid försvarsstrid prioriteras förövning av omgrupperingar och motanfall
+samt den samordning som krävs för att möjliggöra detta.
+
+8.6 Genomförande av försvar
+
+8.6.1 Försvar av stridsställning
+
+Vid ont om tid till förberedelser försvarar kompaniet i regel stridsställ-
+ning. Antingen genomförs det i form av plutonsstridsställningar som var
+och en rymmer en växelstridsställning eller som en sammanhållen kom-
+panistridsställning.
+
+I båda fallen är strävan att gruppera flera av plutonerna mot åtminstone
+delvis samma bekämpningsområde. För att få djup i grupperingen och för
+att ha möjlighet att ta upp strid i sekundära riktningar eller förtäta, tillde-
+las plutonerna också alternativa stridsställningar.
+
+Omgruppering till alternativ stridsställning sker på kompanichefens order.
+
+Plutonerna prioriterar eldställningar för pansarvärnsvapen och kulsprutor.
+Fordonen grupperas i anslutning till respektive pluton för att under-
+
+lätta omgrupperingar eller lämnas i en fordonsavlämningsplats på längre
+avstånd från stridsområdet väl maskerade.
+
+FÖRSVAR
+HANDBOK
+
+Den direktriktade elden samordnas med och kompletteras om möjligt
+med indirekt eld.
+
+Fältarbeten kraftsamlas till att säkerställa egen rörlighet samt fördröja
+motståndarens rörlighet.
+
+Striden förs aktivt och rörligt för att undgå motståndarens bekämpning.
+
+Ingående i stridsställning
+
+Kompanichefen tilldelar plutonerna stridsställningar, elduppgifter och i
+förekommande fall eldområde. Plutonerna tar stridsställningar och plu-
+toncheferna anmäler att de är eldberedda till kompanichefen. Kompani-
+chefen anmäler till bataljonchefen att kompaniet är eldberett.
+
+Kompletterande order ges efter hand. Kompanichefen nyttjar utgångs-
+punkter i terrängen, för stridsledning.
+
+Kompani- och plutonchefer kontrollerar ordinarie stridsställning samt
+rekognoserar och tilldelar efter hand:
+
+.  Växelstridsställning,
+
+« Alternativ stridsställning.
+
+« Omgrupperingsvägar.
+
+Stridstrossen grupperas i det bakre området av kompaniets stridsställ-
+ning.
+
+Plutoncheferna ger order för försvar av växel- och alternativ stridsställ-
+ning samt anmäler att plutonerna är försvarsberedda till kompanichefen.
+
+Kompanichefen kontrollerar plutonchefernas förberedelser.
+Främst klarläggs:
+
+« - Mot vilken terräng plutonerna kan verka och observera.
+. Omgrupperingsvägar.
+
+FÖRSVAR
+
+45
+46
+
+HANDBOK
+
+. Hur lång tid det tar att besätta eldställning, växelstridsställning och
+alternativ stridsställning.
+.  Eledledningsgruppchefens eldförberedelser.
+
+Kompanichefen anmäler till bataljonschefen att kompaniet är försvars-
+berett.
+
+Förövning genomförs på bataljon- eller kompanichefs order.
+
+Främst övas:
+
+« Omgruppering inom stridsställningen.
+
+« Omgruppering mellan ordinarie-, växel- och alternativa stridsställ-
+ningar.
+
+Valet av förfaringssätt beror på i vilken utsträckning ett säkert samband
+kan påräknas samt om tidpunkten för utrymning är av betydelse för andra
+plutoners strid och omgruppering.
+
+Plutonerna omgrupperas snabbt och dolt längs vägar och stråk som om
+möjligt har rekognoserats i förväg.
+
+Kompanichefen samordnar plutonernas omgrupperingar, så att de kan
+understödja varandra samt så att de inte kringgås, avskärs eller innesluts.
+
+8.6.2 Strid från motståndsnäste.
+
+Motståndsnäste är en utbyggd truppbefästning för halvpluton till pluton
+som ska kunna försvaras åt alla håll. Det består av skyttevärn för skytte-
+trupp, grupperade stridsparsvis. Värnen är förbundna med förbindelse-
+gång minst för krypande förflyttning.
+
+Nästet placeras i lättgrävd terräng med låg grundvattennivå på sådant sätt
+att det inte kan upptäckas eller bekämpas med direktriktad eld utanför
+våra tunga vapens räckvidd. I öppen terräng placeras de i baksluttning.
+Brandrisk beaktas och släckningsförberedelser vidtas vid behov. Iord-
+ningställande av motståndsnäste kräver understöd av ingenjörsförband.
+
+FÖRSVAR
+HANDBOK
+
+Om kompaniet försvarar motståndsområde med flera motståndsnästen
+placeras dessa i triangel eller T formation med basen eller ”taket” mot
+motståndarens anfallsriktning.
+
+Då kompaniet försvarar motståndslinje eller motståndsområde med mot-
+ståndsnästen kan en eller flera av plutonerna istället försvara stridsställ-
+ning och utgöra anfallsreserv.
+
+Stabs- och tross enheter fördelas på de övriga plutonerna eller tilldelas ett
+eget näste.
+
+8.6.3 Utrymning av stridsställningar och
+
+motståndsnästen
+
+Kompanichefen bestämmer när en stridsställning eller ett motståndsnäste
+får utrymmas. Vid ordergivning för försvar anges när och under vilka
+omständigheter omgruppering ska ske.
+
+Vanligen uttrycks detta som:
+
+e ”... försvara stridsställning minst intill tidsnummer...”
+
+. ”.. Omgruppera då motståndaren... / sidopluton ...”
+
+e ”.. Omgruppera först på vidare order...”
+
+e ”.. Omgruppering beordras av plutonchefen (som erhållit uppgiften)”
+
+8.7 - Försvar i bebyggelse
+
+Försvar i bebyggelse planeras, förbereds och genomförs i stort på samma
+sätt som i annan terräng. Kompaniet är i stort behov av att resurser tillförs
+i form av pionjär- eller ingenjörsförband, verktyg, spräng- och tändmedel
+eller liknande för att kunna öka ambitionsnivån med försvarsstriden samt
+skapa en bättre uthållighet.
+
+Försvaret ordnas i flera linjer för att åstadkomma djup i grupperingen.
+Kompanichefen grupperar plutonerna så att sammanhängande eldsystem
+
+FÖRSVAR
+
+47
+48
+
+HANDBOK
+
+skapas. Stridsställningar förbereds för att förtäta och fördjupa försvaret i
+hotade eller sekundära riktningar.
+
+Motanfall och omgrupperingar förbereds.
+
+Plutonerna strider rörligt från stridsställningar eller mer statiskt från mot-
+ståndsnästen. Stridsställningar och motståndsnästen grupperas i regel i
+hus. Indragna grupperingar eftersträvas, helst i sneda vinklar och på
+markplan eller de nedre våningsplanen. Brandrisk och husets motstånds-
+kraft tas i beaktande vid val av gruppering.
+
+Observatörer, eldledare och skarpskyttar grupperas högt och skyddat.
+Möjligheten till eld längs gator, parker, torg och andra öppna platser med
+ksp och grg tillvaratas.
+
+Motståndsnäste i bebyggelse innebär att fältarbeten för överlevnad utförs
+i husen. Plutonsnäste grupperas i en till två hus. Exempelvis stöttas tak,
+väggar förstärks och sandsäcksvärn byggs i rummen. Trappor, fönster och
+dörrar som inte ska användas spärras. Omgrupperingsvägar kompletteras
+med bräscher i väggar, stegar med mera.
+
+Beakta skyddsnivån på aktuellt hus då förband grupperas. Äldre hus har
+oftast högre skyddsnivå.
+
+Brandbekämpning förbereds. Omgivande gator och hus som kan utgöra
+understödsställningar för motståndaren spärras med stormhinder och
+
+mineringar.
+
+Civilläget tas alltid i beaktande vid strid i bebyggelse. Område som ska
+försvaras bör utrymmas.
+
+Ytterligare detaljer kring strid i bebyggelse beskrivs i kommande anvis-
+ningar för strid i bebyggelse (MSS).
+
+FÖRSVAR
+HANDBOK
+
+8.8 Funktioner vid försvar
+
+8.8.1 Ledning
+Kompanichefen ska, utöver att leda eget kompani, kunna ta emot och leda
+understödjande/underställda förband.
+
+Sådana kan vara:
+
+.  HvGranatkastarpluton,
+.  HvPionjärförband,
+
+«  HvCBRN pluton
+
+. Hvpluton
+
+Samverkanspunkter vid mottagande av underställt eller understödjande
+förband enligt bilaga.
+
+8.8.2 Underrättelsetjänst
+
+Vid försvarsstrid är kompanichefens underrättelsebehov i första hand
+kopplat till var och när motståndaren framrycker, exempelvis framryck-
+ningsvägar, kringgångar eller omfattningar. Detta innebär att kompaniet
+måste övervaka vägar och stråk inom eget område.
+
+Kompanichefen avdelar vid behov eldledare och strids- eller spanings-
+patruller för informationsinhämtning. Dessa grupperas i ett tidigt skede
+långt fram i, eller i vissa fall framför, kompaniets område och i sekundära
+riktningar i syfte att fastställa motståndarens anfalls- och kraftsamlings-
+riktningar samt för att tidigt kunna ta upp strid.
+
+Kompanichefen kan även behöva ställa underrättelseuppgifter till pluto-
+ner som varit i strid och som ska omgruppera, vilket innebär att hela eller
+delar av dessa avdelas för att bibehålla stridskontakt eller bibehålla kän-
+ning med motståndaren.
+
+Exempel på uppgifter är:
+« Spana längs...spana mot...
+
+FÖRSVAR
+
+49
+50
+
+HANDBOK
+
+. Stridspana mot...
+
+8.8.3 Fältarbeten
+
+Vid försvarsstrid kraftsamlas fältarbetsresurserna i regel till fördröjande
+fältarbeten och fältarbeten för överlevnad. I vissa fall kan även fältarbeten
+för rörlighet krävas för att iordningställa dolda och skyddade omgruppe-
+ringsvägar.
+
+De fördröjande fältarbetena, vanligen i form av förstöring, mineringar
+och spärrar används för att styra motståndarens framryckning i önskad
+riktning samt för att försvåra stormning av kompaniets ställningar. För att
+uppnå önskad effekt av fördröjande fältarbeten krävs i regel att de försva-
+ras eller minst bevakas. Möjligheten att påverka motståndaren med fram-
+förallt indirekt eld i anslutning till fältarbetena ska alltid beaktas.
+
+Mindre förstöringar såsom vägtrumsprängning och minspärrar i anslut-
+ning till egna stridsställningar kan kompaniet utföra med egna resurser.
+Ska mer omfattande sprängningsarbeten och mineringar utföras måste
+kompaniet tillföras resurser.
+
+Fältarbeten för egen överlevnad utgörs främst av maskering, värn, trupp-
+befästningar och skenåtgärder.
+
+Maskering, skottfältsröjning och grävning av skyttevärn kan utföras med
+kompaniets reglementerade utrustning. Förberedelsetiden som krävs för
+dessa åtgärder räknas i tummar.
+
+Truppbefästningar kräver att resurser måste tillföras, främst i form av
+maskinpluton. Tidsåtgång för sådana förberedelser är från halv dygn till
+flera dygn beroende på ambitionsnivå.
+
+Den rörliga försvarsstriden kan kräva att pionjärpluton understödjer med
+
+fältarbeten för rörlighet, exempelvis minspaning, minbrytning och att
+bygga dikesbro.
+
+FÖRSVAR
+HANDBOK
+
+8.8.4 Indirekt bekämpning
+
+Om indirekt eld disponeras nyttjas den främst till:
+
+. understödja försvar av, och motanfall mellan och inom stridsställ-
+ningar,
+
+. bekämpa motståndare som grupperar sig för anfall eller som försöker
+kringgå försvaret,
+
+« understödja omgrupperingar av plutoner,
+
+« stödja striden vid våra fältarbeten enligt principen kombinerade vapen,
+
+. avskärma motståndaren samt
+
+belysa stridsfältet.
+
+Tillförd eldledningsgrupp grupperas vid en stridsställning med goda
+observationsmöjligheter, i regel i anslutning till kompanichefens uppe-
+hållsplats. I vissa fall kan det finnas behov att dela eldledningsgruppen, för
+att möjliggöra att kunna arbeta på två täter. Pluton ska vid behov kunna
+eldobservera.
+
+Den indirekta elden förbereds enligt kompanichefens order mot de plat-
+ser där motståndaren inte får gruppera och där motståndaren förväntas
+framrycka.
+
+Platser som är lämpliga att förbereda som mål för indirekt eld är:
+e — där fältarbeten förberetts,
+
+. där motståndaren kan tänkas ta eld- och stridsställningar,
+
+« egna stridsställningar och motståndsnästen som lämnats samt
+«  kanaliserande terrängpartier.
+
+8.8.5 Logistik
+
+Utifrån de tre skedena i försvarsstriden, planering av försvar, förberedel-
+ser för försvar samt genomförande av försvarsstrid, understödjer kom-
+paniets stab- och tross med resurser för att under de två första skedena
+skapa förutsättningar för försvarsstriden. Detta görs genom tillförsel av
+eventuella efterfrågade förnödenheter såsom sandsäckar, taggtråd, extra
+ammunition och minor. Under det sista skedet understöds kompaniet
+med omhändertagande av skadad personal eller fordon i, eller i direkt
+
+FÖRSVAR | 51
+52
+
+HANDBOK
+
+anslutning till, plutonernas stridställningar, alternativt vid, för kompaniet,
+angivna platser dit plutonerna själva för sina skadade fordon eller soldater.
+
+De trossdelar som inte behövs för direkt understöd av striden, grupperas i
+kompaniets bakre område i skydd av övriga delar av förbandet. Om möj-
+ligheten finns används med fördel gruppering i kvarter.
+
+Fordon som används aktivt i striden (tex omgruppering) ska förberedas
+för stridsbogsering i den mån det är möjligt. Plutonerna ska som en del
+av sina försvarsförberedelser inreda fordon för evakuering av skadade och
+sjuka. Övriga fordon som inte måste användas i striden förs undan och
+grupperas i skydd. Med hemvärnsförbandens olika fordonstyper så måste
+ovan angivna tillämpas på olika sätt.
+
+I planering av försvaret eftersträvas, om tiden medger det, att kvartermäs-
+taren, deltar i planeringsprocessen. Detta för att tidigt kunna identifiera
+det understödsbehov som kompaniet har, i form av och i första hand, för-
+nödenheter för att lösa en försvarsuppgift.
+
+Vid planering ska det minst framgå för kvartermästaren:
+
+. vad vill kompanichefen, vilka behov finns för att lösa denna uppgift,
+
+e när i tid, kopplat till sin stridsplan, ser kompanichefen att eventuellt
+understöd ska ske och
+
+. vilka mandat har kvm för att genomföra önskad verksamhet?
+
+FÖRSVAR
+HANDBOK
+
+9 - Fördröjningsstrid
+9.1 Allmänt
+
+FÖRDRÖJA - Stridsuppgift som syftar till att vinna tid och/eller tillfoga förluster under
+angiven tid eller innan motståndaren har trängt över angiven linje alternativt syfta till
+att begränsa motståndarens utbredning.
+
+Syftet med fördröjningsstrid är att vinna tid och tillfoga motståndaren för-
+luster eller att begränsa dennes utbredning.
+
+Vinna tid för att brigadförband eller andra förband i ett senare skede ska
+kunna slå, eller på annat sätt påverka en framryckande motståndare.
+
+Fördröjningsstriden ska föras rörligt och aktivt. Fördröjningsstrid genom-
+förs med en kombination av olika metoder.
+
+Striden kan dels genomföras genom upprepade eldöverfall, från olika
+stridsställningar, med stöd av fältarbeten och indirekt eld. Dels kan stri-
+den genomföras genom försvar av stridsställningar under begränsad tid.
+Eldöverfall och försvar ska kunna upprepas från ordinarie-, växel och
+alternativ stridsställning. Eldöppnande ska genomföras under kort tid, för
+att snabbt omgruppera till ny stridsställning, i syfte att undvika motstån-
+darens artilleribekämpning och bekämpning från motståndarens strids-
+fordon. Det bör kunna ske med sådan hastighet att man inom 5 minuter
+från eldöppnandet har dragit ur och förflyttat sig 300-400 meter med för-
+bandet.
+
+Omgruppering efter eldöverfallet kan också ske framåt eller till ett bakre
+skydd, varifrån man är beredd att upprepa eldöverfallet igen om tillfälle
+ges. Att statiskt alltid ”hoppa bock bakåt” med plutonerna löper risk att
+bli genomskådat.
+
+FÖRDRÖJNINGSSTRID
+
+53
+54
+
+HANDBOK
+
+Strävan är att föra striden över hela fördröjningsdjupet. Fördröjnings-
+strid kräver att egna stridsvärdet bevaras för att möjligöra uthållighet över
+tiden.
+
+Målbilden för en fördröjningsuppgift måste klart ange hur länge motstån-
+daren ska fördröjas och hur stora enheter som tillåts passera området.
+
+Fördröjningsstrid för ett kompani kan omfatta ca 2 km bredd och 5 km
+djup, med en genomgående väg/stråk. I Norrland oftast ännu större.
+Områdets storlek kan innebära att förflyttningarna mellan stridsställning-
+arna blir långa och i många fall måste omgrupperingarna genomföras till
+fots, där vägnätet är begränsat. Hjulfordon har sin begränsning i väglös
+terräng varför bandvagnarnas betydelse inom ramen för fördröjnings-
+strid ökar. Både vad avser att utnyttja dem vid omgrupperingar och för att
+transportera eventuella skadade.
+
+Storleken på kompaniområden bör anpassas dels efter statusen på kom-
+panierna, dvs. vilket personalläge, materielläge samt stridsvärde respek-
+tive kompani har och dels på hur terrängen ser ut. Antal genomgående
+vägar, broar, höjder, kanaliserande terräng, öppen terräng m.m. påverkar
+kompaniets möjligheter att kunna genomföra en effektiv fördröjningsstrid
+över tiden.
+
+Det finns olika sätt för kompanichefen att bygga upp fördröjningsstri-
+den på vad avser plutonernas strid. Ett sätt är att varje pluton tilldelas en
+huvuduppgift och en beredduppgift, dvs. max två stridsställningar som
+eldöverfall utförs ifrån. En annan modell är att pluton tilldelas ett område
+inom vilket man ska fördröja fienden i ett antal timmar -1/2 dygn.
+
+9.2 Motståndaren
+
+Motståndaren kraftsamlar ofta där man når framgång. Artilleri och flyg-
+understöd kan flyttas från ett förband som det inte går särskilt bra för, till
+ett annat förband som har framgång. Moståndaren försöker framrycka
+
+FÖRDRÖJNINGSSTRID
+HANDBOK
+
+på väg för att upprätta hålla en hög framryckningshastighet men har god
+kapacietet att även röra sig i terrängen.
+
+Exempel på förbandets sammansättning m.m se H Hvkompani del 1.
+
+Terräng som motståndaren vill ha långt fram, dvs på djupet av vår grup-
+pering, kan tidigt tas och säkras genom tex. luftlandsättningar eller kring-
+gångsförband. Dessa förband kan verka under ca 2-3 dygn själva, före det
+att huvudstyrkan når fram.
+
+9.3 Förberedelser
+
+Kompaniet utgångsgrupperas inom hela djupet av fördröjningsområdet.
+
+Hur lång tid kompaniet har på sig före man ska påbörja lösande av uppgif-
+
+ten, är avgörande för hur mycket förberedelser man hinner med. Exempel
+
+på förberedelser är:
+
+. att kompanichefen gör en noggrann terrängvärdering, både på karta
+och i terrängen och att förband grupperas redan under förberedelse-
+skedet, tex. vid platser som motståndaren tidigt vill behärska. Kring-
+gångsförband eller helikopterluftlandsättning kan mycket väl sättas in
+på djupet, långt innan kompaniet ska påbörja lösande av uppgiften.
+
+. att kompanichefen rekar i terrängen med plutoncheferna och låter
+dem reka stridsställningar enligt en preliminär stridsplan och däref-
+ter redovisa rekognoscerings resultatet för kompanichefen, som där-
+efter fastställer stridsplanen. Om tiden medger, bör kompanichefen
+inledningsvis, åka igenom hela kompaniområdet med plutoncheferna
+och efter hand peka ut var olika plutoner ska ha sina stridsställningar,
+i syfte att plutoncheferna ska få en tydlig bild över kompanichefens
+stridsplan.
+
+. att det läggs ut ammunition, mat och vatten i ”materielgömmor” i
+terrängen en bit bakom respektive stridsställning,
+
+« att skottfältsröjning genomförs vid behov och att olika typer av fält-
+arbeten genomförs,
+
+« att den indirekta elden planläggs,
+
+FÖRDRÖJNINGSSTRID
+
+55
+56
+
+HANDBOK
+
+« att ett underhållsspår rekas, i syfte att säkerställa att eventuella skadade
+kan tas omhand och transporteras bakåt i fördröjningsområdet,
+
+« att striden förövas, inledningsvis i den första stridsställningen och i
+mån av tid, även i övriga stridställningar.
+
+Kompaniet bör understödjas med fältarbetsresurser från högre chef.
+
+Om möjligt underställs/understöds kompaniet av en eldledningsgrupp,
+som kvarstår intill dess att kompaniet löst sin uppgift.
+
+Cheferna på kompaniet måste noga väga behovet av ytterligare åtgärder
+för eldförberedelser och fältarbeten mot behovet av förövning.
+
+Förövning bör omfatta:
+
+.  Besättande av stridsställningar (ordinarie, växel och alternativ)
+
+. Hur utlösa eventuella fältarbeten
+
+« Omgrupperingsvägar
+
+.  Urdragning och riktlinjer för urdragning då underställda chefer kan/
+måste fatta egna beslut
+
+«  Återsamlingsplatser
+
+Striden genomförs från förberedda stridsställningar, gruppvisa eller plu-
+tonsvisa.
+
+Omgrupperingsvägar mellan stridsställningarna är förberedda och upp-
+märkta, så att man även hittar i mörker.
+
+Fördröjningsstrid kräver att alla chefer har förståelse för bataljonens mål-
+bild och kan ta initiativ i striden.
+
+9.4 Genomförande
+
+Striden kan tas upp så tidigt som möjligt, då motståndaren kommer in i
+kompaniets område.
+
+FÖRDRÖJNINGSSTRID
+HANDBOK
+
+Detta kan ske antingen med direkt eld, indirekt eld, fältarbeten, eller en
+kombination av dessa, i syfte att tidigt få ut fördröjningseffekt. En annan
+
+möjlighet är att avvakta och välja lämpliga mål för våra vapen avseende
+direktriktad eld.
+
+Vad kompanichefen väljer, styrs av terrängens beskaffenhet och på vilket
+sätt man bäst kan påverka motståndaren.
+
+Plutonerna öppnar eld med de system och på det avstånd som medger den
+bästa verkan.
+
+Plutonchefen bör säkerställa vid eldöppnandet, att pansarbrytande vapen
+(granatgevär, pansarskott) kan öppna eld först, för att öka sannolikheten
+att motståndarens stridsfordon nedkämpas.
+
+Eldöppnandet i varje stridsställning bör vara mycket kort, för att därefter
+snabbt påbörja omgruppering, i syfte att om möjligt undvika motstånda-
+
+rens artillerield samt direkta eld.
+
+Mindre del grupperas ofta som flankskydd, för att försvåra motståndarens
+möjlighet att kringgå i terrängen.
+
+FÖRDRÖJNINGSSTRID
+
+57
+HANDBOK
+
+Bild 9.1 Exempel på kompanistridsplan, då man haft ont om tid till förberedelser och endast
+planerat för att kunna genomföra ett eldöverfall per pluton.
+Illustration: Anna-Karin Wetzig, Grafisk produktion FSV /FMV.
+
+58 | FÖRDRÖJNINGSSTRID
+
+HANDBOK
+
+Striden bör föras rörligt, genom eldöverfall, med stöd av fältarbeten och indirekt eld.
+
+Varje hvpluton bör inte tilldelas mer än maximalt en huvuduppgift och en bereddupp-
+gift, dvs max två stridsställningar som man utför eldöverfall ifrån.
+
+Kort eldöppnande främst med granatgevär och pansarskott och därefter snabb
+omgruppering.
+
+Fältarbeten vid kanaliserande terräng.
+Underhållsspår fastställas i syfte att säkerställa transport av eventuella skadade.
+
+Exempel på terräng som motståndaren är intresserad av att tidigt behärska på kart-
+skissen, är den kanaliserande terrängen mellan höjderna samt bron. Dessa platser kan
+tidigt tas och säkras genom helikoterplandsättning eller kringgångsförband.
+
+En förstärkt mekaniserad bataljon består i stort av tre mekaniserade kompanier,
+ett granatkastarkompani, ett trosskompani, samt ett stridsvagnskompani. Bataljonen
+kan också vara förstärkt med fältarbetsförband med minröjningsdelar och broläggare.
+Bataljonen kan understödjas av artilleri, flyg samt attackhelikoptrar.
+
+Kompanichefen samordnar plutonernas omgruppering, så att de dels, vid
+behov kan understödja varandra, dels inte kringgås, avskäras eller inne-
+slutas. Rapportering från plutonchefer till kompanichefen, är mycket vik-
+tig, så att denne hela tiden har grepp om hur striden utvecklar sig och
+vilka åtgärder fienden vidtar.
+
+Beslutsunderlaget som detta genererar är avgörande för kompanichefens
+möjlighet att samordna striden och fatta beslut om:
+
+.  Urdragningar.
+
+. Omgrupperingar.
+
+«  Lösgörande av plutoner bundna i strid. (Bör förövas)
+
+När kompani ska omgrupperas genom annat kompanis område, samver-
+kar cheferna bl.a. om;
+
+« Planerade och utförda mineringar och blockeringar.
+
+. Lämpliga omgrupperingsvägar
+
+. Tider och platser för inpassering
+
+« Anmälan vid passering av kompanigräns in resp ur
+
+. Vägvisning för omgrupperande förband
+
+FÖRDRÖJNINGSSTRID
+
+59
+60
+
+HANDBOK
+
+9.5 - Underrättelsebehov
+
+Vid fördröjningsstrid är kompanichefens underrättelsebehov i första hand
+kopplat till var och när motståndaren framrycker och med vad, exempel-
+vis framryckningsvägar, kringgångar eller omfattningar.
+
+Detta innebär att kompaniet måste övervaka vägar och stråk inom hela
+sitt område.
+
+Kompanichefen avdelar vid behov eldledare, strids- eller spaningspatrul-
+ler för informationsinhämtning. Dessa grupperas i ett tidigt skede långt
+fram i, eller i vissa fall framför, kompaniets område eller i sekundära rikt-
+ningar i syfte att fastställa motståndarens anfalls- och kraftsamlingsrikt-
+ningar samt för att tidigt kunna ta upp strid.
+
+En informationskälla är också förband som är grupperade i anslutning till
+eget kompani.
+
+9.6 Fältarbeten
+
+Fördröjande fältarbeten och fältarbeten för överlevnad prioriteras.
+
+Mineringsarbeten vid fördröjningsstrid kan genomföras av tillförda pion-
+jär- eller ingenjörsförband och tillförd materiel. Detta ska kunna ledas av
+kompanichefen.
+
+Mindre förstöringar såsom vägtrumsprängning och minspärrar i anslut-
+ning till egna stridsställningar samt skenmineringar kan kompaniet utföra
+med egna resurser. Fälla träd över en väg bör också kompaniet själva klara
+av.
+
+Genom att tidigt utföra fältarbeten i främre delar av området skapas tid till
+förberedelser längre bak i området.
+
+FÖRDRÖJNINGSSTRID
+HANDBOK
+
+För att få så god utdelning som möjligt av mineringsarbeten ska man nog-
+grant analysera var de ska genomföras för att uppnå syftet med striden.
+
+Fördröjande fältarbeten kan fylla flera syften, som att:
+
+. förneka motståndaren tillgång till vissa anläggningar genom spärr-
+ning, blockering, förstöring samt
+
+e - minering och hinder i terräng,
+
+« göra motståndaren gripbar för andra vapensystem.
+
+Platserna för mineringar bör väljas så att de i bästa fall får verkan och i
+sämsta fall upptäcks av motståndaren, men då när det är för sent.
+
+Det är särskilt viktigt att arbetet sker på flera täter och att man använder
+terrängen för att underlätta och förstärka effekten av gjorda fältarbeten.
+
+Gynnsam terräng för mineringar är:
+
+. - Kanaliserande terräng där kringgång är mycket svår eller tidskrävande.
+» Vattendrag (diken, åar, bäckar).
+
+e  Svåröverskådlig terräng.
+
+. Terräng där motståndaren kan tänkas ta eld-/stridsställning.
+
+Därutöver sker:
+.  Skottfältsröjning.
+.  Maskering (även mot termiska sensorer).
+
+I vissa fall kan fältarbeten för egen rörlighet och överlevnad vara avgö-
+
+rande för att uppnå syftet med striden, samt för att säkerställa underhålls-
+tjänst och hälso- och sjukvård över tiden.
+
+9.7 - Indirekt eld
+
+Den indirekta elden planeras för att komplettera eldsystem där direkt eld
+inte kan avges.
+
+FÖRDRÖJNINGSSTRID
+
+61
+62
+
+HANDBOK
+
+Måluttag för indirekt eld väljs där vi antingen inte har räckvidd med andra
+vapen eller för att genomföra strid med kombinerade vapen.
+
+Lämpliga måluttag kan bland annat vara:
+
+. Egna mineringar.
+
+. Platser där motståndaren kan förväntas stanna eller ta eldställning
+eller stridsställning.
+
+. Framför egna stridsställningar.
+
+e - Kanaliserande terräng.
+
+« - Understödja omgrupperingar av plutoner.
+
+« Stödja striden vid våra fältarbeten, för att uppnå konceptet kombine-
+rade vapen.
+
+e Avskärma motståndaren eller belysa stridsfältet.
+
+Kompanichefen kan antingen välja att själv hålla i eldtillståndet för indi-
+rekt eld, alternativt dela ut det till en pluton i taget beroende på hur grup-
+peringen ser ut och i vilket plutonsområde motståndaren befinner sig i.
+
+Eldledningsgruppen grupperas vid en stridsställning med goda observa-
+tionsmöjligheter, i regel i anslutning till kompanichefens uppehållsplats. I
+vissa fall kan det finnas behov att dela eldledningsgruppen, för att möjlig-
+göra att kunna arbeta på två täter.
+
+Plutonchefer och gruppchefer ska vid behov kunna eldobservera.
+
+Kompanichefen kontrollerar förberedelserna inför striden, såsom pluton-
+stridsställningarna, eldsystemet, fältarbetena och omgrupperingsvägarna.
+
+Stridsberedskapen anpassas efter hand. Om uppgiften sträcker sig över en
+längre tid måste chefen tillse att stridsvärdet på förbandet bibehålls.
+
+9.8 Logistik
+
+I planeringen av fördröjningsstriden eftersträvas, att både batkvm och
+kompkvm deltar från början i planeringsprocessen, i syfte att säkerställa
+
+FÖRDRÖJNINGSSTRID
+HANDBOK
+
+att materiel fördelas och körs ut i förberedelseskedet, samt att underhålls-
+spår fastställs, så att eventuella skadade tas om hand och transporteras
+bakåt under genomförandet av fördröjningsstriden.
+
+Grunden vid fördröjningsstrid är att underhållstjänsten samt hälso- och
+sjukvården är framåtriktad.
+
+Resurser för evakuering av skadade och sjuka, bör finnas i anslutning till
+plutonernas stridsställningar, alternativt grupperade så att de snabbt kan
+nå plutonerna via förberedda transportstråk. Plutonerna ska som en del
+av sina förberedelser inreda fordon för evakuering av skadade och sjuka.
+Personal lämnas aldrig på slagfältet.
+
+I förberedelseskedet bör ammunition, mat och vatten köras ut i terrängen,
+där respektive pluton sedan kan göra upplag och gömma det i terrängen
+en bit bakom respektive stridsställning.
+
+Detta för att säkerställa att det finns ammunition, mat och vatten vid varje
+stridsställning, vilket underlättar när plutonerna omgrupperar från en
+stridsställning till en annan och strävan bör vara att soldaterna har buren
+reglementerad utrustning, vid omgrupperingar till ny uppgift.
+
+OBS! Det som kompaniet inte hinner med att köra ut och förhandslagra,
+under förberedelseskedet, kommer sannolikt inte att kunna tillföras över-
+huvudtaget, då striden väl har börjat.
+
+Under genomförandet av fördröjningsstriden bör underhållsspår använ-
+das i första hand för transport av skadade, men kan även användas vid
+omgrupperingar av plutoner. Dock får underhållsspåret inte mineras för-
+rän sista plutonen passerat bakåt och delar av underhållsspåret inte längre
+behövs. Detta sker på kompanichefs order.
+
+FÖRDRÖJNINGSSTRID
+
+63
+64
+
+HANDBOK
+
+9.9 Ledning
+
+Fördröjningsstrid ställer särskilt stora krav på ledning. Kompanichefen
+bör leda från plats där denne kan påverka stridens genomförande. Det
+är av stor vikt att alla inom kompaniet är införstådda med kompaniets
+uppgift och stridsplan för att initiativ ska kunna tas även om lednings-
+och sambandsbortfall inträffar. Att samverkan mellan plutonerna sker om
+pågående verksamhet är väsentligt om sambandet till kompanichefen för-
+loras.
+
+Kompanichefen måste hela tiden sörja för att upprätthålla sambandet
+inom hela sitt område. Detta gäller såväl inom kompaniet, som mot högre
+chef.
+
+Pluton ska dock under kortare tid kunna lösa uppgifter utan samband
+med kompaniets huvuddel.
+
+Samverkanspunkter framgår av kapitel 11.
+
+Om kompaniet är delat så leder kompanichefen respektive ställföreträda-
+ren var sin del. När detta inträffar, minskar uthålligheten i ledningen, vil-
+ket måste beaktas, kopplat till hur lång tid uppgiften ska lösas. Om upp-
+giften ska lösas under längre tid, eller om uppgiften tydligt innehåller flera
+olika stridsmoment, bör kompanichefen och ställföreträdaren leda i skift
+med hänsyn till förberedelsetid och viloläget.
+
+FÖRDRÖJNINGSSTRID
+HANDBOK
+
+10 Störa
+
+Störa- stridsuppgift som syftar till att störa motståndarens verksamhet, samt binda
+delar av motståndarens förband och tillfoga förluster.
+
+Om Hemvärnsförbandet blir kvar i ett område som behärskas av motstån-
+daren, utan möjlighet till samband med högre chef, ska förbandet övergå
+till störa strid.
+
+Detta kan innebära att hemvärnsförbandet kommer att verka avskilt från
+direkt stöd från egna förband.
+
+Störa striden skiljer sig på många olika sätt från hemvärnsförbandens
+övriga uppgifter och strid.
+
+Förbandet kommer själv i större utsträckning att få svara för:
+. underrättelser om motståndaren och civilläget,
+
+.  underhållstjänst,
+
+«  hälso- och sjukvård samt
+
+«  personaltjänst.
+
+Striden genomförs i mindre enheter, striden förs så att egna förluster
+minimeras. Risken för upptäckt och behovet av områden att gömma sig
+i kan bli styrande för striden. Lång uthållighet och överlevnad priorite-
+ras. Stridstekniken ska varieras och motståndaren ständigt överraskas.
+Okonventionella metoder utnyttjas. Intensiteten i striden varieras genom
+samordning till tid, rum och målval.
+
+Om möjlighet finns så kan förnödenheter, bl a livsmedel, ammunition och
+
+sjukvårdsmateriel läggas i upplag. Upplag väljs så att de inte upptäcks av
+motståndarens rutinåtgärder.
+
+Valet av mål och ambitionsnivån i striden kopplat till egen uthållighet är det viktigaste
+beslut chefen har att fatta.
+
+STÖRA
+
+65
+66
+
+HANDBOK
+
+10.1 Stridens förande
+
+Ett eller flera stridsuppdrag kan principiellt indelas enligt skeden nedan;
+Planering och förberedelser, vila/återhämtning
+
+Utgångsläge för strid, ordergivning, förövning
+Underrättelseinhämtning/ spaning för strid
+
+Strid
+
+Åtgärder för att inte upptäckas
+
+Rapportering
+
+AN RBRBWN
+
+1 Planering och förberedelser, vila och återhämtning
+
+Bastjänst
+
+Huvudbas väljs i område väl undandraget motståndarens påverkan. Skydd,
+vila och återhämtning prioriteras. Basen bör kunna användas under
+längre tid. Alternativt huvudbasområde ska alltid avdelas. Återhämtning
+genomförs i huvudbas. Sjuka och skadade samt personal i behov av lätt-
+nad i tjänsten i övrigt bör tjänstgöra i huvudbas alternativt i särskilt upp-
+rättad sjukvårdsbas. Sändarplats 1-3 km från bas utnyttjas alltid
+
+Stridsbas, utgångsläge för strid, väljs i terrängen i anslutning till en strids-
+uppgifts genomförande och nyttjas endast för detta uppdrag, dvs en gång.
+
+Basen väljs om möjligt:
+
+e i betäckt och svårtillgänglig terräng,
+
+.  undandragen insyn från marken och från luften,
+
+« på plats som är lätt att bevaka, försvara och utrymma samt
+
+. så långt från vägar och stråk m m att den inte upptäcks genom mot-
+ståndarens rutinåtgärder för skydd.
+
+Spår efter fordon måste maskeras. Vintertid utförs vilseledande åtgärder
+(skenspårning, avhopp).
+
+Uppträdandet i basen ska präglas av god ljud- och ljusdisciplin. Observera att
+även, rök och lukt kan röja basen. Plutonchefen fastställer en in- och utpas-
+seringspunkt. Trupp som söker inpassera på en annan plats betraktas som
+fientlig.
+
+STÖRA
+HANDBOK
+
+Post ska finnas vid in- och utpasseringspunkten. Tillfälliga poster sätts ut
+(I post/grupp) utanför de tilldelade eldställningarna under förläggnings-
+arbetet.
+
+All utrustning som för tillfället inte används, ska vara packad och lätt grip-
+bar. Plutonchefen ska med alla medel hindra att plutonen dras in i strid
+i anslutning till basen. Utrymningen kan då försvåras eller omöjliggöras.
+Bevakningsåtgärderna, den vilseledande spårningen och uppträdandet i
+basen ska vara sådana att en snabb och dold utrymning möjliggörs.
+
+Delar av förbandet kan behöva avdelas för att understödja utrymningen
+och fördröja motståndaren. Om plutonens fordon ska medföras, måste
+utrymningsvägar rekognoseras noggrant.
+
+I huvudbas och/eller stridsbas, utgångsläge för strid, sker planering, order-
+givning och förberedelser för stridens olika skeden.
+
+Exempel på förberedelser är;
+
+«  Rekognoscering/spaning och målövervakning, förbereda vapen,
+ammunition och minmateriel, sjukvårdsmateriel samt övrig utrust-
+ning , bland annat för mörkerstrid.
+
+.  Stridshöjande åtgärder i form av kost, vätska och anpassad klädsel
+samt vila.
+
+Förövning ska alltid genomföras, minst som muntlig stridsövning eller
+som kaderövning.
+
+Planerig och förberedelser för strid
+Striden planläggs och förbereds med hänsyn till högre chefs syfte med
+striden, förbandets uthållighet och stridsvärde på sikt.
+
+Chef väger därför in bland annat:
+
+.  underhållsläget (disponibel ammunition och sjukvårdstjänsten),
+
+« bedömd fientlig motverkan i målet och före och efter stridsuppdraget
+samt
+
+STÖRA
+
+67
+68
+
+HANDBOK
+
+« truppens aktuella stridsvärde inkl psykist stridsvärde.
+
+Tidigt utgår spaning för att rekognoscera stridsställningar och för att
+inhämta underrättelser avseende bl.a målval.
+
+I stridsplanen indelas förbandet i olika underenheter med olika uppgif-
+ter. En mindre del utför själva uppdraget. Delar av förbandet ges uppgift
+att skydda flank, skydda tillbakaryckning (åtgärder mot förföljning) och
+basen/-erna.
+
+Underhållstjänsten bör om möjligt vara baserad på upplag. Om det inte
+finns några upplag, utnyttjas ortens tillgångar eller förnödenheter som
+erövrats från motståndaren. Upplag ska ordnas så att de motstår påver-
+kan av vädret.
+
+Sårade och skadade som inte kan vårdas vid förbandet, ska snarast åter-
+transporteras till egna förband. Går inte detta ska de överlämnas till civil-
+befolkningen i området.
+
+Stupade medförs, när förbandet urnästlar. Om så inte kan ske sker tillfäl-
+lig gravsättning i fältgrav enligt anvisningar.
+
+2 Utgångsläge för strid- stridsbas, ordergivning, förövning
+
+Här sker sista förberedelserna exempelvis rapport från spaning, rekognos-
+ceringsresultat, sista kontroll av materiel för genomförande, förövning,
+sista samlade ordergivning, höjning av stridsvärdet genom vila och tillför-
+sel av kost samt vätska.
+
+3 Underrättelseinhämtning/ spaning för strid
+Mål väljs enligt eget stridsvärde, vad som är rimligt. Målet övervakas om möj-
+
+ligt för att säkerställa rätt tillfälle att slå till.
+
+4 Striden
+
+STÖRA
+HANDBOK
+
+Målval bör prioriteras mot svagt skyddande gränssättande funktioner tex,
+ledning (staber ledningsfordon), uh ( staber drivmedelsfordon, luftvärn,
+artilleri, fältarbetsresurser)
+
+Striden genomförs med begränsad ambition om möjligt med stöd av fält-
+arbeten (förstöring, minering),skarpskyttar och pansarvärnsvapen.
+
+Ständiga ”nålstick” som gör att motståndaren aldrig kan känna sig säker och slappna
+av utan att även i sina egna bakre områden avdela resurser för bevakning och skydd.
+
+Motståndarens motåtgärder vid kännedom om vår störa verksamhet:
+
+« Flygande spaning, ex helikopter eller drönare.
+
+«  Eskortskydd i form av helikopter, på marken skyddsstyrka vid skärskilt
+viktig transport.
+
+« Ökad posterings verksamhet.
+
+.  Patruller vid sidan av vägen.
+
+.  Patruller med Hund för ljudmarkering, samt spåra, förfölja, bekämpa.
+
+. Spaning med hjälp av värme kamera.
+
+»  Signalspaning och störsändning mot alla våra system, inkl mobiltele-
+foner.
+
+5 Åtgärder för att inte upptäckas
+
+Stor vikt läggs vid att välja en fördelaktig terräng, stridsfordonshindrande,
+och möjlighet att till fots eller skidor kunna framrycka tyst och dolt. Åter-
+samlingsplatser utses för den händelse förbandet blir splittrad Återsam-
+lingsplatserna ska vara lätta att hitta i terrängen, helst även utan karta.
+
+Vid övergång av väg,stråk och öppna partier ska man iaktta största försik-
+tighet och utnyttja mörker och dålig sikt. Platsen för övergången väljs där
+sikten längs vägen är skymd och där terrängen ger skydd.
+
+Vid eventuell upptäckt från marken genomförs vilseledande åtgärder som
+till exempel metkrok kombinerat med eldöverfall med försvarsladdning
+eller eld med eldhandvapen. Värmesignaturer elimineras.
+
+STÖRA
+
+69
+HANDBOK
+
+6 Rapportering
+
+Rapportering sker från sändarplatser (1-3 km från bas) och med längre
+intervaller än vanligt mht pejlingsrisk och strömförsörjning.
+Ordonnanser kan utnyttjas. Rapporter utförmas enligt de 7 S.
+
+70 | STÖRA
+HANDBOK
+
+11 Avlösning/mottagande av
+förband
+
+11.1 Grunder
+
+När ett kompani ska avlösa ett annat förband bör cheferna på respektive
+förband tidigt samverka i syfte att inhämta information/order och övriga
+underlag för uppgiften samt att bädda för att snabbt lösa nya uppgiften.
+
+Order för avlösningen bör framgå i order från högre chef.
+
+Avlösa innebär att det övertagande förbandet ska överta samtliga uppgif-
+ter som det avlösta förbandet har haft om inget annat utryckts i ordern.
+
+Informationsinhämtningen och avlösningen ska ske genom samverkan.
+
+Chefen för ett avlösande förband övertar uppgiften först då avlösningen
+är helt genomförd.
+
+Samverkansprotokoll ska alltid upprättas mellan förbanden och skrivas
+under.
+
+11.2 Samverkan och genomförande
+
+Inledningsvis ska cheferna komma överens om tidsplanering för avlös-
+ningen, (kan ske via sambandsmedel).
+
+Chef för det avlösande förbandet bör därefter personligen samverka med
+förbandschefen som ska avlösas på dennes stabsplats, om möjligt bör även
+Stri /Samvbefäl och kvm delta. Syftet är att sätta sig in i läget och ta över
+ordrar, stridsplaner, kartor, m.m.
+
+AVLÖSNING/MOTTAGANDE AV FÖRBAND
+
+71
+HANDBOK
+
+Därefter bör övertagande förband utarbeta avlösningsorder för att i ett
+senare skede genomföra en ny samverkan där även plutonschefer del-
+tar. Syftet är personlig samverkan med respektive motpart för att planera
+avlösningen samt överlämna stridsplaner, sambandshandlingar, oleat och
+övriga handlingar.
+
+Slutligen bör om möjligt delar av avlösande förband på alla nivåer ner till
+grupp ansluta och samverka (gå bredvid) sin motpart i syfte att snabbare
+sätta sig in i läget, få terrängkännedom etc.
+
+Den slutliga avlösningen sker genom att avlösande förband tar över suc-
+cesivt på alla nivåer och enheter. När avlösningen slutförts ska rapport
+skickas till högre chef.
+
+72 | AVLÖSNING/MOTTAGANDE AV FÖRBAND
+HANDBOK
+
+11.3 Exempel på tidsplan avlösning kom-
+pani mellan två förband
+
+Tid tnr tnr tnr tnr tnr tnr tnr tnr
+Verk- Order Besök av | Överta- | Besökav | Order- Delar av | Avlö- Avlö-
+samhet | från HC | överta- gande överta- givning | avlö- sande sande
+
+gande förband | gande Avlös- sande förband | förband
+förband | genom- | förband | ning, på | förband | gruppe- | tar över
+
+(KompC) | för (KompC, | respek- på alla rar och uppgif-
+order- PlutC) tive för- nivåer tar över ten.
+givning band. (ner till sUCCe- Rapport
+
+grp) sivt på till HC
+
+ansluter | alla
+och går | nivåer
+bredvid (efter
+
+hand)
+Syfte Påbörja | Stabsori Reki tg,
+avlös- Över- resp tät
+nings- lämna Sam-
+ordern under- verka,
+lag planera
+avlös-
+ning,
+(strids-
+planer,
+oleat
+mm)
+
+Åtgärd Kontakta | Samver-
+överta- kan
+gande
+förband,
+gör
+överens-
+kom-
+melse
+angå-
+ende
+tidsplan
+
+Tabell 11.1 Exempel på tidsplan för avlösning. HvSS.
+
+AVLÖSNING/MOTTAGANDE AV FÖRBAND | 73
+HANDBOK
+
+När förband avlöses/ tas emot ska följande klaras ut:
+
+Redogörelse för läget av förbandet som ska avlösas
+
+1 Orientering
+
+Vår verksamhet, läge, begränsningar, högre chefs målbild.
+Motståndarens läge, stridsvärde, handlingsmöjligheter.
+Slutsatser.
+
+Uppgift
+
+Genomförande
+
+Målbild och genomförandeidé.
+Riktlinjer.
+
+Samordning (sidoförband, gränser).
+
+4 Logistik
+
+Underhållstjänst.
+
+Civilläget
+
+Civil samverkan.
+
+Sjukvård
+
+Trossvägar/ Kontakter, telefonnummer
+
+5 Ledning
+
+Ledningsplatser
+
+Stående order.
+
+Sambandsbestämmelser/Överlämna sambandshandlingar
+
+6 Order
+
+Order till underställt/understödjande förband.
+
+Resurser som behövs för att lösa uppgiften såsom eldunderstöd, fältarbe-
+ten och underrättelser.
+
+7 Överlämna
+
+Stridsledningsunderlag; MRO, SLO, EO, UTO
+Begränsningar, t ex eldförbud i viss riktning
+Sambandsbestämmelser, frekvenser m.m
+Stående ordrar Oplatser /Målregistreringar
+Oleat över utförda och planerade fältarbeten
+
+8 Övrigt
+
+Vid behov ge förslag på hur resurserna bör utnyttjas
+Samverkan
+
+vilka hemställan har/inte har verkställts
+Kvarstående frågor
+
+Avlösningen ska skrivas under. Övertagande: anmäl till Högre chef
+
+74 | AVLÖSNING/MOTTAGANDE AV FÖRBAND
+HANDBOK
+
+12 Underställande av förband
+
+12.1 Allmänt
+
+Kompani som ska understödja/underställas annat förband bör skicka
+rekognosceringsstyrka eller förpatrull i förväg i syfte att inhämta informa-
+tion/order och övriga underlag för uppgiften samt att bädda för att snabbt
+lösa nya uppgiften. Order för rekognosceringen bör framgå i order från
+högre chef.
+
+Informationsinhämtningen bör ske genom samverkan.
+
+12.2 Begreppen underställd och under-
+stödja
+
+Att vara underställd innebär att förband i alla avseenden ställs under angi-
+ven chefs befäl. Den angivna chefen ansvarar för all logistik. Om under-
+
+ställandet i något avseende undantagits, anges det i särskild ordning. Ett
+förband kan endast vara underställt en chef.
+
+Att understödja innebär att förband tillfälligt stödjer angiven chefavseende
+åtgärder för att lösa en viss uppgift. Den chef som understöds för befälet
+över understödjande enhet avseende angivna uppgifter. Den understöd-
+jande chefen (eller dennes ordinarie chef) är ansvarig för eget underhåll
+under lösandet av understödsuppgiften. Ett förband kan i ett avseende
+understödja en annan chef än den som det är underställt. (Underställt för-
+band kan få uppgift att understödja annat förband under viss tid).
+
+Hemvärnskompani kan få uppgift att understödja eller underställas annan
+bataljon i syfte att förstärka under viss tid.
+
+UNDERSTÄLLANDE AV FÖRBAND
+
+75
+HANDBOK
+
+12.3 Rekognoceringsstyrka och förpatrull
+
+Rekognoseringsstyrkan/förpatrullen bör minst ha nedanstående sam-
+mansättning:
+
+.  Skyddsstyrka minst grupp storlek för skydd av styrkan
+
+«  Rekognoseringsstyrka:
+
+. Kompanichef alternativt ställföreträdande
+
+«  Plutonschefer alternativt ställföreträdande
+
+.  Kvartermästare
+
+.  Stab/samband gruppchef alternativt ställföreträdande
+
+12.4 Samverkan och order
+
+Kompani som ska understödja eller underställas annan bataljon bör tidigt
+(timmar innan) skicka en rekognosceringsstyrka/förstyrka i syfte att
+inhämta information om läget. Om man inte är överens vid samverkan så
+samordnar mottagande chef.
+
+76 | UNDERSTÄLLANDE AV FÖRBAND
+HANDBOK
+
+13 Strid i vintermiljö
+
+Väder och vinterns påverkan av soldaten finns väl beskrivet i Handbok
+Vintersoldat och generellt i Handbok Hvpluton /grupp.
+
+Den som behärskar uppträdande i snö och kyla har en fördel. Som för-
+bandschef måste man vara medveten om detta och tillse att förtänksam-
+heten finns även i det avseendet. Gäller förband såväl i norr som söder.
+
+Att beakta vid verksamhet i snö och kyla:
+
+Ökar energi åtgången hos soldat men även vad avser drivmedel,
+bränsle och batterier.
+
+Råvaror och materiel som inte får frysa måste ges skydd mot kylan.
+Mat behöver extra isolering-vattenförvaring måste överses- fordon
+måste värmas —-(varmhållas) is och snö på fordon i hjul och aggregat
+måste rengöras/tas bort innan uppställning. Fordon ställs på risbädd.
+Bränsleåtgången ökar avsevärt för våra fordon varför restriktivitet
+användande kan vara en åtgärd. Smörjmedel i vapen bör torkas bort så
+det inte hindrar funktionen.
+
+Posttjänst respektive patrullrundor måste genomföras i kortare pass
+mht kylan.
+
+Rutiner för tempering av ammunition måste ses över. Kylan påverkar
+ballistiken-vapnet ”tar lågt”
+
+Spårbildningen i snö måste beaktas.
+
+Trycktankar bör luftas även om elektrisk torkare finns.
+
+Verksamhet tar längre tid i kyla, är då även snödjupet stort tar allting
+ytterligare tid.
+
+Snödjupet är också en tillgång. Snön isolerar mot kyla när tältet/bivacken
+väl är nedgrävt. Packad snö om ca 2 meter skyddar mot finkalibrig eld.
+Snövallar som begjutes med vatten ger betydligt bättre skydd. Bilbatterier
+kan grävas in i en snöhög och på så sätt förvaras varmare än ute i stränga
+
+kylan.
+
+STRID I VINTERMILJÖ
+
+77
+78
+
+HANDBOK
+
+Eftersom spår syns väl i snön blir övervakningen också enklare. Natten
+blir också ljusare då marken är snötäckt och underlättar bevakning för ett
+grupperat förband.
+
+Terrängen blir lättare att komma fram i då den frusit och snön fallit. Myrar
+blir för lättare fordon motorvägsliknande. Att lämna den plogade vägen
+kan dock vara ett problem där oftast maskiner erfordras för att tex komma
+av vägen in i terrängen med tex trossens hjulfordon. Vägnätet blir glesare
+ju längre norrut man kommer. Även infrastrukturen är i stora områden
+gles varför det kan vara svårt med ”stöd från ortens handlare”
+
+Avstånden i Norrland jämte snö och kyla ställer extra stora krav på för-
+tänksamhet vad avser transporter och tider för verksamhet. Kravet på
+samordning blir större. Mht avstånd bör man utvecklade tydliga rutiner
+för nödvändig transportverksamhet.
+
+Rutiner för via signalering bör vara väl utvecklade. Upplagstjänst är ett
+begrepp som i flera fall bör nyttjas. Chefsbesök och chefers behov av att
+kalla till möten bör noga övervägas.
+
+STRID I VINTERMILJÖ
+HANDBOK
+
+Bilaga 1
+
+Samverkansprotokoll
+Vid all samverkan bör ett protokoll upprättas nedan ett exempel:
+Samverkansprotokoll
+Samverkan mellan A) och B)
+Behov
+A) B)
+Handlingar
+Utdelade Från samverkande förband erhålln
+Överenskommelser
+Datum
+För För
+
+79
+HANDBOK
+
+Bildförteckning
+
+Bild nummer Fotograf tecknare Notering
+Omslagsbild Christian Wallenius Avtal
+4 HvSS
+5:1 — 5:5 Anna-Karin Wetzig, Grafisk Produktion,
+FSV/FMV
+5:6 Anna-Karin Wetzig, Grafisk Produktion,
+FSV/FMV
+5.7 Anna-Karin Wetzig, Grafisk Produktion,
+FSV/FMV
+5.8 KFA Fv /HKV
+5.9 Anna-Karin Wetzig, Grafisk Produktion,
+FSV/FMV
+6.1-6.3 Anna-Karin Wetzig, Grafisk Produktion,
+FSV/FMV
+8.1-8.2 FM
+8.3 Anna-Karin Wetzig, Grafisk Produktion,
+FSV/FMV
+9.1 Anna-Karin Wetzig, Grafisk Produktion,
+
+FSV/FMV
+
+11.1
+
+Göran Karlsson HvSS
+
+BILDFÖRTECKNING
+
+81
+HANDBOK
+
+Källförteckning
+
+Regler, bestämmelser och handböcker som påverkat innehållet i denna
+
+handbok:
+
+Hemvärnsreglemente Bataljon Kompani — 2002 (M7741-722001)
+Infanterireglemente skyttekompani — 1981 (M7741-111470) Hävd.
+Handbok Hemvärn 2016 (FM2016-184:4)
+
+Handbok Markstrid — Kompani 2016 (FM2016-6315:3)
+
+Handbok Armé — Begrepp och förkortningar — 2016 (FM2016-6307:3)
+
+Handbok Armé — Ledning -2016 (FM 2016-6306:3)
+
+KÄLLFÖRTECKNING | 83
+          Handbok Hemvärnskompani består av en serie om tre delar.
+
+          Del 2 beskriver striden vid hemvärnskompani, då det löser olika uppgifter.
+
+
+
+
+                                                                          H Hvkomp del 2
+107 85 STOCKHOLM                                                           M7739-352078
+www.forsvarsmakten.se
+                                                         *PM7739352078*
+

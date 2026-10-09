@@ -1,0 +1,26 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "hemvarnet",
+  "version": "0.1.2",
+  "description": "Search and explain Hemvärnet handbooks with named handbook and page references.",
+  "author": {
+    "name": "Stephan Lonntorp"
+  },
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Hemvärnet",
+        "shortDescription": "Sök och förstå Hemvärnets handböcker",
+        "longDescription": "Sök i Hemvärnets handböcker och få tydliga svar med hänvisningar till handbok och sida.",
+        "developerName": "Stephan Lonntorp",
+        "category": "Productivity",
+        "capabilities": [
+          "Interactive"
+        ],
+        "defaultPrompt": "Hjälp mig att hitta svar i Hemvärnets handböcker.",
+        "composerIcon": "./assets/icon.svg",
+        "logo": "./assets/icon.svg"
+      }
+    }
+  }
+}

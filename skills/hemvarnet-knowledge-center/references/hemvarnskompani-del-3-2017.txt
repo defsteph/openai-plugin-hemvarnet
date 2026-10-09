@@ -1,0 +1,3821 @@
+Handbok
+Hemvärnskompani del 3 Anvisningar
+
+                            2017
+         Handbok
+Hemvärnskompani
+ Del 3 Anvisningar
+         H Hvkomp Del 3
+©Försvarsmakten
+
+Omslagsbild: Christian Wallenius/Försvarsmakten
+Grafisk bearbetning: FMV/FSV/Grafisk produktion
+Produktions-ID: 160511-011
+Publikationsformat: A5 format, InDesign
+Publikatiosområde: Hemvärn
+Förrådsbeteckning: M7739-352079
+HANDBOK
+
+VIDAR-handling: FM 2016:12289:5
+
+Beslut om fastställande av Handbok Hemvärnskompani Del 3.
+
+Handbok för hemvärnskompani del 3 (H Hvkomp del 3) fastställs att gälla
+från och med 2017-01-01.
+Publikationens registrerade M-nr är M7739-352079.
+
+Publikationen lagerhålls vid FMCL/FBE.
+
+Detta beslut är fattat av Generallöjtnant Anders Silwer. I den slutliga
+handläggningen har som föredragande deltagit Brigadgeneral Roland
+Ekenberg.
+
+Anders Silwer
+
+C PROD
+Roland Ekenberg
+RIKSHEMVÄRNSCHEF
+                                  HANDBOK
+
+
+
+Revidering - ändringslogg
+Nr   Mom     Omfattning av föränd-       Datum före-    VIDAR- hand-
+             ringar i stort              dragning       ling nr
+                                         Beslut av
+0            Ursprunglig fastställelse   2016-11-18     FM2016: 12289:5
+                                         C Prod
+
+
+
+
+Sida avser sidnummer i den rättade versionen.
+Ändringar i texten framgår av ändringsmarkör.
+
+
+
+ Kom ihåg!
+
+ Om du läser denna publikation i pappersform – kontrollera att du
+ har den senaste utgåvan. Fastställd och gällande utgåva finns alltid
+ på Försvarsmaktens intranät.
+HANDBOK
+
+Förord
+
+Kraven och förväntningarna på Hemvärnsförbanden ökar varför det
+är viktigt att hemvärnsförbanden har bra och aktuella handböcker som
+beskriver den strid och de uppgifter de är dimensionerade för.
+
+Behovet av hemvärnsförband vid olika typer av objekt är sannolikt större
+än tillgången. Detta innebär att hemvärnsförbanden kan komma att grup-
+peras både utspritt respektive sammanhållet och att detta kan variera över
+tiden. Hemvärnsförbanden ska kunna verka under hela dygnet och i alla
+väderförhållanden. Detta skall kunna ske uthålligt under dygn till måna-
+der. Verksamheten skall dessutom i vissa skeden stödjas av nödvärnsrätt
+och skyddslag för att senare kunna hantera uppkomna situationer inom
+ramen för IKEN eller krigets lagar. Detta ställer stora krav på Hemvärns-
+förbandens personal i samtliga nivåer.
+
+Handbok Hemvärnskompani innehåller i huvudsak riktlinjer för förban-
+dets strid och övrig verksamhet. Dessa skall användas som stöd och exem-
+pel för chefers lösande av uppgift.
+
+Under fältförhållanden kan läget förändras snabbt. Handboken täcker
+inte alla situationer. Den som handlar enkelt, praktiskt och konsekvent
+når säkrast till målet. Obeslutsamhet skadar mer än misstag vid val av
+metoder.
+
+Chef är ansvarig för sitt förband och verksamheten vid detta. Chefens
+duglighet, fasthet, föredöme och omvårdnad om underlydande är avgö-
+rande för förbandets användbarhet och stridsvärde. Chefens förmåga att
+tänka flera steg framåt och kunna vid behov ge order efterhand kommer
+vara avgörande.
+
+God anda, fast disciplin samt förmåga att härda ut under ansträngande
+förhållanden är nödvändigt för framgång.
+HANDBOK
+
+”Enkla planer konsekvent genomförda leder säkrast till målet”
+
+Handboken är anpassad för hemvärnets uppgifter, organisation och mate-
+riel samt utbildningstid.
+
+Handbok Hemvärnskompani vänder sig främst till:
+
+. chef för hemvärnskompani
+
+. utbildare vid hemvärnets förband,
+
+. lärare och elever främst vid HvSS, men även vid Försvarsmaktens
+övriga skolor,
+
+« krigsförbandschefer.
+
+Handboken består av en serie av tre delar:
+Del 1: Grunder
+
+Del 2: Objektet
+
+Del 3: Anvisningar
+
+De begrepp, kommandon och tecken som beskrivs i Handboken får inte ges annan
+innebörd.
+HANDBOK
+
+Innehåll
+
+14 Ytövervakning 9
+14.1 Inledning 9
+14.2 Grunder spaning 10
+14.3 Spaningsuppgifter 11
+14.4 Ledning 20
+14.5  Förläggning och återhämtning 25
+15 Eskort 28
+15.1 Inledning 28
+15.2 Begrepp 28
+15.3 Ledning 30
+15.4 Metoder 31
+16 Truppluftvärn 35
+16.1 Inledning 35
+16.2 Beredskap för strid mot luftmål 35
+16.3 Förvarning om pågående luftverksamhet 36
+16.4 Luftförsvarsåtgärder 36
+16.5  Insatsregler för truppluftvärn 37
+17 CBRN 39
+17.1 Inledning 39
+17.2 Ledning 39
+17.3 CBRN beredskap 42
+17.4  CBRN-Skyddsnivå 42
+18 Logistik 44
+18.1 Inledning 44
+18.2 Förnödenhetsförsörjning 45
+18.3 Teknisk tjänst 46
+18.4 Återhämtning 47
+19  Försvarsmedicin 49
+19.1 Inledning 49
+19.2 Evakuering 50
+19.4 Djursjukvård 52
+20  Fältarbeten 54
+20.1 Inledning 54
+20.2 Fördröjande fältarbeten 55
+20.3  Fältarbeten för överlevnad 58
+20.4  Fältarbeten för rörlighet 59
+
+21
+
+22
+
+HANDBOK
+
+Fångtjänst 60
+21.1 Inledning 60
+21.2 Krigsfångstjänstens syfte och omfattning 61
+21.3 Ledning 62
+21.4 Krigsfångar 63
+21.5 Genéåvekonventionerna 64
+21.6 Åtgärder i samband med tillfångatagande 65
+21.7 Samlingsplats för fångar 67
+21.8 Fångplats 67
+21.9 Fångläger 67
+21.10 Schematisk skiss över fångtjänsten 68
+21.11 Försvarsmedicin samt omhändertagande av dÖCa ...........e...sssssemsmmm 69
+Omhändertagande av döda 70
+22.1 Inledning 70
+222 Ledning 70
+22.3 Identifiering 71
+22.4 Omhändertagande av död vid förband/fartyg 72
+22.7 Riktlinjer vid överlämnande av dödsbud 74
+22.8 Riktlinjer för chefs brev till anhöriga 75
+22.9 Transport av döda 75
+22.10 Fältgrav 76
+Bilaga 1 79
+Bilaga 2 80
+Bilaga 3 81
+Bilaga 4 82
+Bilaga 5 84
+Bilaga 6 87
+Bilaga 7 91
+Bilaga 8 95
+Bildförteckning 97
+Källförteckning 99
+
+HANDBOK
+
+14 Ytövervakning
+14.1 Inledning
+
+Ytövervakning är en uppgift som syftar till att övervaka specificerat
+område. Området observeras i regel från flera samordnade observations-
+platser. Ansvarig chef må dock lämna delar av området utan ständig över-
+vakning. Strävan är att hålla ihop enheter för längre uthållighet. Uppgiften
+kompletteras med spaningsfrågor.
+
+Ytövervakning utnyttjar metoder för att systematiskt observera verk-
+samhet eller objekt i ett geografiskt område, syftande till att bygga upp
+och upprätthålla en lägesbild för det angivna området. Ytövervakningen
+resulterar också i att en normalbild för området kan upprättas. Avvikel-
+ser i normalbilden kan ge förvarning om motståndares verksamhet såsom
+motståndarens rörelser in i/ut ur området, framryckningsriktningar, luft-
+landsättningar, kringgångar och innästlingsförsök.
+
+Hemvärnskompaniet löser vanligen uppgiften genom observation från
+förbandets ordinarie grupperingsplatser, observationsplatser ,patrulle-
+ring och förbandets ordinarie rörelser i området. Pluton (eller delar av)
+kan även avdelas för rörlig spaning inom området.
+
+Till exempel kan hemvärnskompaniet lösa uppgiften genom att en plu-
+ton skyddar objekt, en pluton bevakar objekt och en pluton spanar inom
+område.
+
+Ytövervakning kan även kompletteras med hemvärnsflyg vilket då exem-
+pelvis inriktas mot spaning längs väg, fartygsled eller kraftledningsgator
+mm.
+
+Ytövervakning samordnas i största möjliga utsträckning med andra mili-
+tära förband och efter samverkan även med civila resurser, exempelvis
+polis, tull, bevakningsföretag, hemtjänsten, posten, boende i området
+med flera vilka kan lämna information om läget i ett område samt för
+
+YTÖVERVAKNING
+
+9
+10
+
+HANDBOK
+
+att få en normalbild av verksamhet inom området. Hemvärns-underrät-
+telsekompanierna har ytövervakning genom fast och rörlig spaning som
+huvudtjänst.
+
+14.2 Grunder spaning
+
+Spaning är en uppgift där förbandet ska inhämta information utan strid.
+Syftet med uppgiften är att lokalisera, identifiera, verifiera eller dokumen-
+tera viss företeelse eller visst objekt. Uppgiften kompletteras med spa-
+ningsfrågor.
+
+Hemvärnskompaniet löser i regel spaningsuppgifter med del av förban-
+det i kombination med lösandet av andra uppgifter. Tillexempel en pluton
+skyddar, en pluton bevakar, en pluton spanar inom område .
+
+God kännedom om de faktorer som kan komma att påverka inhämt-
+ningen och konsekvenser av dessa är avgörande för förbandets förmåga
+och möjlighet att bedriva spaningstjänst. Dessa faktorer vägs samman i
+planeringsskedet för att ge förbandet så goda förutsättningar som möjligt.
+Grundläggande faktorer som påverkar spaningstjänsten är:
+
+. Fysiska miljön
+
+. Aktörer
+
+e Tid till förfogande
+
+.  Förbandets utbildningsståndpunkt
+
+14.2.1 Fysisk miljö
+
+Den fysiska miljön där förbandet bedriver sin verksamhet har en direkt
+påverkan på hur förbandet löser spaningsuppgifter. Som Kompanichef är
+det därför av högsta vikt att ta terrängen i beaktande vid val av metod men
+framförallt att med hänsyn till uppgift och terrängen ge underställda che-
+fer så mycket tid som möjligt för planering av tilldelad uppgift så att dessa
+kan nyttja terrängen till sin fördel.
+
+Årstid, väder och sikt.
+Beskrivs i HANDBOK HV-KOMP DEL 1
+
+YTÖVERVAKNING
+HANDBOK
+
+Siktförhållanden
+
+Mörker, dimma, regn, snöfall och blåst underlättar ett dolt uppträdande
+för våra förbands dolda förflyttningar. Blåst minskar motståndarens möj-
+ligheter att använda markspaningsradar. Dimma försvårar användning av
+IR-materiel.
+
+14.2.2 Aktörer
+
+Med aktörer menas de aktörer som kan komma att påverka vår verksam-
+het. Aktörer kan delas upp i:
+
+. Egna
+
+e  Neutrala/Civila
+
+. Fientliga
+
+Med egna aktörer menas aktörer som egna förband, sidoordnade förband,
+polis, räddningstjänst och andra svenska och allierade myndighetsaktörer.
+Egna aktörer kan komma att ha betydelse för förbandets spaningstjänst
+och samordning med dessa kan behövas för att tillexempel tillse att geo-
+grafiska gränser inte överträds.
+
+Neutrala och civila aktörer innefattar sådana aktörer som officiellt inte
+tillhör våra förband eller inkluderas i egna aktörer. Exempel på sådana är
+hjälporganisationer, religiösa samfund, företag, civilbefolkning. Åtskilliga
+exempel finns genom historien då bristande hänsyn till dessa aktörer i pla-
+neringsskedet lett till att förband röjs och/eller fått avbryta sin spaning. Av
+särskild vikt är att som kompanichef ge tydliga styrningar för hur förban-
+det ska agera kring och med neutrala/civila aktörer.
+
+Motståndaren beskrivs i HANDBOK HV-KOMP DEL 1, Handbok Und-
+
+Säktjänst vid Hv-förband samt Handbok Markstrid - Motståndaren.
+
+14.3 Spaningsuppgifter
+
+Alla spaningsuppgifter har som syfte att ”Klargöra förhållandet vid...” Det
+innebär att ta reda på så mycket som möjligt om vad som sker på det
+
+YTÖVERVAKNING
+
+11
+12
+
+HANDBOK
+
+angivna målet - Klargöra förhållande... -, och i området intill målet ...
+
+vid!
+
+Spaningsuppgifter löses av förbandet genom antingen fast eller rörlig spa-
+ning eller en kombination av de båda. Hemvärnsbataljon respektive hem-
+värnsunderättelsekompani disponerar även ett antal flygresurser som kan
+nyttjas som spaningsresurs.
+
+GESTILL -
+
+UPPGIFT INNEBÖRD
+
+K P IG
+
+SPANA X IX | Spaning sker för att klargöra för-
+hållandet i angiven riktning och
+avstånd.
+
+SPANA MOT... BEREDD... X X | Förhållandet vid ska klargöras,
+framrycknings väg till och från är
+valfri.
+
+SPANA ÖVER... X IX I Spaning utförs först över för att
+
+MOT... BEREDD... klargöra förhållandet, därefter
+inriktas spaningen mot, framryck-
+ningsväg är valfri.
+
+FAST SPANING MOT... X | Förhållande vid, ska klargöras
+
+FRÅN... MINST INTILL... under en angiven tid, platsen är
+
+BEREDD... valfri.
+
+FAST SPANING MOT... X | Enligt punkten ovan. Dock ska klar-
+
+MELLAN... OCH... MINST görande av förhållande längs väg,
+
+INTILL... BEREDD... ske från valfri plats mellan... och...
+
+FAST SPANING FRÅN... X | Enligt punkten ovan. Dock är för-
+
+MOT... BEREDD... bandet styrt till en plats varifrån
+uppgiften skall lösas.
+
+SPANA LÄNGS VÄG... X IX IX | Spaning sker för att klargöra för-
+
+FRÅN... TILL... hållandet inom angivet område.
+
+BEREDD... Utförs som en Kombination av fast
+och rörlig spaning.
+
+YTÖVERVAKNING
+HANDBOK
+
+GES TILL -
+UPPGIFT INNEBÖRD
+K P IG
+
+SPANA INOM OMRÅDE... | X |X Spaning för att klargöra förhållan-
+
+BEREDD... det inom angivet område. Utförs
+som en kombination av fast och
+rörlig spaning.
+
+SPANA MELLAN... Xx Genom i huvudsak fast spaning
+
+OCH... FRÅN TNR klargör förhållandet mellan...
+
+OOOOO MINST INTILL och... Kompletteras med tid och
+
+TNR XXXXXX, BEREDD... spaningsfråga. Uppgiften kan lösas
+med en kombination av fast och
+rörlig spaning.
+
+DETALJSPANA... X IX | Spaning för att klargöra förhållan-
+
+BEREDD... det vid ett objekt, mot-, vid eller
+inom ett specifikt område. Exem-
+pelvis en motståndares organisa-
+tion, gruppering och verksamhet.
+Vägar och broars bärighet. Under-
+lag ska kunna delges i digital form,
+skiss alternativt via målrapport
+(Target pack).
+
+ÖVERVAKA OMRÅDE X IX Förbandet övervakar, främst
+
+X FRÅN TNR XXXXXX genom fast spaning, luftlandsätt-
+
+MINST INTILL TNR ningsfält, fientliga innästlingsför-
+
+XXXXXX, BEREDD... sök, kringgångsvägar och annan
+fientlig verksamhet. Kan ske från
+observationslinje.
+
+MÅLÖVERVAKA... X IX | Genomförs då kontakt med mot-
+
+BEREDD... ståndaren erhållits, spaning för
+kontinuerlig övervakning av målet.
+Minst ett stridspar bibehåller upp-
+sikt över målet. Uppgifterna styrs i
+tid eller rum
+
+SPANINGSRESERV X IX IX | Förbandet är berett att lösa ett
+antal uppkomna underrättelsebe-
+hov.
+
+YTÖVERVAKNING | 13
+14
+
+HANDBOK
+
+14.3.1 Fast spaning
+
+Syftar till att fortlöpande kontrollera förhållandena längs en eller flera
+vägar/stråk, på en viss plats eller inom ett visst område. Uppgiften löses i
+regel gruppvis på observationsplatser (oplatser), från fordon eller tillfäl-
+ligt byggda skydd.
+
+Avståndet mellan oplatser regleras oftast med hänsyn till samband mellan
+enheter samt samband till närmast högre chef.
+
+Oplatsen bör vara dold i betäckt terräng, för att möjliggöra förflyttning till
+och från den. I dagsljus bör den vara minst 200 m från den plats som skall
+observeras, detaljer skall kunna ses med kikare. Dock är syftet med upp-
+giften, möjlighet till maskering och observationsmöjligheter avgörande
+för oplatsens läge.
+
+Oplatsen skall förses med maskering och om den är avsutten även med
+
+regn- och köldskydd.
+
+Plutonen har möjlighet att med begränsad uthållighet upprätta och
+betjäna fyra stycken oplatser med geografisk spridning. Sambandet utgör
+i detta fall den gränssättande faktorn. För att få längre uthållighet gruppe-
+ras plutonen delat med två troppbaser och betjänar därifrån två stycken
+oplatser per tropp. Hemvärnsunderrättelsepluton skall kunna betjäna en
+oplats per grupp med en uthållighet av tre dygn.
+
+För att fortlöpande kunna lösa uppgiften utan att själv bli upptäckt, krävs
+noggrannhet och försiktighet vid ingående och upprättande samt betjä-
+ning av oplats.
+
+Vid planering och uppföljning av fast spaning bör följande beaktas:
+
+. Utbredning och djup - Skapa möjlighet till samband inom kompaniet
+samt till högre chef och sidoförband.
+
+« Sammanhängande observationssystem - Observationsområden behö-
+ver inte hänga ihop i detalj, däremot skall det finnas uppföljning. Mini-
+
+YTÖVERVAKNING
+HANDBOK
+
+mera blinda områden, möjligheter för motståndaren att byta fram-
+ryckningsriktning, -väg eller -stråk.
+
+. Skydd - Möjliggör terrängutnyttjande (blockterräng, djupt dike, sjö,
+myr (sommar) samt om möjligt tilldela resurser (IE, sjukvård, m.m).
+
+. Uthållighet — Säkerställ att spaningsenheten kan lösa tilldelad uppgift
+inom given ram, vilka hänvisningar ges, behövs samverkan med sido-
+förband för beställningsförfarande.
+
+« Understöd - Oplatser kanske måste kunna utrymmas snabbt vid upp-
+täckt. Kläm” inte in den där det blir svårt att ta sig ut. Planera för att
+kunna understödja samt undsätta.
+
+. Samband - Kontrollera avstånd på kartan. Säkerställ att samband
+fungerar! Samt nyttja utdragen sändarplats från oplatsen eller led-
+ningsplats.
+
+« Vintertid - eller vid behov, genomförs skenspårning, maskering av
+spår Osv.
+
+14.3.2 Rörlig spaning
+
+Utgår i viss riktning, mot angivet mål eller inom område där fast spaning inte
+kan ske. Den genomförs med fordon eller till fots. Rörlig spaning med fordon
+sker vanligtvis med två fordon per uppgift. Rörlig spaning till fots sker nor-
+malt med grupp.
+
+Om läget medger kan rörlig spaning genomföras öppet. Då genomför
+gruppen patrullering. Anpassning av utrustning och uppträdande sker
+efter hotnivå och vilken bild man vill visa av egna förband (hotfullt eller
+vänligt). Grunder är dock detsamma. Det är av största vikt att förberedel-
+ser görs noggrant innan utgående så att brister har rättats till och all mate-
+riel är kontrollerad. Det finns begränsat med utrymme att rätta till felak-
+tigheter då uppgiften påbörjats.
+
+YTÖVERVAKNING
+
+15
+16
+
+HANDBOK
+
+Vid val av framryckningsterräng bör följande allmänna krav beaktas.
+
+« Utnyttja terräng som medger skyl även mot termiska rikt-/observa-
+tionsmedel.
+
+. Undvik öppna ytor.
+
+. Ju närmare motståndaren desto försiktigare framryckning. Det kan
+liknas vid framryckning enligt «Trafikljuset»:
+
+GRÖN STRÄCKA - LÅGT HOT - HÖGRE HASTIGHET
+
+RÖD STRÄCKA - HÖGT HOT - LÅG HASTIGHET
+
+Under framryckning använder sig förbandet av SOLO (Stanna - Obser-
+vera - Lyssna - Ofta) för att inte överraskas av motståndaren.
+
+Förbandschefen utser återsamlingsplatser (ÅSA) i order för framryck-
+ning, och efterhand som lämpliga platser passeras.
+
+Vintertid beaktas spårbildning som främst upptäcks från luften och vid
+vägövergångar.
+
+Rörlig spaning till fots bedrivs i regel på grupps nivå. Gruppen spanar i
+regel samlat. Vid spaning i större områden sätts oftast större delar av för-
+bandet in.
+
+Vid spaning mot ett (1) mål väljer kompanichefen utgångsläge för spaning
+på ett säkert avstånd från motståndaren. Därefter rekognoseras målet för
+att fastställa detta och hur man skall sätta an spaningen. Vid behov flyttas
+utgångsläget.
+
+Endast i undantagsfall kan erforderliga upplysningar inhämtas på en och
+samma plats. Normalt tvingas förbandet till att observera målet från olika
+platser.
+
+YTÖVERVAKNING
+HANDBOK
+
+För att snabbt få underrättelser bör förbandet och område/objekt indelas
+i olika omgångar. För att säkerställa rapport kan ledningsplats grupperas i
+utgångsläget med samband till högre chef.
+
+Vid framryckning undviks vägar, öppna platser, gles skog och krön, för att
+inte upptäckas av motståndarens spaningsutrustning, t ex värmekameror,
+markradar, bildförstärkare och sensorer. Undvik att göra förflyttningar i
+sidled nära målet. Framryck rakt mot målet, observera, gå rakt tillbaka
+och gör sedan förflyttningen i sidled, gå rakt fram på nytt osv.
+
+Bild 14.1 - Exempel på komp som med tre plutoner bevakar objekt och med en pluton spanar
+längs väg och mot ett objekt. Lt Peru, HvSS.
+
+YTÖVERVAKNING | 17
+HANDBOK
+
+Bild 14.2 Exempel på komp som med tre plutoner bevakar objekt och med en pluton spanar
+inom område. Lt Peru, HvSS.
+
+När alla upplysningar är inhämtade, återvänder respektive enhet till
+utgångsläget. Här sammanställs resultatet och rapport skickas. Vid behov
+sker förnyad spaning.
+
+Vid spaning strider man endast i självförsvar. Framryckning i målets när-
+het skall ske växelvis med understöd inom spaningspar/ -omgång.
+
+14.3.3 Hemvärnsflyg
+Hemvärnsflyggrupper finns organisatoriskt i hemvärnsbataljoner samt i
+hemvärnsunderrättelsekompanier.
+
+Flygplanen är av olika typer, mindre civila, med plats för ett fåtal män-
+niskor eller materiel.
+
+18 | YTÖVERVAKNING
+HANDBOK
+
+Hemvärnsflyget kan spana inom område, spana längs väg och spana mot
+punkt (objekt).
+
+De kan även utgöra transportmedel vid särskilt viktiga uppgifter av både
+personal och materiel.
+
+Hemvärnsflyggrupperna behöver tillgång till flygbränsle och en land-
+ningsbana samt i vissa fall även stöd med det egna skyddet på marken.
+Flygplanen har marschfart 200 km/h, sittplatser för flygförare plus tre pas-
+sagerare samt visst bagage.
+
+Uthållighet | Räckvidd | Bana hård | Bana mjuk
+tim km m m
+Förare+ spanare/1pax 4 800 500 600
+Förare + 3 pax 2,5 500 600 750
+Förare + 275 kg last 1,5 300 600 750
+
+Uppdrag kan genomföras vid molnbas > 300 m och sikt > 5 km.
+
+Uppdrag under mörker kan genomföras om basen har landningsbelys-
+ning och molnbasen > 600 m, sikt > 8 km.
+
+Lägsta flyghöjd är 50 m dagtid.
+
+Möjligheten att spana effektivt i mörker är starkt begränsad, bäst över vat-
+ten.
+
+I staben hos hemvärnsunderättelsekompani finns ett samverkansbefäl.
+Samverkansbefälets uppgift är att ge chefen råd och underlag för beslut
+hur bäst nyttja hemvärnsflyget.
+
+Då hemvärnsflyg disponeras av förbandet som inhämtningsresurs skall
+den flygande personalen själva planera sin uppgift. Som kompanichef
+samverkar du med den flygande personalen så att samförstånd uppnås
+kring vilken (inhämtnings)uppgiften som skall lösas, vad syftet med
+
+YTÖVERVAKNING
+
+19
+20
+
+HANDBOK
+
+denna är och hur kommunikation skall lösas. Av särskild vikt är att deras
+verksamhet är en samverkanspunkt då Hemvärnsbataljon/kompani är
+grupperat på flygbas.
+
+14.4 Ledning
+
+14.4.1 Grunder
+
+Underrättelsetjänsten skall ha försteg i förhållande till övrig verksam-
+het. Detta ställer stora krav på förutseende och tidiga beslut för att sätta
+in förband för underrättelseinhämtning. Detta beaktas särskilt vid strid
+i bebyggelse. Vid planering av verksamheten tas underrättelsebehoven
+fram. Dessa anger vilka underrättelser som chefen behöver för att fortlö-
+pande kunna:
+
+« bedöma läget
+
+. fatta beslut samt
+
+.« genomföra fattade beslut.
+
+Underrättelsebehoven grundar sig på kompaniets stridsplan och eventu-
+ella underrättelsebehov från högre chef. Dessa utgör grunden för hur spa-
+ningstjänsten på kompaniet skall bedrivas.
+
+Ansvarsförhållanden skall klarläggas tidigt och då i första hand avseende
+underrättelseområden, inhämtning och delgivning. Rapportering kan ske
+såväl till egen chef, högre chef som till sidoförband.
+
+14.4.2 Planering vid kompani
+
+Vid kompaniet genomförs bedömande, planering och förberedelser inför
+en uppgift enligt planeringsmodellen PUT (Planering Under Tidspress)
+alternativt U3T (se Handbok Hv-komp del 1.)
+
+Uppgiftsställningen
+
+Vid uppgiftsställning är strävan att förbandet som skall lösa uppgiften, så
+långt det är möjligt, ges valfrihet vad avser tillvägagångssättet, t ex «Fast
+spaning mot A», d.v.s. platsen varifrån observationen skall ske styrs eller
+
+YTÖVERVAKNING
+HANDBOK
+
+fastställs inte, bara att observation skall ske mot A. Detta medger att che-
+fen på plats avgör varifrån uppgiften löses bäst. I andra hand kan även
+direktstyrning ske, t ex om samordning med andra förband, skjutgränser,
+säkerhetsavstånd indirekt eld och mineringar, kräver detta.
+
+Då kompaniet i regel löser spaningsuppgifter i samband med eller i kom-
+bination med andra uppgifter är det viktigt för chefen att inte detaljstyra
+den del av sitt förband som löser spaningsuppgifter. Endast de delar som
+måste regleras av kompanichefen skall regleras. Plutoner och grupper som
+får spaningsuppgifter tilldelade skall så långt det är möjligt vara delaktiga
+i planeringen av dessa.
+
+FÖRBAND | 05-10 05-11 05-12 05-13 05-14 05-15 05-16
+
+so fö sv MA
+
+00 BK MA FR RI
+
+Sky = Skyddar Sp = Spanar
+
+Bev = Bevakar Ub = Innästlar
+
+Esk = Eskorterar Ur = Urnästlar
+
+Frr = Framrycker Åh = Återhämtar
+
+Förb = Förberedelser X = Undersödjer återhämtning
+
+Tabell 14.1 Exempel på verksamhetsplanering vid Hemvärnsinsatskompani.
+
+Karttjänst
+
+Fältkartan — skala 1:50 000 - är grundarbetsunderlaget för förbandet
+under planering, genomförande och efterarbete vid tilldelad uppgift.
+Dock kan planeringen med fördel kompletteras med andra kartor. T.ex.
+orienteringskartor, flygfoton etc. Kartan skall vara inplastad och förvaras
+lätt åtkomligt. Kartan nyttjas främst för terränganalyser och orientering.
+
+Kartan skall också användas för att presentera en sammanställd lägesbild
+vid förbandet.
+
+YTÖVERVAKNING
+
+21
+22
+
+HANDBOK
+
+Som ett komplement till kartan skapas tex stridsledningsoleat, underhålls-
+oleat, fältarbetsoleat. Vilka grafiskt presenterar bland annat samordnings-
+vägar, samlingsplatser, om — eller avlastningsplatser, helikopterlandnings-
+platser alt. minfria områden eller vägar. Både egna och motståndarens.
+
+Kartan måste ibland förstärkas för att tydliggöras, främst förstärks över-
+gångar, vattendrag, branter och så vidare. Detta ska alltid genomföras i
+samband med mörkerförberedelser oavsett om bildförstärkare dispone-
+ras eller inte.
+
+Tidsstyrningar
+
+Klargör när uppgiften skall påbörjas och hur länge uppgiften skall lösas.
+Det är viktigt att cheferna har tidsstyrningar klara för sig. Det påverkar bl.
+a vilken materiel som skall tas med och ibland hur uppgiften löses. Tids-
+styrningar hjälper chefen att göra kloka avvägningar och lösa uppgiften
+på bästa sätt.
+
+Vid fast spaning så anger tiden ”från tnr...” då förbandet skall ha observa-
+tion på målet. Förbandet måste utgå i sådan tid att det kan påbörja obser-
+vation på rätt plats, på angiven tid. ”... till tnr...” anger när förbandet ska
+avsluta observationen. Tiden för framryckning till annan verksamhet är
+inte inräknad.
+
+Vid rörlig spaning anger tiden ”från tnr...” när förbandet utgår för att lösa
+spaningsuppgiften”... till tnr...” anger sluttiden för den rörliga spaningen.
+Det ger en total tid för lösandet av en rörlig spaningsuppgift. Är uppgiften
+löst inom angiven tid övergår förbandet normalt till fast spaning under
+återstående tid.
+
+”Minst intill...!” ges då styrning för tidens bortre gräns inte kan anges.
+
+Beordrande chef kan förlänga uppgiften. Planera för att det kan bli längre
+än angiven tid.
+
+YTÖVERVAKNING
+HANDBOK
+
+Exempel:
+Från 132200 till 151400 - uppgiften avbryts tnr: 151400.
+
+Från 132200 minst intill 151400 - chefen planerar för att lösa uppgiften minst till
+151400.
+
+Tid för lösande
+
+För att lösa spaningsuppgifter krävs tid till förberedelser och genomför-
+ande. Vid fast spaning behövs tid för utgångsgruppering och eventuell
+innästling (6-12 tim) innan uppgiften kan påbörjas.
+
+Vid rörlig spaning krävs tid för att kunna vidta rätt åtgärder för att undgå
+upptäckt och bekämpning samt för att inte bli «xomkörd» av egna fram-
+ryckande förband. En «minst intill-tid» bör finnas av underhålls- och
+sambandsskäl.
+
+Spaningsfråga och syfte med uppgiften.
+
+Spaningsfrågor kompletterar spaningsuppgifter. De ska ange och eventu-
+ellt förtydlig chefens syfte med uppgiften. Det vill säga, vad är det som
+chefen vill veta? Spaningsfrågor hjälper chefer att planera sin uppgift så att
+resultatet blir det önskade. Spaningsfrågan ska besvaras. Finns flera spa-
+ningsfrågor, så anges de normalt i prioritets ordning.
+
+Exempel:
+
+”Framrycker motståndaren med stridsfordon längs stråk A?”, ”Kan stridsvagnar fram-
+rycka över bron D vid UPK 5?” ”Finns motståndarens granatkastare grupperad på fältet
+Y1?”, eller ”Finns det personal i och i anslutning till hus B?”
+
+Spaningsfrågan ska vara ett resultat av nedbrutna underrättelsebehov. Frå-
+gorna ska besvara förbandets och/eller högre chefs underrättelsebehov.
+
+14.4.3 Rapportering
+Kompaniet rapporterar i regel direkt till bataljonens ledningsplats samt i
+vissa fall till Militärregionen (MR). I tilldelad uppgift ska framgå hur rap-
+
+YTÖVERVAKNING
+
+23
+24
+
+HANDBOK
+
+portering samt rapportsammanfattning ska ske. Beakta särskilt att kvali-
+tén på de rapporter som förbandet lämnar ifrån sig kommer ha en direkt
+inverkan på bearbetningshastigheter hos högre chef och därmed också
+återrapportering till förbandet.
+
+Motståndarens verksamhet rapporteras enligt angivet rapportalternativ.
+
+Var och en är skyldig att rapportera iakttagelser och andra upplysningar
+som kan vara av värde ur underrättelse- och säkerhetssynpunkt. Även en
+till synes betydelselös upplysning kan, sammanställd med annan informa-
+tion, utgöra en viktig underrättelse.
+
+Vid en plötslig förändring av läget får inte formella hinder fördröja en
+avgörande rapport.
+
+Av en rapport ska minst 7 S framgå:
+
+« Stund - Tidpunkt
+
+. Ställe - Plats för iakttagelse
+
+. Styrka - Antal iakttagna objekt
+
+. Slag - Typ av objekt
+
+« Sysselsättning - Fiendens verksamhet
+
+« Symbol - Identifieringar (märkning, nummer m m)
+. Sagesman - Källa
+
+Vidare kan tilläggas:
+
+« Vad förbandet själv sett eller hört.
+
+e Vad andra iakttagit eller meddelat (även sagesman ska rapporteras).
+. Slutsatser av gjorda iakttagelser.
+
+Ange om möjligt typfordon och materiel med rätt benämning. Angripar-
+kunskap är grunden för precision i rapporter.
+
+Egna förbands läge ska normalt täckas med utgångspunkt på kartan
+(upk), kodord m.m. Vid fast spaning ska oplatsens läge rapporteras i
+
+YTÖVERVAKNING
+HANDBOK
+
+första rapporten. Denna registreras även vid skjutande förband. Bataljon-
+chef fastställer upk-system.
+
+Rapportliggare bör finnas vid kompanistaben så att kompaniet med lätt-
+het kan ha uppföljning kring vilka rapporter som sänts. Exempel på rap-
+portliggare och oplatsinstruktion finns som bilaga.
+
+14.5 Förläggning och återhämtning
+Spaningsbas
+
+Vid lösandet av spaningsuppgift grupperar förbandet i spaningsbas för
+att åstadkomma vila eller för att ha en punkt att utgå ifrån då uppgift ska
+lösas. Bas innebär att all bevakning sköts av kompaniet, plutonen eller
+gruppen själv.
+
+Maskering och döljande åtgärder vidtas för att kunna verka ostört under
+återhämtning eller uppgiftens lösande.
+
+Ingåendet genomförs i regel genom ett avhopp från spår/väg och de natur-
+material som behövs till basen tas från en skenbas några hundra meter
+från där planerad bas är tilltänkt.
+
+Platsen bör vara dold, ha god tillgång till granris, gärna i närhet av ett vat-
+tendrag och en bra utrymningsväg. Tänk även på att platsen kan behöva
+försvaras om den blir upptäckt.
+
+YTÖVERVAKNING
+
+25
+HANDBOK
+
+Bild 14.3 Exempel på ingående i bas inklusive skenbas. Lt Péru, HvSS.
+
+I bas råder i regel stridsberedskap 4:30 och 30 min marschberedskap.
+I bas är i regel alltid utdragen sändarplats grupperad och övervakad.
+
+Tidskrav för upprättande är 60 min. Tidskrav finns för att snabbt erhålla
+vila och inte dra ut på arbetena. Strävan bör alltid vara att nyttja upp-
+värmd förläggningsyta för att bäst bevara stridsvärdet, samt för att skapa
+en kvalitativ återhämtning.
+
+Åtgärder efter uppdrag
+
+För att kompaniet efter löst uppgift ska få en gemensam lägesbild över
+genomförd verksamhet, tillvarata kompletterande information till högre
+chef, återhämta och förbereda för ny uppgift, ska åtgärder efter uppdrag
+genomföras.
+
+Detta syftar främst till att:
+
+. Inhämta, rapportsammanfatta, bifoga bilder och annan data samt
+genomföra eventuella kompletteringar mot den nyss genomförda upp-
+giften på kompaninivå.
+
+« Utvärdera, erfarenhetsrapportera och eventuellt möjliggöra eventuell
+taktikanpassning.höja stridsvärdet på förbandet genom att vårda och
+inventera grupputrustning, personlig materiel samt återfylla förbruk-
+ningsmateriel och vila.
+
+26 | YTÖVERVAKNING
+HANDBOK
+
+Ansvarsfördelning (exempel på indelning och ansvarsfördelning):
+
+Plutonchef:
+Sammanställer och avrapporterar inhämtad information (om möjligt
+bifogar grafiskt underlag, bilder eller filmer) till kompanichef
+
+Förbereder utvärdering av utfört uppdrag, beredd genomföra vid lämp-
+ligt tillfälle.
+
+Vårdar och återhämtar.
+
+Planera för kommande verksamhet och ge underställda chefer så mycket
+förberedande information som möjligt så de får tid att planera och förbe-
+reda soldater och materiel.
+
+Plutonchef ställföreträdande:
+
+Leder arbetet avseende vård av utrustning samt sammanställandet av
+gruppens behov. Inhämtar, sammanställer samt delger PEDARS till kom-
+panikvartersmästaren.
+
+Återrapporterar till plutonchef när gruppen är klar och eventuella
+begränsningar som föreligger.
+
+Efter genomförd återhämtning och innan ny uppgift påbörjas ska strä-
+van vara att genomföra taktisk återrapportering med underrättelsefunk-
+tionen på bataljonen om möjligt. Därefter kunna delges hur verksamheten
+har påverkat bataljonens uppgift, se förändringar i motståndarens taktik/
+stridsteknik. Utifrån denna kunna utveckla egen taktik/stridsteknik inför
+nästa uppgift.
+
+Planera inför nästkommande uppgift så långt det är möjligt. Detta inklu-
+derar även materielt
+
+YTÖVERVAKNING
+
+27
+28
+
+HANDBOK
+
+15 Eskort
+15.1 Inledning
+
+I operationsområden genomförs en stor mängd förflyttningar. Många av
+dessa genomförs mer eller mindre i hotmiljö i områden där hotbilden kan
+bestå av en motståndare som både uppträder asymmetriskt och taktikan-
+passar för att störa våra förbands verksamhet.
+
+Detta innebär att vi i många fall tvingas att anpassa oss till motståndaren
+för att kunna genomföra säkra förflyttningar av tillexempel förnödenheter.
+
+Trots metoder som luftburen försörjning och helikoptertransport kom-
+mer markbundna transporter svara för en stor del av logistikstödet.
+
+En metod för att genomföra sådana förflyttningar är att genomföra kon-
+vojoperationer.
+
+Syftet med dessa är att förhindra och försvåra för fientligt eller brottsligt
+inställd aktör att påverka våra förband.
+
+En konvojoperation är den planering, genomförande och utvärdering/
+förbättring som genomförs då en konvoj ska förflytta sig.
+
+15.2 Begrepp
+
+Konvoj
+
+En konvoj är en samling fordon, organiserade för att genomföra en sam-
+lad förflyttning i tid och rum av resurser. Konvojen kan bestå av både
+en transporterande enhet och en eskorterande enhet, och innehålla både
+militära och civila fordon. En konvoj kan genomföras som en oeskorterad
+konvoj, en förstärkt konvoj eller en eskorterad konvoj.
+
+ESKORT
+HANDBOK
+
+Konvojoperation
+Den planering, genomförande och utvärdering/förbättring som genom-
+förs då en konvoj ska förflytta sig.
+
+Transportenhet
+Den enhet som har i uppgift att transportera materiel eller personal.
+Transportenheten kan vara uppdelad i flera fordonsenheter.
+
+Eskortera
+Uppgiften eskortera innebär att förhindra eller försvåra för fientligt eller
+brottsligt inställd aktör att påverka ett rörligt objekt.
+
+Eskortenhet
+Den stridande enhet som har i uppgift att eskortera en annan styrka eller
+en konvoj.
+
+Oeskorterad konvoj
+
+En oeskorterad konvoj genomförs av en transporterande enhet. Ett exem-
+pel på en sådan konvoj kan vara ett antal fordon som utan tillförda eskort-
+resurser transporterar förnödenheter. Konvojen bör däremot vara tillförd
+andra funktionsspecifika förmågor för att bättre kunna lösa sin uppgift,
+tillexempel sjukvårds- och bärgningsresurser.
+
+Förstärkt konvoj
+
+En konvoj förstärkt med enheter med ambitionen att försvåra för fient-
+ligt eller brottsligt inställd aktör att påverka konvojen. Ett exempel på en
+sådan konvoj kan vara en transportenhet förstärkt med två skyttegrupper.
+
+Eskorterad konvoj
+
+En konvoj eskorterad av minst en pluton med ambitionen att förhindra
+fientligt eller brottsligt inställd aktör att påverka konvojen. Den avgörande
+skillnaden mellan förstärkt konvoj och eskorterad konvoj är att chefen för
+den eskorterade konvojen har möjlighet att agera med både en adekvat
+förstyrka (grundmetod) och ett offensivt element i huvudstyrkan.
+
+ESKORT
+
+29
+30
+
+HANDBOK
+
+15.3 Ledning
+
+Konvojer rapporterar till högre chef och/eller områdesansvarig chef
+genom förutbestämt sambandsmedel. Rapportering sker i syfte att delge
+högre chef läget vid konvojen. Exempel på tillfällen då rapporter skickas
+kan vara vid passage av fastställda rapporteringsplatser, när avvikelser
+från normalbild upptäcks eller upplevs, eller då friktioner eller möjlighe-
+ter uppstår.
+
+Som regel rapporterar konvoj då den passerar UPK och/eller senast var
+30 minut.
+
+Rapporten sker på i order fastställt format. Exempel på format är t.ex.
+FORS och 7S.
+
+Under framryckning i eget område rapporterar konvojen till egen led-
+nings eller stabsplats.
+
+Beroende på lednings- och lydnadsförhållanden samt fördelning av områ-
+desansvar inom högre struktur sker rapportering utanför eget område i
+regel enligt följande:
+
+«Under framryckningen rapporterar egen stabsplats konvojens läge till
+områdesansvariga chefer innan denna framrycker in i aktuellt område.
+
+« När konvojen passerar in i annan enhets område söker den om möjligt
+samband med aktuell områdesansvarig stab.
+
+« Vid behov av understöd (tillexempel behov av insatsstyrka eller sjuk-
+vårdsresurs) söker konvojen i första hand samband med områdesan-
+svarig chef. Egen stab orienteras. Syftet med detta är att korta ledtider
+för understöd. Denna metod används dock inte om det i planerings-
+skedet genom samverkan framkommit att områdesansvarig chef har
+begränsad eller ingen förmåga att understödja konvojen.
+
+Vid detta fall söker konvojen samband med egen stab, som orienterar
+områdesansvarig chef. Det är viktigt att i denna samverkan klara ut man-
+dat för konvojen att agera inom annat förbands område.
+
+ESKORT
+HANDBOK
+
+Chef bestämmer hur signalering ska genomföras, men som grundmetod
+
+bör följande beaktas:
+
+« signalering över radio används restriktivt
+
+« signalering sker företrädelsevis genom korta meddelanden och enkel-
+riktad signalering
+
+e  förstyrka, tät och kö rapporterar till konvojchefen vid förutbestämda
+tillfällen, tillexempel passage av UPK och när man går in i eller läm-
+nar samhällen
+
+« - konvojchef rapporterar till högre chef och/eller områdesansvarig chef
+vid förutbestämda tillfällen, tillexempel passage av UPK och gränser
+mellan förband
+
+. Övriga signalerar vid upptäckta avvikelser från normalbilden eller vid
+andra angelägna situationer (ex. fordonshaveri).
+
+. minsta möjliga effekt används.
+
+Vid kort om tid för förberedelser och planering ökar behovet av styrning
+genom kommando, och därmed behovet av signalering.
+
+Som alternativ till radio finns motorcykelordonnans samt tecken och sig-
+naler och i vissa fall kan även hemvärnsflyg användas. Tillexempel kan
+hemvärnsflyget spana längs väg eller spana mot slutmålet och på så sätt
+hålla styrkan med senaste informationen.
+
+15.4 Metoder
+
+Huvudstyrka: utgörs av de transporterande enheterna i en konvoj. Huvud-
+styrkans uppgift är att transportera materiel, förnödenheter eller personal.
+Huvudstyrkan bör vara förstärkt med funktionsfordon för sjukvård och
+bärgning. Vid eskorterad konvoj förstärks huvudstyrkan i regel även med
+eskortfordon. Grundmetoden att stridsindela konvojen på är att fram-
+rycka med förstyrka (1) och huvudstyrka (2), där förstyrkan framrycker
+framför konvojen.
+
+ESKORT
+
+31
+32
+
+HANDBOK
+
+Avståndet mellan för- och huvudstyrka anpassas efter rådande förhållan-
+den. Metoden är användbar i alla typer av konvojer och kan kompletteras
+med andra metoder.
+
+[6] L& I)
+B=eD
+B55> NER === il CER öm
+cm» LE äl [ES äl BED BSS
+sl 4
+= Flexibelt avstånd!
+«Terräng
+»« Hotbild
+
+« Sambandsförhällanden
+Bild 15.1 — Eskort grundindelning. Försvarsmakten.
+
+Förstyrkans uppgift är att säkerställa fri väg för huvudstyrkan genom att:
+« upptäcka och förhindra eldöverfall mot konvoj
+
+« upptäcka hinder (inte farbar väg, minor, vägspärr, folkmassa m.m.)
+
+« bryta hinder
+
+e ta och försvara nyckelterräng.
+
+Förstyrkan ska vara flexibel i sitt uppträdande; denna framrycker på lämp-
+lig grupperingsform, växelvis eller ansatsvis, uppsuttet eller avsuttet, bero-
+ende på hotbild och terräng.
+
+Avståndet mellan förstyrkan och huvudstyrkan bestäms av terräng, hot-
+bild och sambandsförhållanden. Avståndet bör om möjligt vara så långt
+att huvudstyrkan kan välja en alternativ marschväg om förstyrkan får en
+sammanstöt eller på annat sätt är förhindrade att fortsätta framryckningen.
+
+Metoden ”Spejare” används när hotbilden mot konvojen är låg och/eller
+fordon inte kan avdelas som förstyrka. Metoden liknar förstyrka. Den
+avgörande skillnaden är ambitionen i uppgiften.
+
+Spejarens uppgift är att säkerställa fri väg för huvudstyrkan genom att:
+« värdera framkomlighet och eventuella terrängbegränsningar
+« värdera eventuella hot
+
+ESKORT
+HANDBOK
+
+Även här kan Hv-flyg med fördel användas i syfte att från luften få tidig
+förvarning.
+
+Metoden "Motstötsomgång” är en metod som kompletterar övriga meto-
+der. Denna används då förstärkt eller eskorterad konvoj tillförts ytterligare
+eskortresurser.
+
+Metoden bygger på att dessa (1) framrycker bakom eller vid sidan av
+huvudstyrkan (2), och utgör en reserv. På så sätt skapas en resurs för att
+kunna bekämpa eller binda en motståndare. Konvojens ordinarie strids-
+indelning bibehålls, t.ex. inom ramen för metoden Förstyrka.
+
+O) Ö
+[ | | |
+em"? mmm mn
+
+[El
+
+Bild 15.2 — Eskort, motstötsomgång. Försvarsmakten.
+
+Luckor och avstånd mellan fordonen avgörs av hotbild, terräng, och sikt-
+förhållanden.
+
+« -Normalavstånd lufthot 5—-200 meter
+
+« Normalavstånd markhot 5—-100 meter
+
+(1) God sikt, t.ex. öppen terräng, lite trafik, bred och rak väg: 75-100 meter
+(2) Dålig sikt, t.ex. bebyggelse, mycket trafik, kurvig terräng: 5—-50 meter.
+
+ESKORT
+
+33
+34
+
+HANDBOK
+
+Logo]
+
+Bild 15.3 — Förändring i avsånd mellan enheter med hänsyn till terrängen. Försvarsmakten.
+
+Som chef för konvoj eller den chef som ger order om konvojering ska
+särskilt beakta:
+
+Samband och sambands alternativ längs vägen
+
+Alternativa framryckningsvägar om något händer
+Lydnadsförhållanden längs vägen
+
+Möjlighet att få stöd och skydd längs vägen.
+
+ESKORT
+HANDBOK
+
+16 Truppluftvärn
+16.1 Inledning
+
+Som truppluftvärn definieras de enheter som kan avge verkanseld mot
+långsamtgående luftmål med eldhandvapen och kulsprutor samt från
+stridsfordon och fartyg utan stridsledningsfunktion mot luftmål. Vid
+Hemvärnsinsatsförbanden finns organisatoriskt fordonsluftvärnsstativ
+för ksp m/58, vilket medger en mer välriktad eld med detta vapen mot
+luftmål.
+
+16.2 Beredskap för strid mot luftmål
+
+Grunden för beredskapen (Air Raid Warning - ARW) är att bedöma san-
+nolikheten för luftangrepp. Beredskapsgraden fastställs av högre chef för
+gällande operation/insats och baseras på underrättelser och bedömningar
+av motståndarens förmåga, avsikt och möjlighet till luftangrepp.
+
+Förändringar av ARW-nivån bör föranleda ett bedömande så att lämplig
+skyddsnivå kan intas på förbandet.
+
+Beredskapsgrad Innebär Åtgärder som kan vidtas
+ARW WHITE Attack inte sannolik Inga särskilda åtgärder utöver
+normala rutiner behöver vidtas.
+
+ARW RED Attack nära förestående Åtgärder för skydd och/eller verkan
+eller pågående vid luftangreppet.
+
+Olika delar av förbandet kan vidta
+olika åtgärder beroende
+
+Vilka åtgärder som vidtas kan bland annat styras av beredskapsgraden,
+insatsregler, bataljonens/kompaniets stående order och vilken eller vilka
+
+uppgifter som ska lösas.
+
+TRUPPLUFTVÄRN
+
+35
+36
+
+HANDBOK
+
+16.3 Förvarning om pågående luftverk-
+samhet
+
+För att hinna agera på rätt sätt och ge rätt order vid motståndarens luft-
+angrepp eller för att undvika vådabekämpning av våra flygfarkoster krävs
+förvarning och information om den pågående luftverksamheten.
+
+Styrningar och förvarningar förmedlas normalt till Hemvärnsförbanden
+från respektive Militärregion (MR).
+
+16.4 Luftförsvarsåtgärder
+
+De åtgärder som kan vidtas vid det enskilda kompaniet för att höja sin
+luftförsvarsförmåga kan delas in i passiva och förebyggande samt aktiva
+luftförsvarsåtgärder.
+
+16.4.1 Passiva och förebyggande luftförsvars
+åtgärder
+
+De passiva och förebyggande åtgärderna syftar i första hand till att minska
+risken för upptäckt och bekämpning.
+
+Exempel på sådana åtgärder är:
+
+. Vid gruppering sprids kompaniet ut med minst 500 m mellan pluto-
+nerna.
+
+.« Ökning av avstånden inom och mellan enheter i förbandet till de
+dubbla.
+
+« Ökad marschhastighet.
+
+« Anpassad framryckning inom kompaniet, exempelvis ansatsvis fram-
+ryckning över öppna områden där observatörsstyrka är avdelad.
+
+. - Marschväg väljs så att framryckning sker i, eller i anslutning till, skog.
+Om möjligt ska framryckningen ske i skuggan av skogen vilket mins-
+kar motståndarens upptäcktsavstånd.
+
+«  Observationen i luftrummet ökas.
+
+« Särskilda poster avdelas för flygvarning.
+
+TRUPPLUFTVÄRN
+HANDBOK
+
+.  Radiotystnad intas.
+
+. Larmsystem med alternativa sambandsmetoder upprättas.
+
+.  Maskering av fordon och övrig utrustning, exempelvis i tält.
+. Eldhandvapen, kulsprutor förbereds för truppluftvärn.
+
+16.4.2 Aktiva luftförsvarsåtgärder
+
+De aktiva luftförsvarsåtgärderna vidtas då luftangrepp är pågående och/
+eller förbandet har blivit upptäckt. Dessa åtgärder går ut på att bekämpa
+motståndarens luftfarkoster.
+
+Det är i regel kompanichefen som avgör om aktiva luftförsvarsåtgärder ska tilläm-
+pas baserat på syftet med högre chefs strid.
+
+Bataljonschef och kompanichef kan trots pågående eller förestående luft-
+angrepp beordra eldförbud för att förbanden inte ska bli röjda.
+
+Bataljonschef och kompanichef kan även beordra eldförbud för att und-
+vika vådabekämpning av våra flygfarkoster.
+
+16.5 Insatsregler för truppluftvärn
+
+Insatsreglerna är riktlinjer inom förbandet ända ner till enskild soldat.
+Riktlinjerna definierar förutsättningar, omständigheter, uppträdande och
+användande av vapenmakt samt andra tvångsmedel vid insats.
+
+För luftvärn regleras rätten att avge eld mot luftfarkoster med Weapons
+Control Status (WCS) och för truppluftvärn med order Eldtillstånd eller
+Eldförbud.
+
+Följande grundregler gäller för truppluftvärn
+
+1. Truppluftvärn har normalt Eldförbud mot alla luftfarkoster om inget
+annat anges. Detta gäller alltid då det saknas insatsregler för eld mot
+luftfarkoster.
+
+TRUPPLUFTVÄRN
+
+37
+38
+
+HANDBOK
+
+2. Vid truppluftvärn som har rätt att avge eld mot luftfarkoster (Eldtill-
+stånd) enligt gällande insatsregler, ska eld mot varje enskilt flygföretag
+beordras av lägst enhetschef (gruppchef eller högre).
+
+3. Rätten till självförsvar gäller oavsett gällande insatsregler om inget
+annat anges.
+
+Eldförbud
+
+Eldförbud innebär att det är förbjudet att avge eld mot luftfarkoster. Eld-
+förbud kan beordras att gälla för en viss typ av luftfarkost t.ex. helikop-
+ter och/eller att gälla inom ett angivet område eller i angiven riktning.
+Exempel: ”Eldförbud mot helikopter söder linje B!” En sådan order syftar
+normalt till att undvika vådabekämpning av våra helikoptrar som flyger
+i samma område. Eldförbud kan även beordras att gälla inom en angiven
+tidsperiod eller från en angiven tidpunkt i samma syfte.
+
+Eldtillstånd
+
+Eldtillstånd innebär att det är tillåtet att avge eld mot luftfarkoster. Eld-
+tillstånd till truppluftvärn kan beordras att gälla enligt nedanstående två
+alternativ i enlighet med gällande insatsregler.
+
+Eldtillstånd
+Alternativ 2
+
+Eldtillstånd
+
+Alternativ 1
+
+Enligt order (insatsregler) På särskild order från Ivstridsledare
+
+Ordern innebär att det är tillåtet att avge eld mot
+de luftfarkoster/flygföretag som anges i order och
+som uppfyller övriga kriterier i enlighet med
+gällande insatsregler.
+
+Ordern innebär att det är tillåtet att avge eld
+mot angiven luftfarkost/ angivet flygföretag
+i angiven riktning. Ordern ges för varje enskilt
+flygföretag.
+
+Av ordern ska det framgå;
+
+1. typ av luftfarkost/luftfarkoster,
+
+2. inom vilket område och/eller
+
+3. inom vilken tidsperiod eller från vilken tidpunkt.
+
+Exempel:
+
+Eldtillstånd mot Mi-24 som utför fientlig hand-
+ling inom No Fly Zone.
+
+Exempel: ”Alla Q från EO
+
+- Eldtillstånd mot Fientlig helikopter
+
+—- KLAGSTORP norr 500 kurs mot söder!”
+
+TRUPPLUFTVÄRN
+
+HANDBOK
+
+17 CBRN
+
+17.1 Inledning
+
+Utformningen av skyddet ger en hög tillgänglighet på förband och ger
+chefer på taktisk nivå handlingsfrihet att inom korta tidsförhållanden
+anpassa skyddet utifrån uppgift och hotbild.
+
+Med förbandsresurserna ska förbandet (utan tillfört CBRN-förband):
+
+ha förmåga att över tiden och ytan hantera CBRN-hot under lång tid
+samt kunna möta oförutsedda CBRN-händelser med goda möjligheter
+för individens överlevnad,
+
+medföra en hög tillgänglighet på förbandet där CBRN-konceptet för-
+utsätts vara en integrerad del i såväl ledningsstruktur samt taktik och
+stridsteknik,
+
+effektiv förmåga till informationshantering, samordning samt varning
+och rapportering,
+
+ingå som en naturlig del i den totala hot- och riskbedömningen vilket
+återspeglas i förbandens taktiska uppträdande,
+
+under pågående uppdrag snabbt kunna anpassas vid förändrad hot-
+bild, antingen med egna resurser eller efter tillförsel av komplette-
+rande materiel och system,
+
+medföra lägsta möjliga påverkan på förbandets förmåga att lösa ställda
+uppgifter,
+
+ha grundläggande kapacitet att indikera och övervaka för till del lösa
+behoven av larmning, varning och enklare uppföljning.
+
+17.2 Ledning
+
+Vid kompani är kompanichefen ansvarig för CBRN-skyddet. Kompaniets
+soldater, grupper och plutoner ansvarar för det personliga skyddet. Kom-
+paniets förbandsspecifika skyddsutrustning försvaras normalt när den
+är fördelad, vid stabs- och trosstroppen och användandet av den utrust-
+ningen tillsammans med aktiva åtgärder leds av chefen för stabs- och tros-
+stroppen.
+
+CBRN
+
+39
+40
+
+HANDBOK
+
+Utöver detta ska kompaniet kunna vidta följande åtgärder enligt högre
+
+chefs bestämmande:
+
+« N/C/TIM varnare grupperas.
+
+.  Radiak-/C-indikeringspatrull avdelas.
+
+« Förbereda larmning.
+
+« Förbereda saneringsplats (kräver i regel tillförda resurser).
+
+« Kompletteringsutbildning/övning av skyddsåtgärder.
+
+«  Förbereda/genomföra övertäckning av förnödenheter, materiel och
+fordon.
+
+« Ordna skydd för vilande personal.
+
+«  Förstärka/ordna tät klädsel.
+
+«  Avdela räddnings- och röjningsstyrka.
+
+. Inta nervgasmotmedel (OBS Endast på särskild order!).
+
+. Vid N-hot, veva ner eller montera bort fönster, ta av eller binda ner
+antenner, skydda och jorda radioapparater i plåtutrymmen.
+
+.« Genomföra åtgärder för förstärkt fälthygien vid B-hot
+
+CBRN
+HANDBOK
+
+CBRN-HOTNIVÅ
+HOTNIVÅ SANNOLIKHET | BESKRIVNING
+
+INGET HOT | OSANNOLIK CBRN: Motståndare eller icke-statlig aktör har
+identifierats att varken ha CBRN-förmåga eller
+intention att angripa militära förband eller
+mål.
+
+TIM: Olyckor kan inte helt uteslutas trots att
+infrastruktur och säkerhetsnivå är god.
+
+TVIVELAKTIG CBRN: Motståndare eller icke-statlig aktör har
+identifierats att ha CBRN-förmåga eller inten-
+tion att angripa militära förband eller mål, men
+inga indikationer finns på att så skulle ske.
+
+TIM: Olyckor kan inte uteslutas trots att infra-
+strukturen och säkerhetsnivån är god.
+
+MÖJLIG CBRN: Motståndare eller icke-statlig aktör har
+identifierats att inneha både CBRN-förmåga
+och intention för att kunna angripa militära
+förband eller mål.
+
+TIM: Ökad risk för olyckor med anledning av
+den infrastrukturens förfall och/eller allmän
+försämring av säkerheten.
+
+TROLIG CBRN: Motståndare eller icke-statlig aktör har
+identifierats att inneha både CBRN-förmåga
+och intention för att kunna angripa militära
+förband eller mål och kommer troligen att
+göra så i närtid.
+
+TIM: Utsläpp kan ske med kort förvarning med
+anledning av bristande infrastruktur och/eller
+otillräcklig säkerhet.
+
+MYCKET SANNOLIK CBRN: Motståndare eller icke-statlig aktör har
+HÖGT identifierats att inneha både CBRN-förmåga
+och intention att angripa militära förband eller
+mål inom en bestämd tidsperiod och/eller
+mot ett specifikt mål.
+
+TIM: Omedelbar risk för utsläpp utan förvar-
+ning, med anledning av skador på infrastruk-
+tur och/eller brist på säkerhet.
+
+CBRN | 41
+42
+
+HANDBOK
+
+17.3 CBRN beredskap
+
+CBRN och TIM-hotnivåer
+
+Hotnivån baseras på riskbedömning av sannolikheten för utsläpp genom
+olyckshändelse, vådabekämpning och medvetet utsläpp eller en attack. En
+klar distinktion ska göras mellan det hot som CBRN-vapen utgör och det
+som ett TIM-utsläpp (Toxic Industrial Material) kan vara upphov till.
+
+Med industriell infrastruktur avses kärnkraftverk, inrättningar för kärn-
+energi eller biologisk forskning, kommersiell kemikalietillverkning, olika
+slag av gruvor, avfallsinrättningar, transportnätverk och kända anlägg-
+ningar för produktion eller lager av kemiska, biologiska eller radiologiska
+ämnen som kan identifieras. TIM-hotnivåerna kan kompletteras med TIC
+(kemiskt), TIB (biologiskt) eller TIR (radiologiskt). Exempel: - TIM/ LÅG/
+TIR!
+
+17.4 CBRN-Skyddsnivå
+
+Strävan ska vara att endast behöva bära den CBRN-skyddsutrustning som
+utifrån riskbedömning är nödvändig. Chef ska anpassa CBRN-skyddsni-
+vån för förbandet i förhållande till rådande CBRN-hotnivå, taktiskt läge,
+förbandets uppgift och bedömd risk.
+
+En för hög intagen skyddsnivå kommer att sänka förbandets tempo och
+med tiden soldatens prestationsförmåga, men förbandet kommer troli-
+gen att överleva en attack. I det omvända förhållandet kommer förbandets
+rörelsefrihet och chefens handlingsfrihet att vara större, men risken för
+skador ökar vid en attack.
+
+CBRN
+HANDBOK
+
+SKYDDS- | SKYDDSMASK SKYDDSDRÄKT/ SKYDDSSOCKOR | SKYDDS-
+
+NIVÅ C VÄTSKESKYDD ISTÖVLAR HANDSKAR
+
+NOLL Medförs Medförs Medförs Medförs
+istridspackning itrosspackning i trosspackning (i stridspackning)
+
+ETT Medförs Medförs Medförs Medförs
+buren istridspackning istridspackning burna
+
+TVÅ Medförs Påtagen Medförs Medförs
+buren istridspackning burna
+
+TRE Medförs Påtagen Påtagna Medförs
+buren burna
+
+FYRA Medförs Påtagen Påtagna Påtagna
+buren
+Påtagen Påtagen Påtagna Påtagna
+
+Förbandschefer ges handlingsfrihet att själva anpassa utrustningsnivån,
+minska eller öka, med hänsyn till de lokala förutsättningarna.
+
+Tillägget ”Skyddsmask på” kan beordras oberoende av utrustningsnivå.
+
+Beroende på läge och vilken uppgift som genomförs kan förbandschef
+efter riskbedömning, göra tillägget ”Jacka/Dräkt öppen” eller ”Jacka/
+
+Dräkt av” vid utrustningsnivå 2, 3 och 4.
+
+CBRN
+
+43
+44
+
+HANDBOK
+
+18 Logistik
+18.1 Inledning
+
+Inom Hemvärnskompaniet leder kompanichefen logistiken genom sin
+kompanikvartermästare. Kompanikvartermästaren samordnar logisti-
+ken inom kompaniet. Beställningar lämnas till bataljonskvartermästaren.
+Kontaktar hänvisad leverantör om hämtning eller avlämning av förnö-
+denheter. Rekognoserar överlämningsplatser om leverantören kör ut för-
+nödenheterna.
+
+Logistik på kompaninivå syftar till att bibehålla ett högt stridsvärde på
+kompaniet över tiden. Grunden för ett högt stridsvärde på kompaninivå
+skapas genom en effektiv och förutseende logistikplanering inom kompa-
+niet. Detta sker främst genom dialog inom kompaniledningen. Kompa-
+nichefen ska genom att presentera sin målbild, ge tydliga styrningar till
+kvartermästaren för att denne ska kunna stödja kompaniet med de resur-
+ser som krävs för att kunna lösa de tilldelade uppgifterna.
+
+Rutiner för den dagliga logistiken ska finnas i förbandens stående order.
+
+Exempel på stående rutiner kan vara:
+
+.  Materielunderhållsåtgärder.
+
+« Åtgärder vid skadat fordon.
+
+« Rutiner för felrapportering.
+
+. Rutiner för PEDARS-rapport (Personal, Ersättning, Drivmedel,
+Ammunition, Reparation och Stridsvärde).
+
+Åtgärder för att höja ett förbands stridsvärde kan vara återhämtning.
+Andra stridsvärdeshöjande åtgärder, till exempel särskild tillsyn på vissa
+vapen i samband med förläggning, ska planeras regelmässigt och sker
+normalt inom förbandets grupperingsområde med egna tilldelade resur-
+ser. Strävan ska vara att vidmakthålla reglementerad utrustning (RU).
+
+LOGISTIK
+HANDBOK
+
+Kvartermästaren i kompaniledningen är tillsammans med underhållsbe-
+fälet kompanichefens resurs avseende planering av logistik på längre sikt.
+Kvartermästaren kan tillsammans med ställföreträdande kompanichefen,
+underhållsbefälet eller på egen hand, leda kompaniet vid särskilda uppgif-
+ter så som TOLO, förläggning, återhämtning med mera. Kvartermästaren
+ska ta höjd för hur yttre omständigheter som väder och vind kan komma
+att påverka kompaniets materiel och förvaring av densamma.
+
+18.2 Förnödenhetsförsörjning
+
+Materieltjänst omfattar försörjning med materiel och underhåll av mate-
+riel som inte är av teknisk natur. Försörjning med reservmateriel ingår i
+teknisk tjänst (materielunderhåll).
+
+HC hänvisar förbandet till plats där drivmedel ersätts.
+
+Om så behövs, ska varje lämpligt uppehåll i striden utnyttjas för ammu-
+nitionsutjämning mellan grupper och plutoner. Skadade fordon som inte
+kan repareras inom bataljonen töms på ammunition.
+
+Förnödenheter ska om möjligt transporteras fram till kompaniet. Inom
+stridsområdet kan dock hämtning vid underhållsplats med egna resurser
+vara nödvändig med hänsyn till läget och uppgiften. Transporter av min-
+dre omfattning, till exempel finkalibrig ammunition eller reservdelar, sker
+genom hämtning eller samordnas med andra transporter.
+
+Förnödenhetstransporter utförs om möjligt i mörker och nedsatt sikt och
+vid behov med eskort.
+
+Underhållsrapportering - Rapport om underhållsläget sänds in enligt
+bataljonschefens bestämmande (regleras via bataljonens stående order).
+Inom kompaniet är det därför viktigt att hänsyn tas till vilken tidpunkt
+som bataljonsstaben måste få in rapporten från kompaniet. Detta för att
+få en tydlig bild av de behov bataljonen har. Denna rutin ska vara reglerad
+i kompaniets stående order. Varje pluton rapporterar till kvartermästa-
+
+LOGISTIK
+
+45
+46
+
+HANDBOK
+
+ren underhållsläget vad avser personal-, drivmedels-, ammunitions- och
+reparationsbehov enligt formatet PEDARS. I regel sammanställer ställfö-
+reträdande plutonchefen denna rapport. PEDARS finns som bilaga.
+
+18.3 Teknisk tjänst
+
+Teknisk tjänst indelas i materielunderhåll och systemstöd. Denna verk-
+samhet leds vid kompaniet av kvartermästaren. För genomförandet av
+den tekniska tjänsten finns bandvagns och hjulfordonsmekaniker vid
+packgruppen på kompaniet. De har till uppgift att stödja brukare och che-
+fer bland annat avseende förebyggande och avhjälpande underhåll.
+
+Om reparationsbehov som inte kan fullföljas eller genomföras på skade-
+platsen uppstår, ställs fordonet i ordning för bogsering/transport till en
+reparationsplats. När så är möjligt dras flera fordon samman till en plats.
+Skydd mot upptäckt och bekämpning eftersträvas. Bärgning och bogse-
+ring genomförs i första hand av det förband som fordonet ingår i. Under
+strid får fordonschef utan kompanichefens tillstånd inte avbryta striden
+för att bogsera eller bärga annat fordon.
+
+Materielunderhåll består av förebyggande och avhjälpande underhåll,
+reservmaterielförsörjning och omhändertagande av materiel. Förban-
+dens stridsvärde bevaras och ökas genom daglig materielvård. Det före-
+byggande underhållet ska fortlöpande planeras, genomföras och följas
+upp inom kompaniet. Det avhjälpande underhållet ska utföras vid, eller så
+nära skadeplatsen som läget tillåter.
+
+Reservmaterielförsörjningen sker i huvudsak till kompaniet utifrån ett
+beställningsförfarande som initieras vid kompaniets kvartermästare mot
+HC.
+
+Detta förfarande baseras på aktuella reparationsbehov på kompaniets for-
+don eller utifrån de felrapporter som lämnats in till kvartermästaren. Hän-
+visning av repretionstjänsten kan ske till civila resurser som är förberedda.
+
+LOGISTIK
+HANDBOK
+
+18.4 Återhämtning
+
+Begreppet återhämtning för ett kompani kan delas upp i återhämtning
+(under 48h med egna och tillförda resurser) och rullande återhämtning
+(under 24h med egna resurser). Skillnaden mellan dessa två varianter
+avspeglas i ambitionsnivån enligt nedanstående beskrivning. Återhämt-
+ning har en högre ambitionsnivå än rullande återhämtning.
+
+Oavsett vilken typ av återhämtning som väljs så är syftet att genomföra
+åtgärder för att återställa ett förbands stridsvärde.
+
+Förutsättningar för att höja stridsvärdet skapas genom att områden som:
+
+. Teknisk tjänst i form av i huvudsak materielunderhåll
+
+«  Förnödenhetsförsörjning i form av ersättning av förbrukade förnö-
+denheter
+
+«  Personaltjänst i form av hygien, vila och reflektion/uppdragsutvärde-
+ringar
+
+«  Försvarsmedicin i form av behandling av personal med lättare skador
+och andra stridsreaktioner prioriteras
+
+Återhämtning ställer stora krav på förtänksamhet, planering och samord-
+ning. Den underlättas av tillgång till civila resurser, till exempel förlägg-
+ningar, verkstäder och duschar. Återhämtning bör genomföras efter ca tre
+dygns stridsverksamhet eller då stridsvärdet så kräver. Eftersträvansvärt
+är att återhämtningen sker med framgrupperade/tillförda resurser. Åter-
+hämtningen bör ske i innehavd gruppering eller efter kortare förflyttning.
+
+Kompaniledningens planering
+
+Vid planering av en återhämtning ska nedanstående särskilt beaktas:
+
+. Vilka tidsförhållanden gäller för kompaniet?
+
+« — Gäller ordinarie hänvisningar för kompaniet?
+
+. Krävs framställningar om ytterligare resurser från Hemvärnsbataljo-
+nen/$4
+
+. Vilka materielsystem som är prioriterade att åtgärdas?
+
+. Vilka prioriteringar gäller under återhämtningen?
+
+LOGISTIK
+
+47
+48
+
+HANDBOK
+
+Genomförande av återhämtning
+
+Skydd av området där återhämtningen genomförs ska i så stor utsträck-
+ning som det är möjligt ske av annat förband i syfte att frigöra förban-
+det för att enbart inrikta sig på återhämtning. Vid en återhämtning är det
+övergripande syftet att höja stridsvärdet inom samtliga områden på kom-
+paniet.
+
+Vid återhämtning ordersätts regelmässigt prioriteringar, dessa syftar till
+att snabbt kunna höja statusen av vissa specifika områden, funktioner
+eller typfordon. Prioriteringarna kommer att vara styrande för hur plu-
+tonchefen väljer att planera sin återhämtning.
+
+Personal — En viktig del av personalvården är chefers personliga kontakt
+med underställd personal. Personalen bör även ges tillfälle att utvärdera
+egna och andras stridsinsatser. Detta kan göras genom att genomföra en
+uppdragsutvärdering, kamratstöd och avlastningssamtal genomförs vid
+behov liksom samtal om eventuella etiska problem.
+
+Förekommer personalersättning inom ramen för återhämtning omhän-
+dertas ersättningspersonalen och introduceras vid kompaniet. Detta så att
+de kan lösa uppgifter inom sin befattning med de rutiner som utvecklats
+inom kompaniet.
+
+Vid personalbortfall, då det inte går att få ersättning, omfördelas perso-
+
+nalen inom kompaniet för att viktiga funktioner ska upprätthållas under
+kommande strider.
+
+LOGISTIK
+HANDBOK
+
+19 Försvarsmedicin
+
+19.1 Inledning
+
+Inom kompaniet leds försvarsmedicinen av kvartermästaren.
+
+Kvartermästaren stödjer chefen med planering och ledning av sjukvårds-
+resurserna inom kompaniet samt hemställer vid behov till bataljonssjuk-
+transportledaren (RÖD) om ytterligare sjukvårdsresurser.
+
+Denne ansvarar också för sjuktransportledning på kompaniet vid till
+exempel insats med sjukvårdsgrupper, vilka vägar/stråk som gäller vid
+transport inom kompaniområdet. Kvartermästaren planerar ambu-
+lansöverlämningsplatser som fortlöpande rapporteras till bataljonsjuk-
+transportledaren.
+
+Det är även kvartermästaren för förteckning över transporterade skadade,
+sjuka och döda från kompani till högre vårdnivå.
+
+Kvartermästaren ska föra en förteckning över vilka som lämnat kompa-
+niet på grund av skada, sjukdom eller annan anledning.
+
+Kvartermästaren ansvarar för beställning av kompaniets sjukvårdsförnö-
+denheter och läkemedel.
+
+Då en soldat behöver uppsöka hälso- och sjukvård för lindrigare skador,
+sjukdomar eller personligt samtal är denne hänvisad till förbandets hälso-
+
+och sjukvårdspersonal.
+
+Om soldaten måste besöka bataljonens förbandsplats avdelar kvartermäs-
+taren vid behov lämplig transportresurs för att transportera soldaten.
+
+Före strid kontrolleras att plutonerna förberett sjukvårdsmateriel och
+bårar enligt kompanichefens order. Även plutonernas fordon ska vara för-
+
+FÖRSVARSMEDICIN
+
+49
+50
+
+HANDBOK
+
+beredda för att kunna transportera skadade. Exempelvis kan varje pluton
+avdela ett fordon med provisoriska bårar.
+
+Under strid kontrolleras att plutonerna löser stridsuppgiften i första hand.
+Kvartermästeren ansvarar för att koordinera sjukvårdstransporter inom
+kompaniet samt att samordna med HC och tilldelade samlingsplatser.
+
+19.2 Evakuering
+
+Evakuering av skadade och sjuka kan genomföras på flera sätt - i första
+hand med fordon för medicinsk evakuering och i andra hand med förban-
+dets tillfälliga fordon för evakuering av skadade och sjuka.
+
+Inom kompanierna transporteras skadade och sjuka i normala fall från
+skadeplatsen direkt till rätt vårdnivå med förbandets egna fordon för
+medicinsk evakuering eller via omlastningsplats med externa resurser.
+
+En omlastningsplats kan vara en ambulansöverlämningsplats eller en heli-
+kopterlandningsplats.
+
+19.2.1 Ledning av evakuering av skadade inom
+
+kompani
+
+Under planering inför en uppgift bedömer kompanichefen med stöd av
+kompanikvartermästaren hur egna och tilldelade hälso- och sjukvårdsre-
+surser ska användas. Detta kan innebära att kompanichefen väljer att ha
+hälso- och sjukvårdsresurser centralt förde-lade till stabs- och trosstrop-
+pen för att förenkla ledningen av resurserna.
+
+Om det däremot vid planeringen identifieras ett behov av att tilldela sjuk-
+vårdsgruppen till enskild pluton (exempelvis vid rörlig spaning med hög
+risk för sammanstöt), ska lednings- och lydnadsförhållanden vara utredda
+(understödja eller underställa).
+
+FÖRSVARSMEDICIN
+HANDBOK
+
+Understödjer sjukvårdsgruppen är det kvartermästaren som ser till att
+sjukvårdsgruppen är uppdaterad i aktuellt läge.
+
+Vid underställande svarar plutonchefen vid den pluton där sjukvårds-
+gruppen löser uppgiften för att uppdatera denna om det aktuella läget.
+
+Vid omfördelning av sjukvårdsgruppen orienterar kvartermästaren plu-
+tonchefen och ger därefter order direkt till sjukvårdsgruppen.
+
+Kompaniet ska alltid kunna avtransportera skadade med egna tillfälliga
+fordon för evakuering av skadade och sjuka.
+
+Mall för METHANE och 9-liner finns som bilaga.
+
+19.2.2 Samlingsplats för skadade
+
+Vid behov upprättas samlingsplats för skadade på order av kompaniche-
+fen. Kan även beordras av kompanikvartermästare och då på mandat från
+kompanichefen. Kvartermästaren orienterar då kompaniet och bataljons-
+staben om platsen.
+
+På samlingsplatsen genomförs triage om det inte är gjort tidigare i sjuk-
+vårdskedjan. Oavsett prioriteringsgrad, ansvarar i regel respektive pluton
+för att transportera sina skadade till samlingsplatsen. Denna lösning syf-
+tar till att kraftsamla sjukvårdsgruppen inom kompaniet för att genomföra
+transporter med allvarliga skador från kompaniet till hänvisning.
+
+Mindre allvarliga skador får således vara kvar på samlingsplatsen intill
+dess att fler resurser anländer till platsen.
+
+FÖRSVARSMEDICIN
+
+51
+HANDBOK
+
+Lednings- och lydnadsförhållanden:
+
+«  Stabs- och trosstroppchefen ansvarar för samlingsplatsen och skyddet
+av densamma.
+
+. - Kvartermästaren ansvarar för transporterna till och från samlingsplat-
+sen.
+
+« Medicinskt ansvarig på platsen är sjuksköterska/läkare som ansvarar
+för att genomföra triage.
+
+-
+- N 4
+, UPPSTÄLLNINGSPLATS-
+, PLATS FÖR FORDON tt — 4
+
+I SAMLINGSPLATS ) I
+
+1 SKADADE/TRIAGERING
+
+"m===m>em" 7”
+
+YTTRE BEVAKNING
+
+Bild 19.1 Principskiss samlingsplats för skadade. Grafisk produktion.
+
+19.3 Djursjukvård
+
+Allmänt
+
+Två hundar per pluton ingår i Hemvärnets insats-bevakningsplutoner. Vid
+hvundkompanierna är hundarna samlade på en pluton ( fyra stycken).
+Hundens hälso- och sjukvård omfattar åtgärder som vidtas i syfte att med-
+icinskt förebygga, påvisa, lindra eller bota sjukdom, skada eller därmed
+jämförligt tillstånd.
+
+Målsättning för hundens hälso- och sjukvård är att:
+
+« Utveckla rutiner och utrustning för medicinskt omhändertagande av
+djur.
+
+« Samverka med civil djursjukvård.
+
+52 | FÖRSVARSMEDICIN
+HANDBOK
+
+I FM regleras tjänstehundsverksamheten i FM Tjänstehundsinstruktion.
+
+Undbfäl hund i Hemvärnsbataljonstaben/S2 är ansvarig för hundtjänsten
+inom bataljonen och utarbetar bl.a riktlinjer för hundtjänsten avseende
+befäl hundhälso- och sjukvård.
+
+Daglig tillsyn hund.
+
+Genomförs av hundföraren för att kontrollera status på hundarna i syfte
+att minimera skaderisker och att de kan delta i de dagliga aktiviteterna och
+tillgodogöra sig träningen.
+
+Hundföraren behandlar också enklare skador.
+
+Särskild tillsyn hund
+
+Är en noggrannare kontroll av hundarna för att upptäcka tecken på sjuk-
+dom skador eller andra förändringar som kan innebära obehag eller
+orsaka temporära eller bestående problem hos hundarna. Särskild tillsyn
+ska genomföras en gång varje vecka eller oftare samt vid misstanke om
+sjukdom eller skada. Särskild tillsyn genomförs av hundtjänstepersonal
+eller veterinär
+
+Evakuering av skadad hund
+
+Hemvärnet saknar resurser för medicinsk evakuering av hund (MED-
+EVAC), varför CASEVAC genomförs av skadad hund och rutiner förd
+detta ska tas fram som led i hundtjänsten och struktureras på motsva-
+rande sätt som för omhändertagandet av skadad soldat. Inför varje insats
+där tjänstehundar ingår planeras CASEVAC.
+
+Hänvisningar
+Militär veterinär saknas inom regional stab (RS). Hänvisning sker därför
+
+till civil veterinär.
+
+Vid tjänstgöring med patrullhund hemvärn ska det finnas aktuella hänvis-
+ningar till jourhavande veterinär i närområdet.
+
+FÖRSVARSMEDICIN
+
+53
+HANDBOK
+
+20 Fältarbeten
+20.1 Inledning
+
+Fältarbeten syftar till att förändra eller förstärka terräng och infrastruk-
+tur för att öka vår egen rörlighet, fördröja eller begränsa motståndarens
+rörlighet samt förbättra våra egna förbands verkan, uthållighet eller över-
+levnad.
+
+Genom god planläggning, tidig rekognosering och noggranna förberedel-
+ser kan disponibel tid för genomförande ökas. Effekten av utförda fältar-
+beten är ofta beroende av tiden som funnits disponerad för att utföra dem.
+
+Fältarbeten ger i regel god effekt, men kräver också omfattande förbere-
+delser.
+
+Fältarbeten indelas i:
+
+«  Fördröjande fältarbeten (spärrning, blockering, förstöring av anlägg-
+ningar och minering och hinder i terräng).
+
+.  Fältarbeten för överlevnad (maskering, skenåtgärder och befäst-
+ningar).
+
+.  Fältarbeten för rörlighet (förbindelsearbeten, minspaning och min-
+brytning)
+
+« Övriga fältarbeten (alla mark-, byggnads- eller reparationsarbeten
+som inte ingår i fältarbeten för rörlighet, överlevnad, eller fördrö-
+jande fältarbeten).
+
+Hemvärnets främsta resurs avseende fältarbeten är pionjärplutonen som
+finns vid varje MR. Denna kan i första hand utföra fördröjande fältarbe-
+ten samt har viss förmåga till fältarbeten för rörlighet.
+
+Kompanichefen bör vara beredd att ta emot och samverka med pionjär-
+plutonen och tilldela dem uppgifter inom ramen för sin strid. Resurserna
+(tid, mängden fältarbetsmateriel eller förband, samt terrängens beskaffen-
+het) ska värderas och på ett optimalt sätt stödja kompaniets strid.
+
+54 | FÄLTARBETEN
+HANDBOK
+
+Alla förband får utan särskild order utföra:
+
+.  Maskering.
+
+. Befästningar.
+
+.« Larmanordningar.
+
+« Minspaning.
+
+»  Spärrning av väg.
+
+e  Minspärr för överrullningsskydd av stridsställning.
+
+Bataljonchef får även ge order om:
+.  Skenåtgärder.
+
+.  Minering.
+
+e« Användning av röjningsskydd.
+
+Hemvärnsförband som har fältarbetsuppgifter vid hamnar, flygplatser och
+andra installationer av infrastrukturell vikt måste säkerställa att samver-
+kan skett med objektschef och eventuella andra förband vad avser tider,
+händelser och/eller andra avgörande faktorer som utlösande faktor för
+förstöring/blockering/spärr.
+
+20.2 Fördröjande fältarbeten
+
+Fördröjande fältarbeten syftar till att tillfoga förluster och fördröja mot-
+ståndarens framryckning och styrketillväxt.
+
+Spärrning syftar till att tillfälligt hindra motståndaren att utnyttja terräng,
+väg, järnväg, hamn eller flygfält. Spärrning omfattar kontrollerbara och
+flyttbara mineringar och/eller flyttbara hinder.
+
+Spärrning av väg utförs på en plats som försvårar kringgång, exempelvis i
+anslutning till vattendrag eller i starkt kanaliserande terräng. En spärr ska
+på kort tid eller inom angiven tid kunna öppnas för vår trafik. Röjnings-
+skydd till minor får inte användas.
+
+Blockering syftar till att under begränsad tid hindra motståndaren att
+utnyttja väg, järnväg, hamn eller flygfält. Blockering ska inte kunna röjas
+
+FÄLTARBETEN
+
+55
+56
+
+HANDBOK
+
+utan omfattande arbeten. Blockering av väg bör ansättas samtidigt på
+stort djup. Objekten får inte skadas allvarligt. För att åstadkomma effek-
+tiva blockeringar bör mineringar, både skarpa och skenmineringar, kom-
+bineras med blockeringar av annan materiel, såsom bilvrak, rasmassor,
+containrar eller liknande.
+
+Förstöring syftar till att under lång tid hindra motståndaren att utnyttja
+terräng, väg, järnväg, hamn och flygfält samt transportmedel, maskiner
+och förnödenheter. Vägförstöring utförs främst genom sprängning av
+trummor, broar och vägbankar samt minering i och mellan dessa avbrott.
+Förstöring av väg bör ansättas samtidigt på stort djup. Röjningsskydd till
+minor ska ingå i största möjliga utsträckning. Om objekt ska förstöras, ska
+kompanichef erhålla en skriftlig order.
+
+I ordern anges om förstöring ska ske:
+
+. Så snart föremålet laddats,
+
+e vid angiven tidpunkt,
+
+« på senare order eller
+
+. ivisst, noga angivet läge, (undantagsfall).
+
+Om förstöring inte ska utföras så snart objektet laddats, anges även spräng-
+beredskap enligt FältarbR F Spräng.
+
+Mineringar
+
+En minerings stridstekniska ambitionsnivå anges som störande, fördrö-
+jande eller hindrande. Vilket syfte som väljs beror främst på stridsplanen,
+terrängen, tillgången på minor samt disponibel tid för förberedelser och
+utläggning. Mineringarna utförs så att de inte hindrar egna förbands verk-
+samhet.
+
+Störande minering består av 300 stridsvagnsminor per kilometer i front
+och innebär att ett breddgrupperat stridsfordonsförband, som utan min-
+röjning framrycker genom mineringen, kan drabbas av upp till 10 94 för-
+luster.
+
+FÄLTARBETEN
+HANDBOK
+
+Fördröjande minering består av 600 stridsvagnsminor per kilometer i
+front och beräknas enligt ovanstående ge 30 4 förluster
+
+Hindrande minering består av 900 stycken stridsvagnsminor per kilome-
+ter i front och beräknas enligt ovanstående ge 50 96 förluster.
+
+Vid strid i bebyggelse används med fördel sidverkande minor. Dessa kan
+lätt döljas och ger i regel god fördröjande effekt. Vid utförande av strids-
+vagnsmineringar i bebyggelse bör de infrastrukturella skadorna beaktas.
+Under vägar går ofta ledningar för avlopp, el- och vattenförsörjning samt
+telekommunikation.
+
+Mineringar bör alltid minst bevakas. De bör också kombineras med indi-
+rekt eld.
+
+Inom minfria områden får inga minor läggas ut. Skenminering får inte
+anordnas i minfria områden.
+
+Protokollföring och Rapportering
+
+Protokollföring syftar till att minska risker för egna förband och underlätta
+röjning. Normalt påbörjas protokollföring i samband med rekognosering.
+Minprotokoll ska dock senast upprättas vid mineringens genomförande.
+Protokoll upprättas i originalexemplar av utläggande förbandsenhet. Pro-
+tokoll överlämnas till områdesansvarig chef. Kopia av protokoll bör behål-
+las vid respektive stab. Protokoll finns som bilaga.
+
+Protokollet ska minst redovisa:
+
+e  Mineringens läge och utbredning på karta i skala 1:50 000
+
+. Referenspunkter (utgångs-, mellan-, start- och slutpunkter).
+«Antal och typ av minor, mintändare och röjningsskydd.
+
+.  Utläggningsmetod.
+
+. Tidpunkt för utplacering.
+
+Rapport om påträffade mineringar
+
+FÄLTARBETEN
+
+57
+58
+
+HANDBOK
+
+Motståndares mineringar som konstaterats ska rapporteras så snabbt som
+möjligt.
+
+Rapport ska minst innehålla:
+
+.  Plats(-er) där minor konstaterats.
+
+« Typ av minor (stridsvagns-, fordons-, trupp-, eller andra minor).
+« Om minorna är nedgrävda eller ytlagda.
+
+Om möjligt bör rapporten även innehålla:
+e  Mineringens utbredning och gränser.
+« Minornas modell och beteckning.
+
+Mineringarna märks ut med varningsanordningar, där så är möjligt.
+
+20.3 Fältarbeten för överlevnad
+
+Det moderna stridsfältet kännetecknas av en mängd olika sensorer, både
+termiska, optiska och optroniska, som är kopplade till effektiva vapen-
+och bekämpningssystem.
+
+Fältarbeten för överlevnad syftar främst till att motverka:
+. upptäckt,
+
+. identifiering,
+
+« vapeninriktning och
+
+. vapenverkan.
+
+Maskering erhålls i första hand genom att kompanichefen väljer lämp-
+lig terräng, till exempel skog eller bebyggelse. I andra hand används reg-
+lementerad maskeringsutrustning, till exempel maskeringsnät, maske-
+ringsduk och maskeringsfärg. För maskering mot termiska sensorer bör
+strålkällor avskärmas med isolerande material, såsom liggunderlag eller
+IR-dämpande maskeringsnät.
+
+FÄLTARBETEN
+HANDBOK
+
+Skenåtgärder syftar till att försvåra motståndarens möjligheter att anfalla
+punktmål. Det kan omfatta tillverkning av skenmål, skenspår och skenmi-
+nering. Dessa ska se ut att vara i bruk.
+
+Befästningar i form av värn bör i regel påbörjas så fort förbandet är grup-
+perat. Värnen byggs efter hand och i mån av tid, ut till ståvärn. Perso-
+nal som saknar splitterskydd prioriteras. Andra former av befästningar
+kan vara sandsäcksvärn, både i och utanför byggnader, skyddsrum eller
+värnsystem med förbindelsegångar.
+
+Övriga fältarbeten för överlevnad är att öka möjligheterna för verkan
+genom skottfältsröjning.
+
+20.4 Fältarbeten för rörlighet
+
+Fältarbeten för rörlighet syftar till att upprätta och behålla den taktiska
+rörligheten på stridsfältet. Resurserna för detta på kompaniet är dock
+starkt begränsade.
+
+Förbindelsearbeten såsom dikesbro kan utföras av tillfällig karaktär, till-
+verkade av tillfällig materiel såsom stockar och faskiner.
+
+Inom ramen för strid i bebyggelse ska kompaniet kunna skapa rörlighet
+med egna resurser genom att spränga bräscher genom väggar och dörrar.
+Man ska också kunna skapa rörlighet med hjälp av rep, stegar och änter-
+hakar med mera.
+
+För att kunna genomföra effektiva fältarbeten för rörlighet, måste kom-
+
+paniet få resurser tillfört sig i form av pionjärpluton och/eller ingenjör-
+förband.
+
+FÄLTARBETEN
+
+59
+60
+
+HANDBOK
+
+21 Fångtjänst
+21.1 Inledning
+
+Av Sveriges internationella åtaganden avseende krigets lagar framgår att
+Sverige såväl i fred som under väpnad konflikt ska informera och utbilda
+om innehållet i Krigets lagar. Vidare ska Försvarsmakten se till att perso-
+nalen får en tillfredställande utbildning och information om folkrättens
+regler i krig och under neutralitet. Försvarsmakten har en förordnings-
+skyddad skyldighet att genomföra utbildning i folkrätt.
+
+Av detta följer att Försvarsmakten och all dess personal är skyldiga att följa
+de regler som finns avseende den Internationella Humanitära Rätten (Kri-
+gets lagar).
+
+För att detta ska fungera i krig så krävs det, utöver formell teoretisk utbild-
+ning, att förband och staber ges möjlighet att öva och träna detta. Därför
+ska detta kapitel betraktas som en handledning och vägledning för fram-
+för allt förbandsledning/staber på olika nivåer. Att detaljer inte reglerats
+betyder inte att avsteg får göras från de regler som finns i, bland annat,
+Genéevekonventionerna. Detaljerade regler finns i Reglemente för krigs-
+fångtjänsten!.
+
+Krigsfångtjänsten omfattar omhändertagande, undanförande, förvaring
+samt repatriering av krigsfångar. Härvid beaktas särskilt att detta sker
+på sådant sätt att förhörstjänsten underlättas och att gällande internatio-
+nella konventioner efterföljs. Från detta finns inga undantag, oavsett vil-
+ket "skede konflikten än befinner sig i.
+
+Bild 21.1 1 Detta reglemente är under revidering
+
+FÅNGTJÄNST
+HANDBOK
+
+21.2 Krigsfångstjänstens syfte och om-
+fattning
+
+Att ta krigsfångar (oavsett hur eller när det sker) kan bidra till ett antal för-
+delar för egna förband. Bland annat så kan det innebära:
+
+.  Reducerar fiendens numerär
+
+« Negativ påverkan på fiendens förmåga till strid
+
+.  Sänka motståndarens moral
+
+. Påverkar motståndarens taktiska nyttjande av sina förband
+
+. Krigsfångar som en viktig del i underrättelsetjänsten
+
+Detta kräver dock att alla bestämmelser efterlevs då det annars finns en
+uppenbar risk att de effekter man annars uppnår vänds mot de egna trup-
+perna, förbanden och i slutändan mot Försvarsmakten och dess förmåga
+att lösa ställda uppgifter.
+
+Krigsfångtjänsten omfattar bland annat
+
+. åtgärder i samband med tillfångatagandet,
+
+. krigsfångars fortsatta omhändertagande till dess de överlämnas till
+fångläger,
+
+. fånglägertjänsten,
+
+. krigsfångars utväxling och hemsändande, samt
+
+« rapportering och redovisning av krigsfångar och deras tillhörigheter.
+
+Krigsfångtjänsten grundar sig på Genevekonventionen angående krigs-
+fångarnas behandling (III:e Genevekonventionen).
+
+Fångförhörstjänsten ingår som en del i underrättelsetjänsten. Anvis-
+
+ningar för fångförhörstjänsten framgår av Handbok HUMINT. Fångför-
+hör genomförs endast av särskilt utbildad personal.
+
+FÅNGTJÄNST
+
+61
+62
+
+HANDBOK
+
+21.3 Ledning
+
+Varje stab eller enskilt krigsförband kan få uppgiften att leda krigsfång-
+tjänsten inom tilldelat område.
+
+Samtliga krigsförband ner till bataljon/kompani storlek (motsvarande)
+ska kunna upprätta fångsamlingsplats.
+
+Brigadchef eller chef för annan stridsgrupp kan förbereda och vid behov
+upprätta en för flera förband gemensam fångsamlingsplats. Detta gäller
+särskilt då avståndet till fångplats är stort samt i övrigt då verksamheten
+för förband i strid behöver underlättas.
+
+Lägst brigadchef/C MR ska på order kunna upprätta fångplats.
+Lägst brigad ska kunna överta drift och ledning av fångläger.
+
+Samtliga krigsförband ska kunna administrera krigsfångar.
+
+« CMR ska, i samverkan med civila myndigheter och på ÖB:s order,
+leda upprättandet av fångläger.
+
+« Lägst brigadchef/C MR ska kunna planera och leda transport av krigs-
+fångar till fångläger. Strävan ska vara att transport av fångar genom-
+förs enligt hämtningsförfarande från lägst bataljonssamlingsplats för
+fångar.
+
+« Regionala staber ska i samverkan med civila myndigheter, efter order
+från ÖB, reglera nyttjandet av krigsfångar som arbetskraft. (III:e
+Gené&vekonventionen artikel 49) ÖB ger vid behov ut regler och före-
+skrifter för nyttjande av krigsfångar som arbetskraft
+
+. Marina enheter till sjöss vilka omhändertagit skeppsbrutna och nöd-
+ställda, tillhörande fientliga stridskrafter, upprättar lista över dessa
+samt att de meddelar att de nu är krigsfångar och förser dem med
+fånglapp. De ska, så snart situationen medger, sättas iland och överfö-
+ras till upprättad fångplats alternativt fångläger där fullständig regist-
+rering sker. För hantering av avliden krigsfånge; se kapitlet omhän-
+dertagande av döda.
+
+FÅNGTJÄNST
+HANDBOK
+
+21.4 Krigsfångar
+
+Krigsfångar är personer, vilka fallit i Försvarsmaktens våld och som tillhör
+en av följande kategorier:
+
+Medlemmar av fiendens stridskrafter samt medlemmar av milistrup-
+per och frivilligkårer, vilka ingår i fiendens stridskrafter.
+Medlemmar av andra milistrupper och frivilligkårer, inbegripet med-
+lemmar av organiserad motståndsrörelse, vilka står under fiendens
+befäl och vilka är verksamma utanför eller inom eget territorium, även
+om detta territorium är ockuperat, allt under förutsättning att milis-
+trupperna eller frivilligkårerna, inbegripet den organiserade mot-
+ståndsrörelsen,
+= står under befäl av person som är ansvarig för sina underlydande
+= — bär ett fastsittande och på avstånd igenkännligt utmärkande tecken
+(inte krav enligt Tilläggsprotokoll I, 1977, till Genévekonventio-
+nerna, 1949)
+= bär sina vapen öppet
+= vid sina operationer iakttar krigets lagar.
+Medlemmar av regelrätta militära förband, vilka förklarar sig lyda
+under en regering eller en myndighet, som inte erkänns av Sverige.
+Personer som åtföljer stridskrafterna utan att direkt tillhöra dem,
+såsom civila medlemmar av besättningen på militärt luftfartyg, krigs-
+korrespondenter, leverantörer, medlemmar av arbetsenheter eller per-
+sonal som sörjer för krigsmännens välbefinnande. Förutsättningen är,
+att de erhållit vederbörligt bemyndigande att åtfölja stridskrafterna.
+De ska vara försedda med identitetskort.
+Medlemmar av besättningen, inbegripet befälhavare, lotsar och elever
+på handelsfartyg samt medlemmar av besättningen på civila luftfartyg,
+tillhörande fienden, vilka inte jämlikt andra bestämmelser i den inter-
+nationella rätten åtnjuter gynnsammare behandling.
+Befolkningen inom ett inte besatt, fienden tillhörigt område, som vid
+ett annalkande av svenska trupper självmant griper till vapen för att
+göra motstånd mot de framryckande svenska trupperna utan att vara
+organiserade i regelrätta militära förband, under förutsättning, att de
+bär sina vapen öppet och iakttar krigets lagar och bruk (jmfr GK III,
+art 4 och Tilläggsprotokoll I, 1977).
+
+FÅNGTJÄNST
+
+63
+64
+
+HANDBOK
+
+. Så som krigsfångar behandlas även personer, som tillhör eller har till-
+hört ockuperat lands stridskrafter, om myndighet på denna grund
+finner det nödvändigt att internera dem, även om svensk myndighet
+ursprungligen frigivit dem, medan fientligheterna pågick utanför det
+besatta området. Detta gäller särskilt, då ifrågavarande personer före-
+tagit ett resultatlöst försök att återförena sig med de stridskrafter, till
+vilka de hör och vilka är inbegripna i strid, eller då de inte hörsammar
+kallelse om internering, som utfärdats för dem (jmfr GK III, art 4).
+
+« Om tveksamhet råder huruvida person, som utfört krigshandling och
+tillfångatagits, ska räknas till någon av de ovan angivna kategorierna,
+ska sådan person åtnjuta skydd som krigsfånge i avvaktan på att ved-
+erbörandes status fastställts av behörig rättsinstans (jmfr GK III, art
+5).
+
+Som krigsfångar ska inte anses medlemmar av den sjukvårds- och själa-
+vårdspersonal som kvarhållits för att bistå krigsfångar. De ska dock åtnjuta
+de förmåner och det skydd som Genévekonventionerna anger och dess-
+utom de lättnader som erfordras för att ge krigsfångarna medicinsk och
+andlig vård (jmfr GK III, art 33 samt GK I, art 24 och 26).
+
+21.5 Genévekonventionerna
+
+Sverige har ratificerat Genevekonventionerna (GK I-IV) av den 12.
+augusti 1949 angående skydd för krigets offer. GK III reglerar krigsfångars
+behandling. Sverige har också biträtt Tilläggsprotokoll I (internationella
+konflikter) och Tilläggsprotokoll II (nationella konflikter) till Geneévekon-
+ventionerna.
+
+Vid de enheter där krigsfångar kommer att kvarstanna under längre eller
+
+kortare tid ska, jämte detta reglemente, texten till GK III finnas tillgänglig.
+Ansvarig personal ska ha erhållit utbildning på bestämmelserna.
+
+FÅNGTJÄNST
+HANDBOK
+
+21.5.1 Allmänna bestämmelser för krigsfångars
+behandling
+
+Krigsfångar är i Sveriges våld, inte i de individers eller truppstyrkors som
+tagit dem till fånga (jmfr GK III, art 12).
+
+Krigsfångar ska alltid behandlas med humanitet. Varje otillåten handling
+eller underlåtenhet, som medför krigsfånges död eller allvarligt äventyrar
+krigsfånges hälsa, är förbjuden och ska anses såsom svår överträdelse av
+GK III samt medföra laga ansvar.
+
+Krigsfånge får inte underkastas fysisk stympning eller vetenskapligt eller
+medicinskt experiment av vad slag det vara må, annat än om detta rätt-
+färdigas av läkarbehandling av krigsfången och företas i hans eget intresse
+Gjmfr GK III, art 13).
+
+Krigsfångar ska skyddas mot våldshandlingar eller hot, förolämpningar
+och allmänhetens nyfikenhet.
+
+Repressalieåtgärder mot krigsfångar är förbjudna (jmfr GK III, art13).
+
+Krigsfångar har under alla förhållanden rätt att fordra aktning för sin per-
+son och för sin ära. Kvinnliga krigsfångar ska behandlas med den hänsyn
+som tillkommer deras kön (jmfr GK III, art 14).
+
+Olikheter vid behandling av krigsfångar är tillåtna endast i den mån de
+betingas av tjänstegrad (motsv), ålder, fysiskt eller psykiskt hälsotillstånd,
+yrkesskicklighet eller kön (jmfr GK III, art 16).
+
+21.6 Åtgärder isamband med tillfånga-
+tagande
+
+Tillfångatagandet:
+«  Avväpna och vid behov ge första hjälpen
+
+FÅNGTJÄNST
+
+65
+66
+
+HANDBOK
+
+Skyddsvisitera (fånge behåller hjälm, skyddsutrustning, personliga
+tillhörigheter, ID-handlingar samt utrustning för att kunna utspisa)
+Materiel och utrustning som bedöms ha högt underrättelsevärde läm-
+nas snarast över till förbandets underrättelsefunktion (all materiel och
+utrustning som tas från krigsfånge ska dokumenteras och registreras)
+Fånge registreras med fånglapp
+
+Om möjligt ska indelning och kategorisering ske: officerare, underof-
+ficerare, manskap, män och kvinnor
+
+Om möjligt hålls kategorierna enligt ovan särskilda
+
+Bevakning - fångar ska alltid behandlas humant och ska alltid ha till-
+gång till dricksvatten, skydd mot direkt eldgivning samt, om möjligt,
+även mat och skyl.
+
+Fångrapport upprättas av chef för det förband som tagit krigsfångar. Rap-
+porten överlämnas av chefen för åtföljande bevakningstrupp till chefen
+för den fångsamlingsplats/fångplats dit krigsfångarna förs. Fångrapporten
+följer krigsfångarna vidare i transportkedjan.
+
+Fångrapport ska om möjligt innehålla uppgifter om:
+
+datum, klockslag och plats för tillfångatagandet
+
+förband som tagit krigsfångarna
+
+antal tillfångatagna befäl (med grader), meniga och civila
+
+särskild vid tillfångatagandet omhändertagen egendom
+
+närmare omständigheter i samband med tillfångatagandet
+
+andra för förhörstjänsten viktiga upplysningar, såsom iakttagelser om
+krigsfångars uppträdande och förhållande till varandra.
+
+Det är under inga omständigheter tillåtet att använda följande (”5 tekni-
+kerna”) mot krigsfångar:
+
+stressfulla kroppspositioner (sådan kroppsposition som är smärtsam,
+extrem obekväm eller utmattande att bibehålla),
+
+”hooding” (placera huva över fånges huvud och ansikte),
+
+utsätta för höga störande ljud (hålla fången i område eller rum med
+störande och outhärdligt ljud),
+
+undanhålla fången från sömn och vila (fånge har rätt till sömn och
+vila), samt
+
+FÅNGTJÄNST
+HANDBOK
+
+. undanhålla fången från rätten till mat och dricksvatten
+
+21.7 Samlingsplats för fångar
+
+Samlingsplats för fångar är den lägsta nivån i fångkedjan och upprättas
+av lägst kompani. Samlingsplats för fångar kan även upprättas av bataljon
+eller brigad. Här ska krigsfångar vara så kort tid som möjligt i syfte att inte
+binda egna resurser för hantering av dessa.
+
+21.8 Fångplats
+
+Fångplats utgör länken mellan samlingsplats och fångläger. Såväl bri-
+gadstab samt regional stab kan få uppgiften att upprätta dessa. Här ska
+fångar kunna placeras i avvaktan på att fångläger upprättas.
+
+21.9 Fångläger
+
+För Försvarsmakten gemensamma läger där fångar bedöms kvarstanna
+till de antingen utväxlas eller hemförlovas. Fångläger upprättas av fång-
+lägerbataljon. Chef fånglägerbataljon ska i fredstid samverka med regi-
+onal stab för gemensam planering och gemensamma förberedelser kan
+genomföras så att fångläger kan upprättas på ÖB:s order. Fångläger ska
+vara dimensionerat för att kunna ta emot upp till 5 000 krigsfångar.
+
+FÅNGTJÄNST
+
+67
+68
+
+HANDBOK
+
+21.10 Schematisk skiss över fångtjänsten
+
+Li
+
+| Brigadfångsamlingsplat
+
+SS me
+
+I
+Te
+
+| Kompanifångsamlingsplats
+
+Bild 21.1 — Schematisk skiss över fångtjänsten. Försvarsmakten.
+Enhet Åtgärd Transport till Ansvar
+Pluton, Fånglapp Kompanisamlingsplats/ Plutonchef/fartygs-
+marin enhet marinbas/territoriell chef chef motsv.
+Kompani Fånglapp/fångkort Bataljonssamlingsplats Kompanichef
+Bataljon Fånglapp/fångkort Brigadsamlingsplats/ Bataljonschef
+fångplats
+
+Brigad Fånglapp/fångkort/ | Fångplats/fångläger Brigadchef
+
+tablå krigsfånge
+
+Rapport till TRM
+Regional Fånglapp/fångkort/ Beroende på vilka
+stab/ tablå krigsfånge/ uppgifter regional
+territoriell identitetskort/ stab/territoriell chef
+chef fångenskapskort/ har.
+
+Brevkort och brev
+
+Rapport till TRM
+
+FÅNGTJÄNST
+
+HANDBOK
+
+21.11 Försvarsmedicin samt omhänder-
+tagande av döda
+
+21.11.1 Hälso- och sjukvård
+Samtliga krigsfångar ska så snart det kan ske efter tillfångatagandet
+undergå personsanering och senare fullständig sanitetsbehandling.
+
+Krigsfångar ska förses med dricksvatten och föda i tillräcklig mängd samt
+erhålla erforderlig beklädnad och sjukvård (jmf GK III, art 20).
+
+Skadade och sjuka krigsfångar behandlas på samma sätt som skadade och
+sjuka tillhörande svenska stridskrafter. De bör dock vårdas avskilt från
+skadade och sjuka svenska soldater samt bevakas.
+
+Krigsfånge som tillfrisknat eller som av läkare bedöms inte behöva sär-
+skild vård, ska snarast överlämnas till understödjande fångplats eller fång-
+läger.
+
+21.11.2 Omhändertagande av döda
+
+Med döda krigsfångar förfars i tillämpliga delar på samma sätt som med
+avlidna tillhörande svenska stridskrafter. Bestämmelserna framgår av
+Gravtjänstreglemente för Försvarsmakten (GravtjänstR).
+
+Regeringen kan komma att utfärda särskilda bestämmelser gällande aktu-
+ell konflikt för hur döda från främmande stat ska omhändertas.
+
+FÅNGTJÄNST
+
+69
+70
+
+HANDBOK
+
+22 Omhändertagande av
+döda
+
+22.1 Inledning
+
+Syftet med omhändertagandet av död är att på ett värdigt sätt, i enlighet
+med folkrättens regler, omhänderta döda som tillhör vår Försvarsmakt
+eller främmande krigsmakt.
+
+Omhändertagande av död i Försvarsmakten samordnas med den civila
+begravnings-verksamheten, så att samhällets resurser i form av ledning,
+kyl/frys och transport-resurser nyttjas på bästa sätt.
+
+Död militär personal gravsätts på hemorten eller på plats enligt den dödes
+(de anhörigas ) önskan.
+
+Sjöbegravning sker enbart i yttersta nödfall. Fartygschef beslutar om sjö-
+begravning.
+
+Läkare ska fastställa dödsfall. Innan läkare konstaterat dödsfall ska indivi-
+den hanteras som skadad.
+
+Om det föreligger misstanke om brott eller oklarheter avseende dödsor-
+sak ska respektive chef meddela militärpolis samt polisen.
+
+Samlingsplats för döda är en tillfällig förvaringsplats av döda innan de
+transporteras till uppsamlingsplats för döda. Samlingsplats upprättas av
+chef vid behov.
+
+22.2 Ledning
+
+C MR planlägger omhändertagandet av döda för samtliga förband inom
+egen region. Hänvisar förband inom egen region. Planläggning och förbe-
+
+OMHÄNDERTAGANDE AV DÖDA
+HANDBOK
+
+redelser sker i samverkan med civila myndigheter och organisationer för
+sambruk av resurser.
+
+Uppsamlingsplats ska i första hand upprättas av civila myndigheter eller
+regioner/kommuner. I undantagsfall kan Försvarsmakten upprätta upp-
+samlingsplats för döda, lägst brigad/militärregion.
+
+C MR ansvarar för att tillsammans med civila myndigheter samordna
+genomsök av områden där strider genomförts i syfte att ta hand om kvar-
+blivna skadade och döda.
+
+CMR kan efter samverkan med polis stödja med överlämnande av döds-
+bud till anhöriga i egen region.
+
+Respektive krigsförband ansvarar för att transportera egna döda till upp-
+samlingsplats för döda.
+
+Samtliga krigsförband ner till kompanis storlek (motsvarande) ska kunna
+bemanna samlingsplats för döda.
+
+22.3 Identifiering
+
+En första identifiering sker på skadeplatsen eller i dess närhet.
+Identifiering görs genom:
+.  identitetsbricka,
+
+.  identitetshandlingar, samt
+.  kamratidentifiering
+
+Identifiering syftar till att påskynda omhändertagandet av dödsbud och
+anhöriga.
+
+Identifiering via identitetsbricka får inte enskilt användas som identifie-
+ring.
+
+OMHÄNDERTAGANDE AV DÖDA | 71
+HANDBOK
+
+En noggrann identifiering är nödvändig för att säkerställa att anhöriga,
+förbandschefer och myndigheter får tillförlitliga uppgifter om dödsfall.
+
+Efter att läkare fastställt att personen är död upprättas dödrapport (M7102-
+381780) enligt bilaga. Om personen inte kan identifieras ska även död-
+rapporten kompletteras med dokumentet Signalement för död (M7102-
+381770) enligt bilaga.
+
+22.4 Omhändertagande av död vid för-
+band/fartyg
+
+1. Kroppen transporteras från stridsområdet till förbandets samlingsplats
+för döda.
+2. Kroppen förbereds för avtransport till uppsamlingsplatsen och läggs
+
+i transportsäck för avlidna om sådan finns. Identitetssedel för död
+enligt bild XX ifylls och fästs vid den döde.
+
+3. Den dödes personliga fältutrustning (utom vapen med tillbehör)
+förpackas.
+
+4. | Den dödes personliga tillhörigheter förpackas och förses med nummer-
+lapp enligt bild XX
+
+5. Dödrapport A-D upprättas. Dödrapportens nummer antecknas på
+identitetssedel för död och nummerlapp.
+
+6. Krigsförbandschefanordnar minnesstund före avtransporten, om omstän-
+digheterna medger det. Ceremonin genomförs i annat fall senare.
+
+7. | Krigsförbandschef skriver och sänder ett brev angående omständigheter
+m.m. till de närmast anhöriga se p 11.6.
+
+Vid kompaniet ska:
+
+« den döde förbereds för avtransport genom att uniformen kläds på
+(även ytterplagg) och läggs i transportsäck för avlidna om sådan finns
+
+«  identitetssedel för död ifylls och fästs vid den döde
+
+« den dödes personliga tillhörigheter förpackas i påse (motsvarande)
+och förses med «nummerlapp» och identitetsbrickans ena halva
+
+72 | OMHÄNDERTAGANDE AV DÖDA
+HANDBOK
+
+«  kvartermästaren upprättar dödrapport, del av dödrapport behålls vid
+kompaniet (motsvarande). Dödrapportens nummer antecknas på
+«identitetssedel för död» och «nummerlapp».
+
+« den döde transporteras lagd på exempelvis en granrisbädd, med för-
+bandets resurser till hänvisad bataljonssamlingsplats eller annan upp-
+samlingsplats för döda. Med den döde följer personlig fältutrustning
+(utom vapen med tillbehör) samt personliga tillhörigheter.
+
+« kompanichefen (motsvarande) anordna en minnesgudstjänst eller
+minnesstund före avtransporten, om omständigheterna medger det.
+Den hålls i annat fall senare.
+
+»« kompanichefen (motsvarande) sända brev till närmaste anhöriga.
+
+h FÖRDÖD Z
+honom vid gravsättningen ere a
+19
+
+[För för Os
+
+=
+fe
+
+a
+anhörigas
+namn och RE
+adress |Sedelns
+[upprättare JE [Person Fanpostrv
+
+Bild 22.1 — Identitetssedel för död (M7102-381760)
+
+Cat föl oe ska-
+NUMMERLAPP || 202 och stuk)
+
+Fästes på skadads (sjuks) utrustning fr -
+samt döds personliga tillhörigheter
+
+Personnr
+
+Namn
+
+Fpar [förband]
+
+Dödrapports löpnr
+
+Obs! En nummerlapp på varje kolll,
+Kontrollera att föreskriven utr följer
+den skadade (sjuke, döde)
+
+M7605-111710-5. Utgåva 2. (Fst/PV). 75-11. 200 000 ex
+
+Bild 22.2  Nummerlapp (M7605-111710-5)
+
+OMHÄNDERTAGANDE AV DÖDA
+
+73
+74
+
+HANDBOK
+
+22.5 Riktlinjer vid överlämnande av döds-
+bud
+
+Nedanstående punkter ska ses som allmänna råd att använda i tillämpliga
+delar, beroende på den aktuella situationen. Normalt sker detta genom
+Polismyndigheten.
+
+Förberedelser
+
+Lägg undan ordinarie arbete och tänk igenom vad du ska säga och hur.
+Dubbelkontrollera alla personuppgifter före samtalet.
+
+Personligt möte görs så snart som möjligt. Detta görs av militär chef
+tillsammans med ytterligare stödperson, till exempel präst eller kam-
+rat. Det är inte lämpligt att ha bråttom vid detta möte. Någon av med-
+följande ska om möjligt fortsättningsvis vara kontaktperson
+
+Se till att personen som ska ta emot dödsbudet är frikopplad från
+arbete.
+
+Välj lämplig samtalsmiljö. Avskildhet och lugn.
+
+Se till att du har alla tillgängliga fakta kring händelsen du ska för-
+medla.
+
+Samtalet
+
+Sitt ner. Ögonkontakt. Presentera dig om du inte är känd för motta-
+garen.
+
+Ge besked kort och koncist. NN är död. Detta har hänt ...
+
+Kort beskrivning av händelseförlopp. Här finns inget utrymme för
+spekulationer eller gissningar.
+
+Svara på frågor men svara inte på frågor du inte med säkerhet har sva-
+ret på
+
+Var beredd på reaktioner från mottagaren. Utåtagerande, chock, frå-
+gor, apati med mera.
+
+Kontrollera om namnuppgifter kan lämnas till massmedia.
+
+Säkerställ att dödsbudet uppfattats av mottagaren.
+
+Klara ut vem som kommer att fungera som kontaktperson i fortsätt-
+ningen. Lämna en lapp med kontaktpersonens namn och telefonnum-
+mer.
+
+OMHÄNDERTAGANDE AV DÖDA
+HANDBOK
+
+. Bestäm tid för ett nästa sammanträffande. Detta bör ske inom ett dygn.
+
+22.6 Riktlinjer för chefs brev till anhöriga
+
+Brevet bör, så långt det är möjligt, innehålla svar på de frågor som de
+anhöriga ställer sig. Skriv sanningen och relatera fakta. Var försiktig med
+värderingar om den döde. De anhöriga kommer på alla möjliga sätt att
+kontrollera de omständigheter som brevet relaterat till.
+
+Använd om möjligt papper av hög kvalitet. Tänk på att det är du som skri-
+ver, använd inte en förtryckt mall.
+
+Brevet kommer att vara en värdefull handling för de anhöriga.
+
+Brevet bör innehålla:
+
+» datum och klockslag för dödsfallet,
+
+. exakt plats, där dödsfallet och/eller skadan som ledde till att dödsfal-
+let inträffade,
+
+» händelseförlopp,
+
+.« vem eller vilka som var med,
+
+« vem eller vilka som omhändertog kroppen,
+
+. hur omhändetagandet av kroppen gjordes och om man vet fortsatt
+omhändertagande av kroppen,
+
+»« minnesstund — var genomfördes den, vem som ledde, deltagare,
+psalm(er), bön(er), samt
+
+« kontaktuppgifter vid eventuella frågor och behov av förtydliganden.
+
+22.7 Transport av döda
+
+Döda på fartyg förvaras i kylt utrymme, om sådant finns.
+Döda som ska flygtransporteras läggs i kista med tät innerförslutning.
+
+Krigsförbandschef ansvarar för att döda inom tilldelat område (plats,
+anläggning, fartyg) transporteras till uppsamlingsplats för döda.
+
+OMHÄNDERTAGANDE AV DÖDA
+
+75
+76
+
+HANDBOK
+
+Från uppsamlingsplats sker transporten till begravningsplats enligt anhö-
+rigas önskemål och gällande rutiner i samhället.
+
+22.8 Fältgrav
+
+22.8.1 Allmänt
+Fältgrav används enbart i yttersta nödfall. Fältgrav är en tillfällig gravplats
+för den döde.
+
+Gravsättning i fältgrav ska endast ske, när avtransportmöjligheter är ute-
+slutna. Den som gravsatts i fältgrav ska så snart som flyttas till uppsam-
+lingsplats för döda eller begravningsplats.
+
+Om situationen tillåter genomförs minnestund i anslutning till fältgraven.
+
+22.8.2 Förläggning av fältgrav
+
+Fältgrav förläggs så att den exakta platsen kan anges efter lång tid (många
+år). Den ska också förläggas, så att brunnar, källor och vattendrag inte
+förorenas.
+
+Bild 22.3 Exempel på fältgrav. Försvarsmakten.
+
+OMHÄNDERTAGANDE AV DÖDA
+HANDBOK
+
+22.8.3 Åtgärder isamband med fältgrav
+
+1. | Identitetsbrickans ena hälft lätt anträffbar.
+
+2. |lIdentitetsuppgifter om den döde i sluten förvaring (till exempel
+dricksflaskan).
+
+Skydd för den dödes ansikte.
+
+Kors eller påle med trätavla. På tavlan skrivs om möjligt den dödes person-
+nummer, grad, namn och dödsdag.
+
+Träpåle vid den dödes huvud.
+
+Jord eller stenröse.
+
+7. | Lager av granris (motsvarande).
+
+Fältgravens djup anpassas efter omständigheterna. Om möjligt bör den
+döde täckas med minst 50 cm jord eller stenröse.
+
+Innan den döde gravsätts genomförs identifiering. Identitetsbrickans ena
+halva fästs synlig vid den döde och följer denne vid gravsättningen.
+
+Den döde gravsätts iförd de kläder som bars vid dödstillfället och läggs i
+transportsäck för avlidna, om sådan finns.
+
+I fältgraven läggs en isolerande bädd av granris (motsvarande) under och
+över den döde.
+
+Den dödes ansikte skyddas med lämplig klädespersedel.
+
+Fältgrav utmärks om möjligt med träkors, påle eller med stenar lagda i
+form av ett röse.
+
+Vid den dödes huvud placeras en träpåle så lång att den räcker upp över
+markytan.
+
+Den dödes tjänstegrad, namn, personnummer, och dödsdag skrivs på ett
+
+papper som placeras i slutet föremål (till exempel dricksflaskan) som pla-
+ceras under markytan vid huvudpålen. Den dödes personliga tillhörighe-
+
+OMHÄNDERTAGANDE AV DÖDA
+
+77
+78
+
+HANDBOK
+
+ter läggs i persedelpåse (motsvarande) som märks med identitetsbrickans
+ena halva.
+
+22.8.4 Rapport om fältgrav.
+
+Rapport om gravsättning i fältgrav upprättas och överlämnas till närmaste
+högre chef. Rapporten ska minst innehålla
+
+.« personnummer,
+
+. fullständigt namn,
+
+. dödsdag,
+
+« eventuell minnesstund,
+
+« tid och plats för upprättande av fältgrav, samt
+
+« karta och/eller kartskiss som exakt visar fältgravens plats.
+
+22.8.5 Administration inte identifierad död,
+
+oberoende av nationalitet.
+Dödrapport enligt bilaga upprättas snarast.
+
+Rapportering av döda görs efter att läkare fastställt att personen är död.
+Dödrapport exemplar C och signalement för död skickas till TRM för
+vidare befordran till Nationella upplysningsbyrån (NUB).
+
+Övriga rapporter enligt dödrapporten bilaga.
+Rapportering av döda utländska medborgare sker från TRM till NUB vid
+höjd beredskap och krig. NUB rapporterar om döda utländska medbor-
+
+gare till Centrala krigsfångebyrån, Central Tracing Agency (CTA) som i
+sin tur rapporterar till National Information Bureau (NIB)
+
+OMHÄNDERTAGANDE AV DÖDA
+HANDBOK
+
+Bilaga 1
+OPLATSINSTRUKTION
+
+« ORIENTERING:
+
+« OPLATSENS LÄGE: MGRS
+
+Mål 1, Ori: Avst:
+Mål 2, Ori: Avst:
+Mål 3, Ori: Avst:
+
+« TERRÄNGSKISS:
+
+« MTRL PÅ OPLATS:
+
+« SAMBANDSTJÄNST:
+
+Nät: Lotting:
+
+Passningsalt: Från:
+
+« RAPPORTERING:
+
+« BEREDSKAP:
+
+« AVLÖSNINGSLISTA:
+
+AVSER TIDEN FRÅN TNR: -TNR: Sida:
+
+FÖRBAND:
+
+80
+
+Bilaga 2
+
+RAPPORTLIGGARE
+
+HANDBOK
+
+Avser tiden från TNR: - TNR: Sida:
+Förband:
+TNR STÄLLE STYRKA SLAG SYSSELSÄTTNING SYMBOL SAGESMAN SÄNT
+
+Bilaga 3
+PEDARS
+
+HANDBOK
+
+PLUTON
+
+P-PERSONAL
+
+(antal och om möjligt
+ange namn och befatt-
+ningsnummer)
+
+PERMISSION,
+ANNAN LEDIGHET
+
+SJUKA
+
+SKADADE
+
+DÖDA
+
+SAKNADE
+
+E- ERSÄTTNING
+
+av andra förnödenheter
+(rapport av vad beho-
+vet är)
+
+D- DRIVMEDEL
+(rapport av vad man har
+i 90/fordon)
+
+A- AMMUNITION
+(rapport av vad behovet
+är, ammunitionsslagsvis)
+
+R- REPARATIONER
+(ange fordon och om
+möjligt status, om den
+finns, från teknisk per-
+sonal)
+
+S - STRIDSVÄRDE (samlad förmåga hos rapporterande förband)
+
+81
+82
+
+HANDBOK
+
+Bilaga 4
+METHANE
+
+METHANE är en incidentrapport från skade-/olycksplats som bland annat
+innehåller typ av olycka/incident, antalet skadade och skadetyp samt behov
+av ytterligare resurser.
+
+Skaderapport kan utformas enligt minnesord METHANE.
+
+M
+
+bb I + m
+
+(My call sign) = Anropssignal
+
+(Exact location) = Exakt position skadeplats
+
+(Type of incident) = Typ av incident
+
+(Hazards present or potential) = Faror på platsen, befintliga och möjliga
+
+(Acces to scene/HLS) = Framryckningsväg samt eventuell helikopterland-
+ningsplats
+
+(Numbers and type of casualties) = Antal skadade och deras prioritet T 1
+Immediate — Mycket brådskande T 2 Urgent — Brådskande T3 Delayd - Inte
+brådskande T 4 Expectant - Expektans
+
+(Emergency assets present and required) = Befintliga och begärda resurser
+
+MEDEVAC ”9-liner” REQUEST
+
+1.
+2.
+
+(Exact pickup location) = Exakt position vid hämtplats
+
+(Radio frequence/call sign at pickup site) = Frekvens och anrops-
+signal vid hämtplats
+
+(Number of patients by priority) = Antal skadade och prioritet
+
+ÅA. Urgent non surgical - Mycket brådskande (icke kirurgifall)
+B Urgent surgical - Mycket brådskande (kirurgifall)
+
+C. Priority - Brådskande
+
+D Routine - Inte brådskande
+
+E Convenience - Kan vänta
+
+(Special equipment needed) = Behov av särskild utrustning
+HANDBOK
+
+(Number of patients by type) = Antal skadade/liggande eller sittande
+L. Litter i.e. liggande
+
+ÅA. Ambulatory i.e. sittande
+
+(Security at pickup site) = Säkerhet på hämtplats
+
+N. No enemy troops — inga motståndare
+
+P. Possible enemy troops - möjlig motståndare
+
+E. Confirmed enemy troops —- motståndare i terrängen
+X. Currently engaged with enemy - i strid
+
+(Marking of pickup point) = Markering av hämtplats
+(Patients political status) = Nationalitet/ tillhörighet
+Coalition military — allierad militär
+
+Coalition civilian — allierad civil
+
+Non-coalition military — inte allierad militär
+Non-coalition civilian — inte allierad civil
+
+Enemy POW — krigsfånge
+
+Tom OM m
+
+High value target - dignitär
+
+(HLS terrain/obstacles) = Terrängförhållanden på landnings-
+platsen, eventuella hinder.
+
+83
+84
+
+HANDBOK
+
+Bilaga 5
+MINIPROTOKOLL ÖVERSIKT
+
+| FYLLNADSANVI
+av FÖRSVARSMAKTEN I SNINGAR för
+
+w Minprotokoll - översikt
+
+)
+H
+
+ng för ifyllnad anv sd 1)
+
+Vid kopiering ar peoickollet skall Crigina” sinykas över och
+
+rutan "Kopia" kryssas i och nummer anges.
+
+Fal i antal bilager, I & del antal "Minprolokol! - detalj" sam
+
+här fill mineringen.
+
+1) Om minering ändras i sit utförande för ldigare upprättat
+
+som Rutan £
+
+kureses i och lidpunkien kör revideringen fylls, se punki
+
+2 FPylibeteckning för mineringen. Ex Marön 4, Sigord 7
+DH FFli beeckning fr den Hinpian eller Order som mine-
+
+Fall i vilket förband som utfört mineringen. Beteckningen
+för Brigax, Bataljon och Kompari i klartext
+
+Fyll i beteckning för den karta som ansants. Ex. & HO.
+GF nilket referensspslem som aménis. Ex UTM, RT
+
+35 38 35
+
+Beskriv mineringens läge i födkällande bill et 13 iden
+
+Anvisning för skiss (sid 2)
+Allemativ A "En skiss enligt nomaltal”.
+
+1) Faskläll skala för avbildningen och markera den med
+kryss längs ned på
+
+2 Avbilda wviklgare ferängobjekd som kan underätta
+sdariningen. Vid behov: Skriv ul i klarkend vad som
+
+3; bakea lUgingspunkie” lakera Markera med et kryss och
+skriv. "UP meckat i höger om garkesbgen För
+punkden, skiv även in rumrel för utgangspuniden
+sana puks Ex UP4
+
+4) Markera ”"Statpunider”. Markera med ett krass och skrir
+
+il höger om gen för punkten,
+
+skriv även in numret kr starlfuniden på samma pas
+Ex ST42
+
+5) ONE
+2 Green til höger sm markeringen for punkten,
+skriv även in rumrt för slutpunkten på samma plass
+ER HA
+
+8 Ruin ränna och minner.
+
+1) Pållan
+= Fita in med med
+"WP.
+= Om möjligt Rita in Starlpunkler med rummer, beleck-
+na med "ST nr”.
+
+= Om möjligt Ria in Skipunkier och beteckna med "SL
+
+"aa grant (eller, Höna tba
+del saknas min-
+
+-ronkash
+9) Beskriv utformning av mi ner. Ex Dob-
+10) Ft i Utgångepunkernas nummer och deras koordinaker
+Sa noggrant som möjligt .
+11) Fi ammar för dem Utg som mi
+rutan tillhör. Ex U få
+12) Fyll i nummer för minlinjer/minrutan. Ex. föf.
+17) Frliomdet är ie (ML) eller MR)
+19) Fal i ing från Utga bill Starlpunkt.
+klatera nederst pa blankettens första sidan vilken en-
+
+het som anänds. Ex 1575, 90
+
+19) Fi avstånd ån Uigångspunikd til Statpunkt. Enhet är
+meller. Ex 225 m
+
+1 fn LJ kt
+a Starlpunid ll Slulpunkt. Ange
+
+Är Er sken kerrängcbjekt denna Inge sträcker sig.
+45" efler Längs Lillis so0a sand.
+
+17) Fi minlinjeresninrukares ängel Enhelen är meter. Ex
+
+19) Fyll i vilken bredd Minrutan har på bögpe sidor av
+syflinjen. Ex Vä NH 12 fdvs fredden är 6 om kl vänster
+och 12 mä höger om syflinjen.
+
+fot ärad jar Gt om mög
+
+jer följa tydliga terängmarkeringar.-
+23 Klipp ur den del av kartan som mineringen är inritad på
+kartans beteckning på
+HANDBOK
+
+NINPROTOKOLL - översikt
+Datan
+
+äv FÖRSVARSMAKTEN bälg
+Numer
+id Cd arigina Datan CO Kopia
+Protolal or are [ Rev kd
+Nineri
+[Eäneringr es Elen Y Th ratapta kader 9
+Tidpunkt för Är un Daq [] TAnGI nina
+
+sn - alv 9
+Mänerance fitornd fört, Ba, Komp, 5 son [2]
+[Bacbtning av nisedngens lige I skal 3)
+[BBcbiv ulkanring 2v nisvaningsssonsingar 5)
+Ingående ulgängspurnkler 9
+
+fr Koaordirater Mr Koordinater
+Läge för minlinjer och
+
+LL Ig| nigger | Koen
+= - = ”
+
+ugh fm en [SER EN EG 4 | me |
+i
+-
+EJ
+i
+:
+I
+| JGrader etwarv=390 = | [Streck etlvan= B300 Ske ö |
+
+85
+Översikts skiss
+
+Fila in nompil
+
+HANDBOK
+
+Kartklipp kan ansandas i stället för skiss.
+
+blarkera avi d kryss
+
+Skala Ruka på skiss | Meter i feräng Svbikkrde omricie
+1400 1 4m 200x1f0m
+
+| 250 1 im 500x40m
+
+| J:son 1 Zm 1000 x ES0m
+
+LC: 1 m m
+
+86
+
+HANDBOK
+
+Bilaga 6
+MINIPROTOKOLL DETALJERAT
+
+[| SNINGAR för
+Ninprotokoll - detalj
+
+Å FÖRSVARSMAKTEN
+
+fsning för ifyllnad anv fsk 1)
+Vid kopiering ar skall Criginal siykas över och 19) De fem Akolumnema fyls i sä längt de räcker,
+rutan "Kopia" kryssa i och nummer anges. wvidbehov ansands Biolmnema. Har minoma bats i
+9). Ommrinering ärar åt rade år igar upgälal EE Sing ISF käre ar Rn RÅ
+protokoll som Rutan Alm 149
+kypssas i och lidpunklen för revideringen fsls, se punid MIM)
+& Fyll i ell löpande nummer för varje mina som läggs ut
+2 Fyllimininjers/minrutans nummer. AJB) i .
+För minrubg i anvskandet i Ga fan
+I åse see flv den n Lf jprkdrs a bira
+2 ar bäde skida mer och ford För mininje; Få i ändel från St |
+oresminor. mirnan. Enhet är meter.
+. 2 2 Av
+5 Fi hur minoma har spridis ut; Hör kand, M=mas- Fär minnsta: uiken sib om 2
+ket, A armad satt er. märker (V) eller höger (1). OEIS! På el och samer
+& Fi då minoma F och - & st en mina läggas på en och samma
+skall vara med arlal och manad saml ett 6-stalligt lids- sik, dvs på avständel X m far det bara ligga en mina
+nummer (är manad dag fm min) Fyll i hur manga på tänker sila, men det får på samma [tid
+fimmar minoma är akta (om de är försedda med kare I otnkn an ke rr Heta
+själförstöring eller motsv). nn miran kgger.
+nn SIE at Sett männen. Belenkningen MIBD
+för Brigad, Blataljon och Kompari i klartest: Fyll i vilken typ av mina som placeras ut. Sknvmina 555,
+
+T Fall i niken kata som bör amändas för att äkerinna
+minesngen, armärnd om möjligt Lantmäteriserkeks be
+teckningar. Ex I D 50 Skövele
+
+9) Fylli viket reberernssystem som amans Te RT 90,
+UTM, MERS.
+
+10) Beskriv xd Ukgingspunkten är fruar den ser utj. Börja
+
+11) Fall i kocrdinaer för Ukgingspunklen så noggran som
+möjligt Armvärnd om möjligt saltefksiödd posfoneringsut-
+nesining (GPS)
+
+12) Fyll i Viking och smetårel från Utglngspnmbden B Sat-
+punklen. Enhet för rikining anges genom all bys i
+amänd enhet nederst på blanketien. Enhet för avstand
+anges i meter, mat om möjligt med t ex matfirna
+
+13) Beskriv vad Starlpuniden är (hur den ses ut).
+
+19) logens få Stalpundken si noggrant som möj-
+ligt Aniänd om möjligt saltefbslödd posikoneringsutnad-
+ning (GPS)
+
+15) FA i ritining och avslår från Starigunkden tl Skåpunk-
+ten. Enhet för rikining anges genom all kryss i amänd
+
+enhet nederst på blanketten. Enhet för aständ anges i
+meller, mat om möjligt med t ex mätina. Des fnje son
+bildas mal dess punkter oltsör sinrats sl ok
+
+minfrjes syftftrye
+
+18) För krokig mininje; Beskriv sträckningen av minlinjen,
+Ka far len jljer 20 (essän. P0 i Häng ån Start-
+punkden fill Slulpunklen Enhet för längd anges i meler,
+mat om möjligt med t ex maällina
+
+17) Fa i koordinaler Fr Sktpunkten så noggrant som möj-
+ligt Ankänd om möjligt saltefbslödd posifoneringsutnad-
+ning (GP5)
+
+181) Beskriv vad Slutpunkten är (hur den ser ufj.
+
+Sinymira 655, Forbrsmira 13-13, Fordoressmina 13 R=
+13R. Fardarsmina 14-14.
+
+et kryss och skriv "Start" i
+
+Ran pe
+amFadesverkan de minor. Rila en sireckad pil fran minan
+i verkansomradets os
+
+Ria in ferrängobj ertätta
+
+87
+88
+
+HANDBOK
+
+div FÖRSVARSMAKTEN
+w
+
+NINPROTOKOLL - detalj
+Datan
+
+HA
+
+ck
+5
+
+Antal bilagor
+
+a Nummer
+
+Co Kopia
+
+Kl
+TAnGT inna
+TRining TAR
+LJ
+Ting TA
+
+Detaljer för minlinjeksinnuta "+
+Li
+
+| rate | "Tacka | pek) | tätt | "ay | ver
+
+MTAkS2140 Ilgia 1 fing 2 LIME) 2000-41. 20000 ac
+
+[rg La bid TAnge melbd
+mx Coe en [lie []anranreka
+[Grader ett wars = 380 [ [Strecik; ett van = B300 Skiss ö krv ing gort på
+
+HANDBOK
+
+Detalnskiss
+Rika in nompil.
+
+blarkera anvä d kryss
+
+Skal Ruka på skiss | Meter i tema avbiklre pmrice
+[ ]128 1 im 50x40m
+| lisa 1 2m 100xz Elm
+
+1400 1 äm 200x180m
+
+mm 1 m m
+
+89
+Bilaga 7
+DÖDSRAPPORT
+
+HANDBOK
+
+LJ
+sraranad [igen [ör en
+nn Färkandkos [örat Peson—
+| Fes | Kar I fe per
+
+& IR |
+
+&n
+
+nm
+
+MIMt2-481700. Utgba 4 Pikdadad) ID bbokt 10 mA
+
+SAnges on nöjlgt av Cice.
+
+91
+92
+
+HANDBOK
+
+Sänds il chefen för den dödes förband. Kan
+delta ej fsklällas fogas rapparen fil C+D.
+
+DÖDRAPPORT B
+
+D00000
+
+MIift-SOTRb. Ulgiva 4. Pikkarial IDO hol å 10wl sr 2000-04
+
+SANFES ora radjigt av läkare
+
+HANDBOK
+
+DÖDRAPPORT C OD0000
+
+Öm annan fn svek)
+
+Ad a
+
+MT Ilgia 4 Pikkadkal IDO Mack å 101 sv 2000-04
+
+93
+HANDBOK
+
+& jun
+
+Den Häl peng a fe, nn Och fran) |
+
+>
+
+2 ja
+
+1 FO EF
+
+M2-AMTRR Ilpia 4 Pilbakej DO back & Tod sir 2000-04
+
+Krserarnati PO den dk: pj keniilerats kömrvicas til bilgat
+ngået dödrapper
+
+Ulardaa ova SAnes ve ratjägt avtäcre.
+HANDBOK
+
+Bilaga 8
+SIGNALEMENT FÖR DÖD
+
+MIYfR-281 7 Ulgka 3 2000-04
+
+SIGNALEMENT FÖR DÖD 12
+som ej kunnat identifieras
+Oalua Oödrapporinaraner
+Oral Bllpadnunner
+
+PG |
+
+[Sea MORA []Sluttande
+lg [Kort [CO] Framskj
+Fontal  ]Torara! PF | Kost [ungt
+= bena [Ove DC] [C]öskåttamnent
+min Föra Föga Polk [ölKnsigt
+
+- [va CöRa POS [Oo Gspräng
+an Säska []Potsonger [esta []Kentkögg [] Hokskägg []Hetsköga
+—acher Melan-
+
+[Jaan Citand  [OMörktiona Ouietren Jeon (CO Märkbrin
+
+Rädblond Röd Svat — Grå
+ES 5 a a SN mn EM om CM mm
+Ögon Bä OD [OO Sutakig fö läskrn [jua
+Samman- lön]
+
+|Ogontryn — [ö]Länga fö ]Karta Po Jvänta [Tuna fö] Krätiga |Euskiga
+la [JR Coke Ova  COKone Co COuten I:
+
+mel Jremnäsa []Uppeisa
+a a a
+
+Tilbaka- Fram-
+
+Haka Vertikal []utande  P]ski Clare ImED) CJ
+Mun Stor Lien ma Tuna — K]Tipda öm mt
+
+Sara
+CJ fer
+
+95
+96
+
+MIM äL-20 TT MIL Ulgåva 2 2000-04
+
+HANDBOK
+
+Saknar ängar
+CO ma a
+du mt Dn
+5 LJ [Sn —
+fate oe ör ==
+JE kroppen Tate sg Tkr
+| Är, leverfäckar, värkar, [eg len,
+
+Kläder;
+Faria ock nanna TrEvE
+I UR
+ringar
+Föremål i
+Iden dades
+höder
+Folio
+Föremål i VErlfyg. vapes a & vach dessa nering
+Iden dades
+närhet
+SF ae Kätand, enblen,
+räiniag mn a
+möjlgi bör ak Oc skal eliketisas ned
+
+äv safkån provel fart. Proven
+
+lnkäggs I ell kuvert reed tydlig ch bögar deres kaxig örn
+HANDBOK
+
+Bildförteckning
+
+Bild nummer Fotograf tecknare Notering
+Omslagsbild Christian Wallenius Avtal
+11.1-7 Joachim Peru, HvSS
+
+12.1-12.3 Försvarsmakten
+
+19.1 Grafiks produktion, FSV/FMV
+
+18.1 Försvarsmakten
+
+19.1-19.3 Försvarsmakten
+
+BILDFÖRTECKNING
+
+97
+HANDBOK
+
+Källförteckning
+
+Regler, bestämmelser och handböcker som påverkat innehållet i denna
+
+handbok:
+
+Hemvärnsreglemente Bataljon Kompani — 2002 (M7741-722001)
+Infanterireglemente skyttekompani — 1981 (M7741-111470) Hävd.
+Handbok Hemvärn 2016 (FM2016-184:4)
+
+Handbok Markstrid — Kompani 2016 (FM2016-6315:3)
+
+Handbok Armé — Begrepp och förkortningar — 2016 (FM2016-6307:3)
+
+Handbok Armé — Ledning -2016 (FM 2016-6306:3)
+
+KÄLLFÖRTECKNING | 99
+          Handbok Hemvärnskompani består av en serie om tre delar.
+
+          Del 3 beskriver grunderna för funktioner samt hur kompaniet löser
+          uppgiften ytövervaka respektive eskort.
+
+
+
+
+                                                                        H Hvkomp del 3
+107 85 STOCKHOLM                                                         M7739-352079
+www.forsvarsmakten.se
+                                                        *PM7739352079*
+

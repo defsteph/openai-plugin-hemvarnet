@@ -1,0 +1,6 @@
+interface:
+  display_name: Hemvärnets Kunskapsbank
+  short_description: Sök i Hemvärnets handböcker med sidreferens.
+  default_prompt: Hitta ett svar i Hemvärnets handböcker och citera bok med sidreferens.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
