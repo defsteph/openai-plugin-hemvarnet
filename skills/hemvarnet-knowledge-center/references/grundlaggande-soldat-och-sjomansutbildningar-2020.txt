@@ -1,0 +1,5544 @@
+                     Handbok      Grundläggande
+
+                     soldat-      och    sjömansutbildningar
+
+
+
+
+                                                                     2020
+                                     HANDBOK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                       HANDBOK
+
+                    GRUNDLÄGGANDE                SOLDAT-        OCH
+
+                                SJÖMANSUTBILDNINGAR
+
+
+                                                            H GSSU 2020
+                                       HANDBOK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            © Försvarsmakten har upphovsrätt till detta verk
+
+            Bilder på omslaget: Anna-Karin Wetzig, FM HRC GP
+            Grafisk bearbetning: Jacob Flodén
+            Produktionsid:    200507033
+            Produktionsformat: Word, A4
+            Publikationsområde: C PROD FPE
+            Tryck:            Behovstryckning
+
+                                         2
+                                             VIDAR-handling: FM2020-13762:1
+
+
+
+            Beslut om fastställande av Handbok Grundläggande  soldat-
+            och sjömansutbildningar 2020
+
+
+            Handbok Grundläggande soldat- och sjömansutbildningar (H GSSU 2020) fastställs
+
+            att gälla från och med 2020-07-01.
+
+            Publikationens har inget registrerat M-nr.
+
+            Följande upphävs 2020-07-01:
+             H GSSU 2017, gällande från och med 2018-07-01.
+             Kursplan för Grundläggande Militär Utbildning (GMU), HKV 19 100:65227,
+              2010-11-22
+             Kursbeskrivning för Grundläggande Militär Utbildning (GMU), HKV 19 100:67883,
+              2010-12-01
+             Kursplaner för GB-utbildning, MHS H 2015-01-16 19100:10018
+
+            Publikationen tillgängliggörs genom publicering på intranätet EMILIA och på
+            www.forsvarsmakten.se.
+
+            Detta beslut är fattat av generalmajor Anders Callert. Föredragande har varit överste
+            Peter Nilsson.
+
+
+
+
+
+            Anders Callert
+            FM UTBCH
+
+
+                                    Peter Nilsson
+                                    Stf C HKV PROD FPE UTB
+
+
+
+
+
+
+
+
+
+                                         3
+                                       HANDBOK
+
+
+
+            Ändringar
+
+
+            Nr  Mom  Omfattning             Datum föredragning VIDAR-
+                                            Beslut av    handling nr
+                                            2020-05-13
+            0        Ursprunglig fastställelse C PROD FPE UTB FM2020-13762:1
+
+                                            2020-06-10
+                                            FM UTBCH
+
+
+
+
+
+
+
+            Sida avser sidnummer i den rättade versionen.
+
+            Ändringar i texten framgår av ändringsmarkör.
+
+
+            Kom ihåg!
+
+            Om du läser denna publikation i pappersform – kontrollera att du har den senaste
+            utgåvan. Fastställd och gällande utgåva finns alltid publicerad på Försvarsmaktens
+            intranät.
+
+            Förslag om ändringar ska skickas MHS H/ORE på mejladress: mhs-h-gu@mil.se
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                         4
+            Förord
+
+            Genom utbildningsanvisningarna i H GSSU säkerställs en lägsta-nivå på förmågor för
+
+            soldater, sjömän, gruppbefäl, hemvärnssoldater, m.fl. i krigsförbanden.
+
+
+                "Vår militära förmåga ska utgöra en starkt avhållande effekt mot alla typer av hot
+                och angrepp, där den unika kompetensen och förmågan hos varje anställd och
+                frivillig är avgörande."
+
+                ÖB Michael Bydén
+
+            Reglemente grund- och repetitionsutbildning (R GURU) kravställer att denna handbok
+            ska finnas.
+
+            H GSSU innehåller anvisningar med förklaringar och beskrivningar samt vidare hänvis-
+            ningar för grundläggande och generella utbildningar i den militära grundutbildningen
+            och i annan grundutbildning av militär personal.
+
+            Anvisningarna i handboken bör följas om särskilda skäl inte föreligger för att genom-
+
+            föra verksamheten på ett annat sätt. Handboken innehåller dessutom råd, riktlinjer och
+            rekommendationer. Ytterligare anvisningar för utbildningarna återfinns på
+            EMILIA/GSSU.1
+
+            Målgruppen för handboken är personal som ska genomföra grundläggande soldat- eller
+            sjömansutbildningar inom Försvarsmakten eller i frivilliga försvarsorganisationer.
+
+            Användaranvisning
+
+            H GSSU är gjord för att tryckas ut och sättas i pärm (530–1103 Office Depot -
+            vitplastpärm 50 mm) med pärmregister (1–12).
+
+
+            Handlingens missiv, etc. sätts under flik 0, kapitel 1 sätts under flik 1, kapitel 2 under
+            flik 2, osv.
+
+            Varje utbildningsanvisning har en egen innehållsförteckning.
+
+            Vad avser begrepp som används i denna handbok finns några begrepp definierade under
+            vissa kapitel. I övrigt hänvisas till begreppsdefinitioner i enlighet med R GURU, t.ex.
+            vad avser begreppet värnpliktig.
+
+
+
+
+
+
+
+
+
+            1 Se avsnitt – Utbildningsanvisningar
+
+                                         5
+                                       HANDBOK
+
+
+            1.   Inledning
+
+            1.1. Allmänt
+
+            H GSSU beskriver målsättningar, krav för godkänt resultat och i förekommande fall
+            andra områden som måste regleras för vissa gemensamma och grundläggande utbild-
+            ningar avsedda för personal i Försvarsmaktens krigsförband.
+
+            Syftet med H GSSU är att säkerställa att grundläggande krav på förmågor utvecklas för
+            soldat-, sjömans- och gruppbefälskategorier. Krav på förmågor hos enskilda individer
+            ska i sin tur säkerställa såväl viss förmåga i krigsförbanden som verksamhetsmässiga
+            krav på säkerhet. Vidare underlättas personalrörlighet inom Försvarsmakten och fortsatt
+            förmågeutveckling där krav på grundläggande förmågor finns.
+
+            Grundläggande soldat- och sjömansutbildningar kan genomföras inom ramen för olika
+            lagar och förordningar såsom:
+                lagen (1994:1809) om totalförsvarsplikt
+                förordning (1995:238) om totalförsvarsplikt
+
+                officersförordning (2007:1268)
+                förordning (1994:524) om frivillig försvarsverksamhet
+
+            Utbildningarna GSSU kan även bedrivas som annan utbildning och/eller av annan ut-
+            bildningsgivare än Försvarsmakten, t.ex. frivilliga försvarsorganisationer.
+
+            Inom ramen för anställning inom Försvarsmakten kan GSSU genomföras som Yrkes-
+            och befattningskurs (YBK).
+
+            1.2. Begrepp
+
+            I R GURU definieras vissa begrepp som även gäller för denna handbok. Det tas inte upp
+            nedan. I denna handbok används följande begrepp med följande innebörd:
+
+            Begrepp        Innebörd
+
+            R GURU         Reglemente för grund- och repetitionsutbildning
+
+            H FRIV         Handbok Frivillig försvarsverksamhet
+
+            HVH            Hemvärnshandboken
+
+            Utbildningskontroll Inom GSSU värderas måluppfyllnad mot utbildningsmål över-
+                           lag genom utbildningskontroller. Dessa kan vara både teoretiska
+                           och praktiska i sin karaktär.
+
+            GSSU-förmåga   Ett generaliserat begrepp för att beskriva en samlad förmåga
+                           som soldat/sjöman och omfattar förmågor inom områdena va-
+                           pentjänst, strid, försvarsmedicin, folkrätt, m.fl.. På motsvarande
+                           sätt kan t.ex. begreppet GMU-förmåga användas.
+
+
+
+
+
+                                         6
+            GU             Militär grundutbildning genomförd enligt lagen (1994:1809) om
+                           totalförsvarsplikt
+
+            EMILIA         Försvarsmaktens intranät
+
+            EMILIA/GSSU    Samarbetsytan Grundläggande soldat- och sjömansutbildningar
+                           (GSSU) på EMILIA
+
+            Basförmåga     Den samlade förmåga som målsättningarna i GMU motsvarar
+                           (jämför GMU-förmåga).
+
+            Tilläggsförmåga Eventuellt Försvarsgrens-/stridskraftsvis gemensam förmåge-
+                           nivå, utöver basförmågan GMU.
+
+                                                               Tabell 1.1.
+
+            1.3. Grundläggande soldat- och sjömansutbildningar (GSSU)
+
+            Begreppet GSSU myntades 2013, efter en utredning av det dåvarande s.k. OR-projektet.
+            OR-projektet hade, på uppdrag av HKV PROD UTB, kartlagt de olika grundläggande
+            soldatutbildningar (GSU) som genomfördes inom Försvarsmakten. Utbildningar som
+            syftar till att ge en individ grundläggande förmåga inom vapentjänst, försvarsmedicin,
+            strid, folkrätt, etc. för att i sin tur kunna krigsplaceras i ett av Försvarsmaktens krigsför-
+            band.
+
+            Kartläggningen gav vid hand att olika grundläggande soldatutbildningar genomfördes
+            med vitt skilda innehåll och olika krav för godkänt resultat. C FÖRBPROD fastställde
+            därför 2013 ett antal olika utbildningar som sammantaget ledde till fem ”nivåer av suc-
+
+            cessivt ökad GSU-förmåga” för personal i krigsförbanden.2
+
+            Under 2013 utvecklades begreppet GSU till GSSU för att tydligare inteckna även sjö-
+            män som avnämnare ur utbildningarna.
+
+            Alla befattningar i krigsförbanden omfattas av en GSSU. Krigsförbandsansvarig (KFA)
+            fastställer i dokumentet ”målkatalog befattning” vilken GSSU som befattningskategorin
+            berörs av.
+
+            GSSU fr.o.m. 2020 omfattar inte längre utbildningarna Fortsatt soldatutbildning (FSU)
+            och Fortsatt sjömansutbildning (FSjU). Dessa utbildningar kan istället ersättas av en
+            försvarsgrens- eller stridskraftsvis tilläggsnivå, se bild 1.1, som kompletterar basnivån
+            GMU.
+
+            Eventuell tilläggsnivå ska framgå av respektive försvarsgrens- eller stridskrafts H GU.
+            Vid framtagandet och översyn av försvarsgrens- eller stridskraftsvisa tilläggsnivåer ska
+            sakområdesansvariga enligt denna handbok delta, se tabell 1.3.
+
+            H GSSU 2020 omfattas av följande grundläggande soldat- och sjömansutbildningar, se
+            bild 1.1 och tabell 1.2.
+
+
+
+            2 HKV 2013-02-05, 19 130:52853
+
+                                         7
+                                       HANDBOK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                           Bild 1.1 Utbildningsstrukturen för GSSU.
+
+            Utbildning Betydelse    Anmärkning
+            (Kapitel)
+
+            GMU      Grundläggande  GMU är en förteckning över utbildningsmål som
+            (2)      militär utbildning ska säkerställa grundläggande förmågor hos alla
+                                    soldater och sjömän efter genomförd GU.
+
+            GBU      Gruppbefälsutbild- GBU är en förteckning över utbildningsmål som
+            (3)      ning           ska säkerställa grundläggande förmågor hos alla
+                                    gruppbefälskategorier
+
+            FGBU     Fortsatt gruppbe- FGBU är en förteckning över utbildningsmål som
+            (4)      fälsutbildning ska säkerställa grundläggande förmågor hos alla
+
+                                    kontinuerligt tjänstgörande gruppbefälskategorier.
+
+            GU-F     Grundläggande  Utbildningsmål för GU-F utgör lägsta GSSU-nivå
+            (5)      soldatutbildning för för personal vilka ska beväpnas. GU-F genomförs i
+                     frivillig personal huvudsak av personal till Hemvärnet.
+
+
+
+
+
+
+
+                                         8
+            GSU      Grundläggande  Samma utbildningsmål som GU-F men med ett
+            (6)      soldatutbildning annat upplägg som möjliggör genomförande för
+                                    Försvarsmaktsanställd personal med ordinarie ar-
+                                    betstidsuttag. Lägsta GSSU-nivå för personal vilka
+                                    ska beväpnas.
+
+            GSU INT  Grundläggande  För personal som ska genomföra internationell in-
+            (7)      soldatutbildning för sats men som saknar militär grundutbildning.
+                     internationell tjänst
+
+            KombU    Kombattantutbild- Dessa utbildningsmål är avsedda för såväl kombat-
+            (8)      ning för obeväpnad tanter som icke kombattanter enligt Totalförsvarets
+                     personal       folkrättsförordning (1990:12)
+
+                                                               Tabell 1.2.
+
+            Grundutbildning mot särskilda inriktningar (GU/SI), Militär grundkurs (MGK) inom
+            ramen för Särskild officersutbildning (SOFU), Fortsatt soldatutbildning Internationell
+            tjänst (FSU INT) samt Enskild rotationsutbildning internationell insats (ER INT) är
+            utbildningar som ligger i ”gränslandet” till utbildningarna i H GSSU. Dessa
+
+            utbildningar är dock begränsade i omfattning, omfattas av andra särskilda regler och
+            regleras därför lämpligast i andra former än via H GSSU.
+
+            Regleringar för dessa utbildningar ska dock göras åtkompliga via EMILIA/GSSU.
+
+            1.4. Ansvarsfördelning GSSU
+
+            H GSSU fastställs av FM UTBCH.
+
+            Varje utbildnings övergripande reglemente eller handbok styr ansvarsförhållandena i
+            respektive utbildning. För GSSU som exempelvis genomförs inom ramen för lagen
+            (1994:1809) om totalförsvarsplikt regleras ansvarsförhållanden enligt R GURU.
+
+            GSSU som genomförs av frivilliga försvarsorganisationer på uppdrag av Försvarsmak-
+            ten (t.ex. GU-F) genomförs enligt H FRIV.
+
+            GSSU som genomförs som hemvärnsutbildning (t.ex. KombU) genomförs enligt HVH.
+
+            GSSU som genomförs som yrkes- och befattningsutbildning för anställd personal inom
+            Försvarsmakten (t.ex. GSU INT) genomförs enligt Reglemente utbildning (R UTB).
+            Metoder för rapportering av dessa utbildningar anges i denna handbok.
+
+            MHS H, med stöd av sakområdesansvariga förband enligt tabell 1.3, utarbetar utbild-
+            ningsanvisningar för GSSU. Förband har uppdrag som sakområdesansvariga i GSSU
+            enligt VU.
+
+            På uppdrag av Försvarsmaktens utbildningschef genomför MHS H uppföljning av ut-
+            bildningar reglerade enligt H GSSU.
+
+
+
+
+
+                                         9
+                                       HANDBOK
+
+
+           Förband               Ansvarar för sakområde
+
+           MHS H                 Försvarsupplysning
+                                 Värdegrund och etik
+                                 Samarbetsförmåga
+                                 Mental träning
+                                 Trupputbildning/Pedagogik
+                                 Truppföring/Ledarskap
+                                 Övriga, ej fördelade sakområden
+           MSS                   Skjututbildning
+                                 Strid
+                                 Närkamp
+
+                                 Folkrätt
+                                 Irreguljär krigföring
+           MHS K/FMIF            Fysisk prestationsförmåga
+                                 Fysiskt stridsvärde (med delmängder ur försvarsmedi-
+                                 cin, SERE och Kallt och varmt väder)
+           Arméstaben Marksäk.sekt Verksamhetssäkerhet
+
+           HKV LEDS/TF/          Miljöutbildning
+           Hållbarhetssektionen
+           SkyddC                CBRN-utbildning
+                                 Brandutbildning
+           FömedC                Försvarsmedicinsk utbildning
+
+           FM UndsäkC            Skyddsvaktsutbildning
+
+           K 3/FÖS               SERE utbildning
+
+           LedR/LedSS            Sambandstjänst
+
+                                 Karttjänst
+           I 19/VintE            Fysiskt stridsvärde – Kallt väder
+
+           Ing 2/FarbS           Fältarbetstjänst
+
+                                                               Tabell 1.3.
+
+            1.5. Utbildningsanvisningar
+
+            Utbildningsanvisningar för utbildningar enligt tabell 1.2 framgår av kap 2–8 i denna
+            handbok.
+
+            Av respektive utbildningsanvisning framgår bl.a. utbildningsmål, krav för godkänt re-
+            sultat, eventuella anvisningar för utvärdering, rapportering och dokumentation efter
+            genomförd utbildning.
+
+            Fr.o.m. H GSSU 2020 framgår inte längre hänvisningar till utbildningsunderlag såsom
+            publikationer, lärarhandledningar, övningsförteckningar, bildspel, etc. i själva handbo-
+            ken. Dessa underlag är en väsentlig del i kvalitetssäkringen av utbildningarna och ska
+
+
+
+                                        10
+            istället återfinnas på EMILIA/GSSU, under respektive utbildning. Motivet till detta är
+            att minska behovet av revidering av handboken.
+
+            Förändringar av utbildningsanvisningar enligt denna handbok sker enlig följande prin-
+            cip: MHS H, med stöd av sakområdesansvariga förband, bereder förändringar och före-
+            slår dessa för fastställande. I beredningen ska synpunkter inhämtas från staber, försvars-
+            grenar, stridskrafter och förband.
+
+            1.6. Pärmregister
+
+            Pärmregister att sätta i H GSSU pärmens som inledning, se nästa sida.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        11
+                                       HANDBOK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        12
+            INNEHÅLL  H GSSU  2020
+
+            Kap   Missiv,  förord,  läsanvisning   samt   revide-
+                  ring
+
+
+             1    Inledning
+
+
+             2    GMU
+
+
+
+             3    GBU
+
+
+             4    FGBU
+
+
+
+             5    GU-F
+
+
+             6    GSU
+
+
+
+             7    GSU   INT
+
+
+             8    KombU
+
+
+
+             9    Eftertext
+
+
+             10
+
+
+
+             11
+
+
+             12
+
+
+
+
+
+
+
+
+
+                                        13
+                                       HANDBOK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        14
+                          Utbildningsanvisning      för
+
+                Grundläggande      Militär  utbildning   (GMU)
+                                2020  års utgåva
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        15
+                                       HANDBOK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        16
+            Innehåll
+            2. Grundläggande militär utbildning (GMU) ............................................................. 19
+             2.1. Allmänt ...................................................................................................................... 19
+
+             2.2. Kvalitetssäkring av GMU-förmågan.......................................................................... 19
+             2.2.1. Allmänt om kvalitetssäkring av GMU-förmågan .................................................. 19
+
+             2.2.2. Utbildningskontroller ............................................................................................. 19
+             2.3. Genomförande av utbildning mot GMU-målsättningarna ......................................... 20
+
+             2.4. Målsättningar GMU-förmågan .................................................................................. 20
+               2.4.1. Slutmål för GMU-förmågan ............................................................................... 20
+               2.4.2. Slutmål 1 ............................................................................................................. 21
+
+               2.4.3. Slutmål 2 ............................................................................................................. 23
+               2.4.4. Slutmål 3 ............................................................................................................. 24
+
+             2.5. Instruktörskompetens ................................................................................................. 26
+             2.6. Dokumentation av GMU ........................................................................................... 26
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        17
+                                       HANDBOK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        18
+            2.   Grundläggande  militär utbildning (GMU)
+
+            2.1. Allmänt
+
+            GMU är en sammanställning över målsättningar vilka ska vara nådda senast vid GU
+            avslutning.3 Målsättningarna ska uppnås av alla värnpliktiga och skapar därmed en
+            lägsta förmågenivå – GMU-förmåga – för alla soldater och sjömän efter genomförd GU.
+
+            De tidigare styrningar som funnits rörande GMU genomförande (t.ex. projekt och
+            strimmor samt styrningar i tid) har tagits bort genom särskilt beslut av FM UTBCH.4 De
+            nya styrningar som gäller för GMU påminner om de styrningar som fanns i systemet
+            före GMU, Försvarsmaktsgemensamma krav på förmåga för soldater och sjömän
+            (FSS).5 Likaså finns fortsatt stor likhet mellan GMU och FSS vad avser utbildningsmål-
+            sättningar.
+
+            2.2. Kvalitetssäkring av GMU-förmågan
+
+              2.2.1. Allmänt om kvalitetssäkring av GMU-förmågan
+
+            GMU-förmågan kvalitetssäkras genom:
+              1. En tydlig övergripande uppgift – alla utbildningsmål enligt GMU förteckningen
+                 ska nås av alla värnpliktiga innan GU avslutas.
+
+              2. Tydligt formulerade utbildningsmål syftande till att uppnå önskvärt utbildnings-
+                 resultat.
+              3. Tydliga utbildningshänvisningar/-stöd vilka ska tillhandahållas av sakområdes-
+                 ansvariga för att förtydliga målsättningen – Vilket utbildningsresultat ska upp-
+                 nås? – Hur bra ska den värnpliktige bli? – När vet jag att den värnpliktige kan
+                 det som målet avser?
+                 Som ansvarig för utbildningens genomförande på förband ska man ta del av och
+                 förhålla sig till dessa anvisningar.
+              4. GMU-målsättningarna kontrolleras genom ett antal centralt fastställda utbild-
+                 ningskontroller, se avsnitt – Utbildningskontroller.
+              5. Utbildning mot GMU-målsättningarna ska följas upp.
+              6. Vid GU konferens belyses och klarläggs GMU-målsättningar.
+              7. Förband ska uppmanas att skapa interna rutiner till stöd för att organisera, ge-
+                 nomföra och följa upp utbildning mot GMU-målsättningarna.
+
+              2.2.2. Utbildningskontroller
+
+            Som en delmängd i kvalitetssäkringen av GMU-förmågan ska ett antal utbildningskon-
+
+            troller genomföras. Dessa utbildningskontroller framgår av tabell 2.1. Ytterligare anvis-
+            ningar för utbildningskontrollerna framgår av EMILIA/GSSU/GMU.
+
+
+
+
+            3 ”[…] senast vid GU avslutning” innebär att alla utbildningsmål enligt tabell 2.2–2.4 ska vara uppnådda
+            senast vid GU avslutning. Detta utesluter inte att krav på förmågor kan ställas tidigare under GU, t.ex. om
+            värnpliktiga ska lösa uppgift som skyddsvakt. Vidare bör vissa utbildningsmål ur slutmål 2 och 3 uppnås
+            tidigt under GU. Tidpunkter för måluppfyllnad regleras av C GU.
+            4 FM2019-14139:1 C PROD FPE/FM UTBCH beslut rörande GMU inom ramen för GU
+            5 HKV 19 200:65019
+                                        19
+                                       HANDBOK
+
+
+            Vid en underkänd utbildningskontroll ska den värnpliktige erhålla respons på sin insats.
+            Kompletterande utbildning och handledning ska erbjudas och den värnpliktige ska
+            medges tillfälle för ny utbildningskontroll.
+
+            Flera utbildningskontroller kan genomföras och denna handbok reglerar inte något max-
+            imalt antal utbildningskontroller. Principen är istället ”så många som skäligen kan ar-
+            rangeras”. Antal utbildningskontroller och dess resultat ska löpande dokumenteras.
+            Hela GU-tiden ska utnyttjas för att nå godkänt resultat på GMU utbildningskontroller.
+
+            De värnpliktiga ska veta att utbildningskontroller kommer genomföras. Den värnplikti-
+            ges resultat på utbildningskontrollerna ingår som delar i värdering av förmåga samt
+            värdering av lämplighet inom ramen för militärbetyget.
+
+            Sammanställning av utbildningskontroller för GMU Ansvar
+
+
+            1   Prov KompI (motsv)                 MHS H
+            2   Prov vapenhantering och säkerhetsbestämmelser MSS
+            3   FM kompetensprov Eldhandvapen      MSS
+            4   Kunskapsprov folkrätt              MSS
+                                                                Tabell 2.1
+
+            2.3. Genomförande av utbildning mot GMU-målsättningarna
+
+            Principer för utbildning mot GMU-målsättningar, precis som annan utbildning under
+            GU, framgår av Handbok Utbildningsmetodik (H UTBM).
+
+            På EMILIA/GSSU/GMU ska hänvisningar återfinnas i enlighet med avsnittet – Utbild-
+            ningsanvisningar, kapitel 1 i denna handbok.
+
+            Den samlade utbildningstiden som åtgår för att utbilda mot GMU-målsättningarna är ca
+            8 veckor.
+
+            2.4. Målsättningar GMU-förmågan
+
+              2.4.1. Slutmål för GMU-förmågan
+
+            Gemensamt för alla värnpliktiga är att de efter GU ska kunna:6
+              1.   försvara sig själv och tillsammans med andra kunna bevaka objekt och/eller
+                   försvara terräng, plats, anläggning eller verksamhet.
+              2.   lösa sina uppgifter utifrån en förståelse för dessa i ett större sammanhang.
+              3.   handla på ett sådant sätt att de lagar, regler, bestämmelser, rättigheter, skyl-
+                   digheter, m.m. som gäller efterlevs.
+
+            Slutmålen bryts i denna utbildningsanvisning ner till konkreta utbildningsmål och besk-
+            rivs som en viss förmåga i en given situation.
+
+
+
+
+            6 ”[…] efter GU” innebär att alla utbildningsmål enligt tabell 2.2–2.4 ska vara uppnådda senast vid GU
+            avslutning. Detta utesluter inte att krav på förmågor kan ställas tidigare under GU, t.ex. om värnpliktiga
+            ska lösa uppgift som skyddsvakt. Vidare bör vissa utbildningsmål ur slutmål 2 och 3 uppnås tidigt under
+            GU. Tidpunkter för måluppfyllnad regleras av C GU.
+                                        20
+              2.4.2. Slutmål 1
+            Slutmål:
+            Efter genomförd GU ska den värnpliktige kunna försvara sig själv och tillsammans med
+            andra kunna bevaka objekt och försvara terräng, plats, anläggning eller verksamhet.
+
+            Delmål: Efter GU ska den värnpliktige,
+                kunna framrycka och strida i stridspar inom ramen för en patrull eller grupp.
+
+                kunna lösa uppgift som post.
+                som enskild eller i stridspar kunna strida, inom ramen för grupps försvar av ter-
+                 räng, plats, anläggning eller verksamhet.
+            Situation: Under dagsljus7, aktuell årstid8, C/TIM-molnmiljö och en motståndare som
+            uppträder utan stridsfordon. Urban miljö och betäckt terräng.9
+
+            Analys av delmålen:
+            Hänvisningar för respektive utbildningsmål återfinns på EMILIA/GSSU/GMU.
+           Den värnpliktige ska
+           Strid
+             Kunna vidta åtgärder vid färdiga till strid.
+
+             Kunna inta skydd.
+             Kunna tillämpa de olika stridsförflyttningssätten.
+             Kunna välja eld- och skyddsställning och vidta eldförberedelser.
+             Kunna ingå i en patrull som under framryckning leds med kommando och tecken
+              och använder olika grupperingsformer.
+             Kunna framrycka och strida i stridspar inom ramen för en patrull.
+             Kunna vidta enskild soldats/stridspars åtgärder vid sammanstöt.
+             Kunna genomföra strid från eldställning, även i mörker och vintermiljö.
+
+             Kunna genomföra strid inom ramen för grupps strid från stridsställning, även i
+              mörker och vintermiljö.
+             Kunna använda spränghandgranat.
+             Ha genomfört grundläggande kastövning med spränghandgranat.
+             Kunna belysa stridsfältet vid strid i mörker.
+             Kunna upprätthålla olika beredskapsgrader.
+             Kunna redogöra för tecken på stressreaktion och hur man kan behandla individer
+              med stressreaktion.
+             Kunna delta i ”Insats-/uppdragsutvärdering”.
+
+             Kunna lösa uppgift som post vid bevakningsobjekt, även i mörker och vintermiljö.
+             I anslutning till postställe kunna använda larmmina.
+           Skjututbildning
+             Kunna använda sitt eldhandvapen.10
+
+
+
+
+            7 Tre mål ska även uppnås i mörker. Detta anges vid respektive mål.
+            8 Fyra mål ska även uppnås i vintermiljö (den vintermiljö som förbandet kan erbjuda på ordinarie utbild-
+            ningsplats/-ort inom ramen för GU). Detta anges vid respektive mål.
+            9 Båda typerna ska eftersträvas i syfte att visa på samma grundläggande beteende, oavsett omgivning.
+            T.ex. är grunderna för val av eldställning eller skydds intagande de samma oavsett om det sker i betäckt
+            terräng eller i urban miljö.
+            10 Försvarsgrens-/stridskraftschef fastställer typ av eldhandvapen.
+                                        21
+                                       HANDBOK
+
+
+           Närkamp
+             Kunna utföra och avvärja attacker på närstridsavstånd med och utan eldgivning
+              samt anpassa våldsanvändningen till aktuell situation.
+           Fältarbete
+             Kunna välja skydd med hänsyn till olika föremåls skyddsförmåga.
+             Kunna förbättra eget skydd och maskera utifrån hotbild.
+           Försvarsmedicin
+             Kunna genomföra ett omhändertagande enligt <C>ABCDE.
+             Kunna genomföra HLR med hjärtstartare.
+
+             Kunna vidta åtgärder vid olycka.
+             Kunna agera enligt TOS-Basnivå.
+           CBRN
+             Övergripande kunna beskriva för hotbild och symptom av CBRN.
+             Kunna använda den personliga skyddsutrustningen.
+             Ha genomfört tillpassningskontroll av den personliga skyddsmask.
+             Övergripande kunna beskriva hotnivåer samt utrustningsregler för CBRN.
+             Kunna vidta personliga skyddsåtgärder i en C/R/N miljö, inklusive medicinska
+
+              åtgärder.
+           Fysiskt stridsvärde
+             Kunna skapa förutsättningar för att upprätthålla personlig hygien och god hygien i
+              alla typer av boende samt kunna hantera mat och vatten hygieniskt säkert.
+             Kunna använda och anpassa sin personliga utrustning med hänsyn till rådande
+              miljö och uppgift så att ett högt stridsvärde bibehålls.
+             Kunna tillämpa en säker arbetsteknik vid olika befattningsrelevanta arbetsmo-
+              ment.
+             Kunna exemplifiera sambandet mellan belastning (tjänst/fysisk träning), åter-
+              hämtning och fysisk prestationsförmåga (positiv-negativ/skadlig effekt).
+             Övergripande kunna förklara behovet av energi (kost-) och vätskebalans, förbruk-
+
+              ning vid olika verksamheter och situationer samt kunna vidta åtgärder för att få i
+              sig tillräcklig mängd vätska och energi för att undvika prestationsnedsättning.
+             Övergripande kunna förklara behovet av vila och sömn och hur det påverkar den
+              fysiska och psykiska prestationsförmågan.
+           Förläggning11
+             Kunna nyttja kvarter12 och/eller bivack som förläggning, även i vintermiljö.
+           Brandutbildning
+             Kunna beskriva verkan av brand och brandstridsmedel.
+             Ha passerat brandtunnel eller brandfönster på ett säkert sätt.
+
+             Kunna handha brandsläckare och annan släckutrustning och släcka brand på kam-
+              rat.
+
+
+
+
+
+
+            11 De dygn de värnpliktiga förläggs i bivack och kvarter ska fokus vara att den värnpliktiga utvecklar sin
+            förmåga att omhänderta kropp och utrustning under dessa förhållanden på ett sådant sätt att den egna och
+            gruppens förmåga att lösa uppgiften inte nedgår.
+            12 Här avses kvarter av tillfällig art, t.ex. industrilokal eller en lada. Innebär att de värnpliktiga får an-
+            vända liggunderlag eller liknande och organisera sin vila efter de förutsättningar lokalen erbjuder.
+                                        22
+           SERE – Survival
+             Kunna bygga och ensam övernatta i nödbivack samt bygga och övernatta i grupp-
+              bivack.
+             Kunna bygga eldplats och genomföra stegvis tändning.
+             Kunna rena vatten vid nöd-/bristsituation.
+           SERE – Evasion
+             Kunna bestämma väderstrecken med hjälp av naturens tecken samt praktiskt
+              kunna använda detta vid förflyttning.
+             Kunna hålla sig undan från efterföljande motståndare.
+
+           SERE – Resistance
+             Kunna redogöra för riktlinjer för uppträdande i fångenskap.
+           SERE – Extraction
+             Kunna bidra till att lokaliseras av undsättningsförband genom olika metoder.
+             Kunna undsättningsprocedurer (link-up) för att möjliggöra egen undsättning.
+                                                                Tabell 2.2
+
+              2.4.3. Slutmål 2
+
+            Slutmål:
+            Efter genomförd GU ska den värnpliktige kunna lösa sina uppgifter utifrån en förståelse
+            för dessa i ett större sammanhang.
+
+            Delmål:
+             Övergripande nivå: Den värnpliktige ska övergripande kunna beskriva svensk sä-
+              kerhetspolitik, Försvarsmaktens uppdrag, uppgifter och organisation.
+            Situation: I diskussion med anhöriga och kamrater.
+
+             Förbandsnivå: Den värnpliktige ska kunna lösa sina egna uppgifter utifrån en för-
+              ståelse för dessa i ett större sammanhang (t.ex. patrull, grupp, pluton eller kompani).
+            Situation: Alla situationer där den värnpliktige löser (strids-)uppgifter.
+
+
+             Individ - grupp: Den värnpliktige ska kunna bidra till att gruppens förmåga till
+              samarbete och samspel utvecklas positivt under GU, i syfte att förelagda uppgifter
+              ska kunna lösas framgångsrikt.
+            Situation: Alla situationer där den värnpliktige löser uppgifter.
+
+            Analys av delmålen:
+            Hänvisningar för respektive utbildningsmål återfinns på EMILIA/GSSU/GMU.
+           Den värnpliktige ska
+           Försvarsupplysning– Övergripande nivå
+            Övergripande kunna beskriva begreppet säkerhetspolitik.
+
+            Övergripande kunna beskriva innebörden av begreppet totalförsvaret.
+            Övergripande kunna beskriva Försvarsmaktens uppgifter och organisation.
+            Övergripande kunna beskriva internationella organisationer (FN, EU, NATO).
+            Övergripande kunna beskriva totalförsvarsplikten med gällande lagstiftning.
+           Försvarsupplysning– Förbandsnivå
+            Kunna redogöra för vilket syfte den egna uppgiften har i ett större sammanhang.
+
+
+
+
+                                        23
+                                       HANDBOK
+
+
+           Samarbetsförmåga
+            Kunna bidra till att ett bra samarbete utvecklas och bibehålls i gruppen och med
+             andra grupper i enheten.
+            Kunna bidra till att utveckla en god kommunikation i gruppen.
+            Kunna bidra till att utveckla gruppens förmåga att förebygga destruktiva konflikter.
+            Kunna utveckla sitt moraliska omdöme och kunna bidra till att gruppen har en god
+             moralisk beredskap inför de uppgifter man har att lösa.
+            Kunna reflektera över hur den egna förmågan bidrar till gruppen i syfte att få ökad
+             självinsikt och ökat självförtroende.
+
+           Koll på Gruppen
+            Veta så mycket om alla medlemmar i gruppen att den värnpliktige övergripande
+             kan presentera gruppmedlemmarna för befäl och/eller andra grupper.
+            Kunna beskriva vilka ”civila förmågor” som finns i gruppen och som antas komma
+             till användning i gruppens arbete under GU.
+            Kunna beskriva vilken som är gruppens gemensamma uppfattning om vad som
+             kännetecknar en välfungerande grupp.
+                                                                Tabell 2.3
+
+              2.4.4. Slutmål 3
+
+            Slutmål:
+            Den värnpliktige ska under GU kunna handla på ett sådant sätt att de lagar, regler, be-
+            stämmelser, rättigheter, skyldigheter m.m. som gäller efterlevs.
+
+            Delmål:
+                Den värnpliktige ska kunna redogöra för innebörden i eller ha tillgång till in-
+                 formation om för den dagliga tjänsten relevanta lagar, regler, bestämmelser, rät-
+                 tigheter och skyldigheter.
+                Den värnpliktige ska aktivt kunna medverka i arbetsmiljö- och utbildningssäker-
+                 hetsarbetet.
+
+                Den värnpliktige ska kunna aktivt bidra i Försvarsmaktens värdegrundsarbete.
+            Situation: Alla situationer där den värnpliktige löser uppgifter
+
+            Analys av delmålen:
+            Hänvisningar för respektive utbildningsmål återfinns på EMILIA/GSSU/GMU.
+           Den värnpliktige ska
+           Värdegrund och etik
+            Kunna redogöra för syftet med och innehållet i Försvarsmaktens värdegrund, uppfö-
+             randekod och Försvarsmaktens nolltolerans mot droger, trakasserier, könskränk-
+             ningar, homofobi, m.m.
+            Kunna agera vid händelse av diskriminering, mobbning, trakasserier eller andra ytt-
+
+             ringar som strider mot Försvarsmaktens värdegrund. Veta hur och till vem en anmä-
+             lan görs samt vara införstådd med det egna ansvaret.
+            Ha reflekterat kring den militära professionens särart avseende rätten/skyldigheten
+             att använda dödligt våld och risken att dödas.
+           Folkrätt
+            Uppfylla de krav på folkrättsutbildning som ställs på soldater och sjömän i enlighet
+             med Försvarsmaktens Interna bestämmelser (FIB).
+
+
+
+                                        24
+           Verksamhetssäkerhet
+            Kunna redogöra för vad begreppet risk innebär.
+            Efterhand som situationen utvecklas fortlöpande kunna göra nya riskbedömningar
+            Medvetet13 kunna tillämpa säkerhetsbestämmelserna när uppgifterna löses.
+            Kunna tillämpa envars skyldighet att ingripa vid fara.
+            Kunna agera utifrån bestämmelser för det lokala brandskyddet och vidta rätta åtgär-
+             der vid brand.
+            Kunna hantera kniv, yxa och såg på ett säkert sätt.
+
+            Kunna lösa uppgifter i varmt och kallt väder (ha genomfört utbildningspaket Varmt
+             väder och Kallt Väder).
+            Kunna lösa uppgifter med fullgott skydd för hörsel (ha genomfört tillämpliga delar
+             av utbildningspaket Hör upp och hör sen).
+            Kunna redogöra för de generella elsäkerhetstyrningarna som framgår av reglemente
+             verksamhetssäkerhet gemensam.
+           Exercis och soldaterinran
+            Kunna ange vilken grad som motsvarar olika gradbeteckningar (de vanligaste tjäns-
+             tegrader som den värnpliktige möter under sin GU).
+            Kunna uppträda enskilt och i sluten ordning (minst hälsning, anmälan, uppställning
+             på linje och kolonn, vändningar, marschanträde och halt, marsch i sluten ordning).
+
+            Under GU inledning ha blivit meddelad soldaterinran.
+           Miljöutbildning – Yttre miljö
+            Kunna delta i Försvarsmaktens miljövårdsarbete.
+           Inre tjänst/Kommendantur
+            Kunna delta i vården av gemensamma lokaler med beaktande av bland annat miljö-
+             bestämmelser och krav på hygien.
+            Efterhand som utrustningen hämtas ut och börjar användas ska den kvitteras och
+             passas till. Den värnpliktige ska kunna namnge de delar i den personliga utrustning-
+             en som används.
+
+            Kunna vårda personlig och gemensam materiel under fält- och kasernförhållanden.
+            Kunna fullgöra sin tjänst på ett sådant sätt att aktuella lokala instruktioner följs.
+            Kunna beskriva de lokala bestämmelser avseende hälso- och sjukvård som gäller
+             under GU.
+            Kunna beskriva de förmåner den värnpliktige har under GU.
+            Kunna beskriva vad som gäller för permission/tjänstledighet under GU.
+            Kunna beskriva vad som gäller för religiös utövning under GU.
+           Rättstjänst
+            Kunna beskriva innebörden av Disciplinansvarslagen.
+
+            Kunna beskriva rättigheter och skyldigheter såsom t.ex. närvaro, ledigheter och uni-
+             formsbestämmelser som gäller för värnpliktiga under GU.
+            Kunna förklara innebörden av begreppen befälsrätt och förman.
+            Kunna beskriva skyldigheten att lyda förmans order i vad som rör tjänsten.
+            Kunna beskriva förbandets möjlighet att använda sig av tvångsmedel, bland annat
+             visitera skåp och annat tillhörande den värnpliktige.
+           Säkerhetsmedvetande
+            Kunna beskriva säkerhetshotande verksamhet riktad mot Försvarsmakten och inne-
+             börd av tystnadsplikt och meddelandefrihet.
+
+
+            13 Medvetet innebär att den värnpliktiga kan redogöra för sina motiv till vald handling
+
+                                        25
+                                       HANDBOK
+
+
+           Sambandstjänst - Telehotet
+            Kunna beskriva hotet från främmande telekrigföring mot vår verksamhet och vår
+             personal, samt hur felaktig och otillåten användning av radio, mobiltelefoni, mobila
+             teletjänster och sociala media kan bidra till detta hot.
+            Kunna vidta lämpliga åtgärder med stöd av fickminne för att minska telehotet.
+                                                                Tabell 2.4
+
+            2.5. Instruktörskompetens
+            För genomförande av utbildning mot GMU-målsättningarna krävs tillgång till bl.a. föl-
+            jande instruktörskompetenser:
+                Instruktör Ak/Övningsledare grundläggande skjututb
+
+                Skjutledare skjutfält, FUSA/SUSA
+                Kastledare handgranat
+                SERE instruktör
+                TOS instruktör alternativt Huvudinstruktör-TOS (HI-TOS) alternativt Strids-
+                 sjukvårdarinstruktör som är tillika HI-TOS
+                Närkampsinstruktör
+                CBRN (tillpassningskontroll)
+                HLR instruktör
+
+
+            2.6. Dokumentation av GMU
+            Någon särskild dokumentation av GMU-förmågorna görs inte. Av respektive målkata-
+            log befattning framgår berörd GSSU-förmåga, t.ex. GMU. Av utryckningsrapportering-
+            en framgår bl.a. BTK, vilken kan kopplas mot målkatalog befattning och därigenom
+            mot aktuell GSSU-förmåga.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        26
+                          Utbildningsanvisning      för
+
+                  Generell   Gruppbefälsutbildning      (GBU)
+                                2020  års utgåva
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        27
+                                       HANDBOK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        28
+            Innehåll
+            3. Generell Gruppbefälsutbildning (GBU) ................................................................. 31
+             3.1. Allmänt ...................................................................................................................... 31
+
+             3.2. Begrepp ...................................................................................................................... 31
+             3.3. Att organisera för GBU under GU ............................................................................. 32
+
+             3.4. Truppföring (TF) ........................................................................................................ 33
+               3.4.1. Allmänt och syfte ............................................................................................... 33
+
+               3.4.2. Målsättningar TF ................................................................................................ 34
+               3.4.3. Utbildningstid och omfattning ............................................................................ 34
+             3.5. Trupputbildning (TU) ................................................................................................ 35
+
+               3.5.1. Allmänt och syfte ............................................................................................... 35
+               3.5.2. Målsättningar TU ................................................................................................ 35
+
+               3.5.3. Utbildningstid och omfattning ............................................................................ 35
+             3.6. Fysiskt stridsvärde (FySv) ......................................................................................... 35
+
+               3.6.1. Allmänt och syfte ............................................................................................... 35
+               3.6.2. Målsättningar FySv ............................................................................................ 36
+
+               3.6.3. Utbildningstid och omfattning ............................................................................ 36
+             3.7. Utbildningskontroller i GBU ..................................................................................... 36
+             3.8. Dokumentation av GBU ............................................................................................ 37
+
+             3.9. Utvärdering av GBU .................................................................................................. 37
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        29
+                                       HANDBOK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        30
+            3.   Generell Gruppbefälsutbildning (GBU)
+
+            3.1. Allmänt
+
+            Generell gruppbefälsutbildning (GBU) har sin bakgrund i dåvarande OR-projektet vilka
+            identifierade gemensamma krav på förmågor hos samtliga gruppbefäl inom områdena
+            TF, TU och FySv. Utöver målsättningarna i GBU finns troligen även krav på förmågor
+            för GB enligt målkatalogerna.
+
+            I GBU säkerställs den minsta gemensamma förmågenivån – basnivån – på Försvars-
+            maktens gruppbefäl och högre14 vad gäller truppföring (TF), trupputbildning (TU) och
+            fysiskt stridsvärde (FySv). Detta så att individen ska kunna:
+                krigsplaceras som värnpliktigt gruppbefäl
+                anställas och krigsplaceras som tidvis tjänstgörande gruppbefäl
+
+                teckna avtal som gruppbefäl inom hemvärnet
+                påbörja GOU
+
+            GBU ska genomföras t.ex.
+                av värnpliktiga under grundutbildning, vilka lägst innehar gruppbefälsbefatt-
+                 ningar,
+                av anställda soldater/sjömän inför placering på gruppbefälsbefattningar,
+                av officersaspiranter under Förberedande officerskurser (FOK) inför GOU15
+
+            GBU ska mer ses som en samling gemensamma målsättningar än en sammansatt utbild-
+            ning. Utbildning mot målsättning kan alltså genomföras samlat men också mer spritt,
+            t.ex. i anslutning till utbildning mot befattningsspecifika målsättningar.
+
+
+            För att fullt ut kunna tjänstgöra på befattning som kontinuerligt tjänstgörande gruppbe-
+            fäl finns ytterligare krav på generella förmågor. Dessa redovisas under kapitlet Fortsatt
+            generell gruppbefälsutbildning (FGBU) i denna handbok. FGBU utgör förmågemässig
+            tilläggsnivå för kontinuerligt tjänstgörande gruppbefäl.
+
+            3.2. Begrepp
+
+            Begrepp           Innebörd
+            Gruppbefäl (GB)   En individ som är krigsplacerad, anställd eller avtalsskriven i
+                              befattning som lägst OR4, eller är under grundutbildning till
+                              detta.
+            Gruppchef         En individ som är krigsplacerad, anställd eller avtalsskriven i
+                              befattning som lägst OR4 – eller är under grundutbildning till
+
+                              detta – och för befäl över en organisatorisk enhet.
+            Befälselev        En individ som är under utbildning till minst gruppbefäl eller
+                              gruppchef kan benämnas befälselev.
+            Trupp             En samling soldater och/eller sjömän som agerar samordnat.
+
+
+
+
+
+            14 Se R GURU, se avsnitt – Befattningsutbildning (BU)
+            15 I de fall dessa inte sedan tidigare har genomfört GBU
+                                        31
+                                       HANDBOK
+
+
+            Truppföring (TF)  TF är när en trupps verksamhet inriktas och samordnas av ett
+                              befäl.
+                              Verktyget för TF är befälsföring16.
+                              TF administreras i FM inom ramen för ämnet Ledarskap.
+            Trupputbildning (TU) TU är när en trupps lärande organiseras under ledning av en
+                              eller flera instruktörer.
+                              Verktyget för TU är utbildningsmetodik17.
+                              TU administreras i FM inom ramen för ämnet Pedagogik.
+            Fysisk Prestations- FP kan sammanfattas som ett samspel mellan en individs
+            förmåga (FP)      energigivande processer, nerv- och muskelfunktioner samt
+                              psykologiska faktorer för ett bestämt fysiskt arbete. Detta
+                              samspel och ingående delar benämns även med samlings-
+                              namnet ”inre faktorer” i Fysiskt stridsvärde.
+
+            Stridsvärde       Mått på ett förbands förmåga att lösa uppgifter enligt krigs-
+                              förbandsspecifikationen. (AH Begrepp)
+            Fysiskt stridsvärde FySv är den fysiska prestationsförmågan/inre faktorer som i
+            (FySv)            varje situation påverkas av yttre faktorer såsom vätska, kost,
+                              sömn/vila, miljö, personlig utrustning samt hygien som indi-
+                              viden/gruppen har för att lösa en bestämd (strids)uppgift.
+            Generell Gruppbefäls- Gruppbefälsutbildning kan bestå av en generell del och en
+            utbildning (GBU)  befattningsspecifik del. Begreppet GBU relaterar vanligtvis
+                              till den generella delen.
+            FOK               Förberedande officerskurser. Utbildningar som förbereder
+                              den blivande kadetten för kommande grundläggande offi-
+                              cersutbildningar i Försvarsmakten eller vid Försvarshögsko-
+                              lan
+            Tidvis tjänstgörande GB vid T-förband
+
+            gruppbefäl (GB/T)
+            Kontinuerligt tjänst- GB vid K-förband
+            görande gruppbefäl
+            (GB/K)
+            BU                Befattningsutbildning
+
+            FU                Förbandsutbildning
+
+                                                               Tabell 3.1.
+
+            3.3. Att organisera för GBU under GU
+
+            Den samlade utbildningstiden som åtgår för att nå utbildningsmålen enligt GBU är ca
+            fyra veckor.
+
+            I den praktiska delen av GBU kan utbildning mot andra utbildningsmål förekomma.
+            Därför behöver inte fyra veckor avdelas exklusivt för GBU utan GBU kan vävas ihop
+            med annan BU eller FU. ”Ett plus ett kan alltså bli tre…” Det viktiga är att befälseleven
+
+            vid t.ex. grundutbildningens slut har nått samtliga utbildningsmål.
+
+
+
+            16 H SAMBEF 2014, kap 3
+            17 H UTBM (2013)
+                                        32
+            Ett exempel är att under utbildning/övning i TU utbilda mot målsättningar i GMU, BU
+            eller FU.
+
+
+
+
+
+
+
+
+
+
+
+
+                                                Bild 3.1. Effektiv grundutbildning
+
+            Under utbildningen bör genomförandet fokusera på att lära genom ”att göra” framför
+            ”att läsa om” eller ”att prata om”. Praktiserandet är en viktig del i måluppfyllnaden.
+
+            3.4. Truppföring (TF)
+
+              3.4.1. Allmänt och syfte
+            Truppföring är grundfundamentet i alla gruppbefäls förmåga att verka som befäl.
+            Truppföringsutbildningen ska ge gruppbefälet metoder och verktyg. I truppföringssitu-
+
+            ationen förenas,
+                den uppgift som ska lösas,
+                den trupp som ingår i enheten som ska lösa uppgiften och
+                enhetens chef.
+
+            Med hjälp av sin befälsföring inriktar och samordnar chefen enheten så att uppgiften
+            löses framgångsrikt. Ytterst handlar befälsföringen om att med bibehållet förtroende
+            leda enheten i strid.
+
+            En generell truppföringsuppgift har följande gång: Gruppbefälet får en uppgift som ska
+
+            lösas med enheten. För att lösa denna uppgift måste gruppbefälet ha ett antal förmågor.
+            Gruppbefälet ska kunna:
+              1. förstå innebörden i uppgiften och den situation i vilken uppgiften ska lösas
+              2. generera några olika alternativ på hur uppgiften kan lösas
+              3. värdera alternativen och välja alternativ
+              4. ge order för valt alternativ
+
+              5. leda genomförandet
+              6. värdera resultatet och rapportera detta
+
+            Utbildningen ska ge gruppbefälet den formella, generella truppföringsförmåga som
+            krävs av alla gruppbefäl för att kunna krigsplaceras. Efter formell utbildning ska fortsatt
+            utbildning (tillämpning) ske. Omfattningen av tillämpning är troligen beroende på be-
+            fattningens krav.
+
+
+
+
+                                        33
+                                       HANDBOK
+
+
+              3.4.2. Målsättningar TF
+            Hänvisningar för respektive utbildningsmål återfinns på EMILIA/GSSU/GBU.
+            Efter utbildningen ska befälseleven:
+             Kunna ge exempel på utmaningar i den extrema situationen och hur man som indi-
+
+              vid kan möta dessa.
+             Kunna förklara innebörden av begreppen befälsrätt och förman.
+             Förklara hur begreppen befälsföring, chefskap och ledarskap förhåller sig till
+              varandra.
+             Kunna använda avsnitten ”Några allmänna utgångspunkter för befälsföring” och
+              ”Att vara chef och utöva befäl” i H SAMBEF som ”uppslagsbok” för stöd i den
+              egna befälsföringen.
+             Uppfylla de krav på folkrättsutbildning som ställs på gruppbefäl i enlighet med
+              Försvarsmaktens Interna bestämmelser (FIB).
+             Kunna leda insats- och uppdragsutvärdering med grupp.
+
+             Kunna leda ”särskild tillsyn på gruppen”.
+             Kunna beskriva och använda ett generellt tillvägagångssätt (enligt H SAMBEF
+              avsnitt ”Att leda verksamhet från uppgift till resultat”).
+             Kunna använda det generella tillvägagångssättet vid uppgiften att leda:
+                 a) bevakning av terräng, plats, anläggning eller verksamhet (OBSLÖSA)
+                 b) en patrull som framrycker i olika syften (RASSOIKA)
+                 c) en grupp som försvarar en stridsställning
+                 d) förläggningstjänst (bivack och kvarter) med grupp
+                                                                Tabell 3.1
+
+              3.4.3. Utbildningstid och omfattning
+
+            Ca två veckors utbildning bör avdelas för att utbilda mot ovanstående målsättningar.
+
+            Truppföringsutbildningen ska vara praktisk. De sista fyra ”leda-målen”18 kan betraktas
+            som både mål och medel. Vi ser att kunnande i de sex stegen i det generella tillväga-
+            gångssättet (H SAMBEF avsnitt ”Att leda verksamhet från uppgift till resultat”) ut-
+            vecklas genom praktiskt görande i dessa fyra mål. Vidare ger krav på förmåga i GMU
+            att alla soldater/sjömän kan:
+                bevaka terräng, plats, anläggning eller verksamhet
+                framrycka i patrull
+
+                försvara stridsställning
+                nyttja förläggning för att bibehålla stridsvärdet
+
+            Då ter det sig naturligt att alla gruppbefäl kan leda dessa verksamheter. Finns andra me-
+            del för att praktisera det generella tillvägagångssättet må dock dessa nyttjas.
+
+            Ett exempel på upplägg är att arbeta i tre steg,
+                först visar befälet hur uppgifter enligt ”leda-målen” kan lösas
+                därefter får gruppbefälet öva på varandra
+                och i sista steget får de tillämpa sitt kunnande, t.ex. på inneliggande värnpliktiga
+
+
+
+
+            18 a) – d)
+
+                                        34
+            3.5. Trupputbildning (TU)
+
+              3.5.1. Allmänt och syfte
+            För att underlätta grund- och repetitionsutbildning ska GB ges viss instruktörsförmåga.
+            Skälet till detta är att tillgången till instruktörer kommer att vara begränsad vid både
+            grund- och repetitionsutbildning. De kvalificerade instruktörerna måste kraftsamlas till
+            de kvalificerade utbildningsuppgifterna. Genom att GB kan genomföra enklare utbild-
+            ningsmoment möjliggörs denna kraftsamling.
+
+            Troligtvis är kraven på instruktörsförmåga högre för GB vid K-förband varför dessa bör
+
+            ges en fortsatt utbildning inför tjänstgöring på en sådan befattning, se vidare under
+            FGBU.
+
+            Utbildningen syftar till att gruppbefälet utvecklar den formella grund som krävs för att:
+                kunna vara hjälpinstruktör19 i övningar med begränsad komplexitet under grund-
+                 och repetitionsutbildning
+                självständigt, efter förberedelser med stöd20, kunna leda bakomstationer med
+                 mycket begränsad komplexitet under grund- och repetitionsutbildning.
+
+              3.5.2. Målsättningar TU
+
+            Hänvisningar för respektive utbildningsmål återfinns på EMILIA/GSSU/GBU.
+            Efter utbildningen ska befälseleven kunna:
+             med stöd, tillämpa metoden ”visa, instruera, öva, öva, pröva”21 i övningar med
+              begränsad komplexitet och självständigt i övningar med mycket begränsad kom-
+              plexitet, under grund- och repetitionsutbildning.
+                                                                Tabell 3.2
+
+              3.5.3. Utbildningstid och omfattning
+
+            Ca en vecka åtgår för att utbilda mot ovanstående målsättningar. Under resterande GU-
+            tid ska befälselever ges möjlighet att praktisera TU-förmågorna.
+            Ett exempel på upplägg är att arbeta i tre steg,
+                först visar instruktören hur en viss övning kan genomföras
+                därefter får gruppbefälet öva på varandra
+                och i sista steget får de tillämpa sitt kunnande på ”skarp” trupp.
+
+            3.6. Fysiskt stridsvärde (FySv)
+
+              3.6.1. Allmänt och syfte
+
+            Utbildningen i FySv ska ge gruppbefälet förmåga att vidta rätt åtgärder för att optimera
+            gruppens fysiska stridsvärde.22 Detta innebär att leda förebyggande åtgärder samt strid-
+            svärdeshöjande åtgärder vid situationer där stridsvärdet nedgått.
+
+            19 Med hjälpinstruktör menar vi en individ som under en instruktörs ledning visar olika moment i övning-
+            en och/eller leder enskilda och avgränsade moment i övningen.
+            20 Det är skillnad på vad en individ kan prestera själv och vad samma individ kan prestera när denna får
+            stöd av andra, t.ex. handledare, instruktörer eller kamrater med mer erfarenhet än den egna. Det en individ
+            kan åstadkomma tillsammans med andra kan den oftast lära sig att göra själv.
+            21 Är annan utbildningsmetod mer relevant för gruppbefälskategorin må denna nyttjas.
+            22 Definition av optimera = finna den bästa ”optimala” lösningen på ett problem utifrån de förutsättningar
+            som ges.
+                                        35
+                                       HANDBOK
+
+
+
+            För att optimera gruppens fysiska stridsvärde krävs kunskaper om yttre faktorer av mer
+            tillfällig art så som sömn/vila, vätska, kost, miljö, hygien och personlig utrustning.
+
+            Gruppbefälet ska också ha förmåga att identifiera och analysera risker avseende yttre
+            faktorer. Grunden för ett högt fysiskt stridsvärde är en god verksamhetsanpassad fysisk
+            förmåga eftersom en tränad individ klarar yttre påfrestningar bättre än en otränad indi-
+            vid.
+
+              3.6.2. Målsättningar FySv
+
+            Hänvisningar för respektive utbildningsmål återfinns på EMILIA/GSSU/GBU.
+            Efter utbildningen ska befälseleven:
+             Kunna förklara begreppet fysiskt stridsvärde och dess ingående delar.
+             Kunna beskriva smittorisker och andra hälsorisker från luft, vatten och livsmedel
+              och hur dessa minimeras.
+             Kunna beskriva behovet av sömn, vila och vakenhet kopplat till verksamhetssäker-
+              het och prestationsförmåga.
+             Kunna exemplifiera olika individers energibehov med utgångspunkt från olika mi-
+              litära aktiviteter.
+
+             Kunna beskriva kroppens värmereglering och värmeacklimatisering.
+             Kunna identifiera och analysera risker vid kyla och värme.
+             Ha förmåga att anpassa klädsel i egen grupp med hänsyn till rådande väderlek och
+              aktivitet.
+             Kunna utföra kontroll på personal vid kyla och värme samt leda omhändertagande
+              av köld- och värmerelaterade skador som uppstår i egen grupp.
+             Kunna beskriva stressrelaterade symptom och hur ett bra ”psykiskt stridsvärde”
+              upprätthålls i egen grupp.
+             Kunna bedöma personella stridsvärdet vid egen grupp och vidta åtgärder i syfte att
+              höja stridsvärdet.
+
+                                                                Tabell 3.3
+
+              3.6.3. Utbildningstid och omfattning
+            Ca en vecka åtgår för utbildningen i FySv. Metoderna för att nå utbildningsmålen är
+            både teoretiska och praktiska.
+            Ett exempel på att arbeta är i tre steg,
+
+                Först förmedlande teoretisk utbildning och exempel där instruktörerna visar hur
+                 åtgärderna kan göras.
+                Därefter får gruppbefälseleverna öva på varandra
+                Slutligen får de tillämpa sitt kunnande, t.ex. på inneliggande värnpliktiga
+
+            3.7. Utbildningskontroller i GBU
+
+            Den centralt fastställda utbildningskontrollen för GBU omfattar:
+                Kunskapsprov folkrätt för gruppbefäl enligt anvisningar på EMLIA/GSSU/GBU
+
+
+
+
+
+
+                                        36
+            Utöver ovanstående sker värderingen av utbildningsmålet i GBU i en samlad helhetsbe-
+            dömning mot:
+                målkatalogen för kommande befattning
+                lämplighetsbedömning för kommande befattning
+
+            Detta gäller då GBU genomförs med värnpliktiga under grundutbildning eller med GSS
+            inför befordran till OR4. Då GBU genomförs vid FOK får ytterligare utbildningskon-
+            troller fastställas för att värdera måluppfyllnad och lämplighet.
+
+            3.8. Dokumentation av GBU
+
+            Värnpliktiga under grundutbildning samt FOK-elever:
+            Då GBU genomförs med värnpliktiga under grundutbildning dokumenteras som huvud-
+            regel inte GBU som en särskild kompetens. Istället dokumenteras GBU som ingående
+            kompetens i berörda BTK (lägst 800-nivå) vilket framgår av respektive målkatalog.
+            BTK sak rapporteras till Rekryteringsmyndigheten.
+
+
+            Anställd personal
+            Då GBU genomförs med anställd personal ska GBU dokumenteras som kurs i system
+            PRIO. Kurskoder och administrativt stöd erhålls via samarbetsyta EMLIA/GSSU/GBU.
+
+            3.9. Utvärdering av GBU
+
+            Utbildningen utvärderas:
+                enligt eget lokalt underlag samt
+                enligt centralt underlag
+
+            Underlag för central kursutvärdering återfinns på EMILIA/GSSU/GBU.
+
+            Det lokala och centrala underlaget sammanställs och tillsänds MHS H (ett exemplar
+            skickas digitalt på mhs-h-gu@mil.se). MHS H vidarebefordrar synpunkter till berörda
+            sakområdesansvariga.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        37
+                                       HANDBOK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        38
+                          Utbildningsanvisning      för
+
+            Fortsatt  Generell   Gruppbefälsutbildning       (FGBU)
+                                2020  års utgåva
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        39
+                                       HANDBOK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        40
+            Innehåll
+            4. Fortsatt Generell Gruppbefälsutbildning (FGBU) .................................................. 43
+             4.1. Allmänt ...................................................................................................................... 43
+
+             4.2. Truppföring (TF) ........................................................................................................ 43
+               4.2.1. Allmänt och målsättningar TF ............................................................................ 43
+
+               4.2.2. Utbildningstid och omfattning ............................................................................ 43
+             4.3. Trupputbildning (TU) ................................................................................................ 43
+
+               4.3.1. Allmänt och målsättningar TU ........................................................................... 43
+               4.3.2. Utbildningstid och omfattning ............................................................................ 44
+             4.4. Fysiskt stridsvärde (FySv) ......................................................................................... 44
+
+               4.4.1. Allmänt och syfte ............................................................................................... 44
+               4.4.2. Målsättningar FySv ............................................................................................ 44
+
+               4.4.3. Utbildningstid och omfattning ............................................................................ 44
+             4.5. Krav för godkänt resultat efter FGBU ....................................................................... 45
+
+             4.6. Dokumentation av FGBU .......................................................................................... 45
+             4.7. Utvärdering av FGBU ................................................................................................ 45
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        41
+                                       HANDBOK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        42
+            4.   Fortsatt Generell Gruppbefälsutbildning (FGBU)
+
+            4.1. Allmänt
+
+            GBU är utformad för personal som ska tjänstgöra och krigsplaceras som tidvis tjänstgö-
+            rande gruppbefäl (GB/T) alternativt krigsplaceras som värnpliktigt gruppbefäl. Under
+            grundutbildningen utvecklas förmågan normala fall till nivå PersQ UTB 3.
+
+            För att erhålla tillräcklig förmåga att kunna verka som kontinuerligt tjänstgörande
+            gruppbefäl (GB/K) behöver fortsatt förmågeutveckling ske inom områdena truppföring,
+            trupputbildning och fysiskt stridsvärde.
+
+            Den övergripande största skillnaden mellan GB/T och GB/K är befälsföringen i fred, att
+            kunna hantera rutiner, uppgifter, etc. i den dagliga tjänsten på förbandet. Sådana rutiner,
+            uppgifter, etc. skiljer sig mellan funktioner, förband och försvarsgrenar/stridskrafter.
+            Det handlar således om specifika målsättningar och beskrivs inte som gemensamma
+            förmågor fortsatt gruppbefälsutbildningen (FGBU).
+
+
+            Den generella förmågan som dock alla gruppbefäl ska utveckla för att kunna bestrida
+            kontinuerligt tjänstgörande gruppbefälsbefattning är:
+                att kunna planera och leda träningspass med egen grupp (FySv)
+                fortsatt övning under handledning för att utvecklas från PersQ UTB 3 till PersQ
+                 UTB 4 i förmågor inom TF/TU.
+
+            Detta avsnitt (FGBU) i H GSSU beskriver därmed den förmågeutvecklingen. FGBU
+            utgör förmågemässig tilläggsnivå, utöver basnivån GBU, för kontinuerligt tjänstgörande
+            gruppbefäl.
+
+            4.2. Truppföring (TF)
+
+              4.2.1. Allmänt och målsättningar TF
+
+            Utbildningsmålen för GB/K är samma som för GB/T (se GBU/TF). Dock ska för-
+            mågorna innehas i PersQ UTB 4 istället för PersQ UTB 3. Metoden för att öka i PersQ
+            UTB inom TF är att öva och att öva i tillämpade situationer, t.ex. okänd terräng, sam-
+            verkande friktioner, korta tidsförhållande, ny underordnad personal, etc. Det är viktigt
+            att övandet och lärandet sker under handledning och att återkoppling ges och reflektion
+            görs.
+
+              4.2.2. Utbildningstid och omfattning
+
+            M.h.t. att samma målsättningar ska innehas i högre PersQ UTB och metoden är fortsatt
+            övning under handledning, finns ingen fastställd utbildningstid för området TF i FGBU.
+
+            4.3. Trupputbildning (TU)
+
+              4.3.1. Allmänt och målsättningar TU
+            Motsvarande resonemang som gäller för GB/K och TF gäller för TU. Dvs, förmågemål-
+
+            et och utbildningsmålsättningen är de samma som för GB/T (se GBU/TU).
+
+
+
+                                        43
+                                       HANDBOK
+
+
+            Förmågan ska dock innehas i PersQ UTB 4 istället för PersQ UTB 3. Skillnaden mellan
+            PersQ UTB 4 och PersQ UTB 3 ligger i graden av komplexitet. Exempel på ökad grad
+            av komplexitet i utbildningssituationerna kan vara att kunna utbilda större elevvolymer,
+            utbilda på allt mer avancerade uppgifter och/eller materiel eller genomföra utbildning
+            med kortare förberedelsetid.
+
+            Metoden för att öka i PersQ UTB inom TU är att under handledning öva på TU i allt
+            mer komplexa situationer. Det är viktigt att övandet och lärandet sker under handled-
+            ning och att återkoppling ges och reflektion görs.
+
+              4.3.2. Utbildningstid och omfattning
+
+            M.h.t. att samma målsättningar ska innehas i högre PersQ UTB och metoden är fortsatt
+            övning under handledning, finns ingen fastställd utbildningstid för området TU i FGBU.
+
+            4.4. Fysiskt stridsvärde (FySv)
+
+              4.4.1. Allmänt och syfte
+
+            Utbildningen i FySv ska ge gruppbefälet förmåga att planlägga, leda och utvärdera en-
+            staka träningspass vid egen grupp eller med t.ex. värnpliktiga under GU.
+
+            Detta innebär att gruppbefälet ska ha förmåga att använda sig av olika träningsmodeller
+            och rätt arbetsteknik för att uppnå syftet med träningspasset. Gruppbefälet ska kunna
+            individ- och befattningsanpassa träningspasset samt anpassa träningspasset mot plane-
+            rad belastningsstegring.
+
+              4.4.2. Målsättningar FySv
+
+            Hänvisningar för respektive utbildningsmål återfinns på EMILIA/GSSU/FGBU
+            Efter utbildningen ska befälseleven:
+             Kunna beskriva grunderna inom träningsformer och modeller inom Försvarsmak-
+              ten.
+             Kunna planera och leda enskilda befattningsinriktade träningspass med egen grupp,
+              anpassat efter givet syfte och mål.
+             Kunna visa exempel på rätt arbetsteknik samt hantera individuell anpassning vid
+              träningspass.
+             Kunna anpassa träningspassets belastningsdos i förhållande till rådande belastning-
+              ar i tjänsten.
+
+             Kunna göra en enklare krav- och kapacitetsanalys utifrån sin grupps befattningar.
+                                                                Tabell 4.1
+
+              4.4.3. Utbildningstid och omfattning
+            Ca en veckas utbildning bör avdelas för att utbilda mot ovanstående målsättningar.
+
+            Utbildningen omfattar grundläggande teoretisk och praktisk utbildning där det praktiska
+
+            utförandet att ”leda som tränare” är en central del i utbildningen. Undervisningen ge-
+            nomförs med fördel i samband med fysisk träning där praktik och teori varvas.
+
+
+
+
+                                        44
+            Elevledda träningspass (praktisk träning) kan med fördel kombineras med den regel-
+            bundna träningen (FM FysS) och trupputbildning och bör påbörjas efter att utbildning i
+            TU har påbörjats.
+
+            4.5. Krav för godkänt resultat efter FGBU
+
+            Utbildningsmålen i FGBU värderas som huvudregel inte genom särskilda utbildnings-
+            kontroller.
+
+            Värderingen av utbildningsmålet i GBU sker i en samlad helhetsbedömning mot:
+                målkatalogen för kommande befattning
+                lämplighetsbedömning för kommande befattning
+
+            Detta gäller då GBU genomförs med GSS inför befordran till OR4. Om FGBU genom-
+            förs inom ramen för kurser i SOU gäller ordinarie kursregler för SOU.
+
+
+            4.6. Dokumentation av FGBU
+
+            FGBU ska dokumenteras som kurs i system PRIO. Kurskoder och administrativt stöd
+            erhålls via samarbetsyta EMILIA/GSSU/FGBU.
+
+            4.7. Utvärdering av FGBU
+
+            Utbildningen utvärderas:
+                enligt eget lokalt underlag samt
+                enligt centralt underlag
+
+            Underlag för central kursutvärdering återfinns på samarbetsyta EMILIA/GSSU/FGBU.
+
+            Det lokala och centrala underlaget sammanställs och tillsänds MHS H (ett exemplar
+            skickas digitalt på mhs-h-gu@mil.se). MHS H vidarebefordrar synpunkter till berörda
+            sakområdesansvariga.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        45
+                                       HANDBOK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        46
+                          Utbildningsanvisning      för
+
+                    Grundläggande      soldatutbildning    för
+                           frivillig personal  (GU-F)
+
+                                2020  års utgåva
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        47
+                                       HANDBOK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        48
+            Innehåll
+            5. Grundläggande soldatutbildning för frivillig personal (GU-F) ............................. 51
+             5.1. Allmänt ...................................................................................................................... 51
+
+             5.2. Ansvarsförhållanden i GU-F ...................................................................................... 51
+             5.3. Utbildningsavtal ......................................................................................................... 52
+
+             5.4. Förberedelser före utbildningen ................................................................................. 52
+             5.5. GU-F slutmål ............................................................................................................. 52
+
+               5.5.1. Slutmål 1 ............................................................................................................. 53
+               5.5.2. Slutmål 2 ............................................................................................................. 55
+             5.6. Utbildningskontroller ................................................................................................. 56
+
+             5.7. Lämplighetsbedömning ............................................................................................. 57
+             5.8. Vad krävs för att godkänt resultat efter GU-F? ......................................................... 57
+
+             5.9. Resultat efter GU-F .................................................................................................... 58
+             5.10. Utbildningens organiserande .................................................................................. 58
+
+             5.11. Ytterligare hänvisningar och styrningar ................................................................. 58
+             5.12. Dokumentation av GU-F ........................................................................................ 59
+
+             5.13. Utvärdering av GU-F ............................................................................................. 59
+             5.14. Mall för lämplighetsbedömning av elev vid GU-F ................................................ 61
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        49
+                                       HANDBOK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        50
+            5.   Grundläggande soldatutbildning för frivillig personal
+                 (GU-F)
+
+            5.1. Allmänt
+
+            De GU-F som för 2020 har planerats med H GSSU 201723 som grund ska också genom-
+            föras i enlighet med bestämmelser i H GSSU 2017. Senast fr.o.m. 2021 ska GU-F ge-
+            nomföras i enlighet med bestämmelser enligt denna handbok (H GSSU 2020).
+
+            GU-F genomförs som GSSU av frivilliga försvarsorganisationer för viss personal i
+            hemvärnets krigsförband.
+
+            Efter beslut av C FÖRBPROD utgör GU-F den lägsta nivån av GSSU för att få tilldelas
+            vapnet vid övning, beredskap eller annan tjänstgöring.
+
+            Utbildningsanvisningar finns för att genomföra GU-F med antingen:
+
+                Ak 4
+                Ak 5
+                Pistol m/88
+
+            Utöver utbildningsanvisningar i denna handbok genomförs GU-F enligt H FRIV då GU-
+            F genomförs för frivillig personal.
+
+            5.2. Ansvarsförhållanden i GU-F
+
+            MHS H utarbetar, med stöd av sakområdesansvariga enligt kapitel 1 i denna handbok,
+            utbildningsanvisningar för GU-F. FM UTBCH fastställer utbildningsanvisningarna.
+
+            På uppdrag av FM UTBCH genomför MHS H uppföljning av GU-F.
+
+            Svenska Försvarsutbildningsförbundet (Försvarsutbildarna) har ett huvudmannaskap
+            inom frivilliga försvarsorganisationer för planering, genomförande, utvärdering och
+
+            utveckling av GU-F, vilka genomförs av frivilliga försvarsorganisationer.
+
+            För GU-F finns en särskild arbetsgrupp GU-F (AG GU-F) där samverkansfrågor och
+            andra frågor hanteras.
+
+            GU-F genomförs normalt av frivilliga försvarsorganisationer enligt uppdrag i VU. För-
+            band ur Försvarsmakten har i uppdrag i VU att stödja frivilliga försvarsorganisationer i
+            planering och genomförandet av utbildningen.
+
+            Inom frivilliga försvarsorganisationer representerar organisationer enligt nedan följande
+            sakområden:
+             Sakområde               Frivillig försvarsorganisation
+             Kommendantur            Försvarsutbildarna
+             Inre tjänst             Försvarsutbildarna
+
+             Exercis                 Försvarsutbildarna
+             Värdegrundsutbildning   Försvarets personaltjänstförbund
+
+            23 FM2017-12252:2
+
+                                        51
+                                       HANDBOK
+
+
+             Skjututbildning AK      Svenska Skyttesportförbundet
+             Skjutbildning Pistol    Svenska Pistolskytteförbundet
+             Strid                   Försvarsutbildarna
+             Folkrätt                Försvarets Personaltjänstförbund
+             Fysisk prestationsförmåga Försvarsutbildarna
+
+             Verksamhetssäkerhet     Försvarsutbildarna
+             CBRN                    Försvarsutbildarna
+
+             Försvarsmedicin         Försvarsutbildarna
+
+                                                               Tabell 5.1.
+
+
+            5.3. Utbildningsavtal
+
+            Deltagare som genomgår GU-F i frivilliga försvarsorganisationers regi ska ha tecknat
+            ett s.k. utbildningsavtal.
+
+            5.4. Förberedelser före utbildningen
+
+            Genomförandet av GU-F i frivilliga försvarsorganisationers regi baseras på att eleven
+            har förberett sig inför GU-F genom den nätbaserade delen av utbildningen. Detta för att
+            hålla rimligt tempo i genomförandet av utbildningen. Om den nätbaserade delen inte har
+            genomförts kommer eleven uppleva ett högre tempo under genomförandet.
+
+            Respektive frivillig försvarsorganisation som genomför GU-F ska kunna hänvisa elev
+            till den nätbaserade utbildningen, inklusive inloggningsuppgifter.
+
+            5.5. GU-F slutmål
+
+            GU-F genomförs mot följande slutmål:
+                Efter genomförd GU-F ska eleven kunna försvara sig själv och tillsammans med
+                 andra kunna försvara plats eller anläggning.
+                Eleven ska under GU-F och därefter fortsatt tjänstgöring i Försvarsmakten
+
+                 kunna handla på ett sådant sätt att de lagar, regler, bestämmelser, rättigheter,
+                 skyldigheter m.m. som gäller efterlevs.
+
+            Kommentarer till slutmålet
+            Målsättningarna ovan kan vid en första anblick tyckas liknar målsättningarna för GMU-
+            förmågan och det kan därför vara lätt att tro att man kan utbilda en soldat med ”GMU-
+            förmågor” på endast två veckor. Så är inte fallet. Ovanstående två slutmål bryts längre
+            fram i denna anvisning ner till detaljerade utbildningsmål, d.v.s. vad eleven ska kunna
+            och i vilka situationer som förmågan ska innehas. I många fall kompletteras dessutom
+            utbildningsmålet med utbildningsanvisningar, t.ex. en övningsförteckning som stöd för
+            planering och genomförande. Vidare anges den utbildningstid som normalt bör tilldelas
+            till målsättningen. Allt detta sammantaget svarar på frågan vad eleven ska kunna och
+            hur bra.
+
+            GU-F har tagits fram med målet att ge viss personal i hemvärnets krigsförband en viss
+            GSSU-förmåga. Efter GU-F och erforderlig grundläggande befattningsutbildning krigs-
+
+
+                                        52
+            placeras denna personal som personalkategori frivillig personal. Exempel på befattning-
+            ar som denna personal bestrider är signalist, fordonsförare, hundförare, kock och sjuk-
+            vårdare i hemvärnet.
+
+            Under GU-F utbildas inte skyttesoldater utan personalkategorierna löser andra huvud-
+            uppgifter än strid. Dock är personalen soldater och bild 5.1 nedan exemplifierar en typ-
+            situation som en elev ska kunna hantera efter godkänd GU-F.
+
+            Eleven ska kunna tilldelas/välja en eldställning, kunna bli tilldelat ett eldområde och
+            däri kunna bekämpa uppdykande mål och misstänkta punkter under förutsättning att
+            dager råder, soldaten/gruppen är i förhand, motståndaren uppträder utan stridsfordon
+            och på ett avstånd av ca 10–100 m.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                 Bild 5.1.
+
+            Vid en så kort utbildning som GU-F måste utbildningsinnehållet noga värderas – vad är
+            viktigast, vad hamnar i fokus? I GU-F har skjututbildningen prioriterats. Därefter ut-
+            bildning i försvarsmedicin, CBRN, strid samt folkrätt. Övrig utbildning har nedpriorite-
+            rats och viss utbildning har helt valts bort, t.ex. brandutbildning.
+
+              5.5.1. Slutmål 1
+
+            Slutmål:
+            Efter genomförd GU-F ska eleven kunna försvara sig själv och tillsammans med andra
+            kunna försvara plats eller anläggning.
+
+            Delmål: Efter GU-F ska eleven,
+                som enskild eller i stridspar kunna strida, inom ramen för grupps försvar av plats
+                 eller anläggning.
+
+
+
+
+
+
+                                        53
+                                       HANDBOK
+
+
+            Situation: I en förhandssituation under dagsljus, barmarksförhållanden och mot en mot-
+            ståndare som uppträder utan stridsfordon. Urban miljö och betäckt terräng.24
+
+            Analys av delmålen:
+            Hänvisningar för respektive utbildningsmål återfinns på EMILIA/GSSU/GU-F.
+           Eleven ska:
+           Strid och fältarbete (13 tim)
+            Kunna vidta åtgärder vid färdiga till strid.
+            Kunna iordningsställa och tillpassa stridsvästen.
+            Vid ingående i eldställning – kunna tillämpa stridsförflyttningssätten
+
+            Kunna inta skydd.
+            Kunna inta tilldelad eller välja eld- eller skyddsställning och vidta eldförberedelser.
+            Kunna genomföra strid från eldställning.
+            Kunna genomföra strid inom ramen för grupps strid från stridsställning.
+            Kunna upprätthålla olika beredskapsgrader.
+            Kunna förbättra eget skydd och maskera utifrån hotbild.
+           Skjututbildning (40 tim)
+            Kunna använda sitt eldhandvapen (Ak eller pistol).
+
+           Försvarsmedicin (14+2 timmar)
+            Kunna genomföra ett omhändertagande enligt <C>ABCDE.
+            Kunna genomföra HLR med hjärtstartare.
+            Kunna vidta åtgärder vid olycka.
+           CBRN (6 tim)
+
+            Övergripande kunna beskriva hotbild och symptom av CBRN.
+            Kunna använda den personliga skyddsutrustningen.
+            Ha genomfört tillpassningskontroll av den personliga skyddsmasken.
+            Övergripande kunna beskriva hotnivåer samt utrustningsregler för CBRN.
+            Kunna vidta personliga skyddsåtgärder i en C/R/N miljö, inklusive medicinska åt-
+             gärder.
+           Fysiskt stridsvärde (6 tim)
+            Kunna skapa förutsättningar för att upprätthålla personlig hygien och god hygien i
+             alla typer av boenden samt kunna hantera mat och vatten hygieniskt säkert.
+
+            Kunna använda och anpassa sin personliga utrustning med hänsyn till rådande miljö
+             och uppgift så att ett högt stridsvärde bibehålls.
+            Kunna tillämpa en säker arbetsteknik vid olika arbetsmoment så som t.ex. lyft, bä-
+             rande av tung materiel.
+            Med genomförd utbildning och dess fysiska träning som målbild, kunna genomföra
+             egen träning efter GU-F i syfte att utveckla/bibehålla sin fysiska prestationsförmåga.
+           Förläggning25 (13 tim)
+            Kunna nyttja bivack som förläggning.
+
+
+
+
+            24 Båda typerna ska eftersträvas i syfte att visa på samma grundläggande beteende, oavsett omgivning.
+            T.ex. är grunderna för val av eldställning eller skydds intagande de samma oavsett om det sker i betäckt
+            terräng eller i urban miljö.
+            25 De dygn eleven förläggs i bivack och kvarter ska fokus vara att eleven utvecklar sin förmåga att om-
+            händerta kropp och utrustning under dessa förhållanden på ett sådant sätt att den egna och gruppens för-
+            måga att lösa uppgiften inte nedgår.
+                                        54
+           Tillämpningsövning (24 tim)
+            Under ett dygn med uppgiftslösande26 och olika beredskapsgrader, kunna optimera
+             det fysiska stridsvärdet så att eleven framgångsrikt kan lösa tilldelade uppgifter
+             (dessa är fortsatt träning mot utbildningsmål i strid, försvarsmedicin, förläggnings-
+             tjänst, etc).
+                                                                Tabell 5.1
+              5.5.2. Slutmål 2
+
+            Slutmål:
+            Eleven ska under GU-F och därefter fortsatt tjänstgöring i Försvarsmakten kunna handla
+            på ett sådant sätt att de lagar, regler, bestämmelser, rättigheter, skyldigheter mm som
+            gäller efterlevs.
+
+            Delmål:
+                Eleven ska kunna redogöra för innebörden i eller ha tillgång till information om
+                 för den dagliga tjänsten relevanta lagar, regler, bestämmelser, rättigheter och
+                 skyldigheter.
+                Eleven ska aktivt kunna medverka i utbildningssäkerhetsarbetet.
+            Situation:
+            Alla situationer där eleven löser uppgifter
+
+            Analys av delmålen:
+            Hänvisningar för respektive utbildningsmål återfinns på EMILIA/GSSU/GU-F.
+
+           Eleven ska
+           Exercis (3 tim)
+            Kunna uppträda enskilt och i sluten ordning i enlighet med bestämmelser i R Parad
+             3 (hälsning, uppställning på linje och kolonn, marschanträda och halt, marsch i slu-
+             ten ordning).
+           Soldaterinran
+            Under GU-F ha blivit meddelad soldaterinran.
+           Folkrätt (5 tim)
+            Uppfylla de krav på folkrättsutbildning som ställs på soldater och sjömän i enlighet
+             med Försvarsmaktens Interna bestämmelser (FIB).
+
+           Värdegrund (2 tim)
+            Kunna redogöra för syftet med och innehållet i Försvarsmaktens värdegrund och
+             Försvarsmaktens nolltolerans mot droger, trakasserier, könskränkningar, homo-
+             fobi, m.m.
+            Kunna agera vid händelse av diskriminering, mobbning, trakasserier eller andra
+             yttringar som strider mot Försvarsmaktens värdegrund. Veta hur och till vem en
+             anmälan görs samt vara införstådd med det egna ansvaret.
+           Inre tjänst (4 tim)
+            Förmåner eleven har under GU-F.
+            Kunna ange vilken grad som motsvarar olika gradbeteckningar (de grader som
+             eleven möter under sin GU-F).
+
+           Rättstjänst
+            Kunna fullgöra sin tjänst på ett sådant sätt att aktuella lokala instruktioner följs
+            Känna till Disciplinansvarslagen.
+
+
+            26 T.ex. eldpost, genomföra strid inom ramen för grupps strid från stridsställning, omhändertagande av
+            skadad, CBRN, folkrätt.
+                                        55
+                                       HANDBOK
+
+
+            Känna till de rättigheter och skyldigheter, närvaro, ledigheter och uniformsbe-
+             stämmelser.
+            Kunna förklara innebörden av begreppen befälsrätt och förman.
+            Förbandets möjlighet att använda sig av tvångsmedel, bland annat visitera skåp
+             och annat tillhörande eleven.
+           Verksamhetssäkerhet (3 tim)
+            Kunna redogöra för vad begreppet risk innebär.
+            Medvetet27 kunna tillämpa säkerhetsbestämmelserna när uppgifterna löses.
+
+            I handling visa att eleven tar ansvar för sig själv och sin omgivning.
+            Kunna tillämpa envars skyldighet att ingripa vid fara.
+            Kunna agera utifrån bestämmelser för det lokala brandskyddet och vidta rätta åt-
+             gärder vid brand.
+            Hantera kniv, yxa och såg på ett säkert sätt.
+           Kommendantur (5 tim)
+            Hitta till matsal, serviceförråd, vapenförvaring, befälskontor, m.m.
+            Ha kvitterat ut all sin utrustning och kunna nyttja denna. Efterhand som utrust-
+             ningen används i GU-F tillpassas denna.
+
+            Kunna namnge de delar i den personliga utrustningen som används.
+            Kunna vårda personlig och gemensam materiel under fält- och kasernförhållanden.
+            Återlämna utrustning.
+                                                                Tabell 5.2
+
+            5.6. Utbildningskontroller
+
+            Utbildningen värderas genom följande utbildningskontroller:
+                Prov säkerhetsbestämmelser
+                Prov vapenhantering
+                Kompetensprov
+
+                   o  Ak enligt anvisningar på EMILIA/GSSU/GU-F
+                   o  Pistol enligt anvisningar på EMILIA/GSSU/GU-F
+
+            Ovanstående utbildningskontroller ska genomföras under GU-F och inga andra utbild-
+            ningskontroller får genomföras med koppling till godkänt/underkänt resultat.
+
+            Är eleven underkänd vid en utbildningskontroll ska kompletteringsutbildning och för-
+            nyad utbildningskontroll genomföras. Antalet tillfällen för utbildningskontroller är inte
+            begränsade utan principen ”så många som är möjligt under hela utbildningstiden” ska
+            tillämpas.
+
+            Utbildningskontroller avseende elevens resultat i skjututbildningen ska genomföras av
+            instruktörer ur Svenska skyttesportförbundet, Svenska pistolskytteförbundet eller kvali-
+            tetssäkrare ur Försvarsmakten eller av denne utsedd. Dessa genomför också komplette-
+            ringsutbildningar inför eventuell nytt förnyad utbildningskontroll.
+
+
+
+
+
+
+            27 Medvetet innebär att eleven kan redogöra för sina motiv till vald handling
+
+                                        56
+            5.7. Lämplighetsbedömning
+
+            Bedömning av lämplighet görs enligt mall, se nedan. Lämplighetsbedömningen genom-
+            förs genom egen- och befälsskattning.
+
+            Resultatet av Lämplighetsbedömningen ska sammanställas, sammanvägas och fastställs
+            av lokal kurschef (motsv.).
+
+            Försvarsutbildarna utger särskilda handlingsregler för genomförande av Lämplighetsbe-
+            dömning.28
+
+            5.8. Vad krävs för att godkänt resultat efter GU-F?
+
+            Att vara godkänd efter GU-F definieras som att, se bild 5.2:
+                vara godkänd i samtliga utbildningskontroller i GU-F
+                vara godkänd i Lämplighetsbedömning för GU-F
+
+            Båda delarna är lika viktiga och finns inte godkänt resultat från båda delarna ska eleven
+
+            rapporteras som underkänd från GU-F.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                 Bild 5.2.
+
+            28 Se försvarsutbildarna.se/funktionär/GU-F
+
+                                        57
+                                       HANDBOK
+
+
+
+            5.9. Resultat efter GU-F
+
+            Elevernas resultat ska löpande dokumenteras för att i slutet av utbildningen ha underlag
+            för värdering av elevens resultat. Elev ska i ”halvtidssamtal” få reda på om resultatet
+            riskerar att inte nå godkänt.
+
+            Resultatet från samtliga utbildningskontroller ingående i GU-F samt resultatet av lämp-
+            lighetsbedömningen ska sammanställas till ett resultat efter GU-F.
+
+            Utsedd kurschef fastställer resultat efter GU-F.
+
+            5.10. Utbildningens organiserande
+
+            GU-F omfattar 14 utbildningsdagar och organiseras i regel som en tvåveckors utbild-
+            ning enligt av Försvarsutbildarna fastställd stomplan.29 GU-F är komprimerad och ge-
+            nomförs med ett högt utbildningstempo.
+
+            Vid genomförandet av GU-F under två veckor ska ca ett dygns återhämtning organise-
+            ras.
+
+
+            GU-F omfattar två dygn i fältförläggning i tält. Ett dygn under formella former och ett
+            dygn under mer tillämpade former. Av pedagogiska och verksamhetssäkerhetsmässiga
+            skäl ska inte mer tid förläggas i fältförläggning.
+
+            5.11. Ytterligare hänvisningar och styrningar
+
+            Respektive sakområdesansvarig inom de frivilliga försvarsorganisationerna enligt tabell
+            5.1 är insatta i de hänvisningar som anges i denna utbildningsanvisning. Det är i allt
+            väsentligt samma hänvisningar som för GMU och en viktig del i harmoniseringen av
+            GU-F gentemot GMU. Dessa styrningar kan vid behov omsättas till särskilda och för-
+            tydligade styrning för GU-F av sakområdesansvarig ur frivilliga försvarsorganisationer.
+
+            Särskilda och förtydligande styrningar för GU-F tillhandahålls av Försvarsutbildarna.
+            Exempel på sådana styrningar är:
+                övningsplaner och övningsförteckningar
+
+                bestämmelser för medinflytande
+                bestämmelser för skiljande från utbildningen
+                bestämmelser för lämplighetsbedömning
+                bestämmelser för utvärdering och rapportering
+
+            Dessa återfinns på försvarsutbildarna.se/funktionär/GU-F. Hänvisningar och styrningar
+            kan gälla såväl personal ur frivilliga försvarsorganisationer som personal ur Försvars-
+            makten, t.ex. kvalitetssäkraren från stödjande förband.
+
+            Inloggningsuppgifter kan erhållas av Försvarsutbildarna eller t.ex. lokala kurs-
+            /skolchefer för GU-F.
+
+
+
+            29 Se försvarsutbildarna.se/funktionär/GU-F
+
+                                        58
+            5.12. Dokumentation av GU-F
+
+            GU-F rapporteras som kurs i system PRIO. Kurskoder och administrativt stöd erhålls
+            via samarbetsyta EMILIA/GSSU/GU-F eller av Försvarsutbildarna.
+
+            5.13. Utvärdering av GU-F
+
+            Försvarsutbildarna utger styrningar för utvärdering av GU-F. Dessa utvärderingar redo-
+            visas och analyseras bl.a. i Arbetsgrupp (AG) GU-F. Erfarenheter dragna i AG GU-F
+            avseende utbildningsmål eller krav för godkänt resultat lämnas till MHS H. Inom ramen
+            för MHS H uppdrag att utarbeta utbildningsanvisningar för GSSU samverkar MHS H
+            med sakområdesansvariga förband i Försvarsmakten om utveckling av innehåll
+            och/eller krav för godkänt resultat från GU-F.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        59
+                                       HANDBOK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        60
+            5.14. Mall för lämplighetsbedömning av elev vid GU-F
+
+            Födelsenr.  Namn                          Förband
+
+
+
+              Chefsbedömning           Egenbedömning
+
+
+           BEDÖMNINGEN SKER MOT LÄMPLIGHET SOM GENERELL SPECIALIST
+
+         A Ansvar, omdöme och föredöme                       Inte Lämplig Lämplig Ej bedömd
+                                                               (IL)  (L)
+           Exempel: Tar sitt ansvar, Vidtar åtgärder när det behövs, Är ett föredöme för andra, Har Kommentarer:
+           god ordning och ett gott uppförande, Förmår att göra riktiga och kloka avvägningar
+
+
+         B Flexibilitet, initiativ och kreativitet           Inte Lämplig Lämplig Ej bedömd
+                                                               (IL)  (L)
+           Exempel: Anpassar sig till skiftande uppgifter, människor, miljöer och tidsförhållanden, Kommentarer:
+           Agerar självständigt och tar initiativ inom egna eller angränsande områden, Är idérik,
+           kreativ och finner lösningar i uppkomna situationer
+
+
+
+         C Inspiration, motivation och ledarskap             Inte Lämplig Lämplig Ej bedömd
+                                                               (IL)  (L)
+           Exempel: Motiverar andra, Hjälper andra till utveckling, Ger konstruktiv feedback på Kommentarer:
+           utförda insatser, Berömmer andra, Strukturerar sitt och vid behov andras insatser på ett
+           ändamålsenligt sätt, Har ett situationsanpassat ledarskap/förhållningssätt
+
+
+         D Samarbete, hänsyn och social kompetens            Inte Lämplig Lämplig Ej bedömd
+                                                               (IL)  (L)
+           Exempel: Samarbetar mot gemensamma mål, Strävar efter att uppnå överenskommelser Kommentarer:
+           om vad som skall göras, Kan säga emot utan att vara otrevlig, Får god kontakt med andra
+           människor, Bidrar till ett bra arbetsklimat, Tar hänsyn till andras personliga förutsätt-
+           ningar, Visar förståelse för andras behov
+
+
+         E Uthållighet och självkontroll                     Inte Lämplig Lämplig Ej bedömd
+                                                               (IL)  (L)
+           Exempel: Visar förmåga att hantera stressiga situationer, Visar psykisk uthållighet och en Kommentarer:
+           vilja att inte ge upp, Visar en god förmåga att hantera sina egna känslor
+
+
+          F Värdegrund                                       Inte Lämplig Lämplig
+                                                               (IL)        (L)
+           Agerar enligt Försvarsmaktens värdegrund          Kommentarer:
+
+
+
+
+                                        61
+                                       HANDBOK
+
+
+          Kommentarer:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Fastställt och delgivet:
+
+
+
+
+
+            Ort & datum    Sign PC (motsv.)    Sign Elev      Sign KC (motsv.)
+
+
+
+
+                                        62
+                          Utbildningsanvisning      för
+
+                  Grundläggande      soldatutbildning    (GSU)
+                                2020  års utgåva
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        63
+                                       HANDBOK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        64
+            Innehåll
+            6. Grundläggande soldatutbildning (GSU) ................................................................. 67
+             6.3. Allmänt ...................................................................................................................... 67
+
+             6.3. Ansvarsförhållanden i GSU ....................................................................................... 67
+             6.4. Utbildningskontroller ................................................................................................. 67
+
+             6.5. Lämplighetsbedömning ............................................................................................. 68
+             6.6. Resultat efter GSU ..................................................................................................... 68
+
+             6.7. Utbildningens organiserande ..................................................................................... 68
+             6.8. Dokumentation av GSU ............................................................................................. 68
+             6.9. Utvärdering av GSU .................................................................................................. 68
+
+             6.10. Mall för lämplighetsbedömning av elev vid GSU ................................................. 69
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        65
+                                       HANDBOK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        66
+            6.   Grundläggande soldatutbildning (GSU)
+
+            6.3. Allmänt
+
+            GSU genomförs som GSSU för viss personal i krigsförbanden. Främst handlar det om
+            Försvarsmaktspersonal som saknar tidigare soldatutbildning och som ska krigsplaceras i
+            ”beväpnad befattning”. Är befattningen obeväpnad ska Kombattantutbildning för obe-
+            väpnad personal (KombU) genomföras.
+
+            Utbildningsmålen och ”GSSU-förmågan” är den samma som för GU-F. Dock genom-
+            förs GSU under cirka tre veckor (ca 15 utbildningsdagar30) i enlighet med gällande ar-
+            betstidsavtal för anställd personal. Därför omfattar detta avsnitt i H GSSU endast de
+            skillnader som uppkommer m.a.a. olika personalgrupper. För utbildningsmål, utbild-
+            ningsunderlag, krav för godkänt resultat, etc. se avsnitt – GU-F.
+
+            Efter beslut av C FÖRBPROD utgör GSU den lägsta nivån av GSSU för att få tilldelas
+            vapnet vid övning, beredskap eller annan tjänstgöring.
+
+            Utbildningsanvisningar finns för att genomföra GSU med antingen:
+
+                Ak 4
+                Ak 5
+                Pistol m/88
+
+            Utbildningsunderlag för GU-F (som har samma utbildningsmål som GSU) återfinns
+            även på försvarsutbildarna.se/funktionär/GU-F. För inloggningsuppgifter kontakta
+            MHS H på mejladress: mhs-h-gu@mil.se.
+
+            6.3. Ansvarsförhållanden i GSU
+
+            MHS H utarbetar, med stöd av sakområdesansvariga enligt kapitel 1 i denna handbok,
+            utbildningsanvisningar för GSU. FM UTBCH fastställer utbildningsanvisningarna.
+
+            På uppdrag av FM UTBCH genomför MHS H uppföljning av GSU.
+
+            GSU genomförs av krigsförbanden eller av krigsförbanden arrangerat stöd i genomfö-
+
+            randet (t.ex. från frivilliga försvarsorganisationer).
+
+            6.4. Utbildningskontroller
+
+            Utbildningen värderas genom följande utbildningskontroller:
+                Prov säkerhetsbestämmelser
+                Prov vapenhantering
+                Kompetensprov
+                   o  Ak enligt anvisningar på EMILIA/GSSU/GSU
+                   o  Pistol enligt anvisningar på EMILIA/GSSU/GSU
+
+
+
+
+            30 M.h.t. att personalkategorin som huvudregel reda uppfyller målsättningar i t.ex. värdegrundsutbildning
+            och försvarsupplysning och ofta redan har personlig utrustning uthämtad och tillpassad kan utbildningsti-
+            den reduceras .
+                                        67
+                                       HANDBOK
+
+
+            Ovanstående utbildningskontroller ska genomföras under GSU och inga andra än ut-
+            bildningskontroller får genomföras med koppling till godkänt/underkänt resultat.
+
+            Är eleven underkänd vid en utbildningskontroll ska kompletteringsutbildning och för-
+            nyad utbildningskontroll genomföras. Antalet tillfällen för utbildningskontroller är inte
+            begränsade utan principen ”så många som är möjligt under hela utbildningstiden” ska
+            tillämpas.
+
+            Utbildningskontroller avseende elevens resultat i skjututbildningen genomförs av kom-
+            panichef/plutonchef/instruktörer (motsv.).
+
+            6.5. Lämplighetsbedömning
+
+            Bedömning av lämplighet görs enligt mall nedan i denna handling. Lämplighetsbedöm-
+            ningen genomförs genom egen- och befälsskattning. För stöd avseende genomförande
+            av lämplighetsbedömning – se handlingsregler på EMILIA/GSSU/GSU eller Försvars-
+            utbildarnas hemsida.
+
+
+            Resultatet av Lämplighetsbedömningen ska föreslås av plutonchef (motsv.), samman-
+            ställas, sammanvägas och fastställs av kompanichef (motsv.).
+
+            6.6. Resultat efter GSU
+
+            Elevernas resultat ska löpande dokumenteras för att i slutet av utbildningen ha underlag
+            för värdering av elevens resultat. Elev ska i ”halvtidssamtal” få reda på om resultatet
+            riskerar att inte nå godkänt.
+
+            Resultatet från samtliga utbildningskontroller ingående i GSU samt resultatet av lämp-
+            lighetsbedömningen ska sammanställas till ett resultat efter GSU.
+
+            Utsedd kompanichef (motsv.) fastställer resultat efter GSU.
+
+            6.7. Utbildningens organiserande
+
+            MHS H tillhandahåller stomplan för GSU, se EMILIA/GSSU/GSU
+
+            GSU omfattar två dygn i fältförläggning i tält. Av pedagogiska och verksamhetssäker-
+            hetsmässiga skäl ska inte mer tid förläggas i fältförläggning.
+
+
+            6.8. Dokumentation av GSU
+
+            GSU rapporteras som kurs i system PRIO. Kurskoder och administrativt stöd erhålls via
+            EMILIA/GSSU/GSU.
+
+            6.9. Utvärdering av GSU
+
+            GSU utvärderas av lokal utbildningsanordnare. En sammanställning av genomförd ut-
+            värdering ska ställas till MHS H på mejladress mhs-h-gu@mil.se
+
+
+
+
+                                        68
+            6.10. Mall för lämplighetsbedömning av elev vid GSU
+
+            Födelsenr.  Namn                          Förband
+
+
+
+              Chefsbedömning           Egenbedömning
+
+           BEDÖMNINGEN SKER MOT LÄMPLIGHET SOM GENERELL GSS, OR 1
+
+         A Ansvar, omdöme och föredöme                       Inte Lämplig Lämplig Ej bedömd
+                                                               (IL)  (L)
+           Exempel: Tar sitt ansvar, Vidtar åtgärder när det behövs, Är ett föredöme för andra, Har Kommentarer:
+           god ordning och ett gott uppförande, Förmår att göra riktiga och kloka avvägningar
+
+
+
+         B Flexibilitet, initiativ och kreativitet           Inte Lämplig Lämplig Ej bedömd
+                                                               (IL)  (L)
+           Exempel: Anpassar sig till skiftande uppgifter, människor, miljöer och tidsförhållanden, Kommentarer:
+           Agerar självständigt och tar initiativ inom egna eller angränsande områden, Är idérik,
+           kreativ och finner lösningar i uppkomna situationer
+
+
+
+         C Inspiration, motivation och ledarskap             Inte Lämplig Lämplig Ej bedömd
+                                                               (IL)  (L)
+           Exempel: Motiverar andra, Hjälper andra till utveckling, Ger konstruktiv feedback på Kommentarer:
+           utförda insatser, Berömmer andra, Strukturerar sitt och vid behov andras insatser på ett
+           ändamålsenligt sätt, Har ett situationsanpassat ledarskap/förhållningssätt
+
+
+         D Samarbete, hänsyn och social kompetens            Inte Lämplig Lämplig Ej bedömd
+                                                               (IL)  (L)
+           Exempel: Samarbetar mot gemensamma mål, Strävar efter att uppnå överenskommelser Kommentarer:
+           om vad som skall göras, Kan säga emot utan att vara otrevlig, Får god kontakt med andra
+           människor, Bidrar till ett bra arbetsklimat, Tar hänsyn till andras personliga förutsätt-
+           ningar, Visar förståelse för andras behov
+
+
+         E Uthållighet och självkontroll                     Inte Lämplig Lämplig Ej bedömd
+                                                               (IL)  (L)
+           Exempel: Visar förmåga att hantera stressiga situationer, Visar psykisk uthållighet och en Kommentarer:
+           vilja att inte ge upp, Visar en god förmåga att hantera sina egna känslor.
+
+
+          F Värdegrund                                       Inte Lämplig Lämplig
+                                                               (IL)        (L)
+           Agerar enligt Försvarsmaktens värdegrund          Kommentarer:
+
+
+
+
+
+                                        69
+                                       HANDBOK
+
+
+          Kommentarer:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Fastställt och delgivet:
+
+
+
+
+
+            Ort & datum    Sign PC (motsv.)    Sign Elev      Sign KC (motsv.)
+
+
+
+
+                                        70
+                          Utbildningsanvisning      för
+
+                    Grundläggande      soldatutbildning    för
+                      internationell   tjänst  (GSU   INT)
+
+                                2020  års utgåva
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        71
+                                       HANDBOK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        72
+            Innehåll
+            7. Grundläggande soldatutbildning för internationell tjänst (GSU INT).................... 75
+             7.1. Allmänt ...................................................................................................................... 75
+
+             7.2. Ansvarsförhållanden i GSU INT ............................................................................... 75
+             7.3. Antagningsprövning ................................................................................................... 76
+
+             7.4. GSU INT slutmål ....................................................................................................... 76
+               7.4.1. Slutmål 1 ............................................................................................................. 76
+
+               7.4.2. Slutmål 2 ............................................................................................................. 78
+               7.4.3. Slutmål 3 ............................................................................................................. 79
+             7.5. Utbildningskontroller ................................................................................................. 81
+
+             7.6. Lämplighetsbedömning ............................................................................................. 81
+             7.7. Vad krävs för att godkänt resultat efter GSU INT ..................................................... 82
+
+             7.8. Resultat efter GSU INT ............................................................................................. 83
+             7.9. Utbildningens organisation ........................................................................................ 83
+
+               7.9.1. Allmänt ............................................................................................................... 83
+               7.9.2. Fältdygn .............................................................................................................. 83
+
+               7.9.3. Medinflytande ..................................................................................................... 83
+               7.9.4. Stomplan ............................................................................................................. 83
+             7.10. Skiljande från utbildningen .................................................................................... 83
+
+             7.11. Dokumentation av GSU INT ................................................................................. 84
+             7.12. Utvärdering av GSU INT ....................................................................................... 84
+
+             7.13. Mall för lämplighetsbedömning av elev vid GSU INT .......................................... 85
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        73
+                                       HANDBOK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        74
+            7.   Grundläggande  soldatutbildning för internationell tjänst
+                 (GSU INT)
+
+            7.1. Allmänt
+
+            Utbildningen GSU INT är skapad och avsedd för personal med särskild kompetens som
+            behövs i krigsförband insatta i internationell tjänst men där personalen saknar tidigare
+            grundläggande soldatutbildning. Exempel på sådan personal är stabsassistenter, förråds-
+            personal, IT-/IS-personal eller sjukvårdspersonal. Det är inte skyttesoldater och eleven
+            blir inte skyttesoldat efter GSU INT. Däremot blir eleven soldat och ska efter eventuell
+            lokal utbildning samt insatsspecifik utbildning kunna lösa soldatuppgifter såsom t.ex.
+            delta i bevakningen av campen eller kunna ingå i en avdelning som utsätts för ett eldö-
+            verfall.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                 Bild 7.1.
+
+            Bilden ovan visar ett exempel på ungefärliga tidsförhållanden för prövning, antagning
+            och utbildning av personal via GSU INT. Avvikelser från dessa förhållanden finns, så-
+            väl kortare som längre tidsförhållanden. Notera att insatsspecifik utbildning också varie-
+            rar i omfattning för olika personalgrupper.
+
+
+            Vid en så kort utbildning som GSU INT måste utbildningsinnehållet noga värderas –
+            vad är viktigast, vad hamnar i fokus? Här har säker vapenhantering och skjututbildning
+            prioriterats. Därefter utbildning i försvarsmedicin, CBRN, strid samt folkrätt. Övrig
+            utbildning har tvingats nedprioritera, vilket inte innebär att den är oviktig men den hinns
+            helt enkelt inte med.
+
+            7.2. Ansvarsförhållanden i GSU INT
+
+            Ansvarsförhållanden för GSU INT regleras i skrivelse HKV 2011-11-30, 19 190:67980
+            Ansvarsförhållanden och utbildningsanvisningar vid genomförande av GSU INT.
+            Denna skrivelse förändras avseende utbildningsanvisningarna då H GSSU ersätter ut-
+            bildningsanvisningar för GSU INT.
+
+            På uppdrag av FM UTBCH genomför MHS H uppföljning av GSU INT.
+
+
+
+
+
+                                        75
+                                       HANDBOK
+
+
+            7.3. Antagningsprövning
+
+            En viktig förutsättning för genomförande av GSU INT är att central antagning är ge-
+            nomförd efter antagningsprövning mot fastställda krav. Denna regleras inte vidare här.
+
+            7.4. GSU INT slutmål
+
+            GSU INT genomförs mot följande slutmål:
+
+                Efter genomförd GSU INT ska eleven kunna försvara sig själv och tillsammans
+                 med andra kunna bevaka och försvara plats eller anläggning.
+                Under och efter genomförd GSU INT ska eleven kunna lösa sina uppgifter uti-
+                 från en förståelse för dessa i ett större sammanhang.
+                Eleven ska under GSU INT kunna handla på ett sådant sätt att de lagar, regler,
+                 bestämmelser, rättigheter, skyldigheter m.m. som gäller efterlevs.
+
+            Kommentarer till slutmålet
+            Målsättningarna ovan liknar målsättningarna för GMU-förmågan och det kan därför
+            vara lätt att tro att man ska och kan utbilda en soldat med ”GMU-förmågor” på endast
+
+            fem veckor. Så är inte fallet. Ovanstående tre slutmål bryts längre fram i denna handling
+            ner till detaljerade utbildningsmål, d.v.s. vad eleven ska kunna och i vilka situationer
+            som förmågan ska innehas. I många fall kompletteras dessutom utbildningsmålet med
+            utbildningsanvisningar, t.ex. en övningsförteckning som stöd för planering och genom-
+            förande. Vidare anges den utbildningstid som normalt bör tilldelas till målsättningen.
+            Allt detta sammantaget svarar på frågan vad eleven ska kunna och hur bra.
+
+              7.4.1. Slutmål 1
+            Slutmål:
+
+            Efter genomförd GSU INT ska eleven kunna försvara sig själv och tillsammans med
+            andra kunna bevaka och försvara plats eller anläggning.
+
+            Delmål 1: Efter GSU INT ska eleven kunna
+                inta skydd och eldställning för att kunna försvara sig själv.
+            Situation: I en för- eller efterhandssituation under dagsljus, barmarksförhållanden och
+            mot en motståndare som uppträder utan stridsfordon. Urban miljö och betäckt terräng31.
+
+            Delmål 2: Efter GSU INT ska eleven,
+                kunna lösa uppgift som post.
+            Situation: I en förhandssituation under dagsljus32, barmarksförhållanden och mot en
+            motståndare som uppträder utan stridsfordon. Urban miljö och betäckt terräng.33
+
+            Delmål 3: Efter GSU INT ska eleven,
+
+                som enskild eller i stridspar kunna strida, inom ramen för grupps försvar av
+                 plats, eller anläggning.
+
+
+            31 Båda typerna ska eftersträvas i syfte att visa på samma grundläggande beteende, oavsett omgivning.
+            T.ex. är grunderna för val av eldställning eller skydds intagande de samma oavsett om det sker i betäckt
+            terräng eller i urban miljö.
+            32 Ett mål ska även uppnås i mörker. Detta anges vid aktuellt mål.
+            33 Se fotnot 5.
+                                        76
+            Situation: I en förhandssituation under dagsljus, barmarksförhållanden och mot en mot-
+            ståndare som uppträder utan stridsfordon. Urban miljö och betäckt terräng. 34
+
+            Analys av delmålen:
+            Hänvisningar för respektive utbildningsmål återfinns på EMILIA/GSSU/GSU INT.
+           Eleven ska
+           Strid och fältarbete (ca 32 tim)
+            Kunna iordningsställa och tillpassa stridsutrustningen (stridsvästen).
+            Kunna vidta åtgärder vid färdiga till strid.
+            Kunna inta skydd.
+
+            Kunna välja skydd med hänsyn till olika föremåls skyddsförmåga.
+            Kunna förbättra eget skydd och maskera utifrån hotbild.
+            Kunna tillämpa de olika stridsförflyttningssätten.
+            Kunna välja eld- eller skyddsställning och vidta eldförberedelser.
+            Kunna ingå i en patrull som under framryckning leds med kommando och tecken
+             och använder olika grupperingsformer.
+            Kunna genomföra strid från eldställning.
+            Kunna genomföra strid inom ramen för grupps strid från stridsställning.
+            Kunna upprätthålla olika beredskapsgrader.
+
+            Kunna lösa uppgift som post vid bevakningsobjekt, även i mörker.
+            Kunna delta i ”Insats-/uppdragsutvärdering”.
+           Skjututbildning (ca 55 tim)
+            Kunna använda sitt eldhandvapen.
+           Yttre Miljö (ca 1 timme)
+            Känna till att olika organisationer (NATO, EU, FN) kan ha egna miljöpolicys och
+             riktlinjer.
+            Känna till de väsentliga miljöaspekterna i ett insatsland.
+
+            Veta vilka miljöutmaningar för den enskilde det finns på en camp.
+            Kunna ta hänsyn till kulturella och religiösa områden och byggnader.
+           Försvarsmedicin (14+2 timmar)
+            Kunna genomföra ett omhändertagande enligt <C>ABCDE.
+            Kunna genomföra HLR med hjärtstartare.
+            Kunna vidta åtgärder vid olycka.
+           Förläggning35 (ca 8 tim)
+            Kunna nyttja kvarter36 och bivack som förläggning.
+           CBRN (6 tim)
+
+            Kunna använda den personliga skyddsutrustningen.
+            Ha genomfört tillpassningskontroll av skyddsmask.
+            Känna till hotnivåer samt utrustningsregler för CBRN.
+            Kunna vidta personliga skyddsåtgärder i en C/R/N miljö inklusive medicinska åt-
+             gärder.
+
+
+
+            34 Se fotnot 5.
+            35 De dygn eleven förläggs i bivack och kvarter ska fokus vara att eleven utvecklar sin förmåga att om-
+            händerta kropp och utrustning under dessa förhållanden på ett sådant sätt att den egna och gruppens för-
+            måga att lösa uppgiften inte nedgår.
+            36 Här avses kvarter av tillfällig art, t.ex. industrilokal eller en lada. Innebär att eleverna får använda ligg-
+            underlag eller liknande och organisera sin vila efter de förutsättningar lokalen erbjuder.
+                                        77
+                                       HANDBOK
+
+
+           Brandutbildning (cirka 3 timmar)
+            Kunna beskriva verkan av brand och brandstridsmedel.
+            Ha passerat brandtunnel eller brandfönster på ett säkert sätt.
+            Kunna handha brandsläckare och annan släckutrustning och släcka brand på kamrat.
+           Fysiskt stridsvärde (ca 10 tim + 3 tim/vecka = 25 tim)
+            Kunna skapa förutsättningar för att upprätthålla personlig hygien och god hygien i
+             alla typer av boenden samt kunna hantera mat och vatten hygieniskt säkert.
+            Kunna använda och anpassa sin personliga utrustning med hänsyn till rådande och
+             insatsaktuell miljö och uppgift så att ett högt stridsvärde bibehålls.
+
+            Kunna tillämpa en säker arbetsteknik vid olika arbetsmoment så som t.ex. lyft, bä-
+             rande av tung materiel.
+            Övergripande kunna förklara behovet av fysisk prestationsförmåga för lösande av
+             uppgifter (slutmål 1) samt den fysiska prestationsförmågans koppling till fysiskt
+             stridsvärde.
+            Övergripande kunna förklara sambandet mellan belastning (tjänst/fysisk träning),
+             återhämtning och fysisk prestationsförmåga (positiv-negativ/skadlig effekt).
+            Övergripande kunna förklara behovet av energi- (kost)- och vätskebalans, förbruk-
+             ning vid olika verksamheter och situationer samt kunna vidta åtgärder för att få i sig
+             tillräcklig mängd vätska och energi för att undvika prestationsnedsättning.
+            Övergripande kunna förklara behovet av vila, sömn och vakenhet och hur den på-
+
+             verkar prestationsförmågan och säkerhetsaspekter
+            Ha utvecklat en vana för regelbunden och allsidig träning.
+            Kunna identifiera sitt egna behov av träning utifrån den kommande insatsbefatt-
+             ningens fysiska belastningar och sin nuvarande fysiska kapacitet samt kunna planera
+             och genomföra sin träning inför insatsen.
+           Tillämpningsövning (ca 8 tim)
+            Under ett dygn med uppgiftslösande37 och olika beredskapsgrader, kunna optimera
+             det fysiska stridsvärdet så att eleven framgångsrikt kan lösa tilldelade uppgifter
+             (dessa är fortsatt träning mot utbildningsmål i strid, försvarsmedicin, förläggnings-
+             tjänst, folkrätt, etc.).
+                                                                Tabell 7.1
+
+
+              7.4.2. Slutmål 2
+            Slutmål:
+            Under och efter genomförd GSU INT ska eleven kunna lösa sina uppgifter utifrån en
+            förståelse för dessa i ett större sammanhang.
+
+            Delmål:
+             Övergripande nivå: Eleven ska översiktligt kunna redogöra för Försvarsmaktens
+
+              uppdrag, uppgifter och organisation.
+            Situation: I diskussion med anhöriga och kamrater.
+
+             Indvid-grupp: Eleven ska kunna bidra till att gruppens förmåga till samarbete och
+              samspel utvecklas positivt, i syfte att förelagda uppgifter ska kunna lösas fram-
+              gångsrikt.
+            Situation: Alla situationer där eleven löser uppgifter.
+
+
+            37 T.ex. genomföra strid inom ramen för grupps strid från stridsställning, omhändertagande av skadad,
+            CBRN, etc.
+                                        78
+            Analys av delmålen:
+            Hänvisningar för respektive utbildningsmål återfinns på EMILIA/GSSU/GSU INT
+           Eleven ska (sammanlagt ca 5 tim):
+           Försvarsupplysning
+            Övergripande kunna beskriva Försvarsmaktens uppgifter och organisation.
+            Övergripande kunna beskriva organisationer i internationell krishanteringsförmåga
+             (FN, EU, NATO).
+           Samarbetsförmåga
+            Kunna bidra till gruppens förmåga att lösa uppgiften.
+
+            Veta så mycket om alla medlemmarna i gruppen att eleven övergripande kan pre-
+             sentera gruppmedlemmarna för befäl och/eller andra grupper.
+            Kunna beskriva vilka ”civila förmågor” som finns i gruppen och som antas komma
+             till användning i gruppens arbete under GSU INT.
+            Kunna beskriva vilken som är gruppens gemensamma uppfattning om vad som
+             kännetecknar en välfungerande grupp.
+            Genomföra mental träning för att reducera stress.
+            Kunna beskriva hur GSU INT är organiserad samt kraven för godkänd GSU INT.
+                                                                Tabell 7.2
+
+
+              7.4.3. Slutmål 3
+            Slutmål:
+            Eleven ska under GSU INT kunna handla på ett sådant sätt att de lagar, regler, bestäm-
+            melser, rättigheter, skyldigheter m.m som gäller efterlevs.
+
+            Delmål:
+                Eleven ska kunna redogöra för innebörden i eller ha tillgång till information om
+                 för den dagliga tjänsten relevanta lagar, regler, bestämmelser, rättigheter och
+
+                 skyldigheter.
+                Eleven ska aktivt kunna medverka i arbetsmiljö- och utbildningssäkerhetsar-
+                 betet.
+                Eleven ska kunna aktivt bidra i Försvarsmaktens värdegrundsarbete.
+            Situation: Alla situationer där eleven löser uppgifter.
+
+            Analys av delmålen:
+            Hänvisningar för respektive utbildningsmål återfinns på EMILIA/GSSU/GSU INT
+           Eleven ska
+           Värdegrund och etik (ca 2 tim)
+             Kunna redogöra för syftet med och innehållet i Försvarsmaktens värdegrund och
+              Försvarsmaktens nolltolerans mot droger, trakasserier, könskränkningar, homofobi,
+
+              mm.
+             Kunna agera vid händelse av diskriminering, mobbning, trakasserier eller andra
+              yttringar som strider mot Försvarsmaktens värdegrund. Veta hur och till vem en
+              anmälan görs samt vara införstådd med det egna ansvaret.
+             Ha reflekterat kring den militära professionens särart avseende rätten/skyldigheten
+              att använda dödligt våld och risken att dödas.
+
+
+
+
+
+                                        79
+                                       HANDBOK
+
+
+           Verksamhetssäkerhet (ca 3 tim)
+             Kunna redogöra för vad begreppet risk innebär.
+             Medvetet38 kunna tillämpa säkerhetsbestämmelserna när uppgifterna löses.
+             I handling visa att eleven tar ansvar för sig själv och sin omgivning.
+             Kunna tillämpa envars skyldighet att ingripa vid fara.
+             Kunna agera utifrån bestämmelser för det lokala brandskyddet och vidta rätta åt-
+              gärder vid brand.
+             Hantera kniv, yxa och såg på ett säkert sätt.
+
+             Hantera sin personliga utrustning m.h.t. rådande väder- och miljöförhållanden.
+           Exercis och soldaterinran (ca 4 tim)
+             Kunna uppträda enskilt och i sluten ordning i enlighet med bestämmelser i R Parad
+              3 (hälsning, uppställning på linje och kolonn, marschanträde och halt, marsch i slu-
+              ten ordning).
+             Kunna ange vilken grad som motsvarar olika gradbeteckningar.
+             Under GSU INT ha blivit meddelad soldaterinran.
+           Folkrätt (5 tim)
+             Uppfylla de krav på folkrättsutbildning som ställs på soldater och sjömän i enlighet
+              med Försvarsmaktens Interna bestämmelser (FIB).
+
+             Kunna redogöra för skillnaden mellan soldatreglerna och insatsregler/
+              rules of engagement (ROE) och hur dessa förhåller sig till varandra.
+           Rättstjänst (ca 2 tim)
+             Känna till Disciplinansvarslagen.
+             Känna till de rättigheter och skyldigheter, närvaro, ledigheter och uniformsbestäm-
+              melser.
+             Kunna förklara innebörden av begreppen befälsrätt och förman.
+             Förbandets möjlighet att använda sig av tvångsmedel, bland annat visitera skåp och
+              annat tillhörande eleven.
+           Medinflytande
+
+             Kunna beskriva syftet med och formerna för medinflytandet under GSU INT.
+           Inre tjänst (ca 24 tim)
+             Mönstra in
+             Ha kvitterat ut all sin utrustning. Efterhand som utrustningen används i GSU INT
+              passas denna till och kunna namnge delarna.
+             Kunna vårda personlig och gemensam materiel under fält- och kasernförhållanden.
+             Genomföra tvättbyte.
+             Lämna in sin utrustning.
+
+             Ha genomfört utvärdering.
+             T.ex. kunna hitta till matsal, serviceförråd, vapenförvaring, befälskontor, m.m.
+             Lokala bestämmelser avseende hälso- och sjukvård under GSU INT.
+           Förmåner och rättigheter
+             Förmåner eleven har under GSU INT.
+             Permission/tjänstledighet.
+             Religiös utövning.
+             Kunna fullgöra sin tjänst på ett sådant sätt att aktuella lokala instruktioner följs.
+
+
+
+
+            38 Medvetet innebär att eleven kan redogöra för sina motiv till vald handling
+
+                                        80
+           Säkerhetsmedvetande
+             Säkerhetshotande verksamhet riktad mot Försvarsmakten och innebörd av tyst-
+              nadsplikt och meddelandefrihet.
+           Soldat och officersrollen (ca 1 tim)
+             Kunna agera inom ramen för professionen soldat och i förekommande fall offi-
+              cer/specialistofficer.
+                                                                Tabell 7.3
+
+            7.5. Utbildningskontroller
+
+            Utbildningen värderas genom följande utbildningskontroller:
+
+                Prov säkerhetsbestämmelser
+                Prov vapenhantering
+                Kompetensprov
+                   o  Ak enligt anvisningar på EMILIA/GSSU/GSU INT
+                   o  Pistol enligt anvisningar på EMILIA/GSSU/GSU INT
+
+            Ovanstående utbildningskontroller ska genomföras under GSU INT och inga andra än
+            utbildningskontroller får genomföras.
+
+            Är eleven underkänd vid en utbildningskontroll ska kompletteringsutbildning och för-
+            nyad utbildningskontroll genomföras. Antalet tillfällen för utbildningskontroll är inte
+            begränsade utan principen ”så många som är möjligt under hela utbildningstiden” ska
+            tillämpas.
+
+
+            Ansvarig för utbildningen ska ansvara för att kvalitetssäkra utbildningskontrollerna och
+            förfarandena kring dessa.
+
+            7.6. Lämplighetsbedömning
+
+            Bedömning av lämplighet görs enligt mall nedan i denna handling. Lämplighetsbedöm-
+            ningen genomförs genom egen- och befälsskattning och beskriver elevens prestationer
+            under GSU INT.
+
+            Med hänsyn till den korta utbildningstiden bedöms elevens lämplighet i två skalsteg;
+            Inte Lämplig (IL) och Lämplig (L). Bedömningen sker mot lämplig som ”generell sol-
+            dat OR 1”, det vill säga någon funktions-/befattningsinriktad bedömning ska inte göras
+            under GSU INT.
+
+            Lämplighetsbedömningen sammanvägs, sammanställs, föreslås av plutonchef och fast-
+            ställs i av kompanichef (motsv.) och delges eleven senast på utryckningsdagen i ett kort
+            utvecklingssamtal. Det sammanvägda resultatet skall lägst vara Lämplig för att eleven
+            skall kunna erhålla godkänt resultat från GSU INT. Motiv till bedömningen Inte Lämp-
+            lig (IL) och Lämplig (L) ska delges eleven. Eleven ska signera att resultatet av lämplig-
+
+            hetsbedömningen har delgivits.
+
+            Handlingsregler för Lämplighetsbedömning:
+                Syftet med för Lämplighetsbedömning ska tidigt delges elever och instruktörer.
+                 Detta bör även omnämnas i kurschefens brev före kursstart inom ramen för krav
+                 för godkänt från GSU INT.
+
+                                        81
+                                       HANDBOK
+
+
+                Former för arbetet med Lämplighetsbedömningen skall tidigt delges elever och
+                 instruktörer. Mall för Lämplighetsbedömning av elev vid GSU INT ska utdelas
+                 och förklaras.
+                Förtroendepersoner ska involveras i arbetet med Lämplighetsbedömningen. Ele-
+
+                 vernas eventuella bedömningar av varandra kanaliseras via förtroendepersoner.
+                 Förtroendepersoner skall delges sammanställning av plutonens lämplighetsbe-
+                 dömningar.
+
+            7.7. Vad krävs för att godkänt resultat efter GSU INT
+
+            Att vara godkänd från GSU INT definieras som att, se bild 7.2:
+                vara godkänd i samtliga utbildningskontroller i GSU INT
+                vara godkänd i Lämplighetsbedömning för GSU INT
+
+            Båda delarna är lika viktiga och finns inte godkänt resultat från båda delarna ska eleven
+            rapporteras som underkänd från GSU INT.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                 Bild 7.2.
+
+
+
+
+
+
+                                        82
+            7.8. Resultat efter GSU INT
+
+            Elevernas resultat ska löpande dokumenteras för att i slutet av utbildningen ha underlag
+            för värdering av elevens resultat. Elev ska i ”halvtidssamtal” få reda på om resultatet
+            riskerar att inte nå godkänt.
+
+            Resultatet från samtliga utbildningskontroller ingående i GSU INT samt resultatet av
+            lämplighetsbedömningen ska sammanställas till ett resultat efter GSU INT.
+
+            Resultatet efter GSU INT sammanvägs, sammanställs, föreslås av plutonchef och fast-
+            ställs i av kompanichef (motsv.)
+
+            7.9. Utbildningens organisation
+
+              7.9.1. Allmänt
+
+            Då GSU INT genomförs på andra förband än LG ska erfarenheter, stomplan, arbetstider
+            och andra underlag inhämtas från LG/IntUtbE.
+
+              7.9.2. Fältdygn
+            Under GSU INT genomförs tre till fyra fältdygn. Fokus under fältdygnen ska vara att
+            eleven utvecklar sin förmåga att optimera stridsvärdet under dessa förhållanden på ett
+
+            sådant sätt att den egna och gruppens förmåga att lösa uppgiften inte nedgår. Någon
+            skulle kunna kalla detta för fältvana.
+
+              7.9.3. Medinflytande
+            Personal som genomför GSU INT är i normalfallet anställda i Försvarsmakten. Verk-
+            samhetsfrågor ska långt som möjligt hanteras på rätt nivå i organisationen och av dem
+            som är direkt berörda. Då GSU INT genomförs av ett arbetslag som är tillfälligt sam-
+            mansatt kan medinflytandeformerna från GMU vara lämpliga att tillämpa.
+
+
+            Detta innebär att eleverna tidigt väljer förtroendepersoner som kan föra elevernas talan
+            och att plutonens timme genomförs på veckobasis. Där ska frågor som direkt berör ele-
+            verna och deras utbildning tas upp med ansvariga för utbildningen. Verksamhetssäker-
+            hetsfrågor bör särskilt utvärderas och genomförd och kommande verksamhet bör berö-
+            ras.
+
+              7.9.4. Stomplan
+            Utarbetas och utvecklas vid LG/IntUtbE.
+
+
+            7.10. Skiljande från utbildningen
+
+            Elev kan skiljas från GSU INT:
+                om eleven själv önskar
+                om eleven visar olämplig för fortsatt utbildning
+                om eleven har varit frånvarande i sådan omfattning att utbildningens målsätt-
+                 ningar inte kommer att uppnås
+
+            Om anledning för skiljande enligt andra eller tredje punkten ovan anses finnas kallas
+            eleven till granskningsnämnd GSU INT. Motiv för skiljande enligt andra punkten ska
+
+                                        83
+                                       HANDBOK
+
+
+            vara spårbara till krav för godkänt resultat efter genomförd GSU INT eller till krav för
+            antagning till utbildningen.
+
+            Granskningsnämnd GSU INT är ett möte där elever och utbildningsrelaterade ärenden
+            granskas. Vid en granskningsnämnd GSU INT kan till exempel beslut fattas om att inte
+            gå vidare med ett ärende men beslut kan också fattas om att till exempel rekommendera
+            förbandschef att skilja en elev från utbildningen.
+
+            Granskningsnämnd GSU INT ska sammansättas av, för ärendet, kompetent personal.
+            Granskningsnämnden GSU INT ska minst utgöras av:
+                Ordförande (utsedd av förbandschef och väl förtrogen med GSU INT-frågor).
+                Utbildningsansvarig för GSU INT vid berört förband, kompanichef (motsv.).
+
+                Berörd elevs närmaste chef, plutonchef (motsv.)
+                Representant för rekryterande eller avsändande förband
+                Förtroendeperson eller annan som berörd elev väljer.
+                Berörd elev
+
+            Granskningsnämnden GSU INT ska genomföras så snart omständigheterna medger
+            (kallade ska till exempel medges tid för förberedelser i ärendet).
+
+            Ärendet ska föredras och alla berörda ska medges uttala sig. Granskningsnämnden GSU
+            INT ska överlägga varvid eleven ska lämna kollegiet. Ordföranden ska sammanfatta
+            granskningsnämndens GSU INT beslut med eventuella förbehåll och delger eleven
+            granskningsnämndens GSU INT beslut. Granskningsnämnden GSU INT avslutas och
+            om granskningsnämndens GSU INT beslutat att rekommendera skiljande från utbild-
+
+            ningen ska ärendet lämnas till förbandschef vid berört genomförandeförband för beslut.
+            Granskningsnämnden GSU INT ska dokumenteras, likaså chef för organisationsenhets
+            beslut.
+
+            Elev som förbandschef beslutat skilja från utbildningen ska avbryta/lämna utbildningen.
+            Förbandschefs beslut ska delges berörd elev och dennes förband så snart detta är möj-
+            ligt. Beslut om skiljande ska sändas till eleven med mottagningsbevis.
+
+            7.11. Dokumentation av GSU INT
+
+            GSU INT rapporteras som kurs i system PRIO. Kurskoder och administrativt stöd er-
+            hålls via samarbetsyta EMILIA/GSSU/GSU INT.
+
+            7.12. Utvärdering av GSU INT
+
+            GSU INT utvärderas enligt underlag från respektive genomförandeförband. En sam-
+            manställning av utvärderingen mejlas till MHS H på adress: mhs-h-gu@mil.se och ut-
+            gör underlag för utveckling av GSU INT.
+
+
+
+
+
+
+
+
+
+                                        84
+            7.13. Mall för lämplighetsbedömning av elev vid GSU INT
+
+            Födelsenr.  Namn                          Förband
+
+
+
+              Chefsbedömning           Egenbedömning
+
+           BEDÖMNINGEN SKER MOT LÄMPLIGHET SOM GENERELL GSS, OR 1
+
+         A Ansvar, omdöme och föredöme                       Inte Lämplig Lämplig Ej bedömd
+                                                               (IL)  (L)
+           Exempel: Tar sitt ansvar, Vidtar åtgärder när det behövs, Är ett föredöme för andra, Har Kommentarer:
+           god ordning och ett gott uppförande, Förmår att göra riktiga och kloka avvägningar
+
+
+         B Flexibilitet, initiativ och kreativitet           Inte Lämplig Lämplig Ej bedömd
+                                                               (IL)  (L)
+           Exempel: Anpassar sig till skiftande uppgifter, människor, miljöer och tidsförhållanden, Kommentarer:
+           Agerar självständigt och tar initiativ inom egna eller angränsande områden, Är idérik,
+           kreativ och finner lösningar i uppkomna situationer
+
+
+
+         C Inspiration, motivation och ledarskap             Inte Lämplig Lämplig Ej bedömd
+                                                               (IL)  (L)
+           Exempel: Motiverar andra, Hjälper andra till utveckling, Ger konstruktiv feedback på Kommentarer:
+           utförda insatser, Berömmer andra, Strukturerar sitt och vid behov andras insatser på ett
+           ändamålsenligt sätt, Har ett situationsanpassat ledarskap/förhållningssätt
+
+
+         D Samarbete, hänsyn och social kompetens            Inte Lämplig Lämplig Ej bedömd
+                                                               (IL)  (L)
+           Exempel: Samarbetar mot gemensamma mål, Strävar efter att uppnå överenskommelser Kommentarer:
+           om vad som skall göras, Kan säga emot utan att vara otrevlig, Får god kontakt med andra
+           människor, Bidrar till ett bra arbetsklimat, Tar hänsyn till andras personliga förutsätt-
+           ningar, Visar förståelse för andras behov
+
+
+         E Uthållighet och självkontroll                     Inte Lämplig Lämplig Ej bedömd
+                                                               (IL)  (L)
+           Exempel: Visar förmåga att hantera stressiga situationer, Visar psykisk uthållighet och en Kommentarer:
+           vilja att inte ge upp, Visar en god förmåga att hantera sina egna känslor. Har en fysisk
+           prestationsförmåga att lösa uppgifter enligt GSU INT slutmål 1. Visar förmåga att själv-
+           ständigt optimera eget fysiska stridsvärde.
+
+
+          F Värdegrund                                       Inte Lämplig Lämplig
+                                                               (IL)        (L)
+           Agerar enligt Försvarsmaktens värdegrund          Kommentarer:
+
+
+
+
+                                        85
+                                       HANDBOK
+
+
+          Kommentarer:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Fastställt och delgivet:
+
+
+
+
+
+
+
+            Ort & datum    Sign PC (motsv.)    Sign Elev      Sign KC (motsv.)
+
+
+                                        86
+                          Utbildningsanvisning      för
+
+             Kombattantutbildning        för obeväpnad     personal
+                                   (KombU)
+
+                                2020  års utgåva
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        87
+                                       HANDBOK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        88
+            Innehåll
+            8. Kombattantutbildning för obeväpnad personal (KombU) ...................................... 91
+             8.1. Ingångsvärden ............................................................................................................ 91
+
+             8.2. Ansvarsförhållanden .................................................................................................. 91
+             8.3. Slutmål för KombU.................................................................................................... 91
+
+             8.4. Analys av slutmål och situationsbeskrivning till utbildningsmål .............................. 91
+             8.5. Personlig utrustning ................................................................................................... 92
+
+             8.6. Vad krävs för godkänt resultat efter KombU? ........................................................... 92
+             8.7. Dokumentation av KombU ........................................................................................ 92
+             8.8. Utvärdering av KombU.............................................................................................. 93
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        89
+                                       HANDBOK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        90
+            8.   Kombattantutbildning för obeväpnad personal (KombU)
+
+            8.1. Ingångsvärden
+
+            Ytterst syftar denna kurs till att ge eleven folkrättsliga förutsättningar att kunna krigs-
+            placeras i krigsförband med status som kombattant. Därmed lever Försvarsmakten upp
+            till Folkrättsförordningens39 krav på att tillse ”… att personalen inom verksamhetsom-
+            rådet får en tillfredsställande utbildning och information om folkrättens regler i krig
+            och under neutralitet”.
+
+            I Totalförsvarets folkrättsförordning klarläggs vilken personal som anses vara kombat-
+            tanter.
+
+            Utbildningen syftar även till att ge de elever som avses placeras med status ”ej stri-
+            dande”, erforderlig utbildning.
+
+            8.2. Ansvarsförhållanden
+
+            MHS H utarbetar, med stöd av sakområdesansvariga enligt kapitel 1 i denna handbok,
+
+            utbildningsanvisningar för KombU. FM UTBCH fastställer utbildningsanvisningarna.
+
+            På uppdrag av FM UTBCH genomför MHS H uppföljning av KombU.
+
+            8.3. Slutmål för KombU
+
+            Utbildningen har följande slutmål:
+                Utbildningen ska ge deltagarna kunskap om Totalförsvaret, Försvarsmaktens or-
+                 ganisation, uppgifter och värdegrund, folkrätt och det egna krigsförbandets upp-
+                 gift och funktion i krigsorganisationen.
+                Utbildningen ska, tillsammans med eventuell specifik befattningsutbildning, ge
+                 sådan förmåga att eleven ska kunna krigsplaceras på avsedd befattning i krigsor-
+                 ganisationen.
+
+            8.4. Analys av slutmål och situationsbeskrivning till utbildningsmål
+
+            Ovanstående slutmål ska innehas under utbildning och tjänstgöring i Försvarsmakten.
+
+            Hänvisningar för respektive utbildningsmål återfinns på EMILIA/GSSU/KombU
+            Utbildningsmål, eleven ska:
+
+            Fysisk Prestationsförmåga (ca 1 tim)
+             Kunna beskriva innebörden av Försvarsmaktens fysiska standard.
+             Eleverna ska under utbildningen introduceras i och genomföra mikroträning på
+              daglig basis.
+            Exercis (ca 3 tim)
+             Kunna uppträda enskilt och i sluten ordning i enlighet med bestämmelser i R Parad
+              3 (hälsning, uppställning på linje och kolonn, marschanträda och halt, marsch i slu-
+              ten ordning).
+
+
+
+            39 Totalförsvarets folkrättsförordning (1990:12)
+
+                                        91
+                                       HANDBOK
+
+
+            CBRN (ca 4 tim)
+             Kunna använda den personliga skyddsutrustningen.
+             Känna till hotnivåer samt utrustningsregler för CBRN.
+            Försvarsmedicinutbildning (ca 4 tim)
+             Genomgång av bildspel Omhändertagande enligt <C>ABCDE (ca 45min).
+             Utbildning i sättning av tourniquet enligt Övningsplan omhändertagande
+              <C>ABCDE (ca 2,5tim).
+             HLR-utbildning m.h.t. utbildningsståndpunkt (ca 45 min).
+
+            Försvarsupplysning (ca 3 tim)
+             Övergripande kunna beskriva Försvarsmaktens uppgifter och organisation som en
+              del av totalförsvaret.
+             Övergripande kunna beskriva Internationella organisationer (FN).
+             Krigsförbandschefens genomgång/information (kan inhämtas och delges av annan
+              än krigsförbandschef).
+            Värdegrund (ca 1 tim)
+             Övergripande kunna beskriva Försvarsmaktens värdegrund och uppförandekod.
+            Folkrätt, förmanskap (ca 5 tim)
+             Uppfylla de krav på folkrättsutbildning som ställs på soldater och sjömän i enlighet
+
+              med Försvarsmaktens Interna bestämmelser (FIB).
+             Kunna redogöra för begreppen kombattant respektive icke stridande.
+             Ha erhållit information om begreppen befälsrätt och förman.
+            Uniformssystem 90 (ca 3 tim)
+             Kunna använda uniformssystemet.
+             Gradbeteckningar.
+            Övriga genomgångar, uthämtning och återlämning av utrustning (3 tim)
+            Summa ca 27 tim
+                                                                Tabell 8.1
+
+
+            8.5. Personlig utrustning
+
+            Vid genomförande av KombU bör aktuell utrustningslista för personlig utrustning an-
+            vändas. Avses inte denna utrustning lämnas ut över tiden kan annan lista med lämplig
+            omfattning av personlig utrustning användas, t.ex. Tilläggskort Ungdom.
+
+            8.6. Vad krävs för godkänt resultat efter KombU?
+
+            För godkänt krävs att respektive elev har deltagit i samtliga utbildningsmoment. Even-
+            tuell komplettering ska ske inom 6 månader från kurstillfället.
+
+
+            8.7. Dokumentation av KombU
+
+            KombU rapporteras som kurs i system PRIO. Kurskoder och administrativt stöd erhålls
+            via samarbetsyta EMILIA/GSSU/KombU
+
+
+
+
+
+
+
+                                        92
+            8.8. Utvärdering av KombU
+
+            Utbildningen utvärderas:
+                enligt centralt underlag (mall på EMILIA/GSSU/KombU) samt
+                enligt lokalt underlag efter eget önskemål
+
+            Det centrala och eventuellt lokala underlaget sammanställs och tillsänds MHS H (ett
+            exemplar skickas på mhs-h-gu@mil.se). MHS H vidarebefordrar eventuella synpunkter
+            till berörda sakområdesansvariga.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        93
+                                       HANDBOK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        94
+            Bildförteckning
+
+
+            I denna publikation förkommer inga bilder med verkshöjd.
+
+
+            Redaktionell       information
+
+            Handbok Grundläggande soldat- och sjömansutbildningar (H GSSU) har sin bakgrund i
+            de utbildningsanvisningar som skapades för GMU och FSU under åren 2010–2012. Ut-
+            bildningsanvisningarna utgjordes av kursplaner och kursbeskrivningar.
+
+
+            Efter beslut av C FÖRBPROD 2013 samlades GMU och FSU, jämte ett antal andra
+            grundläggande soldatutbildningar, under begreppet GSSU. Alla utbildningar harmonise-
+            rades utifrån GMU och en struktur med successivt ökad GSSU-förmåga fastställdes.
+
+            I arbetet med sammanhållen grundutbildning (GU NY) enligt förordningen 2015:613
+            sammanställdes de olika kursbeskrivningarna under 2016 i en denna handbok, H GSSU.
+
+            Denna revideringsomgång har sammanhållits av mj Jacob Flodén, MHS H och följande
+            personer har deltagit som representanter för förband med olika sakområdesansvar:
+
+            Förband      Namn             Förband      Namn
+            MHS H        Jacob Flodén     SkyddC       Martin Risberg.
+                         Per Sandelin                  Olof Olsson
+                         Stefan Willix
+                         Taina Leman
+
+                         Mikael Gudmundsson
+                         Mats Sander
+                         Joakim Halén
+                         Magnus Einarsson
+            MSS          Kenneth Felldén  FömedC       Johan Brorson
+                         Mats Walldén                  Johan Engström
+                         Johan Ström
+                         Krister Wedin
+                         Wilhelm Berwill
+                         Pontus Gyhagen
+            MHS K/FMIF   Pontus Olander   FM UndsäkC   Martin Karlsson
+
+            K 3/FÖS      Per Ivarsson     LedR         Anders Johnsson
+
+
+            Arméstaben   Christina Carlsson- I 19/VintE Mats Olander
+            Marksäk.sekt Velander
+            HKV LEDS/TF/ Louise Sköldback
+            Hållbarhets-
+            sektionen
+            Ing 2/FarbS  Ola Lindelöv,
+                         Pehr Sturesson
+
+
+
+                                        95
+                                       HANDBOK
+
+
+            I H GSSU 2020 har följande övergripande förändringar gjorts:
+            Framförallt har FM UTBCH beslut om GMU omhändertagits.40 Detta har inneburit:
+             att GMU omdefinieras till att vara en sammanställning av utbildningsmålsättningar
+              vilka beskriver den minsta gemensamma förmågenivån för alla soldater och sjömän
+              efter genomförd GU.41
+             Med ovanstående definition har styrningar rörande utbildningens upplägg, t.ex. ge-
+              nom projekt och strimmor tagits bort ur H GSSU. Totalt har anvisningarna för GMU
+              minskat från ca 40 sidor i H GSSU 2017 till färre än 10 sidor i denna utgåva.
+             Förmågenivån ”GMU” utgör en förmågemässig basnivå för alla soldater och sjömän
+              efter genomförd GU. Basnivån kan kompletteras med tilläggsnivåer för respektive
+              försvarsgrens/stridskraft. Dessa tilläggsnivåer ersätter FSU och FSjU, vilka utgår
+              som GSSU.
+
+             Utbildningsmålsättningarna för GMU har översetts och sammantaget har:
+              o  Skyddsvakt, viss närkamp och mental träning tagits bort från GMU-
+                 förteckningen.
+              o  SERE, brandutbildning, och TOS-Basnivå42 tillförts GMU-förteckningen från
+                 FSU.
+              o  Skjututbildning och kompetensprov för GMU/basnivån ses över inom ramen för
+                 ett särskilt arbete vid MSS.
+              o  Fysisk prestationsförmåga har omarbetats till Fysiskt stridsvärde och därmed in-
+                 tecknat vissa målsättningar som tidigare redovisades under Försvarsmedicin –
+                 Preventiv medicin och SERE, dock sker ingen utökning av målsättningar.
+              o  Former för kvalitetssäkring av GMU-förmågan har setts över och antalet centralt
+                 styrda utbildningskontroller har reducerats.
+              o  Krav på att regelbundet träna mot de fysiska krav som ställs på förband eller be-
+                 fattningar har tagits bort som målsättning i GMU-förteckningen och istället till-
+                 förts under egen rubrik i R GURU.
+
+              o  Krav på vinterförmåga43 är införd i fyra av GMU-målsättningarna.
+
+            Alla hänvisningar i form av utbildningsunderlag har tagits ur H GSSU och återfinns i
+            stället på EMILIA/GSSU. Motivet är att minska revideringsbehovet av handboken.
+
+            Grundutbildning mot särskilda inriktningar (GU/SI) har utgått ur H GSSU.
+
+            En allmän översyn av målformulering i alla utbildningar i H GSSU.
+
+            Handboken har remissbehandlats enligt FM2019-15261:2 och utkast till slututgåva har
+            presenterats för förband vid GU konferensen 2020.
+
+            H GSSU har föredragits för kmd Anna-Karin Broth, C HKV PROD FPE UTB 2020-05-
+            13 av öv Peter Nilsson HKV PROD FPE UTB, mj Jacob Flodén MHS H och Benny
+            Wahlberg HKV PROD FPE UTB.
+
+
+            40 FM2019-14139:1 C PROD FPE/FM UTBCH beslut rörande GMU inom ramen för GU
+            41 Metodmässigt införs samma metod för ledning av gemensamma förmågor som gällde tiden före GMU-
+            eran (ca år 2000–2010). Se Försvarsmaktsgemensamma krav på förmåga för soldater och sjömän (FSS
+            2008), HKV 2008-05-22, 19 200:65019
+            42 TOS-Basnivå innebär Taktiskt omhändertagande av stridsskadad (TOS) i de stridssituationer som om-
+            fattas av GMU-målsättningar. TOS i sin helhet utgör tilläggsnivå och genomförs av grupp i mer kom-
+            plexa stridssituationer.
+            43 Den vintermiljö som förbandet kan erbjuda på ordinarie utbildningsplats/-ort inom ramen för GU.
+                                        96
+            Öv. Peter Nilsson, stf C HKV PROD FPE UTB har föredragit handboken för genmj
+            Anders Callert, FM UTBCH 2020-06-10. Vid denna föredragning deltog även mj Jacob
+            Flodén MHS H och Benny Wahlberg HKV PROD FPE UTB.
+
+            Litteratur/Källförteckning
+
+
+
+
+            Källor inom Försvarsmakten
+
+
+
+            Regler, bestämmelser och handböcker som påverkat innehållet i denna
+            handbok
+
+
+            FFS       -
+
+            FIB       2019:1 Försvarsmaktens interna bestämmelser om folkrätt
+
+            Reglemente Grund och repetitionsutbildning, gällande fr.o.m. 2020-07-01
+
+            Handbok   -
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        97
+                                       HANDBOK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        98
+              Personal, främst på lokal nivå, som planerar, genomför och utvärderar grundläggande soldat- och
+              sjömansutbildningar.
+              På central nivå beskriver handboken de förmågor som varje enskild sodat /sjöman har.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     107 85 STOCKHOLM
+     www.forsvarsmakten.se
+

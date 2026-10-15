@@ -1,0 +1,4290 @@
+               Handbok   Hemvärnspluton-grupp
+
+               Del  1 Grunder
+
+
+
+                                                2016
+                                    Handbok
+
+                Hemvärnspluton-grupp
+
+                              del 1  Grunder
+
+                                     H HVPLUT-GRP 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                             1
+                          HANDBOK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          © Försvarsmakten
+          Omslagsbild: Johan Sjödin/Hemvärnstidningen
+          Grafisk bearbetning: FMV FSV Grafisk produktion
+          Produktionsid: 151221-017
+          Produktionsformat: Indesign
+          Publikationsområde: Hemvärn
+          Förrådsbeteckning: M7739-352074
+          Tryck: XXXX
+
+
+                             2
+                          HANDBOK
+
+                           VIDAR-handling: FM2016-12283:4
+
+
+
+
+      Beslut fastställande av Handbok Hemvärnspluton-grupp del 1,
+      grunder 2016.
+
+      Handbok hemvärnspluton-grupp del 1 grunder (H HVPLUT-GRP 1)
+      fastställs att gälla från och med 2016-11-01. Publikationens registrerade
+      M-nr är: M7739-352074
+
+      Följande upphävs 2016-11-01:
+      M7739-353110 FörB R Hvplut/grupp del 1- 2013 gällande från 2013-10-01.
+
+      Publikationen tillgängliggörs genom publicering på intranätet emilia,
+      på www.forsvarsmakten.se samt hemvarnet.se
+
+      Publikationen distribueras och lagerhålls av FMCL/FBF.
+
+      Detta beslut är fattat av generallöjtnant Anders Silwer. I den slutliga hand-
+      läggningen har som föredragande deltagit brigadgeneral Roland Ekenberg.
+
+
+
+      Anders Silwer
+      C PROD
+
+
+                          Roland Ekenberg
+                          Rikshemvärnchef
+
+
+
+
+
+
+
+
+                             3
+                          HANDBOK
+
+          Revidering     - ändringslogg
+
+          Nr Sida Omfattning      Datum föredragning VIDAR
+                                  Beslut av  ärende nr
+          0      Ursprunglig fastställelse 2016-10-12 FM2016-12283:4
+                                  C PROD
+
+
+
+
+
+
+
+
+          Sida avser sidnummer i den rättade versionen.
+
+
+           Kom ihåg!
+           Om du läser denna publikation i pappersform – kontrollera att du
+           har den senaste utgåvan. Fastställd och gällande utgåva finns alltid på
+           Försvarsmaktens intranät.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                             4
+                          HANDBOK
+
+      Förord
+      I fält ändras ofta läget. Innehållet i boken kan inte täcka alla situationer.
+      Anvisningarna i denna handbok ska tillämpas med omdöme. Den som
+      handlar enkelt, praktiskt och konsekvent når säkrast målet. Obeslutsam-
+      het skadar mer än misstag vid val av metoder.
+
+
+      Chef är ansvarig för sitt förband och verksamheten vid detta. Chefens
+      duglighet, fasthet, föredöme och omvårdnad om underlydande är avgö-
+      rande för förbandets användbarhet och stridsvärde.
+
+      God anda, fast disciplin samt förmåga att härda ut under ansträngande
+      förhållanden är nödvändigt för framgång.
+
+      Handbok Hemvärnspluton/Hemvärnsgrupp (H HVPLUT GRP 1 - 3) byg-
+      ger på grunderna från Markstridsskolan. Handboken reglerar hemvärnets
+      verksamhet på plutons- och gruppnivå. H Hvplut/Hvgrp är anpassad för
+      hemvärnets uppgifter, organisation och materiel samt utbildningstid.
+
+      H Hvplut/Hvgrp vänder sig främst till:
+      • Chef för hemvärnspluton respektive hemvärnsgrupp samt hemvärns-
+        soldater,
+      • utbildare vid hemvärnets förband,
+      • lärare och elever främst vid HvSS, men även vid Försvarsmaktens
+        övriga skolor,
+      • krigsförbandschefer.
+
+      H Hvplut/Hvgrp består av följande tre publikationer som reglerar
+      grundläggande verksamhet för hemvärnsförbandens verksamhet;
+      Del 1: Grunder
+      Del 2: Objektet
+      Del 3: Anvisningar
+
+      Handboken gäller såväl enskild hemvärnssoldat som hemvärnsförband
+      och syftar främst till att underlätta ledning av förbanden och kontroll
+      av utrustningen före och under strid och insats samt att skapa ett enhet-
+
+
+
+                             5
+                          HANDBOK
+
+          ligt uppträdande. Förbanden kan, beroende på organisation, uppgift och
+          utbildningstid, sedan bygga vidare på de metoder som beskrivs i handbo-
+          ken.
+
+          Handboken innehåller i flera fall endast grundläggande anvisningar för viss
+          verksamhet. Grundläggande bestämmelser finns då i andra reglementen,
+          främst sakreglementen på andra nivåer och soldatböcker. Bestämmelser
+          och anvisningar för handhavande av eldhandvapen och annan allmänt
+          förekommande materiel finns i respektive manual.
+
+          Förbandschefen kan vid behov ge ut lokala instruktioner eller order för att
+          komplettera handboken och övriga sakreglementen.
+
+          När orden han, honom, hans, -man och -män används i handboken repre-
+          senterar de båda könen.
+
+          Innehavare av tryckt exemplar av Förb R Hvplut/grupp 2013 kan fort-
+          sätta tillämpa dess innehåll som om det vore en handbok intill Hand-
+          bok hemvärnspluton/grupp-2016 ändras eller upphävs.
+
+          Innehållet i denna publikation omfattas inte av sekretess.
+
+                 De begrepp, kommandon och tecken som beskrivs i
+                    handboken får inte ges annan innebörd.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                             6
+                          HANDBOK
+
+      Innehållsförteckning
+
+      1. Grunder..................................................................................................................10
+         1.1 Folkrätt ........................................................................................................10
+         1.2 Hemvärnets insatsmiljö ...........................................................................11
+            1.2.1 Hemvärnets uppgifter .................................................................11
+            1.2.2 Hemvärnets typinsatser ..............................................................12
+            1.2.3 Civilläget och dess påverkan på operationer ............................15
+            1.2.4 Kriminell verksamhet ..................................................................15
+            1.2.5 Hotbild ..........................................................................................16
+            1.2.6 Konfrontation med motståndaren .............................................16
+            1.2.7 Olika spaningssystem .................................................................17
+            1.2.8 Specialförband ..............................................................................21
+            1.2.9 Vädrets påverkan .........................................................................24
+         1.3 Organisation och utrustning .................................................................... 26
+            1.3.1 Hemvärnsbevakningspluton (Hvbevplut) 38 man .................. 26
+            1.3.2 Hemvärnsinsatsspluton Hjul (Hvinsplut) 39 man ................... 27
+
+            1.3.3 Hemvärnsinsatspluton Bandvagn (Hvinsplut) 42 man .......... 28
+            1.3.4 Hemvärnsunderrättelsepluton (Hvundplut) 36 man .............. 29
+            1.3.5 Hemvärnsunderrättelsepluton (med hund)
+                (Hvundplut) 41 man ....................................................................29
+         1.4 Stridsförberedelser .....................................................................................30
+            1.4.1 Åtgärder vid mobilisering/samling ...........................................30
+            1.4.2 Grundberedskap markstrid .......................................................31
+            1.4.3 Färdiga till strid ............................................................................33
+            1.4.4 Förberedelser för strid i mörker .................................................37
+         1.5 Elduppgifter ................................................................................................38
+            1.5.1 Elduppgifter för direktriktad eld ................................................38
+            1.5.2 Eldtillstånd ...................................................................................39
+      2. Ledning ..................................................................................................................41
+         2.1 Allmänt .......................................................................................................41
+            2.1.1 Chefen och ledarskapet ...............................................................41
+            2.1.2 Plutonens ledning ........................................................................43
+            2.1.3 Gruppens ledning ........................................................................44
+
+
+
+
+                             7
+                          HANDBOK
+
+                2.1.4 Genomförande av ledning ..........................................................44
+                2.1.5 Order .............................................................................................44
+             2.2 Planering .....................................................................................................47
+                2.2.1 Planering allmänt .........................................................................47
+                2.2.2 Planering av uppgift ....................................................................48
+             2.3 Samverkan ..................................................................................................50
+             2.4 Ledning av pluton ......................................................................................51
+             2.5 Sambandstjänst ..........................................................................................52
+                2.5.1 Grunder .........................................................................................52
+                2.5.2 Val av sambandsmedel vid planering och genomförande ......53
+                2.5.3 Ordonnanstjänst ..........................................................................54
+                2.5.4 Anropssignaler .............................................................................54
+                2.5.5 Bokstaveringsalfabet ....................................................................56
+                2.5.6 Radiopassning ..............................................................................57
+                2.5.7 Signalskydd ...................................................................................58
+                2.5.8 Telehot ...........................................................................................59
+
+                2.5.9 Signaldisciplin ..............................................................................59
+                2.5.10 Sambandsmateriel ........................................................................60
+             2.6 Beredskap ...................................................................................................62
+                2.6.1 Hemvärnsberedskap ....................................................................62
+                2.6.2 Hemvärnslarm ..............................................................................62
+                2.6.3 Stridsberedskap ................................................................. 63
+                2.6.4 Marschberedskap ........................................................................64
+                2.6.5 Rapportering ................................................................................64
+          3. Stridsteknik och metoder ....................................................................................67
+             3.1 Framryckning .............................................................................................67
+                3.1.1 Framryckning längs gata/genom byggnader ...........................78
+             3.2 Sammanstöt ...............................................................................................80
+                3.2.1 Grunder .........................................................................................80
+                3.2.2 Grupp ............................................................................................80
+                3.2.3 Metoder för grupps eld och rörelse ...........................................83
+                3.2.4 Pluton ............................................................................................87
+                3.2.5 Plutons åtgärder vid sammanstöt framifrån under
+                    framryckning ................................................................................87
+
+
+
+
+                             8
+                          HANDBOK
+
+            3.2.6 Plutons åtgärder vid sammanstöt i flanken ..............................95
+            3.2.7 Plutons sammanstöt i bebyggelse ..............................................97
+         3.3 Hundtjänst ...............................................................................................101
+            3.3.1 Hundtjänst allmänt ....................................................................101
+            3.3.2 Ansvarsförhållanden .................................................................101
+            3.3.3 Hundens kapacitet .....................................................................101
+            3.3.4 Användning ................................................................................102
+            3.3.5 Rutintjänst ...................................................................................102
+            3.3.6 Förläggning .................................................................................102
+            3.3.7 Hundsjukvård .............................................................................102
+            3.3.8 Hundföraren ...............................................................................103
+            3.3.9 Begrepp .......................................................................................104
+            3.3.10 Åtgärder vid markering .............................................................107
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                             9
+                          HANDBOK
+
+          1.    Grunder
+
+          1.1   Folkrätt
+
+          Sverige har anslutit sig till internationella överenskommelser (konventio-
+          ner) om regler för bland annat humanitet i krigföringen. Dessa brukar kall-
+          las ”Krigets lagar”. Det innebär att Sverige förbundit sig att följa dem och att
+          utbilda personal som kan komma att tvingas att tillämpa dem.
+
+          Personal inom Försvarsmakten ska följa folkrättens regler. Den som deltar
+          i strid och bryter mot dem riskerar att förlora sitt folkrättsliga skydd. Du
+          kan också ställas till ansvar, om du har begått en handling som strider mot
+          folkrätten, även om det skett på order.
+
+          En sammanställning av viktiga folkrättsregler framgår nedan i form av
+          Soldatregler som samtliga i förbandet ska känna till:
+
+          Bekämpa endast fiendens kombattanter och mål av militär betydelse!
+
+          Vålla inte onödigt lidande eller större skada än som fordras för att lösa
+          din uppgift!
+
+          Bekämpa inte en fiende, som gett upp motståndet eller som försatts ur
+          stridbart skick!
+
+          Avväpna fångar och överlämna dem till din chef!
+
+          Behandla sårade, sjuka och skeppsbrutna lika, oberoende av om de till-
+          hör våra styrkor, fienden eller civilbefolkningen!
+
+          Respektera och skydda civilbefolkningen! Undvik om möjligt att skada
+          civil egendom! Plundring är förbjuden!
+
+          Respektera personal och föremål som har särskilda folkrättsliga kän-
+          netecken, t.ex. Röda Korset, vit parlamentärflagg och FN:s emblem!
+
+          Ingrip för att förebygga brott mot dessa regler! Rapportera varje över-
+          trädelse till din chef!
+
+                            10
+                          HANDBOK
+
+      1.2   Hemvärnets  insatsmiljö
+
+      1.2.1 Hemvärnets uppgifter
+      Hemvärnet har en betydelsefull roll genom sin närvaro över ytan och med
+      flera förband i särskilt viktiga geografiska områden samt är en viktig mili-
+      tär resurs i händelse av ett försämrat säkerhetspolitiskt läge. I likhet med
+      det övriga militära försvaret är det förmågan till väpnad strid som utgör
+      grunden för att upprätthålla och utveckla hemvärnet. Hemvärnsförban-
+      den ska utveckla sin förmåga att vara interoperabla med övriga insatsor-
+      ganisationen.
+
+      Hemvärnsförbanden ges bevaknings-, skydds- och vissa försvarsuppgif-
+      ter. De kan inom ramen för dessa uppgifter stödja insatsorganisationens
+      övriga förband med t.ex. med skydd av flyg- och marinbas. Hemvärns-
+      förbanden löser uppgifter nationellt. När stående förband är insatta kan
+      hemvärnet stödja genom att lösa uppgifter som dessa förband har natio-
+      nellt. Hemvärnsförbanden ska också kunna genomföra ytövervakning.
+
+      Hemvärnet organiseras i regionalt och lokalt knutna hemvärnsbataljoner
+      över hela landet. Hemvärnet ska ha hög beredskap och uthållighet samt
+      kunna verka med huvuddelen inom ett dygn samt med mindre delar inom
+      några timmar.
+      Hemvärnsinsatsförbanden kan användas för att lösa uppgifter i hela lan-
+      det. Övriga delar används för uppgifter inom i första hand eget län. Hem-
+      värnsförband med marin inriktning utgör en resurs för bevakning, skydd
+      och övervakning i främst skärgårdsmiljö.
+
+      Hemvärnet har en god förmåga att stödja samhällets krishantering såväl i
+      fred som vid kris och krig. Hemvärnsförbanden ska fortsatt vara en viktig
+      aktör avseende samhällets krishantering. Hemvärnsförbandens tillgäng-
+      lighet och lokalkännedom ska i största möjliga utsträckning tas tillvara i
+      samband med stödinsatser åt andra myndigheter eller civila aktörer.
+
+
+
+
+
+
+
+                            11
+                          HANDBOK
+
+          1.2.2 Hemvärnets typinsatser
+          Rangordnade typinsatser för hemvärnsförbanden är:
+          1. Hemvärnsförbanden ska i fredstid kunna bevaka och/eller skydda
+            eget förbands verksamhet enligt eget behov, Försvarsmaktens
+            objekt och verksamhet (till exempel amförråd/kassuner, anlägg-
+            ningar, transporter, egna/utländska fordon/fartyg/flygplan, hög-
+            vakt m.m.).
+
+          2. Insatsen leds av tillfälligt utsedd militär insatschef (MIC) och genom-
+            förs inom ramen för frivilligt enskilt åtagande i tillfälligt samman-
+            satta organisationsenheter och med den numerär som behövs för
+            insatsens genomförande. Bevakning och/eller skydd av skyddsobjekt
+            genomförs med förordnade skyddsvakter med stöd av skyddslagen.
+
+          3. Hemvärnsförband ska kunna ingripa enligt IKFN1.
+            Insatsen ska inom ramen för territoriell integritet kunna genomföras
+            för att hävda svenska intressen. Insatsen leds av tillfälligt utsedd mili-
+            tär insatschef (MIC) och genomförs inom ramen för frivilligt enskilt
+            åtagande och/eller med personal som enligt Försvarsmaktens bered-
+            skaps och insatsorder (FM BerO) har särskilda beredskapsavtal.
+            Insatsen genomförs med tillfälligt sammansatta organisations-
+            enheter och med den numerär som behövs.
+            De tillfälligt sammansatta organisationsenheterna ska kunna eskor-
+            tera fartyg kustnära/skärgård och eller avspärra område på marken
+            runt kränkande verksamhet/objekt och därefter kunna skydda områ-
+            det. Personal ska kunna avväpnas och omhändertas enligt folkrättens,
+            IKFN och skyddslagens regler.
+
+          4. Hemvärnsförband ska, vid transport av förband till/från inter-
+            nationellt insatsområde eller i anslutning till större övningar
+            med internationellt deltagande i Sverige, kunna bevaka och/
+            eller skydda skyddsobjekt inom ett större område.
+
+
+          1 FM handbok vid hävdande av vårt lands suveränitet och oberoende under fred och
+            neutralitet (Ingripande, Kränkning, Fred, Neutralitet).
+
+
+
+                            12
+                          HANDBOK
+
+        Insatsen ska inom ramen för internationella insatser kunna skydda
+        svenska och/eller internationella enheters personal, materiel och
+        verksamhet med kraftsamling till flygplatser, hamnar, övnings- och
+        skjutfält samt till- och avtransportvägar under alla väderleksför-
+        hållanden såväl under dager som i mörker.
+        Insatsen leds av tillfälligt utsedd militär insatschef (MIC) och genom-
+        förs inom ramen för frivilligt enskilt åtagande och/eller med personal
+        som enligt Försvarsmaktens beredskaps och insatsorder (FM BerO)
+        har särskilda beredskapsavtal. Insatsen genomförs med tillfälligt sam-
+        mansatta organisationsenheter och med den numerär som behövs för
+        insatsens genomförande. Bevakning och/eller skydd av skyddsobjekt
+        genomförs med förordnade skyddsvakter med stöd av skyddslagen.
+        De tillfälligt sammansatta organisationsenheterna ska kunna genom-
+        föra transportskydd (eskort) av materiel, bevakning och skydd av
+        skydds objekt samt ytövervakning.
+
+      5. Hemvärnsförband ska vid en begränsad kris kunna bevaka och/
+        eller skydda militära skyddsobjekt, militära transporter och efter
+        framställan från andra myndigheter civila skyddsobjekt.
+        Insatsen ska inom ramen för en begränsad kris kunna hävda vår terri-
+        toriella integritet genom att skydda militära skyddsobjekt och militära
+        materieltransporter. Efter framställan till Försvarsmakten ska för sam-
+        hället viktiga civila skyddsobjekt kunna skyddas.
+        Insatsen leds av tillfälligt utsedd militär insatschef (MIC) och genom-
+        förs inom ramen för frivilligt enskilt åtagande och/eller med personal
+        som enligt Försvarsmaktens Beredskaps och Insatsorder (FM BerO)
+        har särskilda beredskapsavtal. Insatsen genomförs med tillfälligt sam-
+        mansatta organisationsenheter och med den numerär som behövs för
+        insatsens genomförande. MIC ska kunna samverka med sidoordnade
+        chefer och civila aktörer.De tillfälligt sammansatta organisationsenhe-
+        terna ska kunna genomföra eskort av materiel, bevakning och skydd
+        av enstaka skyddsobjekt samt ytövervakning. Bevakning och/eller
+        skydd av skyddsobjekt genomförs med förordnade skyddsvakter med
+        stöd av skyddslagen.
+
+
+
+
+
+                            13
+                          HANDBOK
+
+          6. Hemvärnsförband ska vid en allvarlig kris kunna bevaka och/eller
+            skydda militära skyddsobjekt, transporter och samhällsviktig civil
+            infrastruktur samt stödja övriga insatsförbands verksamhet och
+            försvara viktigare knutpunkter/områden/objekt.
+            Insatsen leds av bataljonschef och genomförs med hela hem-
+            värnsbataljonen vid hemvärnslarm.
+            Hemvärnsförbanden ska kunna genomföra bevakning och skydd
+            av flera skyddsobjekt med förordnade skyddsvakter med stöd av
+            skyddslagen, och vaktposter. Vidare ska transportskydd av perso-
+            nal och materiel kunna genomföras med transportskyddsstyrkor.
+            Ytövervakning ska kunna genomföras från fasta observationsplatser
+            i viktiga terrängavsnitt och med rörlig observationstjänst över ytan.
+            Hemvärnsförbanden förbereder samt grupperar för försvar vid prio-
+            riterade terrängavsnitt och objekt. Uppgifterna löses av plutons- och/
+            eller kompaniförband. Insatsen ska kunna genomföras efter dygn till
+            veckors förberedelsetid året runt under månader.
+            Denna typinsats är dimensionerande för utformningen av målsätt-
+            ningar för hemvärnsförband.
+
+          7. Hemvärnsförband ska efter en allvarlig och varaktigt försämrad
+            omvärldsutveckling, och efter utökad utbildning och tillförsel av
+            resurser, inom ramen för en mer omfattande militär operation,
+            kunna störa motståndaren och/eller genomföra försvars- eller för-
+            dröjnings strid.
+            Insatsen syftar till att hemvärnsförband som är utgångsgrupperade över
+            ytan möjliggör gripbara förband för insats oavsett tid och plats. Den sam-
+            lade effekten av flera hemvärnsförbands samordnade strid innebära att
+            tid kan skapas för insättande av insatsförband.
+            Insatsen leds av bataljonschef och genomförs med hela hemvärnsbatal-
+            jonen och med eventuella tillförda förband vid hemvärnslarm.
+            Hemvärnsförbanden ska med begränsad målsättning kunna försvara
+            terrängavsnitt och/eller fördröja eller störa motståndaren inom av-
+            delat område/farled.
+            Insatsen förutsätter tillförsel av resurser i form av tid för komplette-
+            rande utbildning och materiel bl.a. spräng- och tändmedel samt minor.
+
+
+
+
+                            14
+                          HANDBOK
+
+      Insatsen ska därefter kunna genomföras efter några dygns förberedelsetid
+      året runt under dygn till månader.
+      Denna typinsats är ytterst dimensionerande för hemvärnsförbandens
+      förmåga till väpnad strid.
+
+      8. Hemvärnsförband ska med befintlig förmåga och resurser kunna
+        bistå det övriga samhället och andra myndigheter.
+        Insatsen ska kunna genomföras med stöd av lagar, förordningar och
+        föreskrifter syftande till att bidra till samhällets samlade förmåga att han-
+        tera räddningstjänst och svåra påfrestningar.
+        Insatsen leds av tillfälligt utsedd militär insatschef (MIC) och genom-
+        förs inom ramen för frivilligt enskilt åtagande i tillfälligt samman-
+        satta organisationsenheter och med den numerär som behövs för
+        insatsens genomförande.
+
+               H Hvplut/Hvgrp är utformat för att täcka
+                verksamhet som i huvudsak omfattas av
+           typinsats 5 och 6. Handboken används i tillämpliga delar
+                     för övriga typinsatser.
+
+
+      1.2.3 Civilläget och dess påverkan på operationer
+      Hänsyn till civilbefolkningen kommer alltid att påverka våra förbands
+      planering och genomförande av striden, särskilt i eller i anslutning till
+      bebyggelse.
+
+      Stridsmiljön i bebyggelse utgörs inte bara av den unika terrängen utan
+      även av den effekt som striderna åstadkommer på bebyggelsen och de
+      problem som följer av att civila finns i området.
+
+      Attityder till civilbefolkningen och hanteringen av de människor som
+      lever, bor och verkar i såväl landsbygd som i bebyggelsen, är på lång sikt
+      avgörande för våra förbands möjligheter att lyckas med uppgiften.
+
+
+
+
+
+
+                            15
+                          HANDBOK
+
+          1.2.4 Kriminell verksamhet
+          Kriminell verksamhet såsom stöld av vapen, ammunition, nycklar till
+          lokaler eller annan materiel är ett ständigt hot mot FM verksamhet. Detta
+          hot kan variera i tid, rum och omfattning men finns alltid i bakgrunden.
+          De kriminella kan röra sig i spektrat från vanliga småtjuvar/lycksökare
+          till hårt kriminellt belastade organisationer. Tillslag kan ske överraskande
+          mot vår verksamhet och eller enskilda personer i syfte att få tillgång till
+          vapen, kroppsskydd eller mörkermateriel. Andra metoder är inbrott i FM
+          förråd och lokaler.
+
+          Ett annat hot är försök att ta sig in i FM IT-nät, avlyssning av telefon-
+          och radiotrafik i syfte att kartlägga FM verksamhet eller att få tillgång till
+          sekretessbelagd information.
+          Även utfrågning av FM personal, fotografering, avbildning är exempel på
+          olovlig underrättelseverksamhet som ständigt pågår.
+
+          1.2.5 Hotbild
+
+          I den mest aktuella hotbilden för hemvärnsförbanden torde motstånda-
+          ren utgöras av militära eller andra sabotagestyrkor som endera genomför
+          operation i syfte att sabotera samhällsviktig infrastruktur eller resurs, eller
+          för att tillskansa sig strategiskt viktig materiel. Ett annat syfte kan vara att
+          besätta samhällsviktig infrastruktur eller resurs för att öva utpressning.
+          Som ett led i att nå målet med sådan operation kan motståndaren behöva
+          ta för oss eller honom viktiga knutpunkter.
+          Av den diffusa och komplexa hotbilden följer dock att mycket är okänt.
+          Trots aktuell hotbildsbedömning kan på sikt, i en större militär opera-
+          tion, en presumtiv motståndare komma att utgöras av annan stats mili-
+          tära förband som i syfte att skaffa sig utpressningsargument, få tillgång
+          till naturresurser eller för att skydda egna intressen på annat territorium/
+          internationellt vatten, avser tillskansa sig territorium. Utöver insats med
+          kvalificerade luft- och sjöstridsförband torde i sådana fall styrkor på mar-
+          ken i huvudsak utgöras av specialförband, helikopterluftburna styrkor
+          eller med flygplan luftlandsatta styrkor som utan eller med egna eller sig
+          tillskansade fordon genomför militära operationer.
+
+
+
+
+                            16
+                          HANDBOK
+
+      1.2.6 Konfrontation med motståndaren
+      En hemvärnspluton (motsv.) vid ett objekt kan möta en motståndare som
+      angriper enskilt, i par eller grupp, till fots eller i fordon/båt/långsamgå-
+      ende flygplan eller helikoptrar. Motståndaren kan vara civilklädda eller
+      bära uniform och i den svåraste situation kan det vara i svensk uniform.
+      Motståndaren kan representera sig själv, en organisation, intressegrupp
+      eller stat, såväl legal som illegal. Motståndaren kan vid angreppet använda
+      allt från enkla tillhyggen som ex. kniv och stenar till bärbara vapensys-
+      tem som kan användas på långa avstånd, ex. prickskyttevapen och robo-
+      tar. Motståndaren kan genomföra angreppet i såväl förhand som efter-
+      hand, ex. utplacerade sprängladdningar och eldöverfall. Angreppet kan
+      döljas i eller samordnas med planerade eller spontana folksamlingar, ex.
+      demonstrationer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            17
+HANDBOK
+
+1.2.7 Olika spaningssystem
+
+HOTET ÖVER
+HELA YTAN
+
+Olika spaningssystem
+
+Översiktsbild
+över olika
+spaningssystem FP
+
+Bild 1:1.  Översiktsbild över olika spaningssystem.
+
+18
+                          HANDBOK
+
+      Truppspaning, radarspaning och sensorer
+      Truppspaning kan sättas in på ett stort djup, upp till 100-200 km fram-
+      för motståndarens huvudstyrka, och kan stödjas av bl.a. följande tekniska
+      system:
+      – Markradar med en räckvidd av 2-6 km (bärbar) och 15-20 km (for-
+        donsburen), förutsatt att terrängen är öppen,
+      – marksensorer som kan registrera trupp eller fordon på avstånd som
+        sträcker sig från ett par meter upp till ca 75 meter,
+      – bildförstärkare,
+      – aktiv och passiv IR.
+
+      Artilleriunderrättelsesystem
+      För att lokalisera vårt artilleri används bl.a. artilleri- och granatkastar-
+      lokaliseringsradar, vars räckvidd är ca 10-20 km samt ljudmätsystem med
+      räckvidder upp till 25 km.
+
+      Signalspaning
+      Signalspaning syftar till att avlyssna och lägesbestämma alla typer av kom-
+      munikation som sker t.ex. via radio, telefon, fax, telegrafi. Luftburna sys-
+      tem har större räckvidder.
+
+      Dessutom kan radar och navigationshjälpmedel m.m. lokaliseras. Genom
+      signalspaning kan våra förband avlyssnas och lokaliseras för att senare
+      bekämpas. Det finns dock vissa typer av modern radioutrustning som är
+      svår att avlyssna och lokalisera.
+
+      Signalspaning kan riktas mot vårt samband på både UK-och KV-
+      frekvenser. Räckvidden för markburna signalspaningssystem är omkring
+      40-50 km.
+
+
+
+
+
+
+
+
+
+
+                            19
+                          HANDBOK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Bild 1:2. UAV och fotoresultat
+
+          UAV
+          Det finns olika typer av UAV (Unmanned Aerial Vehicle), d.v.s. obeman-
+          nade flygande system, från enkla observationsplattformar utrustade t.ex.
+          med bildförstärkare till spaningsrobotar med avancerade IR-kameror.
+
+          I grund kan UAV system delas in i två varianter:
+          Lång räckvidd: 70 km och en flygtid på ca 2 timmar.
+          Kort räckvidd: 30 km och en flygtid på ca 1 timme.
+
+          UAV kan nyttjas till mållägesbestämning och eldreglering för indirekt eld
+          och flygunderstöd. Vidare så kan dessa system oftast, förutom realtidsbil-
+          der till markstation, också spela in filmer från observerade områden för
+          vidare bearbetning i stab.
+
+          Flygplan och helikoptrar
+          Med flygburna radarsystem som t.ex. det amerikanska JSTARS (Joint Sur-
+          veillance and Target Attack Radar System), kan fordonsrörelser upptäckas
+          på 150-200 km djup. Även helikoptrar är utrustade med spaningssystem,
+          t.ex. IR-kameror.
+
+
+
+
+                            20
+                          HANDBOK
+
+
+
+
+
+
+
+
+
+
+
+      Bild 1:3. AWACS
+
+      Satelliter
+      En stor mängd satelliter används för övervaknings- och spaningsända-
+      mål. De utför optisk spaning, radarspaning och/eller signalspaning. Med
+      den optiska spaningen kan föremål upptäckas som endast är decimeter-
+      stora. Övervakningen är dock inte kontinuerlig, eftersom satelliterna har
+      omloppstider på omkring 100 minuter.
+
+      1.2.8 Specialförband
+      Specialförbanden består av speciellt utvalda och utbildade elitsolda-
+      ter. Deras uppgift är att verka över hela vårt område, i vissa fall redan
+      före krigsutbrottet. Huvuduppgiften är spaning, men förbanden är också
+      inriktade mot sabotageaktioner, målangivning för flyg- och robotanfall
+      samt psykologisk krigföring. De kan även utföra förberedelser för luft-
+      landsättningar och landstigningsföretag.
+
+
+      Dessa specialförband uppträder i regel i grupper men, beroende på krigs-
+      skede och uppgift, kan insatser av tvåmannapatruller såväl som plutons-
+      och kompanienheter förekomma.
+
+      Vissa typer av specialförband används i fredstid bl.a. till bekämpning av
+      terroristorganisationer.
+
+
+
+
+
+                            21
+                          HANDBOK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Bild 1:4. Elitsoldater under övning
+          Sabotagegrupp
+          Det är sent på eftermiddagen. I skogen rör sig en ensam man mot en rot-
+          välta. Han böjer sig ned vid roten och ruskar på något. En man reser sig
+          upp. Det är postavlösning i sabotagegruppen.
+
+          Tre dagar tidigare luftlandsattes gruppen. I två dygn har gruppen spanat
+          mot en av våra järnvägsknutar. Under det sista dygnet har de vilat och spa-
+          nat mot en krigsflygbas.
+
+          När mörkret har fallit, väcks alla i gruppen. De är fem man, som nu snabbt
+          plockar ihop sin utrustning och äter frukosten i mörkret. De vet om att det
+          kommer att vara mörkt i ytterligare sex timmar. Under denna tid ska de
+          hinna med mycket.
+
+
+
+
+
+
+
+
+
+
+
+
+                            22
+                          HANDBOK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      Bild 1:5. Sabotageförband
+      När alla ätit och packat sin utrustning ger sig gruppen av. De är klädda i
+      kamouflagedräkter och bär smala höga klättersäckar på ryggen.
+      Tre av männen bär långa kamouflerade fodral vid sidan. Alla är beväp-
+      nade med automatkarbin (AK) och pistol. I stridsbältet bär de handgrana-
+      ter, kniv samt överlevnadsutrustning. Samtliga har aktiverat sina g oggels
+      för att kunna uppträda i det kompakta mörkret.
+      Efter en stund gör gruppen en kort halt. Signalisten öppnar en ficka på sin
+      ryggsäck och tar fram en mycket liten radio, en antenn fälls ut. Med hjälp
+      av snabbsändare skickar gruppen sin dygnsrapport till hemma basen.
+
+      Efter en kort stund fortsätter gruppen. De framrycker snabbt och stannar
+      bara för att spana i sina goggles efter eventuella fiender. Efter cirka en tim-
+      mes snabbmarsch stannar de igen. Nu gömmer de ryggsäckarna och tar
+      bara med sig kamouflagefodralen. Gruppchefen och en man till läser på
+      en karta. Så ger de sig av igen. Joggande tar de sig över ett mindre fält och
+      in i skogen på den andra sidan. Där stannar gruppen av. De smyger fram
+      och all verksamhet leds med hjälp av tecken. De stannar ofta, lyssnar och
+      spanar i sina goggles. Det verkar lugnt. De vet att de har ont om tid på sig.
+
+
+
+
+
+
+                            23
+                          HANDBOK
+
+          Så småningom når de fram till flygbasens inflygningsstråk. Gruppen delar
+          på sig och förflyttar sig snabbt till de båda banändorna. Vid varje banände
+          utbryter nu febril aktivitet. Ur kamouflagefodralen tas bärbara luftvärns-
+          robotar fram. De monteras upp på ett litet stativ i banändans närhet.
+          Kablar dras, sensorer sätts upp och maskering sker.
+
+          På 15 minuter är allt klart och gruppen försvinner från respektive banände.
+          Kvar i terrängen står nu fyra stycken luftvärnsrobotar. De är nu förbe-
+          redda så, att de kan avfyras automatiskt på akustisk väg när ett plan bullrar
+          vid start eller landning eller med hjälp av IR vid start/landning.
+
+          Sabotagegruppen beger sig nu snabbt bort från området, hämtar sina
+          ryggsäckar och tar sig därefter så fort de kan tillbaka till sin bas.
+
+          När gryningen kommer är alla mycket trötta, men de minerar runt basen,
+          äter snabbt och lägger sig sedan för att vila. Gruppchefen ger posten en
+          sista instruktion. Posten sitter sedan stilla och bevakar basen.
+
+          På mycket långt håll, i riktning mot flygbasen, ser gruppchefen plötsligt
+          en svart rökpelare stiga upp mot den klara morgonhimlen. Han ler trött
+          och knuffar posten i sidan. ”Jag tror att vi har löst vår uppgift”, säger han
+          och pekar mot flygbasen. Därefter vänder han sig om, går till sin viloplats,
+          viker undan maskeringen till sin bädd, kryper ner, lägger tillbaka mas-
+          keringen, kontrollerar att han har automatkarbinen, pistolen, kniven och
+          handgranaterna lätt tillgängliga och somnar.
+
+          1.2.9 Vädrets påverkan
+
+          All verksamhet måste planeras och dimensioneras utifrån det aktuella
+          väderläget på kort sikt och lång sikt. Vintern med kyla, snö och mör-
+          ker ställer särskilda krav på kunskap och erfarenhet och ändamålsenlig
+          utrustning för att lösa uppgifterna med bibehållet stridsvärde.
+
+          För chefen innebär vinterförhållanden särskilda krav på verksamhets-
+          säkerhet och ledarskap. Väderleksprognoserna är ett viktigt stöd för pla-
+          nering. Man måste ständigt arbeta med framförhållning och anpassning
+
+
+
+                            24
+                          HANDBOK
+
+      av verksamheten så att inte skador på människan och materiel uppstår.
+      Vid svåra väderleksförhållanden är kontinuerlig uppföljning av soldater-
+      nas individuella stridsvärde väsentligt eftersom det varierar från person
+      till person.
+
+      Att äta, dricka, få möjlighet till vila och sömn i varmt utrymme ökar möj-
+      ligheten att utstå kylans negativa påverkan på kroppen. Kyla innebär att
+      behovet av vätska och mat ökar. Kall inandningsluft är torrare än varm
+      och innebär en ökad uttorkning av kroppen och medför därför att ett ökat
+      behov av att dricka. Kroppens ökade värmeproduktion ökar ämnesom-
+      sättningen vilket kräver mer mat. Fysisk utmattning och sömnbrist mins-
+      kar kroppens förmåga att behålla värmebalansen. Blöta uniformspersed-
+      lar gör att avkylningen ökar, händer och fötter är särskilt känsliga. När
+      dessa faktorer samverkar negativt påverkas stridsvärdet och i slutändan
+      innebär detta en stor risk för kylskador och förbandets förmåga att lösa
+      sin uppgift.
+
+      Uniformssystemet är väl anpassat för vinterklimatet med särskilda vin-
+      terartiklar. Att klä sig enligt flerskiktsprincipen och ha tillgång till torrt
+      ombyte ökar möjligheten att hålla sig varm. Anpassning av klädsel måste
+      ständigt ske. Vid fysisk ansträngning ska man inte klä sig för varmt för att
+      undvika svettning och förstärkningsplaggen ska användas vid mer statisk
+      verksamhet. För chefen är det viktigt att styra och följa upp detta.
+
+      Materielen påverkas av snö, kyla, kondens och isbildning på olika sätt.
+      Batterikapaciteten nedgår, smörjmedel stelnar och material blir spröda.
+      Kondens på optik och vapenmateriel, is som hindrar mekanisk rörelse,
+      täpper till luftintag, och isbildning i bränslesystem ger begränsningar och
+      felfunktioner. För att bibehålla materielens tillgänglighet måste förebyg-
+      gande åtgärder genomföras men man måste ha beredskap för att felutfal-
+      let ökar.
+
+      Generellt så ökar bränsleförbrukningen för fordon och uppvärmning.
+      Vintern ställer på många sätt högre krav på en väl förberedd logistik-
+      organisation.
+
+
+
+
+                            25
+                          HANDBOK
+
+          Vinterns villkor innebär utmaningar men också möjligheter. Bemästrar
+          man den bättre än motståndaren – har man ett övertag. Genom särskild
+          vinterutbildning erhåller chefen, enskilde och förbandet en högre också
+          en förmåga att lösa sina uppgifter under övriga årstider. För mer detalje-
+          rade anvisningar hänvisas till:
+          • Vintersoldat
+          • Utbildningspaket Vinterförmåga
+          • Utbildningspaket Kallt Väder
+
+          1.3   Organisation och utrustning
+
+          1.3.1 Hemvärnsbevakningspluton
+                (Hvbevplut) 38 man
+
+          Chefsgrupp (6 man) Hemvärnsbevakningsgrupp x4 (8 man)
+          Plutonchef       Gruppchef
+          Stf plutonchef   Stf gruppchef
+          Skyttesoldat/signalist x 2 Skyttesoldat x 5
+          Hundförare x 2]  Skyttesoldat/stridssjukvårdare
+
+          Hemvärnsbevakningsplutonen ska som huvuduppgifter kunna;
+             H 1 Bevaka objekt eller knutpunkt mot sabotage,
+             H 2 skydda objekt eller knutpunkt mot sabotage,
+             H 3 upprätta observationsplats (er) och utföra fast eller rörlig spa-
+                ning,
+             H 4 försvara knutpunkt/område/objekt under begränsad tid.
+
+          Hemvärnsbevakningsplutonen är utrustad med Ak 4B och Ksp 58. Som
+          sambandsmedel disponeras Ra 180. Granatgevär tillförs efter beslut och
+          efter utbildning.
+
+
+
+
+
+
+
+
+
+                            26
+                          HANDBOK
+
+      1.3.2 Hemvärnsinsatsspluton Hjul
+            (Hvinsplut) 39 man
+      Chefsgrupp (7 man) Hemvärnsunderstödsgrupp (8 man)
+      Plutonchef       Gruppchef
+      Stf plutonchef   Stf gruppchef
+      Skyttesoldat/signalist Skyttesoldat/granatgevärskytt x 2
+      Skyttesoldat/bilförare Skyttesoldat/granatgevärsladdare
+      Skyttesoldat/sign/reservförare Skyttesoldat/granatgevärsladdare/
+                       reservfö
+      Hundförare x 2   Skyttesoldat/stridssjukvårdare
+                       Skyttesoldat/bilförare
+      Hemvärnsinsatssgrupp x 3 (8man)
+      Gruppchef
+      Stf gruppchef
+      Skyttesoldat
+      Skyttesoldat/skarpskytt
+      Skyttesoldat/skarpskytteobservatör
+      Skyttesoldat/stridssjukvårdare
+      Skyttesoldat/bilförare
+      Skyttesoldat/reservförare
+
+      Hemvärnsinsatsplutonen ska som huvuduppgifter kunna;
+         H 1 Ta objekt eller knutpunkt,
+         H 2 skydda objekt eller knutpunkt mot sabotage,
+         H 3 försvara knutpunkt/område/objekt mot sabotage,
+         H 4 skydda materieltransport samt personaltransport av
+            obeväpnad personal upp till 600 km2,
+         H 5 bevaka objekt eller knutpunkt mot sabotage,
+         H 6 upprätta observationsplats (er),
+         H 7 genomföra rörlig spaning.
+
+      Hemvärnsinsatspluton terrängbil är utrustad med Ak 4B, PSG 90, Ksp 58,
+      och granattillsatser samt för skarpskytteobservatören kikarsikte till Ak 4B.
+      Understödsgruppen har granatgevär. Grupperna har IGR för internt sam-
+      band. För plutonens samband till kompanichef disponeras Ra 180 och RA
+      195. För strid i mörker är plutonen utrustad med bildförstärkare.
+
+
+
+                            27
+                          HANDBOK
+
+          1.3.3 Hemvärnsinsatspluton Bandvagn
+                (Hvinsplut) 42 man
+          Chefsgrupp (6 man) Hemvärnsunderstödsgrupp (9 man)
+          Plutonchef       Gruppchef
+          Stf plutonchef   Stf gruppchef
+          Skyttesoldat/signalist Skyttesoldat/granatgevärskytt x 2
+          Skyttesoldat/signalist/
+          reservförare     Skyttesoldat/granatgevärsladdare x 2
+          Hundförare x 2   Skyttesoldat/stridssjukvårdare
+                           Skyttesoldat/bandvagnsförare
+                           Skyttesoldat/reservförare BV
+          Hemvärnsinsatssgrupp x 3 (9 man)
+          Gruppchef
+          Stf gruppchef
+          Skyttesoldat x 2
+          Skyttesoldat/skarpskytt
+          Skyttesoldat/skarpskytteobservatör
+          Skyttesoldat/stridssjukvårdare
+          Skyttesoldat/bandvagnsförare
+          Skyttesoldat/reservförare BV
+
+          Hemvärnsinsatsplutonen ska som huvuduppgift kunna;
+             H 1 Ta objekt eller knutpunkt,
+             H 2 skydda objekt eller knutpunkt mot sabotage,
+             H 3 försvara knutpunkt/område/objekt mot sabotage,
+             H 4 skydda materieltransport samt personaltransport av obeväp-
+                nad personal upp till 600 km2,
+             H 5 bevaka objekt eller knutpunkt mot sabotage,
+             H 6 upprätta observationsplats (er),
+             H 7 genomföra rörlig spaning.
+          Hemvärnsinsatspluton bandvagn är utrustad med Ak 4B, PSG 90, Ksp 58,
+          och granattillsatser samt för skarpskytteobservatören kikarsikte till Ak 4B.
+          Understödsgruppen har granatgevär. Grupperna har IGR för internt sam-
+          band. För plutonens samband till kompanichef disponeras Ra 180 och RA
+          195. För strid i mörker är plutonen utrustad med bildförstärkare.
+
+
+
+
+                            28
+                          HANDBOK
+
+      1.3.4 Hemvärnsunderrättelsepluton
+            (Hvundplut) 36 man
+      Chefsgrupp (4 man) Hemvärnsunderrättelsesgrupp x 4
+                       (8man)
+      Plutonchef       Gruppchef
+      Stf plutonchef   Stf gruppchef
+      Hvundsoldat/sign/bilfö x 2 Hvundsoldat
+                       Hvundsoldat/telefonist x 2
+                       Hvundsoldat/bilförare x 2
+                       Hvundsoldat/stridssjukvårdare
+
+      Hemvärnsunderrättelsepluton med 36 man ska kunna;
+         H 1 Upprätta observationsplats på upp till fyra platser inom ett
+            område på upp till 225 km2,
+         H 2 ytövervaka bebyggelse genom patrullering och fast observa-
+            tionsplatser,
+         H 3 utföra rörlig spaning, detaljspaning och genomsökning inom
+            område på 100 km2.
+         H 4 genomsöka bebyggelse och terräng med eller utan hund-
+            ekipage,
+
+      Hemvärnsunderrättelsepluton 36 man är utrustad med Ak 4B och saknar
+      understödsvapen. För plutonens samband till kompanichef disponeras Ra
+      180 och Ra 195. För observation i mörker är plutonen utrustad med bild-
+      förstärkare.
+
+      1.3.5 Hemvärnsunderrättelsepluton (med hund)
+
+            (Hvundplut) 41 man
+      Chefsgrupp (9 man) H emvärnsunderrättelsesgrupp x 4
+                       (8man)
+      Plutonchef       Gruppchef
+      Stf plutonchef   Stf gruppchef
+      Hvundsoldat/telefonist x 2 Hvundsoldat
+      Hundbefäl        Hvundsoldat/telefonist x 2
+      Hundförare x 4   Hvundsoldat/ bilförare x 2
+                       Hvundsoldat/stridssjukvårdare
+
+
+                            29
+                          HANDBOK
+
+          Hemvärnsunderrättelsepluton med hund ska som huvuduppgift kunna;
+             H 1 Upprätta observationsplats på upp till fyra platser inom ett
+                område på upp till 225 km2,
+             H 2 ytövervaka bebyggelse genom patrullering och fast observa-
+                tionsplatser,
+             H 3 utföra rörlig spaning, detaljspaning och genomsökning inom
+                område på 100 km2,
+             H 4 genomsöka bebyggelse och terräng med eller utan hund-
+                ekipage,
+
+          Hemvärnsunderrättelsepluton med hund är utrustad med Ak 4B och sak-
+          nar understödsvapen. För plutonens samband till kompanichef dispone-
+          ras Ra 180 och Ra 195. För observation i mörker är plutonen utrustad med
+          bildförstärkare. Plutonen har fyra hundekipage.
+
+          1.4   Stridsförberedelser
+
+          1.4.1 Åtgärder vid mobilisering/samling
+
+          Hemvärnsförband mobiliserar vid hemvärnslarm eller på särskild order.
+
+          • Din uppgift som plutonchef är att larma plutonen (plutonchef stf),
+            och därefter anmäla dig för kompanichefen.
+
+          Ställföreträdande plutonchef ansvarar för att:
+          • larma grupperna (gruppcheferna).
+          • samla plutonen på mobplats/samlingsplats
+          • påbörja materieltjänsten
+          • förbered plutonchefens ordergivning genom att enligt dennes
+            bestämmande samla gruppcheferna eller hela plutonen.
+
+          Gruppcheferna ansvarar för att:
+          • larma gruppen (gruppchef stf), och samla gruppen på plats/
+            mobsamlingsplats
+
+
+
+
+
+                            30
+                          HANDBOK
+
+      Efterhand ges order till plutonen om att:
+      • fördela gemensam materiel samt att fältlasta tilldelade fordon,
+      • hämta/motta och fördela ammunition och förnödenheter,
+      • organisera plutonen med hänsyn till inryckt personal,
+      • ordna för egen bevakning av förberedelserna.
+
+      När plutonen är organiserad och utrustad påbörjar plutonen att göra
+      stridsförberedelser. Stridsförberedelserna kan omfatta:
+      • Ta emot order och rekognosera samt planera för uppgift,
+      • inskjutning av vapen,
+      • repetitionsövningar med understödsvapen,
+      • tillpassningskontroll av skyddsmask,
+      • övningar för att samöva grupp och pluton samt andra övningar som
+        syftar till att, förbereda förbandet på kommande uppgift,
+      • färdiga till strid.
+
+      1.4.2 Grundberedskap markstrid
+      Striden förbereds genom rutiner, som syftar till att vinna tid och därmed
+      försteg i förhållande till motståndaren.
+
+      Grundberedskap Markstrid
+      Grundberedskap Markstrid innebär att förbandet har en grundläggande
+      förmåga att kunna inta och höja övriga beredskapsgrader, t.ex. stridsbe-
+      redskap.
+
+      Kontroller sker utifrån gällande reglementen, instruktioner och förban-
+      dets stående order.
+
+      Grundberedskap Markstrid innebär att följande ska kontrolleras:
+      • Utdelade publikationer, orderverk, handlingar, bestämmelser och
+        geografiskt underlag.
+      • Vapen och ammunition
+      • Observationsutrustning, igenkänningsutrustning och mörker materiel
+      • Skyddsutrustning
+      • Lednings- och sambandsmateriel
+
+
+
+
+                            31
+                          HANDBOK
+
+          • Hälso- och sjukvårdsmateriel
+          • Fordon och farkoster samt lastförankring
+          • Mat och dryck
+          • Övrig tilldelad materiel
+          • Maskering och signaturanpassning
+          • Personal och styrkebesked
+
+          Exakt vilka åtgärder och kontroller som görs och var vapen, ammunition
+          och övrig materiel förvars regleras av respektive chef. Detta kan göras i
+          förbandets Stående Order (SO).
+
+          Anmäl till chefen när din grupp/pluton har beordrad beredskap!
+
+          Gruppen ska efter löst uppgift vårda, kontrollera och förbereda vapen,
+          materiel, utrustning och fordon så att gruppen är stridsberedd innan man
+          går till vila.
+
+          Fel och brister ska åtgärdas omedelbart.
+          Kan detta inte göras ska anmälan ske till chefen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            32
+                          HANDBOK
+
+      1.4.3 Färdiga till strid
+      All personal gör färdiga till strid enligt nedan;
+
+      Stridsberedskapen höjs på kommando ”Färdiga till strid!” eller tecken.
+      I brådskande lägen kan signalen ”Larm” användas.
+
+
+
+        Färdiga till strid
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      Bild 1:6. Tecken för ”färdiga till strid”.
+      Förband är stridsberett när det omedelbart kan börja lösa sin uppgift.
+
+
+
+
+
+
+
+
+
+
+                            33
+                          HANDBOK
+
+          1.4.3.1 Åtgärder vid gruppen
+          Gruppen genomför åtgärder vid färdiga till strid enligt nedan;
+
+          Striden förbereds genom rutiner, som syftar till att vinna tid och därmed
+          försteg i förhållande till motståndaren.
+          Åtgärd som ska genom- Spec. Spec. vinter Spec. mörker
+          föras         bebyggelse
+          Vapen         -         Överflödig SMX tor- Kontroll av laser
+          Vapenkontroll på samtliga kas bort. Kontroll av vapen-
+          vapensystem             Ordna mynnings- lampa
+                                  skydd
+                                  Temperaturkorri-
+                                  gera riktinstrument
+          Ammunition    Extra handgranater - Fördela lysammu-
+          Fyll upp magasin, kassetter, Bräsch laddningar nition
+          tuber.        Rörladdningar
+          Utjämna ammunition Tändsystem
+          Bryt plomberingar
+          Fordon        -         Terrängkedjor Signatura npassa
+          Åtgärder före stridskörning, ter- ljus- och ljudkällor
+          rängkörning
+          Sambandsutrustning -    Skydda handmikro- Signatura npassa
+          Förbindelseprov         telefonen ljuskällor
+          Kanaldata
+          Laddade batterier
+          Sjukvårdutrustning -    Pulka    -
+          Sjukvårdsväska          Morfininjektor och
+          Första förband          läkemedel förvaras
+          Bårmatta                varmt.
+          Patienttäcke
+          Personlig utrustning Anpassas Ficklampa eller - Ficklampa
+          till kommande verksamhet Vapenlampa Tejpa blänkande
+          Fyll på vattenflaskor och termos eller skramlande
+                                           föremål.
+          Övriga åtgärder -       Maskera med vitt Mörkert illvänjning
+          Personligt:             Varm dryck av ögonen.
+          Maskera ansikte, händer          Mörker märkning
+          Töm blåsa och tarm               ex. vitt tejpat kryss
+          Kartor och anteckningar med      på ryggen.
+          underrättelsevärde lämnas
+          Skyddsutrustning Handskar Solglasögon -
+          Kontroll Skyddsmask MT Skydds glasögon Sot under ögon
+                        Brandsläckningsut- Ansiktsskydd
+                        rustn.
+                        Knäskydd
+                            34
+                          HANDBOK
+
+      Åtgärd som ska genom- Spec. Spec. vinter Spec. mörker
+      föras          bebyggelse
+      Övrig utrustning Rep, stegar Skidor Lysstavar
+                     Yxa, spett, bryt- Pulkor Kontroll
+                     verktyg  Snöskor  Bildförstärkare
+                     Markeringsmtrl:
+                     · Snitsel
+                     · Lysstavar
+                     · Sprayfärg
+      Kontroll av hundekipage Varm dryck.
+      mat och dryck till hund medförs
+                Anmäl till plutonchefen när din grupp
+                    är kontrollerad och klar!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            35
+                          HANDBOK
+
+          Genomför också kontroll på att den enskilda soldaten har vidtagit föl-
+          jande åtgärder:
+          • Läsklina med påskruvad läskände (med rengöringslapp), extra rengö-
+            ringslappar och en flaska med rengöringsolja (CLP) förvaras i fodral
+            till läsklina. Fodralet förvaras i uniformen, t.ex. höger bröstficka.
+            Övrig vårdmateriel läggs i stridspackningen (uppdragssäcken),
+          • vapnet kan laddas med dubbelmagasin för att du snabbt ska kunna
+            byta magasin under strid.
+          • Övriga påfyllda magasin förvaras i magasinsfickor med magasinsbot-
+            ten uppåt.
+            Detta för att underlätta omladdning och snabba magasinsbyten.
+          • Skapa utrymme för tomma magasin, vilka vid omladdning och maga-
+            sinsbyte stoppas i stridsvästen eller innanför jackan, för att undvika
+            sammanblandning med de magasin som är påfyllda,
+          • handgranater förvaras apterade i övriga fickor,
+          • minst ett första förband förvaras i höger benficka. Ytterligare första
+            förband förvaras i uniformen eller stridsutrustningen enligt din chefs
+            bestämmande.
+
+                      Se till att sprida de orienteringar
+                       och den information som ges.
+
+                        Motverka ryktesspridning.
+
+          Ordna så att gruppen förbättrar färdigheten på sina vapen och sin mate-
+          riel när tid finns.
+
+
+          1.4.3.2 Åtgärder vid plutonen
+          Striden förbereds genom rutiner som syftar till att vinna tid och därmed
+          försteg i förhållande till motståndaren.
+
+          Plutonen ska direkt efter löst uppgift vårda, kontrollera och förbereda
+          vapen, materiel, utrustning och fordon så att plutonen är stridsberedd
+          innan man går till vila. Verksamheten leds vanligen av ställföreträdande
+
+
+
+
+                            36
+                          HANDBOK
+
+      plutonchef och respektive gruppchef (ställföreträdare). Plutonchef med
+      gruppchefer avrapporterar uppgiften och ger (förberedande) order om
+      nästa uppgift.
+
+      Vid ”Färdiga till strid” eller ”Larm” ska i princip enbart kontroll av de
+      av gruppcheferna utförda åtgärderna behöva ske förutom de komplette-
+      ringar varje särskilt uppdrag kan medföra.
+
+      Du som plutonchef beordrar och kontrollerar med stöd av din ställföre-
+      trädare plutonens utrustning.
+
+      Var kartor, kompass, ficklampa, visselpipa och dylikt förvaras och med-
+      förs bör regleras av respektive chef. Detta görs t.ex. i Stående Order (SO).
+      Försök att omedelbart åtgärda fel och brister! Anmäl till kompanichefen
+      de fel och brister som kvarstår.
+      Vapen och ammunition och annan vital materiel förvaras enligt gällande
+      förvaringsbestämmelser.
+
+                 Anmäl till kompanichefen när din
+                  pluton är kontrollerad och klar!
+
+
+      Ordna så att plutonen förbättrar färdigheten på sina vapen och sin mate-
+      riel när tid finns.
+
+      1.4.4 Förberedelser för strid i mörker
+      Utöver det som beskrivs under färdiga till strid gör plutonen följande
+      mörkerförberedelser:
+      • Märker ut eldställningar samt eldområden,
+      • röjer och märker ut framryckningsvägar. Förövar omgruppering mel-
+        lan stridsställning och växel/alternativ stridsställning,
+      • rekognoserar och förbereder postställen och oplatser som ska nyttjas
+        under mörker,
+      • utser, utrustar och förövar lyspatrull/er,
+
+
+
+
+
+                            37
+                          HANDBOK
+
+          • säkerställer att samtliga hittar till postställen som betjänas av
+            plutonen,
+          • ordnar plutonens materiel,
+          • kontrollerar och fördelar bildförstärkare samt övrig mörkermateriel,
+          • täcker för rutor och fönster samt ordnar ljusslussar på fordon samt i
+            byggnader och tält.
+
+          1.5   Elduppgifter
+
+          Elden är det viktigaste medlet för bekämpning och är den basförmåga
+          som är viktigast.
+
+          Gruppen är en eldenhet. Gruppchefen leder elden i det längsta. I gynn-
+          samma fall kan flera grupper samordnas som en eldenhet. Plutonchefen
+          (ställföreträdaren) leder då eldgivningen.
+
+          1.5.1 Elduppgifter för direktriktad eld
+
+          Elduppgifter ges till eldenhet.
+          Elduppgift    Innebörd
+          Nedkämpa      Bryta motståndarens motståndskraft och stridsvilja på en viss plats,
+                        eller förstöra fordon, utrustning eller anläggning.
+          Nedhålla      Tvinga motståndaren att under viss tid avbryta pågående verksam-
+                        het och ta skydd.
+          Belysa        Underlätta verksamhet i mörker genom att med olika former av
+                        stridsfältsbelysning göra motståndaren, viss terräng eller objekt syn-
+                        ligt för egna förband.
+          Förblinda     Begränsa motståndarens möjligheter att rikta eld
+                        och förflytta sig.
+          Avskärma      Begränsa motståndarens möjligheter till insyn i vår verksamhet.
+          Målbelysa     Syftar till att vapensensor ska hitta målet (t.ex. laserbelysa mål vid
+                        direkt flygunderstöd – CAS).
+          Målutpeka     Syftar till att få uppmärksamhet mot målet (t.ex. laserpeka med IR).
+          Avge varningseld Med eld få en motståndare, part eller annan aktör att välja att
+                        avbryta pågående verksamhet utan att tillfoga denne förluster. Var-
+                        ning ska kunna följas av verkanseld om varning inte åtlyds.
+
+
+
+                            38
+                          HANDBOK
+
+      Samordning av direkt eld
+      Begrepp       Innebörd
+      Eldområde     Område inom vilket vapen eller förband ska kunna avge eld.
+      Eld mellan … och… Anger område där elden ska kunna avges mot upptäckta eller för-
+                    väntade mål och platser där motståndaren bedöms vara grupperad.
+      Eld mot …     Eld avges i angiven riktning mot upptäckta mål och platser där mot-
+                    ståndaren bedöms vara grupperad.
+      Skjutgräns    Anger säkerhetsmässiga gränser för elden med hänsyn till egna för-
+                    band och civila eller känslig/farlig utrustning (t.ex. bränsletank).
+      Eldförbud…
+      Förbud att avge eld med angivna vapensystem.
+      Elduppgifter kompletteras med erforderliga bestämmelser för;
+      • Eldöppnande,
+      • skjutavstånd,
+      • den tid under vilken elduppgiften ska lösas,
+      • varifrån elden ska avges,
+      • vilken ammunitionsmängd som får förbrukas,
+      • eldens inställande.
+
+      1.5.2 Eldtillstånd
+
+      Vid en grupp som påbörjat lösandet av en stridsuppgift har en skytt alltid
+      eldtillstånd om inte annat anges.
+      En chef kan använda uttrycket Eldförbud till en skytt eller enhet för att till-
+      fälligt förhindra en ställd elduppgift. När orsaken till avbrottet inte längre
+      påverkar bör chefen ange Eldtillstånd vilket då återställer elduppgiften i
+      ursprunglig form.
+
+      I övrigt använder chefen uttryck i likhet med exemplen nedan för att
+      säkerställa att eldens öppnande är i överensstämmelse med stridsplanen
+      • Eld på min order.
+      • Eld får endast avges mot upptäckta/identifierade mål.
+      • Eld när fienden…(t.ex. passerar vägen, kommit ut på fältet)
+      • Samtidigt eldöppnande, anläggning… EA kom, GA kom o.s.v.… Alla
+        A Eld!
+
+
+
+
+                            39
+                          HANDBOK
+
+          • Vänta… (Används efter målangivning när man inte vill att skytten
+            skjuter direkt.)
+
+                        UPPGIFT
+
+
+                                  1.Grp understödjer 2. Grp
+                                  framryckning till LIMPAN
+            ELDUPPGIFT            Nedhållande eld mellan DIKET
+                                  och SPIRAN
+                                  Eldförbud när 2. Grp passerar
+                                  STORA STENEN
+
+           SAMORDNING
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            40
+                          HANDBOK
+
+      2.    Ledning
+
+      2.1   Allmänt
+
+      2.1.1 Chefen och ledarskapet
+
+      Chefen är ansvarig för att förelagda uppgifter löses.
+
+      Att uppfatta situationen, ta initiativ och agera, inom ramen för högre chefs
+      stridsplan, genomförandeidé och målbild, är en framgångsfaktor och en skyl-
+      dighet som chef.
+
+      Chefen ska utveckla ett utpräglat vinnartänkande och utöva ett aktivt
+      ledarskap. All verksamhet ska präglas av förtänksamhet och enkelhet.
+      Chefen ska agera offensivt och, om möjligt, varierat samt utnyttja mot-
+      ståndarens svagheter. Detta görs bland annat genom att ta sig an uppgif-
+      ter och föreslå lösningar. Om chefen inte fått någon uppgift/order och ser
+      gynnsamma tillfällen, ska chefen ta initiativet och föreslå uppgift. Detta
+      förslag på uppgift anmäls snarast till närmast högre chef.
+
+      Ett gott ledarskap är beroende av ett ömsesidigt förtroende mellan pluton-
+      chefen, gruppcheferna och soldaterna. Chefens personliga föredöme är grun-
+      den för ett ömsesidigt förtroende. Devisen ”följ mig” ska prägla ledarska-
+      pet. Det görs genom att DU är beredd att vid behov ta täten vid uppgiftens
+      lösande.
+
+      Ledarskapet ska inriktas på att engagera och entusiasmera så att persona-
+      lens duglighet kan utnyttjas fullt ut.
+
+      Du som plutonchef ska ha goda kunskaper om motståndaren, din pluton
+      och våra förband samt de faktorer som påverkar striden.
+      Dina huvuduppgifter som chef är att;
+      • Leda plutonen,
+      • planera med förutseende och med olika alternativ,
+      • fatta beslut och ge order i rätt tid,
+      • stödja och kontrollera genomförandet.
+
+
+
+                            41
+                          HANDBOK
+
+          Som plutonchef ska du delge dina beslut och de viktigare motiven för
+          att skapa förutsättning för grupperna att kunna handla självständigt samt
+          utnyttja uppkomna möjligheter. Uppgifter ska formuleras så att deras
+          innebörd framgår tydligt och utan onödig detaljreglering.
+
+          Plutonchefen leder plutonen genom order till gruppcheferna. Du ska upp-
+          rätthålla en sådan anda och disciplin att personalens insatser i samverkan
+          leder till att uppgiften löses. Disciplinen ska uppfattas som ett stöd för
+          verksamheten – ytterst för att grupper och enskilda personer ska överleva
+          striden.
+          Du som gruppchef ska ha goda kunskaper om motståndaren, din grupp
+          och pluton samt övriga faktorer som påverkar striden.
+
+          Du ska som chef ska alltid vara beredd att, även med ett begränsat under-
+          lag, snabbt fatta beslut och genomdriva dem. I din roll som chef ska du
+          anpassa din ledning efter situationens krav och plutonens/gruppens för-
+          måga, dvs ett situationsanpassat ledarskap. Din förmåga att snabbt fatta
+          beslut och ge order är viktig för framgång.
+
+          Som gruppchef ska Du omsätta plutonchefens order till din nivå. Själv-
+          ständigt handlande underlättas om underställda känner till strids planen,
+          men även plutonchefens motiv och syn på hur striden ska föras i olika
+          situationer.
+          Ett gott ledarskap grundas på ömsesidigt förtroende och öppen kommu-
+          nikation mellan den som är gruppchef och övriga i gruppen.
+
+          Som gruppchef ska du;
+          • Ta beslut – även om de är svåra och ibland obehagliga,
+          • vara det föredöme som personalen förväntar sig. De förväntar sig att
+            du kan ditt jobb och är professionell,
+          • ta ansvar, vara rättvis och ta hand om din personal,
+          • gå i täten; framför allt när uppgiften är svår och farlig,
+          • visa mod utan att agera dumdristigt eller ta onödiga och omotiverade
+            risker. Det är främst genom din kunnighet och ditt föredöme som du
+            skapar förtroende hos din personal och dina chefer,
+
+
+
+
+                            42
+                          HANDBOK
+
+      • ”gilla läget”, tro på uppgiften och kunna förklara den,
+      • visa att du litar och tror på dina underställda,
+      • känna din personals förtjänster och begränsningar,
+      • kunna berömma, kräva ansvar samt ge positiv och negativ återkopp-
+        ling.
+
+      I strid leder du din grupp främst genom direkt ledarskap.
+
+      2.1.2 Plutonens ledning
+      Du som plutonchef leder plutonen, vilket bland annat innebär att chefen
+      • Förbereder och planerar striden genom att göra en plan mot bak-
+        grund av givna order, riktlinjer, uppgiftens innebörd och syfte med
+        striden. (kompanichefens stridsplan med genomförandeidé och mål-
+        bild är fokus i all planering av striden),
+      • gör en bedömning av motståndaren och terrängen,
+      • orienterar grupperna och genomför eventuell samverkan (t.ex. med
+        objektsägare),
+      • involverar, om möjligt, gruppcheferna i detaljplaneringen av striden,
+      • ger order till grupperna så tidigt som möjligt och efter hand, för att
+        gruppcheferna ska kunna förbereda sig själva och gruppen inför upp-
+        giften,
+      • stridsleder/leder plutonen med order, kommandon och (i vissa fall)
+        tecken/signaler till gruppcheferna,
+      • fortlöpande kontrollerar verksamheten och utfallet av givna order.
+      • rapporterar till högre chef.
+
+      Plutonchefen ansvarar för att tilldelade resurser – i form av personal och
+      materiel – används, hanteras samt vårdas så att stridsvärdet behålls.
+
+      Plutonchefens ställföreträdare biträder dig och ska vara insatt i läget för
+      att snabbt kunna ta över plutonens ledning eller delar av plutonen. Ställ-
+      företrädaren ges också självständiga uppgifter, t.ex. att samverka eller att
+      vara orderuttagare. Ställföreträdaren ansvarar också för att förbereda och
+      leda plutonens förläggningstjänst, underhållstjänst, sjukvårdstjänst samt
+      materiel- och fordonstjänst.
+
+
+
+
+                            43
+                          HANDBOK
+
+          2.1.3 Gruppens ledning
+          Du som gruppchef leder gruppen främst med hjälp av order, komman-
+          don, tecken och signaler samt genom att själv vara ett gott föredöme. Du
+          kontrollerar att order, kommandon, tecken och signaler omsätts på avsett
+          sätt samt rättar till om så behövs.
+
+          Gruppchefens ställföreträdare, ska vara väl insatt i läget för att snabbt
+          kunna överta gruppens ledning.
+
+          2.1.4 Genomförande av ledning
+
+          Plutonchefen leder plutonen samt sin egen chefsgrupp.
+          Gruppchefer leder sina respektive grupper.
+
+          Stridsledning innebär normalt att order ges efterhand. Du ska sträva efter
+          att ge nödvändiga order till din pluton i så god tid som möjligt. Detta leder
+          till att gruppchefen kan planera stridens nästa och nästkommande steg.
+
+          Du som gruppchef ska – med stöd av chefens order – kunna agera offen-
+          sivt, ta initiativ och agera direkt vid uppkomna situationer. Detta görs
+          genom att du genomför positiv rapportering till chefen, där du som
+          gruppchef föreslår lösningar. Du måste vara medveten om och vara upp-
+          märksam på gruppens bidrag till plutonens samlade effekt i striden.
+
+          2.1.5 Order
+          Uppgifter till underlydande och underställda chefer ges i form av order.
+          Order ska vara entydig och ges med precision. Order ges muntligt, skrift-
+          ligt eller via ledningssystem, enskilt eller samfällt.
+
+          Vid kompani och lägre förband formulerar chefen i regel själv order. Sam-
+          fälld ordergivning där så är möjligt är att föredra. Order ska nå mottaga-
+          ren så tidigt att denne hinner göra nödvändiga förberedelser.
+
+
+          För att underlätta ordergivning och vinna tid till förberedelser för under-
+          lydande, bör chefen:
+
+
+
+                            44
+                          HANDBOK
+
+      • Fortlöpande hålla underlydande orienterade om läget,
+      • förbereda ordergivning med skisser, stridsledningsunderlag,
+      • ge förberedande order,
+      • inleda ordergivningen till personal med uppgifter som kräver längst
+        förberedelsetid,
+      • ge order efter hand,
+      • ge muntlig order till flera chefer samtidigt,
+      • använda vedertagna orderuttryck/begrepp,
+      • anpassa beredskapen.
+
+      En komplett order (orientering och orderpunkter) ska klart och tydligt
+      ange:
+      • VAD ska göras?
+      • VARFÖR ska det göras – SYFTET?
+      • VEM ska göra det?
+      • VAR ska det göras?
+      • NÄR ska det göras?
+
+      Vid behov anges HUR och med vilka RESURSER.
+
+      Ordergivning underlättas om gemensamt ledningsunderlag nyttjas.
+      Som plutonchef ska Du delta på kompanichefens ordergivning, där det ges
+      order och riktlinjer för kompaniets underenheter. Då klarläggs plutonens
+      stridsuppgift tillsammans med kompanichefens genomf örandeidé och
+      målbild. Därefter utarbetas plutonens stridsplan i detalj.
+
+      Plutonchefens order för kommande verksamhet ges normalt muntligt
+      till gruppcheferna. När uppgiften så kräver och tiden medger, bör plu-
+      tonchefen ge order till gruppcheferna med hela plutonen samlad (sam-
+      fälld ordergivning). Fördelen med samfälld ordergivning är att alla hör
+      Din order och får en ökad förståelse för stridsuppgiften, stridsplanen samt
+      kompanichefens genomförandeidé och målbild.
+
+      Gruppchefens order ges muntligt till hela gruppen samlad.
+
+
+
+
+
+                            45
+                          HANDBOK
+
+          En gruppchef torde kunna lösa de flesta uppgifter genom att använda
+          minnesramsorna. UFETÅSSO, RASSOIKA med flera.
+
+          Chefens orientering och ordergivning, sker under lystringsgraden Man-
+          över.
+
+          Order omfattar orientering och orderpunkter. Ordergivning ska vid
+          behov föregås av tidgivning och terrängvärdering med utgångspunkter i
+          terrängen (vid muntlig ordergivning).
+          Order inleds med nödvändig orientering om:
+          • Motståndaren,
+          • närmast högre förbands uppgifter,
+          • vårt förbands uppgifter,
+          • understödjande förbands uppgifter,
+          • stridsplan med eget beslut i stort och riktlinjer.
+
+          Därefter ges order om kommande verksamhet med direkta uppgifter till
+          enheter och (vid behov), till enskilda befattningshavare.
+
+          Orderpunkterna ska vara korta och entydiga. Stor vikt ska läggas vid att
+          precisera när uppgiften ska vara löst. Fastställda orderuttryck ska använ-
+          das och uppgiften ska repeteras ordagrant.
+          Den som ger eller överbringar order ska förvissa sig om att mottagaren
+          förstår ordern, vad som ska göras och varför uppgiften ska lösas.
+
+          Exempel på order framgår av handbokens olika kapitel och i bilagan
+          Ordermallar i del 3 av denna publikation.
+
+          Ordergivning i terrängen bör ske på ett sådant sätt och på en sådan plats att
+          den aktuella terrängen kan ses.
+
+          Chefen får inte genom oklara uttryck lämna åt underställda att fatta beslut
+          för vilka han själv har att ta ansvaret.
+          Därför låter chefen underställda chefer och personal repetera order och ge
+          möjlighet att ställa frågor. Därefter kontrollerar chefen att ordern omsätts
+
+
+
+
+                            46
+                          HANDBOK
+
+      på avsett vis. Detta kan exempelvis ske genom att låta underställda chefer
+      med egna ord redovisa hur de uppfattat uppgiften och hur de tänkt att lösa
+      den. Kontrollen syftar till stöd och styrning och är en viktig del av genom-
+      förandet och ska ske kontinuerligt. Endast genom uppföljning och kontroll
+      kan chefen rätt bedöma personalens förmåga att lösa sina uppgifter.
+
+      När beordrad verksamhet har genomförts eller när problem uppstår, ska
+      detta rapporteras till den chef som gett ordern!
+
+      Den chef som ger en order ska alltid förvissa sig om att mottagaren för-
+      stått vad som ska göras och varför uppgiften ska lösas genom att t.ex.
+      begära repetition och ställa kontrollfrågor.
+
+      Chefen ska kontrollera att underställda omsätter order så att uppgif-
+      ten löses. Kontrollen syftar till stöd och styrning och är en viktig del av
+      genomförandet.
+
+
+      2.2   Planering
+      2.2.1 Planering allmänt
+
+      Du ska som plutonchef bearbeta givna order och riktlinjer, planera samt
+      utarbeta order till grupperna.
+      Om tiden medger bör du involvera gruppcheferna i detta, inte minst i den
+      senare delen av din planering. Delaktighet i planeringen ökar förståelsen-
+      för uppgiften och stridsplanen, samtidigt som gruppchefen aktivt kan på
+      verka och bidra till stridsplanen.
+
+      Delaktighet både underlättar och påskyndar gruppchefens egen planering
+      och förberedelser inför striden.
+
+      Som gruppchef bearbetar du givna order och riktlinjer på motsvarande
+      sätt som plutonchefen, du orienterar och ger order till gruppen.
+      Detaljplaneringen på gruppnivå omfattar främst detaljstudier av t errängen
+      på kartan, så kallad terrängvärdering.
+
+
+
+
+                            47
+                          HANDBOK
+
+          Följande bör ingå i planeringen;
+          • Stridsställningar med huvudskjutriktning,
+          • framryckningsvägar mellan stridsställningar,
+          • varifrån motståndaren kan påverka våra förband,
+          • var våra förband kan påverkas av motståndaren,
+          • terränghinder avseende framryckning och samband,
+          • civilbefolkning, omfattande risk för skador på civila personer och
+            civil egendom,
+          • väder och siktförhållanden.
+
+          2.2.2 Planering av uppgift
+          Genom bedömande skapar chef underlag för sin stridsplan.
+          Bedömande genomförs i tillämpliga delar m.h.t. tiden för planering.
+
+                 En förkortad version av bedömande är ”UTTT”
+
+                   UPPGIFTEN, TRUPPERNA (vi,fi,civila),
+                        TIDEN, TERRÄNGEN.
+
+                    Efter att du bedömt de fyra punkterna,
+                     fattar du ditt beslut, och ger order.
+
+                 Denna version förordas för plutons- och gruppnivå.
+
+
+          Vid planering på kompani och plutonsnivå kan delar av PUT modellen
+          användas främst då de grönmarkerade rutorna.
+
+          Vid planering ska osäkert underlag och ont om tid anses som normalt.
+          Underställda chefer ska få sina order/uppgifter så att de får mesta möjliga
+          förberedelsetid. Planering genomförs i den utsträckning som detta med-
+          ger.
+
+          Planering innebär ett bedömande som syftar till att utarbeta en stridsplan.
+          Stridsplanen omfattar;
+
+
+
+
+                            48
+                          HANDBOK
+
+      • Målbild,
+      • riktlinjer,
+      • underlag för order.
+      Det är viktigare att påbörja lösande av uppgift/uppdrag och under tiden
+      planera för olika händelseutvecklingar än att genomarbeta en enda tänk-
+      bar utveckling i alla detaljer.
+
+      1. Förstå Målb V il a d d , s v y i f ll t e h ö oc g h re G c F h I e tv f å u p ni p v n å å e ? r upp Framgångsfaktorer: U fr n åg d o /i r n H fo C b : ehov Lä F g ö e rb t, e u r p e p d d an ra d g e e t o , r t d id e e r n
+            Eget uppdrag, outtalade/underförstådda uppdrag OBO
+                Beredduppgifter      När ges order
+           Klara ut tidsförhålanden från nu tils uppgiften är löst B ha e n g d r i lingsfrihet: O åt m gä e r d d e e l r b o a c ra h Omedelbara åtgärder
+                                förberedande order:
+              Svarar på frågorna
+            VEM, VAD, NÄR, VAR och VARFÖR?
+      2. Uppfatta Tiden Terrängen H Vi o lk t en uppgift har motståndaren? K Va o d n s h e a k r v ja e g n s för handlingsalternativ?
+            Planering 1/3-2/3 Hinder, framryckning Vad har motståndaren för verkanssystem? Vad innebär mina val/ mitt val?
+            F O ö F r r b d ö e e rö r r e g v d i n v e i n n le i g n s g er O N b S y s i c k e k t r e , v v l a t i e t n i r o d rä n t n e o g m c , h p g r e o u ld c p h g p i f e v u r n k in i t n g g In C O fr i m v as i r l t l å r ä d u g k e e t n t ur V V V a i i l l d k k e a h n t a i v d r e s m f r a k o k a t t n s o t h å re n a r r d g d a ä r e e l p n er å f ? ö m r i s g k ? yddsnivå? L K / V k ö a a a d s n n e m j r a j a j g å a g s g t t b i e l u e f p j ö g a p r ä g a d r s a e r / a l r i e e g m r s e h u i t n å r ? e s l e r a a r ? , , v m il o ke tv t e s r t k ö a d , b b e e v h a ö k v a e ? r jag
+            V T a M e r k o N n t u i s s t V k å a a n r s d S y a E s r t D e e A n m N Ny H ck in el d E te e g r r e , r ä t fr n f a ö g m r , b r g y a r c u n k p d n p in er g ing U T B I e t M r f y o - m o lk b n n j i i e n n k g g t S V h V a a a a d d n n d n h ä l o r a i n l f r i a g k m r s h l a i o e g l t t t t s e t f r ö å n n r a d m ti a v i r g ? e p n å f ö k r o rt/ lång sikt? S V V V å a i i l l d k k rb e a h a n v a r e s r h k r v e k y å t a d r n a d s s f s n ö y r i s v b t å e a m n h d a h r f a v ö r i r ? j u a p g p i g m if i t t ? t förband?
+           Styrkor och svagheter Observation och eldgivning Vad är troligast att motståndaren gör? Vilka tidsfaktorer gäler?
+             Sårbarheter Sikt, vind temp och fukt Vilka risker finns?
+      3. Skapa Värdera   Skapa en plan Spela på planen
+            Vad talar för mig/motståndaren Vad leder til framgång Löser jag uppdraget
+            Vem är överlägsen/underlägsen Hur nyttja mitt förband Vılka risker finns
+             Vem är i förhand/efterhand Vad behöver bevakas/planeras
+             FRAMGÅNGSFAKTORER
+      4. Besluta Skapa målbild och GFI Delge DUC MB och GFI Föröva med DUC Var tydlig
+             Taktisk list Låt DUC genomföra backbrief Kartspel, terrängmodel Vad vil du som kompanichef
+            Krigsföringens grunder Vilka är framgångsfaktorerna
+             Eld, rörelse, skydd    Omfal = fortsatt planering
+                             Spika egen plan
+                           Fokusera på framgångsfaktorer
+      5. Order Utarbeta Ge order Föröva Fortsätta planera
+             MB, GFI, SL Terrängmodel, skiss Kontrolera, följ upp Omfal
+             5.Pkt order Hur sälja på bästa sätt? Genomför förberedelser Beredduppgifter
+      Bild 2:7. PUT-modellen
+      Gröna rutor används vid ont om tid.
+      Planeringen omfattar;
+      – Bedömande (utmynnar i preliminär stridsplan),
+      – delgivning till DUC (direkt underställda chefer) – Order,
+      – återkoppling med DUC,
+      – muntlig stridsövning,
+      – fastställande av planen,
+      – kompletterande ordergivning,
+      – förövning,
+      – förberedelser,
+      – lösande av uppdrag.
+                            49
+                          HANDBOK
+
+          Målbild och GFI ska klart uttrycka chefens vilja och syftet med striden.
+          Detta är grunden för stridsplanen. Det ska ge underställda chefer under-
+          lag att handla i chefens anda, även då oförutsedda händelser inträffar och
+          chefen inte hinner eller av andra skäl inte kan utöva sin ledning. Det ska
+          omfatta hela stridsförloppet tills uppgiften är löst.
+
+          2.3   Samverkan
+
+          Många uppgifter som plutonen ska utföra måste lösas tillsammans med
+          andra chefer och förband.
+
+          Cheferna ska samverka med varandra, om tid finns. I regel sker samver-
+          kan under kompanichefens ledning och i den aktuella terrängen. Vid
+          behov upprättas samverkansprotokoll.
+
+          Din uppgift som plutonchef blir då att redogöra för;
+          • Ditt förbands organisation,
+          • din uppgift,
+          • upptäckta mål,
+          • hur du tänker lösa uppgiften,
+          • var och när du önskar eld från eventuella understödsförband samt
+          • vilken verkan du vill ha.
+
+          Chefen för det understödjande/understödda förbandet redogör för;
+          • Sitt förbands organisation,
+          • sin uppgift,
+          • stridsställningar och grupperingsplatser (förslag till stridsställningar
+            eller observationsplatser),
+          • möjligheter att understödja,
+          • säkerhetsavstånd och andra säkerhetsbestämmelser samt
+          • förslag till hur understödet ska ordnas.
+
+          Du meddelar därefter ditt beslut och ger order.
+
+          Samverkan kan dessutom omfatta:
+
+
+
+
+                            50
+                          HANDBOK
+
+      • Sätt att utlösa, reglera och inställa elden eller annan typ av understöd,
+      • användning av rök och lys,
+      • samband,
+      • utgångspunkter får målangivning,
+      • uppmätta avstånd,
+      • fördelning av terrängen,
+      • fältarbeten samt
+      • skydd.
+
+      I brådskande lägen ger du direkt order till samverkande chef om
+      • Uppgift,
+      • mål för elden,
+      • verkan samt
+      • tidpunkt (tecken, signal) för eldöppnande och eld upphör.
+
+                  Samverkan sker på enklaste sätt
+                  och får inte bli ett självändamål.
+
+
+      2.4   Ledning av pluton
+
+      Chefsgruppen på plutonen
+      Du leder plutonen med stöd av chefsgruppen. Chefsgruppen består av
+      plutonchefen, stf plutonchef samt två stycken skyttesoldat/signalist. Vid
+      vissa plutoner ingår en skyttesoldat/bilförare.
+
+      Du kan vid framryckning ta med gruppcheferna från bakre grupper i
+      chefsgruppen för att snabbare kunna ge order. När plutonen framrycker
+      delat kan chefsgruppen delas och stf plutonchef leder ena halvan.
+
+      Chefsgruppen passar högre chefs ledningsnät (KompL) samt eget led-
+      ningsnät (PlutL). Du passar vanligtvis plutonsnätet men kan under kor-
+      tare tid passa ett gruppnät. Plutonssignalisterna passar högre chefs nät i
+      första hand och därefter plutonsnät. Du styr hur chefsgruppen ska upp-
+
+
+
+
+
+                            51
+                          HANDBOK
+
+          träda med stående order samt reglerar vilka nät som ska passas med order
+          efter hand.
+
+          Vid fast gruppering upprättas vid behov högantenn för att säkerställa
+          samband. Vid långa förbindelseavstånd passas även kompaniets lednings-
+          nät på kortvåg enligt högre chefs bestämmande.
+
+          2.5   Sambandstjänst
+
+          2.5.1 Grunder
+
+          För att du ska kunna leda plutonen och få underlag till beslut och order
+          krävs att;
+          • Du får orienteringar och order från närmaste chef och orientering
+            från sidoordnande förband,
+          • du kan rapportera till närmaste chef och orientera sidoordnande för-
+            band.
+
+          Ett säkert och fungerande samband är en förutsättning för att leda för-
+          band och därmed för chefen att agera.
+
+          Främst använder du ditt samband inom plutonen vid bevakning och
+          skydd av objekt – i syfte att leda och inhämta information och för att uti-
+          från inhämtad informationen kunna agera.
+
+          Plutonen ska ha kontinuerligt ett upprättat samband med högre chef
+          främst i syfte att inhämta och delge information t.ex. rapportera eget läge
+          samt uppfattat motståndarläge.
+
+          En plutonchef ska (sträva efter att) ha:
+          • Telefon-/trådförbindelse med högre chefer) samt med övriga militära
+            förband, enheter ur totalförsvaret och myndigheter som är gruppe-
+            rade/direkt samverkande inom plutonens insatsområde, inom ramen
+            för sin konkreta uppgift,
+
+
+
+
+
+                            52
+                          HANDBOK
+
+      • radioförbindelse i reserv såväl till högre chef som till samtliga under-
+        lydande och underställda enheter,
+      • förberedda och inkörda ordonnansvägar inom plutonens insats-
+        område.
+
+      2.5.2 Val av sambandsmedel vid planering och
+            genomförande
+      2.5.2.1 Tråd
+
+      Telefon och fältlinjer
+      Plutonen utnyttjar i första hand det publika telenätet mot högre chef och
+      samverkande civila enheter. För att disponera det publika telenätet görs
+      framställning till högre chefs sambandschef.
+
+      Med fältlinjer kan ett sambandsnät byggas ut inom plutonens gruppering,
+      till observationsplatser och postering.
+
+      2.5.2.2 Radio
+      Radio används vid strid då det publika telenätet inte fungerar eller på
+      chefs order.
+      Vid insatspluton är samtliga insatsgrupper utrustade med IGR (Intern
+      Grupp Radio) för samband och ledning inom gruppen.
+
+      2.5.2.3 Objektsknuten materiel
+      Vid bevakning/skydd av objekt kan objektsknutet fast/tillfälligt samband
+      (utrustning) finnas tillgängligt och kan i sådana fall utnyttjas internt inom
+      objektet.
+
+
+      2.5.2.4 Övriga sambandsmedel
+      Civila mobiltelefonnätet
+      Mobiltelefon kan (efter beslut av lägst bataljonschef) nyttjas främst i
+      bebyggda områden där det normalt förekommer mycket trafik på mobil-
+      nätet.
+
+
+
+
+
+                            53
+                          HANDBOK
+
+          Vid vissa militära anläggningar är det direkt olämpligt eller förbjudet
+          att använda mobiltelefon, ta reda på vad som gäller för just ditt objekt/
+          område.
+
+          Samband med mobiltelefon ska betraktas som klartext!
+
+          Möjlighet till elektronisk post (e-mail) används med beaktande av sekre-
+          tessen.
+
+          Exempel:
+          • SMS – funktion för rapportering av rutinkaraktär vid exempelvis
+            transport, patrullering till fots eller med fordon.
+          • MMS - funktion från postställe/”checkpoint” till högre chef för iden-
+            tifiering av personal/fordon. Dock ska eventuellt fotoförbud beaktas.
+
+          2.5.2.5 Rakel
+          Hemvärnsinsatskompanier och hemvärnsunderrättelsekompanier är
+          utrustade med RAKEL (Ra 1444 och Ra 5444) för samverkan med andra
+          organisationer t.ex. polis.
+
+          För övriga detaljer om signalering med RAKEL hänvisas till Metodhand-
+          bok Rakel för Försvarsmakten.
+
+          2.5.3 Ordonnanstjänst
+
+          Ordonnanser används i första hand när tråd- eller radioförbindelser sak-
+          nas, inte fungerar eller kan/bör användas samt för att komplettera radio-
+          förbindelse.
+
+          2.5.4 Anropssignaler
+          Fasta anropssignaler för lägre förband inom armén (FAL-A) används vid
+          signalering inom bataljon. Dessa ger i sig inget signalskydd.
+          Vid samverkan med andra skydds- och säkerhetsmyndigheter används
+          anropsnummer i stället för FAL-A. Radions anropsnummer regleras i FM
+          nummerplan för Rakel.
+          Bokstavering sker enligt det svenska bokstaveringsalfabetet.
+
+
+
+                            54
+HANDBOK
+
+Sigurd Johan
+RA 180
+Frek XX SJ
+Res YY
+Adam Sigurd Bertil Sigurd Ceåsar Sigurd David Sigurd
+RA 180 RA 180 RA 180 | CS RA 180
+Frek AA Frek CC Frek EE Frek GG
+Res BB Res DD Res FF Res HH
+
+ErikAdam
+
+Filip Adam] FA
+
+Helge Adam
+
+Gustav Adam
+
+Bild 2:8. Exempel på sambandskiss kompani
+
+Bild 2:9. Exempel på nätbildning vid pluton.
+
+55
+                          HANDBOK
+
+          2.5.5 Bokstaveringsalfabet
+          A    Adam
+          B    Bertil
+          C    Ceasar
+          D    David
+          E    Erik
+          F    Filip
+          G    Gustav
+          H    Helge
+          I    Ivar
+          J    Johan
+          K    Kalle
+          L    Ludvig
+          M    Martin
+          N    Niklas
+          O    Olof
+          P    Petter
+          Q    Qvintus
+          R    Rudolf
+          S    Sigurd
+          T    Tore
+          U    Urban
+          V    Viktor
+          W    Wilhelm
+          X    Xerxses
+          Y    Yngve
+          Z    Zäta
+          Å    Åke
+          Ä    Ärlig
+          Ö    Östen
+
+
+
+
+
+
+
+
+
+                            56
+                          HANDBOK
+
+      Siffror utläses som
+      Nolla 0
+      Ett  1
+      Två  2
+      Trea 3
+      Fyra 4
+      Femma 5
+      Sexa 6
+      Sju  7
+      Åtta 8
+      Nia  9
+
+      Sifferserie 40–49 respektive 70–79 utläses fyra nolla, fyra ett etc samt sju
+      nolla, sju ett etc i syfte att förtydliga (förtio och sjuttio låter för lika).
+      Sifferserie 100–199 respektive 1000–1999 utläses etthundra, etthundratvå
+      etc samt ettusenett, ettusentvå etc i syfte att förtydliga (på detta sätt säker-
+      ställer man att rätt hundratal resp tusental framgår till skillnad om man
+      säger t.ex. hundratvå då mottagaren kan ifrågasätta om antalet hundra har
+      fallit bort i signaleringen).
+
+      2.5.6 Radiopassning
+      Passning av radio sker enligt följande alternativ.
+
+      Passningsalternativ Innebörd
+      1               Ständig passning
+      2               Passning 5 min varje kvart
+      3               Passning 5 min varje halvtimme
+      4               Passning 10 min varje timme
+
+      Ex: Passningsalternativ 3 från kl 1410 innebär passning 1410–1415, 1440–
+      1445 osv. Plutoner och grupper kan ibland ges olika tider i passningsalter-
+      nativen i syfte att fördela trafiken på näten.
+      Passningsalternativ 1 gäller utan order:
+      • Vid stridsberedskap 1,
+      • då telefon-/trådsamband saknas/bryts,
+      • vid N- eller C-beredskap.
+
+
+
+                            57
+                          HANDBOK
+
+          2.5.7 Signalskydd
+          All signaltrafik på radio och tråd kan avlyssnas. Radiostation som sänder
+          kan lägesbestämmas.
+
+          Radiotrafik kan störas och falsksignalering från motståndaren kan före-
+          komma både på tråd- och radiosambandsmedel.
+
+          När ”klart språk” (unclassified) används ska meddelanden vara så förbe-
+          redda att de är korta och författade så att obehöriga har svårt att dra fördel
+          av innehållet. Förbands stridsvärde och verksamhet samt klockslag och
+          platser utelämnas eller skrivs om. Kodord kan även användas. Uppgifter
+          om angriparens läge och verksamhet anges som regel i ”klart språk” eller
+          klartext.
+
+          Civil mobiltelefon och/eller civil radiostation kan användas om sekretes-
+          sen beaktas och om man är medveten om känsligheten för bekämpning
+          och telekrigföring.
+          Krypteringen i dessa system är inte godkända för att skydda sekretess-
+          belagda uppgifter. Pejling av mobiltelefoner kan ske då telefonen är påsla-
+          gen, även om den inte används för samtal.
+
+          2.5.7.1 Radiotystnad
+
+          Radiotystnad innebär att förbud mot radiosändning. Har plutonen sam-
+          band på tråd till närmast högre chef kan radion stängas. Fungerar inte
+          trådsambandet ska radiostationen vara påslagen och signaltrafiken ska
+          avlyssnas på anbefalld kanal.
+
+          Radiotystnad omfattar alla radiostationer inklusive mobiltelefon och
+          Rakel (ra 1444/5444). Mobiltelefon och Rakelstationen sänder små ”data-
+          skurar” för att bibehålla kontakten med nätet. Vid radiotystnad ska därför
+          mobiltelefon stängas av och Rakelradions sändarspärr aktiveras.
+          Radiotystnad får brytas av plutonen som råkat i strid för att rapportera till
+          närmast högre chef om chefen inte kan nås på trådsambandsmedel.
+
+          Radiotystnad får brytas
+
+
+
+                            58
+                          HANDBOK
+
+      • Vid förband som kommer i strid,
+      • för att larma förband.
+
+      Vid enheter som inte berörs av radiotrafiken gäller fortsatt radiotystnad.
+
+      2.5.8 Telehot
+      Angriparen har goda resurser att genomföra telekrigföring mot vårt sam-
+      band.
+      Telehotet kan utgörs av:
+      • Signalspaning (avlyssning och pejling),
+      • telestörning,
+      • falsk eller skensignalering,
+      • fysisk bekämpning.
+
+      2.5.9 Signaldisciplin
+
+      Vid signalering:
+      • Tänk efter vad du ska säga innan du påbörjar sändning av med-
+        delande,
+      • gör meddelande så kort som möjligt,
+      • lyssna på eventuell pågående radiotrafik, bryt aldrig radiotrafik som
+        pågår om inte ditt meddelande är viktigare t.ex. för att varna andra
+        förband och då inleder du detta meddelande med; Bryter, Bryter!
+        Alarmmeddelande! fortsätt med meddelandet.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            59
+                          HANDBOK
+
+          2.5.10 Sambandsmateriel
+                                          Hög effekt 50W
+          Radio 180  Låg effekt 0,025W Normal effekt 5W (kragg)
+
+                                          = Kraftaggregat
+          Marschantenn         Ca 4 km    -
+          Normalantenn         Ca 8 km    -
+          Högantenn 2          Ca 12-20 km (bero- Upp till 30 km
+                               ende på
+                               terrängf örhållanden)
+          Fordonsantenn 2K     Ca 12-20 km (bero- Ca 20-30 km (bero-
+                               ende på    ende på
+                               terrängf örhållanden) terrängf örhållanden)
+          Driftstid vid -10°C (sändning/mottagning 1:9), ca 10 timmar.
+          Helt urladdat batteri laddas i strömförsörjningsdon på ca 7 timmar, i batteriladdare 847 på ca 2 tim-
+          mar.
+          Inbyggt minnesbatteri behåller kanaldata i ca 30 min efter urtaget batteri.
+          Radio 146  Effekt 1,5W
+          Marschantenn Ca 7 km
+          Normalantenn Ca 12 km
+          Högantenn 2K Ca 25 km (beroende på terrängförhål-
+                     landen)
+          Fordonsantenn 2K Ca 12-20 km (beroende på
+                     terrängförhållanden)
+          Driftstid vid -10°C (sändning/mottagning 1:5), ca 12 timmar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            60
+                          HANDBOK
+
+       Dart 380    Fjärrmanövrering av ra 180 bärbar och mobil alla funktioner (ej av/på)
+                   upp till 6 km med tvåtråd, 20 m med flertråd.
+                   Lagrar 25 meddelanden om max 200 tecken.
+                   Driftstid (batteridrift) vid -10°C (sändning/mottagning 1:9), ca 10 tim-
+                   mar.
+                   Helt urladdat batteri 307 laddas i batteriladdare 847 på ca 2 timmar.
+       Telefonapparat MT Uppkoppling mellan två eller flera telefoner med tvåtråd (DL).
+                   Nyttjar 2 st torrbatteri mod LR20, alt 2 st NiCad 1,2V 4-5ah. Driftstid ca
+                   100h.
+
+       Interngrupp radio Ra 1032; Räckvidd ca 100 m i bebyggelse, i terräng, ca 500 m
+       (IGR)       (praktiskt 300 m), driftstid ca 24 h
+                   2 st AA (R6) batterier. 256 kanaler (16 förvalbara) 2400-2483 Mhz.
+                   Ra 1183 (1-4 w), räckvidd 4-5 km (praktiskt 1000 m), 9 h driftstid, 16
+                   kanaler förinställda, 330-400 Mhz.
+       Radio 1444  Effekt 1,8W (adaptiv)
+       (RAKEL)     Trunkmode (TMO) Rikstäckning (talgruppsberoende) men teoretiskt
+       Normalantenn max avstånd 58km från basstation. Praktiskt 10 – 20km från basstation.
+                   Direktmode (DMO) ~0,5 – 3km beroende på terräng.
+                   Batteri driftstid ~16h
+       Radio 5444  Effekt 10W (adaptiv)
+       (RAKEL)     Trunkmode (TMO) Rikstäckning (talgruppsberoende) men teoretiskt
+                   max avstånd 58km från basstation.
+                   Direktmode (DMO) ~1 – 10km beroende på terräng och antennval och
+                   motstationens uteffekt.
+                   Strömförsörjning 12V alt. 230V beroende på utförande.
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            61
+                          HANDBOK
+
+          2.6   Beredskap
+
+          Försvarsmaktens beredskap indelas i grundberedskap och höjd beredskap.
+          Grundberedskap, för förbanden, styrs av Försvarsmaktens Beredskap och
+          Insatsplan (FMBIP).
+          Höjd beredskap intas efter regeringsbeslut (Lagen om höjd beredskap och
+          totalförsvar).
+
+          2.6.1 Hemvärnsberedskap
+          Vid höjd beredskap eller efter särskilt beslut av regeringen ska Hemvärnet
+          inta hemvärnsberedskap.
+          Om Försvarsmakten har gjort framställning om hemvärnsberedskap hos
+          regeringen och landets försvar eller säkerhet kräver att Hemvärnet tas i
+          anspråk omedelbart, får Försvarsmakten besluta om hemvärnsberedskap
+          för tiden intill dess att regeringen meddelat beslut i frågan.
+          Hemvärnsberedskap innebär att:
+          • Stabsberedskapen höjs för att förbereda planlagda åtgärder vid hem-
+            värnslarm,
+          • larmning förbereds så att order om inkallelse snabbt kan nå mottaga-
+            ren,
+          • materielen förbereds, kontrolleras och kompletteras vid behov,
+          • hemvärnssoldaterna ska fullgöra den tjänstgöring som behövs med
+            hänsyn till hemvärnets uppgifter.
+
+          2.6.2 Hemvärnslarm
+          Hemvärnslarm innebär att alla hemvärnsförband snarast ska gruppera för
+          att lösa sin huvuduppgift.
+          Hemvärnslarm beordras av ÖB eller C Insats efter det att regeringen/ÖB
+          förordnat om hemvärnsberedskap.
+          Hemvärnslarm innebär att staber och förband inom fastställd tid är utrus-
+          tade och grupperade för att lösa sina uppgifter.
+
+
+
+
+
+
+
+
+                            62
+                          HANDBOK
+
+      2.6.3 Stridsberedskap
+      Chef ger i regel order om vilken beredskap som gäller. OBS! Oavsett vil-
+      ken beredskap chef anbefallt är varje underlydande chef skyldig att, då så
+      behövs, anbefalla högre beredskap vid sitt förband.
+
+       Följande stridsberedskapsgrader till-
+       lämpas.
+       Stridsberedskap Innebörd     Anmärkning
+       1              Hela förbandet stridsberedd.
+                      Passningsalternativ 1 vid radiostation
+       2:00 min       Halva förbandet med chef Återstoden av förbandet ska
+                      eller ställföreträdare strids- vara stridsberett 00 min efter
+                      beredda.      order.
+       3:00 min       Stridsberedda är härvid
+                      (1) chef eller ställföreträdare,
+                      (2) d e poster och observatörer som behövs för bevakning och
+                        belysning av stridsfältet,
+                      (3) s kytt och ev laddare vid understöds- och pansarvärnsva-
+                        pen i viktiga riktningar,
+                      (4) p ersonal för att avge fast eld med kulspruta.
+       4:00 min       Personal för bevakning stridsberedd.
+      Personal i förläggning som ska vara stridsberedd
+      • senast inom 15 min efter order intar larmförläggning och får endast
+        ta av stridsutrustning,
+      • senast inom 30 min efter order får ta av stridsutrustning, ytterplagg,
+        jacka och skor,
+      • senare än 30 min efter order får ta av all utrustning.
+      Chef kontrollerar fortlöpande beredskapen.
+
+
+
+
+
+
+
+
+
+
+
+                            63
+                          HANDBOK
+
+          2.6.4 Marschberedskap
+          Följande marschberedskapsgrader
+          tillämpas.
+          Marschberedskap Innebörd     Anmärkning
+          Marschfärdiga   Förbandet är marschfärdigt, d.v.s.
+                          • den personliga utrustningen är ordnad och packad,
+                          • den övriga utrustningen är lastad och ordnad för marsch,
+                          • fordonen är körklara och provstart har skett,
+                          • fordonsförarna befinner sig i sina fordon samt
+                          • den övriga personalen (utom poster och varnare) vilar,
+                           beredd för omedelbar uppställning eller uppsittning
+                          • maskering bryts så sent som möjligt
+          00 min (h) marschberedskap. Marschen ska kunna anträdas senast inom angiven tid efter
+                          erhållen order
+          Personalen ska vid alla tillfällen ha eldhandvapen, hjälm och beroende
+          på aktuell CBRN – hotnivå ha skyddsutrustningen till hands enligt tabell
+          Dress States (se häfte 3 kapitel 13), även om utrustningen får tas av.
+          Förbandet är stridsberedd då den är i sin stridsställning, beredd att lösa
+          sin stridsuppgift. Personal som inte har observationsuppgift får befinna
+          sig i skydd i anslutning till sin eldställning.
+          2.6.5 Rapportering
+          Allmänt
+          En rapport kan innehålla fakta och bedömningar. Bedömningar ska tyd-
+          liggöras. En rapport som inte kommer fram i tid är lika med obefintlig
+          rapport. Vid sambandsproblem får du som chef nyttja flera sambandsvä-
+          gar för att få fram rapporter i tid.
+
+          Vissa rapporter ska skickas omedelbart. Bestämmelser för detta finns som
+          regel reglerade i kompaniets stående order. Rapport när förbandet lämnar
+          grupperingen, när förbandet kommit fram eller har börjat att lösa uppgif-
+          ten skickas regelmässigt från dig till högre chef. På t.ex. en oplats kan man
+          samla alla rapporter i en oplats liggare för att sedan sända flera rapporter
+          i taget. Dock måste du undvika att tappa tempo avseende viktiga rappor-
+          ter. På din ledningsplats sammanställs flera rapporter och skickas som en
+          rapportsammanfattning till högre chef. På vissa spaningsuppdrag kan det
+
+
+
+
+                            64
+                          HANDBOK
+
+      finnas uppdragsnummer, dessa ska följa rapporten för att lättare se vilka
+      rapporter som är till vilket uppdrag.
+
+      7S
+      En rapport ska alltid innehålla:
+      Stund – tidpunkt när det hände,
+      Ställe – plats där det hände,
+      Styrka – antal,
+      Slag – typ av motståndare eller objekt,
+      Sysselsättning – fiendens verksamhet,
+      Symbol – märkning, siffror, förbandstecken, färg,
+      Sagesman – vem som har gjort observationen.
+
+      Vid behov
+      Sedan – vad sker härnäst.
+      Lägesrapport bör utarbetas efter hand och sammanfattas. Den
+      bör innehålla;
+      • F-förbandets position,
+      • O-orientering om motståndaren,
+      • R-redogörelse för genomförd, pågående och planerad verksamhet,
+      • S-slutsatser.
+
+      Muntlig rapport
+      Muntlig rapport används då meddelandet är enkelt och rapportvägen till
+      närmaste chef är kort.
+
+      Skriftlig rapport
+      Skriftlig rapport används vid längre meddelanden eller när ett medde-
+      lande innehåller fler platsangivelser, klockslag, etc.
+
+      En rapport kan också bestå av skiss, fältkarta eller flygbild/foto, med inri-
+      tade uppgifter om motståndaren och terrängen. Om du sänder en rapport
+      på radio – öva på uppläsningen före sändningen, så att det går snabbt och
+      så att du inte stakar dig under rapporteringen.
+
+
+
+
+
+                            65
+                          HANDBOK
+
+          Rapportsammanfattning
+          Rapportera med en rapportsammanfattning på överenskomna tidpunk-
+          ter, om du fått order om detta. En rapportsammanfattning ska innehålla
+          information om all främmande verksamhet under en viss tidsperiod, t.ex.
+          den senaste timmen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            66
+                          HANDBOK
+
+      3.    Stridsteknik     och  metoder
+
+      3.1   Framryckning
+
+      När plutonen ska framrycka och ta objektet stridsgrupperas plutonen.
+      Vid framryckning till fots reglerar du tjänst till fots alternativ på plutonen.
+
+      Val av grupperingsform styrs av:
+      • Uppgiften,
+      • hur fort plutonen måste framrycka,
+      • vilken eldberedskap plutonen ska ha beroende på risken för samman-
+        stöt med motståndaren,
+      • terrängens utseende,
+      • risken för minor och IED.
+
+      Plutonen framrycker som regel på:
+      • Led, när ingen eller mycket liten risk för sammanstöt finns, samt när
+        plutonen framrycker bakom annan pluton,
+      • stridskolonn, när det finns risk för sammanstöt,
+      • stridstriangel, när det finns stor risk för sammanstöt,
+      • stridskvadrat, när det finns risk för sammanstöt, främst i bebyggelse.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            67
+HANDBOK
+
+ca 200 m
+
+Bild 3:10. Till vänster: exempel på pluton i stridskolonn.
+Till höger: exempel på pluton på stridstriangel
+
+Kommando: ”1.pluton - vid STORA GRANEN - kompass 1400 - strids-
+kolonn (stridstriangel) (stridslinje) - (0 meters lucka) - (halv bredd,
+halvt djup) - (1.grupp riktgrupp) - på stället! (framåt!)”
+
+När plutonen framrycker får gruppen följande uppgift:
+« Framrycka som förpatrull,
+
+« framrycka bakom,
+
+« stridsspana,
+
+«  tastridsställning.
+
+De vanligaste framryckningsformerna på gruppen är:
+
+«  Skytteled
+«  skyttekolonn,
+
+«  skyttesvärm,
+.  skyttekil,
+
+e  skyttelinje,
+« pilformering.
+
+68
+                          HANDBOK
+
+      Grunder
+      Grupperingsformer intas på tecken eller på kommando, t.ex.:
+      ”1. grupp! – vid STENEN! – mot BJÖRKEN! – skytteled! – på stället!”
+
+      Lucka och avstånd ändras genom tillägg till kommando, t.ex:
+      ”10 meters lucka! 5 meters avstånd!”.
+
+      Om behov föreligger av högsta eldberedskap i fronten framrycker grup-
+      pen växelvis med omgångarna eller stridsparen, t.ex. vid övergång till när-
+      strid och vid patrullverksamhet.
+
+      Kommando: ”(0. grupp) Omgångsvis framåt!” eller
+      ”1. omgång eldställning (färdigställning)! 2. omgång framåt!”
+
+      När hund ingår i gruppen sker gruppering och framryckning enligt hand-
+      böcker för hundtjänst. Se även kapitel 3.
+
+      Skytteled
+      Framryckning sker genom att alla rör sig i samma spår. Spejare kan fram-
+      rycka framför gruppen. Formen används i besvärlig terräng, när det finns
+      risk att trampa på tråd- eller truppminor eller när framryckningen måste
+      ske snabbt. Formen medger enkel ledning med chefen i täten. Eldbered-
+      skap och observation i sida är mycket god men begränsad i fronten. Näst
+      siste soldat observerar normalt bakåt för att säkerställa att siste soldat är
+      med.
+
+      Chefen kan välja att ha ett särskilt sensor- eller vapensystem i täten och
+      framrycker då själv bakom täten.
+
+
+
+
+
+
+
+
+
+
+
+                            69
+HANDBOK
+
+Bild 3:11. Exempel på grupp på skytteled.
+
+Kommando: ”1. grupp! - vid STENEN! - mot BJÖRKEN!
+- skytteled! - på stället!”
+
+Skyttekolonn
+
+Framryckning sker som vid skytteled med den skillnaden att soldaterna
+framrycker förskjutet i sida. Spejare kan framrycka framför gruppen. For-
+men medger hög hastighet och enkel ledning. Eldberedskap och observa-
+tion framåt ökar jämfört med skytteled. Eldberedskap i sida är något lägre
+jämfört med skytteled. Skyttekolonn används då risken för sammanstöt är
+liten, då terrängens skydd och minfria områden kan utnyttjas samt vid
+framryckning i minerad terräng.
+
+Spejare avdelas med syfte att upptäcka fienden, spår av fienden, minor,
+
+men även för att kunna välja lämpligaste framryckningsväg, säkra käns-
+liga passager.
+
+70
+HANDBOK
+
+Spejare utrustas efter behov med t.ex. pansarskott, kikare, bildförstärkare,
+indikeringsutrustning etc. En till två soldater utgör spejare och fram-
+rycker framför gruppen.
+
+Spejare ska ofta söka ögonsamband med gruppchefen. Avstånd avgörs av
+terräng och sikt.
+
+Chefen kan välja att ha ett särskilt sensor- eller vapensystem i täten och
+framrycker då själv bakom täten.
+
+Bild 3:12. Exempel på grupp på skyttekolonn.
+
+Kommando: ”1. grupp! - vid...! - mot ...! — skyttekolonn - 5 meters
+lucka! - på stället!”
+
+Kommando: ”1. grupp! - vid...! - mot ...! - skyttekolonn - 5 meters
+Iucka! - Andersson, Karlsson spejare - på stället!”
+
+71
+HANDBOK
+
+Skyttesvärm
+
+Framryckning sker genom att gruppen rör sig i två spår. Normalt är luckan
+mellan omgångarna 20 meter. Eldberedskap och observation framåt och
+i sida är god. Formen används bl.a. i bebyggelse för att kunna ha uppsikt
+över de övre våningsplanen på motsatt sida. Skyttesvärm används också
+som en förberedelse för att gå ut på skyttelinje.
+
+I tät bebyggelse på gata eller stråk där vägg eller mur finns på sidorna
+om gruppen kan observations och eldområden riktas över motsatta
+omgången.
+
+Chefen kan välja att ha ett särskilt sensor- eller vapensystem i täten och
+framrycker då själv bakom täten.
+
+Bild 3:13. Exempel på grupp på skyttesvärm
+
+Kommando: ”1. grupp! - vid...! - mot ...! - skyttesvärm på stället!”
+
+72
+HANDBOK
+
+Skyttekil
+
+Framryckning sker genom att gruppen rör sig i kilform. Eldberedskap och
+observation framåt är mycket god och i sida god. Formen kräver samord-
+ning och aktiv ledning och begränsar framryckningshastigheten. Skyttekil
+används också som en förberedelse för att gå ut på skyttelinje.
+
+> od
+
+NN
+bh td
+
+H
+3-5m
+
+»
+
+Bild 3:14. Exempel på grupp på skyttekil
+
+Kommando: ”1. grupp! - vid...! - mot ...! — skyttekil på stället!”
+
+73
+HANDBOK
+
+Skyttelinje
+
+Framryckning sker på linje sida vid sida. Formen ger maximal eldbered-
+skap och observation framåt. Den ger minimal eldberedskap och obser-
+vation i sida. Formen kräver samordning och aktiv ledning och begränsar
+framryckningshastigheten. Skyttelinje används bl.a. då gruppen strider i
+anfallsmål och vid strid från stridsställning. Skyttelinje används i tät skog,
+och vid framryckning då hög stridsberedskap i fronten krävs och då ris-
+ken för minor är liten.
+
+Bild 3:15. Exempel på grupp på skyttelinje.
+
+Kommando: ”1. grupp! - vid...! - mot ...! — skyttelinje på stället!”
+
+74
+HANDBOK
+
+Pilformering. Formen används då man vill ha eldberedskap och observa-
+tion åt alla håll. Formen medger omfattning med den bakre omgången vid
+sammanstöt i front. Pilformering kan med fördel användas du hundeki-
+page ska framrycka i täten.
+
+Bild 3:16. Exempel på grupp på pilformering
+Kommando: ”1. grupp! - vid...! - mot ...! - pilformering - på stället!”
+Övriga former. Gruppchefen kan besluta om att nyttja andra tillfälliga
+
+grupperingsformer utifrån läget och organisation på gruppen. Föröva
+växlingar av tillfälliga formeringar om möjligt.
+
+73
+HANDBOK
+Grupperingsformer vid halt
+Gruppering vid tillfällig halt
+
+Gruppen behåller sin stridsgruppe-
+ringsform.
+
+Främste soldat blir post framåt, siste
+soldat blir post bakåt övriga bevakar
+sitt huvudsakliga observationsområde.
+Soldaterna intar låga ställningar.
+
+Avstånd och luckor behålls förutom
+för näst siste man som sätter sig när-
+mare siste man. Sista stridsparet hål-
+ler ihop för att säkerställa att siste man
+kommer med då rörelsen fortsätter.
+
+Vid tillfällig halt i mörker och dålig
+sikt förtätas grupperingen. Syftet är
+att behålla observation och eldbered-
+skap samtidigt som tecken och orien-
+teringar enklare kan vidarebefordras
+inom gruppen.
+
+Kommando: Halt!
+
+76
+
+Bild 3:18. Grupp vid tillfällig halt i mörker/
+nedsatt sikt.
+HANDBOK
+
+Runtomkringförsvar
+Runtomkringförsvar nyttjas under orientering och ordergivning under
+kort tid.
+
+I syfte att behålla stridsparen samgrupperade kan följande metod använ-
+das då grupp på led eller kolonn intar runtomkringförsvar:
+
+Observation och eldbered-
+skap utåt. Kontrollera rätt-
+ning och samband med sido-
+kamrater.
+
+Post avdelas. Finns hot i flera
+riktningar sätts flera poster
+ut.
+
+På gruppchefs tecken — sam-
+ling inåt mitten.
+
+Bild 3:19. Exempel på gruppering för runtomkringförsvar.
+
+Kommando: ”Halt - runtomkringförsvar (igelkott)!
+
+En grupp med hundekipage som framrycker som förgrupp eller tar
+terräng framrycker vanligen på endera:
+
+«  Skyttekolonn,
+
+«  Skyttekil,
+
+« pilformering,
+
+« Y-formering.
+
+77
+HANDBOK
+
+Bild 3:20. Exempel på förpatrull med hund (pilformering).
+
+3.1.1 Framryckning längs gata/genom byggnader
+3.1.1.1 Framryckning längs gata
+
+Pluton framrycker normalt längs en gata (undantag kan göras då plutonen
+uppträder enskilt), men bör disponera ytterligare två gator för att kunna
+breddgruppera samt genomföra omfattning eller kringgång.
+Framryckning i bebyggelse sker normalt utanför byggnader. Framryck-
+ning utomhus lämpar sig då högt tempo efterfrågas, då det är låg risk för
+sammanstöt eller då motståndaren förväntas bjuda på svagt motstånd.
+
+Gatans bredd avgör plutonens stridsgrupperingsform. Plutonen fram-
+rycker normalt på stridstriangel/kvadrat med första grupp som riktgrupp.
+
+3.1.1.2 Framryckning genom byggnad
+
+Framryckning igenom byggnader sker då dold framryckning krävs eller
+då motståndaren behärskar gatorna med eld och hans mineringar och fält-
+arbeten hindrar vår framryckning utefter gator. Framryckning inomhus
+medför att det blir svårare att hålla sambandet inom plutonen. Förbandet
+
+78
+HANDBOK
+
+framrycker normalt på stridskolonn igenom bottenvåningen (markplan).
+Då en hög eldberedskap eftersträvas sker framryckningen regelmässigt
+som vid genomsök. Framryckningsvägen igenom byggnader, bör märkas
+ut för att underlätta bakomvarandes framryckning samt underlätta tran-
+porter av skadade och underhåll (”Livlina”). Tänk på att det som var oför-
+svarad terräng för fem minuter sedan inte nödvändigtvis är det senare.
+
+Då plutonen framrycker kan skarpskyttar och understödsvapen användas
+för understöd. De kan antingen gruppera som flankskydd för att kunna
+avge eld längs parallella gator och stråk eller framrycka med plutonen från
+eldställning till eldställning och därigenom understödja plutonens fram-
+ryckning.
+
+Genom att gruppera i högt belägna eldställningar ges en klarare lägesbild
+samtidigt som välriktad eld kan avges för att understödja plutonen.
+
+Ån fe
+
+FA lä AS
+Framry ri
+
+He
+
+Ho
+
+än
+
+Bild 3:21. Exempel på pluton som framrycker längs en gata med två grupper i täten och exem-
+pel på pluton som framrycker i byggnad.
+
+79
+                          HANDBOK
+
+          3.2   Sammanstöt
+
+          3.2.1 Grunder
+          Sammanstöt innebar en plötslig stridskontakt med motståndaren på
+          annan plats än den förväntade.
+
+          Sammanstöt kan ske som två olika situationer;
+          • Vi är i förhand, d v s vi upptäcker motståndaren innan motståndaren
+            upptäcker oss,
+          • vi är i efterhand, d v s motståndaren upptäcker oss först och öppnar
+            eld,
+
+          3.2.2 Grupp
+          När gruppen hamnar i sammanstöt kan den enskilde soldaten vara i olika
+          situationer. Det kan vara så att en soldat inte upptäcker motståndaren
+          innan motståndaren skjuter – den soldaten är då i efterhand. Soldatens
+          stridsparskamrat däremot kan ha sett motståndaren innan eld öppnas –
+          stridsparskamraten är då i förhand. Allt detta kan ske väldigt fort.
+
+
+          Vid sammanstöt med motståndaren ska din grupp kunna;
+          • Framrycka och nedkämpa motståndaren genom samordning av eld
+            och rörelse,
+          • ta stridsställning och därifrån
+          – nedkämpa motståndaren
+          – understödja sidogruppen
+          – försvara tagen terräng,
+          • bibehålla stridskontakten med motståndaren under fram- eller tillba-
+            karyckning,
+          • lösgöra från stridskontakten och genomföra kringgång,
+          (fortsätta framryckningen) eller genomföra urdragning (tillbakarycka).
+
+
+
+
+
+
+
+
+                            80
+                          HANDBOK
+
+
+
+
+                      Anfalla och nedkämpa
+
+
+
+
+
+
+
+                       Ta stridsställning
+                       t(cid:1)OFELÊNQB
+                       t(cid:1)VOEFSTUÚEKB
+                       t(cid:1)GÚSTWBSB
+                         Lösgöra
+
+
+
+
+
+      Bild 3:22. Sammanstöt med motståndare (principbild).
+
+      Förhandssituation
+      Om gruppen är i förhand måste gruppchefen snabbt bestämma om grup-
+      pen ska;
+      • Öppna eld och nedkämpa motståndaren eller,
+      • inte öppna eld för att kunna kringgå motståndaren eller tillbakarycka.
+
+      Motståndaren nedkämpas genom att gruppen snabbt och dolt söker sig ut
+      på skyttelinje (stridsgrupperar) och;
+      • Anfaller med eld och rörelse eller,
+      • tar stridsställning och öppnar eld.
+
+
+
+
+
+
+                            81
+                          HANDBOK
+
+          Efterhandssituation
+          Om gruppen är i efterhand ska gruppen;
+          • Ta skydd och besvara elden,
+          • eventuellt kasta rökhandgranater för att skapa ett tillfälligt skyl,
+          • dolt försöka ta sig ut på skyttelinjen i höjd med gruppchefen – fron-
+            ten ska vara mot motståndaren.
+          Därefter måste du snabbt bestämma om din grupp ska;
+          • Anfalla och nedkämpa motståndaren,
+          • genomföra sidoförflyttning för att söka ny stridsställning och där efter
+            nedkämpa motståndaren,
+          • försvara stridsställning,
+          • lösgöra för att kunna kringgå motståndaren eller tillbakarycka.
+
+          Vad du som gruppchef väljer att göra beror på;
+          • Uppgiften,
+          • motståndaren,
+          • terrängen.
+
+          Som gruppchef – fastställ i förväg hur gruppen ska agera vid olika former
+          av sammanstöt. Om händelseförloppet inte blir som du tänkt – ge kom-
+          mando för annat agerande.
+
+          Det gäller att agera snabbt så att en vunnen framgång kan utnyttjas för att
+          ytterligare bekämpa motståndaren eller ta ytterligare terräng. Var beredd
+          att understödja eller framrycka. Var framförallt beredd på att möta mot-
+          anfall!
+
+          Rapportera till plutonchefen om du löst uppgiften och ge eventuellt för-
+          slag på nästa steg. Exempel: 1grp har tagit anfallsmålet, motståndaren
+          viker. Vi försvara taget anfallsmål och är beredda att stridsspana fram till
+          dungen. Vidta åtgärder enligt Försvar av taget anfallsmål.
+          Kommando: ”Eldställning!”
+
+
+
+
+
+
+
+                            82
+                          HANDBOK
+
+      3.2.3 Metoder för grupps eld och rörelse
+      Innan förbandet påbörjar lösandet av sin uppgift bör åtgärder vid sam-
+      manstöt, metod för stormning m.m. klaras ut. Detta kan även styras i för-
+      bandets Stående Order. Åtgärderna förövas. På så sätt minimeras antal
+      kommandon och risken för missförstånd minskas.
+
+      De metoder som gruppen kan använda är;
+      • Ansatsvis,
+      – fram- och tillbakaryckning,
+      – vänster och höger,
+      • växelvis,
+      – fram- och tillbakaryckning,
+      – vänster och höger,
+      • omfattning höger eller vänster,
+        understöd (strid från stridsställning),
+      • närstrid (”Gå på marsch”).
+
+      Därutöver används också;
+      • Eldstötsförfarande,
+      • stormningsförfarande,
+      • blixtlåsförfarande höger eller vänster,
+      • korridorförfarande,
+      • sammanstöt.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            83
+HANDBOK
+
+Ansatsvis framåt/bakåt
+Ansatsvis inom gruppen
+Ansatsvis framåt
+
+Kommando: ”1. grupp - ansatsvis framryckning - (2. omgång under-
+stödjer!) - 1. omgång - framåt!”
+Ansatsvis bakåt
+
+Kommando: ”1. grupp - ansatsvis tillbakaryckning - (1. omgång -
+understödjer!) - 2. omgång - bakåt!”
+Bild 3:23. Ansatsvis framåt/bakåt.
+
+Beroende på terrängen och val av vapen — ta ut lucka mellan omgångarna
+så att understöd med eld kan ske!
+
+1.omgång framrycker till lämplig stridställning framför och på sidan om
+2.omgång. 2.omgång framrycker alltid till i höjd med 1.omgång.
+
+Ansatsvis med varianter
+
+Beroende på terrängen och val av vapen — ta ut lucka inom och mellan
+omgångarna så att understöd med eld kan ske!
+
+84
+HANDBOK
+
+Ansatsvis inom omgångarna.
+
+Kommando: ”1. grupp - omgångsvis ansatsvis framryckning -
+framåt!”
+
+Ansatsvis med början på mitten.
+
+Kommando: ”1. grupp - med början på mitten - ansatsvis framryck-
+ning - framåt!”
+
+Bild 3:24. Varianter på ansatsvis.
+
+85
+HANDBOK
+
+Växelvis framåt/bakåt
+Växelvis framåt
+
+Kommando: ”3. grupp - växelvis framryckning - (2. omgång -
+understödjer!) - 1. omgång - framåt!”
+
+”1. omgång - hitom KRÖNET - eldställningar!”
+
+”2. omgång - framåt!”
+Växelvis bakåt
+
+Kommando: ”3. grupp - växelvis tillbakaryckning - (1. omgång -
+understödjer!) - 2. omgång - bakåt!”
+
+Gruppchefens omgång kvarstannar och understödjer 2.omgångens till-
+bakaryckning. 2.omgång tar stridsställning 5-20 m bakom, understöd-
+jer 1.omgångens tillbakaryckning osv.
+
+Bild 3:25. Växelvis framåt/bakåt.
+
+Beroende på terrängen och val av vapen — ta ut lucka mellan omgångarna
+så att understöd med eld kan ske!
+
+Du och din grupp har endast några tiondels sekunder på er att ta
+initiativet - gör det och gör det kraftfullt!
+
+Plutonchefen och gruppchefen kan beordra att luckor och avstånd
+minskas för att man ska kunna ha samband med varandra.
+
+86
+                          HANDBOK
+
+      3.2.4 Pluton
+      Du anger med riktlinjer hur din pluton ska agera vid sammanstöt. Dessa
+      åtgärder bör vara sedan tidigare inövade och finnas med i plutonens stå-
+      ende order. Vid sammanstöt ska plutonen i första hand fokusera på objek-
+      tet och försöka med huvuddelen kringgå motståndet. Del av plutonen
+      binder och därefter lösgör sig. Pluton som framrycker som förpluton i
+      kompani kan få till uppgift ett binda/nedkämpa i syfte att övriga kompa-
+      niet kringgår motståndaren.
+
+      Beroende på hur plutonen är indelad under framryckningen (t.ex. under-
+      stödsguppens placering), buret vapenalternativ samt stridsvärde väljer du
+      som plutonchef hur du ska utnyttja de olika grupperna vid sammanstöt
+      under framryckning.
+
+      3.2.5 Plutons åtgärder vid sammanstöt framifrån
+
+            under framryckning
+      3.2.5.1 Metod för frontalanfall
+      Situation;
+      • Plutonen är under framryckning på stridskolonn,
+      • sammanstöt där den grupp som får sammanstöt uppfattar motstån-
+        daren som svag,
+      • gruppchefer och plutonchef vet att strid ska undvikas och man ska gå
+        mot målet istället!
+
+      En framgångsfaktor är att frontanfall sker med lokal överlägsenhet mot
+      en motståndare med lågt stridsvärde i syfte att slå denne i strid och när
+      enkelhet, hastighet och tempo är nödvändigt för att bibehålla initiativet
+      och vinna striden.
+
+
+
+
+
+
+
+
+
+
+                            87
+HANDBOK
+
+2.grupp
+
+2.grupp
+
+3.grupp
+
+4.grupp
+
+Bild 3:26. Exempel på frontalanfall.
+
+A. Sammanstöt
+
+Förgruppen agerar enligt grupps sammanstöt.
+
+Därefter fattar du som plutonchef beslut om att en grupp ska ta stridsställ-
+ning till höger om främsta gruppen och framrycka med eget understöd
+och nedkämpa motståndaren.
+
+Om förgruppen tar stridsställning tar bakomvarande grupp stridsställ-
+
+ning på din order till höger eller till vänster om förgruppen. ”2.grupp, ta
+stridsställning till höger om 1.grupp”
+
+88
+                          HANDBOK
+
+      B. Ansatsvis eller växelvis framryckning mellan de båda tätgrupperna och
+      nedkämpning av motståndaren.
+      ”1.grupp och 2.grupp- ansatsvis framåt-(2.grupp- anläggning)-1.grupp-
+      framåt! ”
+      Alternativt
+      ”1.grupp och 2.grupp, 1.grupp riktgrupp, FRAMÅT”
+      Detta innebär att 1.gupp och 2.grupp framrycker med eget understöd
+      med 1.grupp som riktgrupp.
+
+      3.2.5.2 Metod för kringgång
+      Situation:
+      • Plutonen är under framryckning på stridskolonn,
+      • sammanstöt där den grupp som får sammanstöt uppfattar motstån-
+        daren som stark och själv inte kan få eldöverlägsenhet. Plutonen kan
+        inte vinna den initiala eldstriden.
+      • ny punktsats -gruppchefer och plutonchef vet att strid ska undvikas
+        och man ska gå mot målet istället !
+
+      Vid kringgång undviker plutonen stridskontakt med motståndarens
+      huvudstyrka och anfaller för att ta nyckelterräng på djupet av motstånda-
+      rens gruppering t.ex. objektet! På så sätt tvingas motståndaren att parera
+      och avdela resurser för att möta detta hot. Syftet för hemvärnsplutonen
+      under uppgiften ta objekt är att inte bindas i strid. Pluton chefen nyttjar
+      mindre del för att nedhålla motståndaren och huvudd elen för att fortsätta
+      mot objektet.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            89
+HANDBOK
+
+Å
+I
+I
+I
+I
+1
+L|
+1
+
+1
+
+Bild 3:27. Exempel på kringgång.
+
+A. Förgruppen agerar enligt grupps sammanstöt och tar stridsställning.
+Därefter fattar du beslut om att ta stridsställning med två grupper samt
+göra omfattning med två grupper och ta objektet.
+
+B. Du ger order till din ställföreträdande plutonchef:
+”Understöd 3.grupp och 4.grupp omfattning vänster till objektet med
+1.grupp och 2.grupp. Skjutgräns vänster är höjdens högra del”
+
+Stf plutonchef grupperar 2.grupp till vänster eller höger om 1.grupp.
+”Order: 2.grupp ta stridsställning till höger om 1.grupp, nedhåll motstån-
+daren vi.., beredd understödja plutonens fortsatta framryckning”
+
+90
+                          HANDBOK
+
+      Du ger order till 3.grupp och 4.grupp:
+      ”Orientering: Vi gör omfattning vänster och går mot objektet. med 3.grupp
+      och 4.grupp. 1.grupp och 2.grupp understödjer. Skjutgräns vänster är höj-
+      dens högra del.”
+      Order: ”3.grupp ny förgrupp, gör kringgång till vänster om höjden fram-
+      ryck över … mot objektet. 4.grupp framrycker bakom 3.grupp.
+      4.grupp framryck bakom 3.grupp.”
+
+      Stf plutonchef med två st grupper nedhåller alternativt nedkämpar mot-
+      ståndaren i syfte att understödja övriga plutonens kringgång. Om möjlig-
+      het ges ansluter en eller två grupper i kön på plutonen.
+
+      C. Plutonen gör kringgång vänster och bryter in mot objektet och strider
+      enligt metoden strid i anfallsmål med två st grupper.
+
+      3.2.5.3 Metod för omfattning
+      Situation:
+      • Plutonen framrycker som förpluton i kompaniet. Plutonen har som
+        beredduppgift att vid sammanstöt nedkämpa eller binda motstånda-
+        ren och bakomvarande pluton övertar främsta plutons uppgift.
+      • Plutonen framrycker på stridskolonn. Sker framryckningen på strids-
+        triangel vidtas samma åtgärder, skillnaden blir att plutonen redan har
+        mer eldkraft i fronten,
+      • Plutonen får sammanstöt och kan inte få eldöverlägsenhet vid den
+        initiala eldstriden,
+      • Plutonen får till uppgift att binda alt nedkämpa motståndaren, i syfte
+        att möjliggöra resten av kompaniets framryckning.
+
+      Enkel omfattning
+      I en omfattning binds först motståndarens frontala försvar av en eller
+      flera grupper som bibehåller stridskontakten. Detta syftar till att under-
+      stödja huvuddelen av plutonen som manövrerar mot motståndarens svaga
+      punkter d.v.s. flanker och rygg. Plutonchefen leder anfallsrörelsen. Ställ-
+      företrädaren leder understödet. Bakre grupper som deltar i omfattningen
+
+
+
+
+
+                            91
+HANDBOK
+
+ska vara beredda på att anfalla ytterligare in på djupet eller skydda pluto-
+nens flank mot motståndarens motanfall.
+
+=mme"”
+
+-
+a
+Nerm——
+
+hå
+
+a
+-
+Nmm==—=»
+
+Bild 3:28. Exempel på enkel omfattning med pluton.
+
+A. Förgruppen agerar enligt grupps sammanstöt och tar stridsställning.
+Därefter fattar du som plutonchef beslut om att med understöd av två
+grupper göra omfattning och nedkämpa motståndaren med två grupper.
+
+B. Du ger order till din ställföreträdande plutonchef
+
+”Understöd 3.grupp och 4.grupps omfattning vänster med 1. och 2.grupp.
+Skjutgräns vänster är höjdens högra del”.
+
+Stf plutonchef samordnar understödet med 1. och 2.grupp.
+
+92
+                          HANDBOK
+
+      Du ger order till 3.grupp och 4.grupp;
+      ”Orientering: Vi gör omfattning vänster med 3. och 4.grupp. 1. och
+      2.grupp understödjer. Skjutgräns vänster är höjdens högra del.
+      Order: 3.grupp ny förgrupp, gör omfattning till vänster om höjden.
+      4.grupp framrycker bakom GA.”
+
+      Stf plutonchef med två grupper nedhåller/nedkämpar motståndaren i
+      syfte att understödja övriga plutonens omfattning.
+      C. Plutonen gör omfattning vänster med 3. och 4.grupp. 1.grupp och
+      2.grupp understödjer. 3. och 4.grupp framrycker och nedkämpar motstån-
+      daren eller tar stridsställning och understödjer övriga plutonens anfall.
+
+      3.2.5.4 Metod för lösgörning(urdragning)
+      Situation:
+      • Plutonen är under framryckning på stridskolonn.
+      • Främst gruppen får sammanstöt framifrån och får skadade på grup-
+        pen.
+      • Plutonen kan inte utveckla tillräckligt med eldkraft för att fortsätta
+        framryckningen.
+      • Plutonchefen beslutar att lösgöra hela plutonen(urdragning).
+
+      Lösgöring syftar till att bryta stridskontakten och dra ur egna förband för
+      andra uppgifter.
+      Vid lösgöring bryts stridskontakten genom förflyttningar i skydd bakåt.
+      Förflyttningarna kan understödjas med eld och avskärmande rök.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            93
+HANDBOK
+
+Bild 3:29. Exempel på lösgörning med pluton.
+
+A. Förgruppen agerar enligt grupps sammanstöt och tar stridsställning.
+Skadade på gruppen.
+
+B. Plutonchefen grupperar 2. grupp till höger och 3.grupp till vänster om
+1.grupp för att utveckla tillräckligt stor eldkraft för att kunna lösgöra plu-
+tonen.
+
+”Orientering: Vi ska gruppera en grupp på varje sida om första grupp för
+att kunna lösgöra 1.grupp, en grupp i reserv.
+
+94
+                          HANDBOK
+
+      Order: 2.grupp ta stridsställning till vänster om 1.grupp, understöd
+      1.grupps urdragning, bereddatt dra ur växelvis.
+      3.grupp ta stridsställning till vänster om 1.grupp, understöd 1.grupps
+      urdragning, bereddatt dra ur växelvis.
+      Stf plutonchef beredd att med 4.grupp understödja 1. Grupp med sjuk-
+      transport alternativt förbereda stridsställningar längre bak.”
+
+      C. 2.och 3.Grupp understödjer 1.Grupp urdragning., påbörjar därefter
+      ansatsvis tillbaka ryckning. ”2. och 3. Grupp ansatsvis mellan grupperna,
+      tillbakaryckning. 2. Grupp börjar.”
+
+      D. 4. Grupp beredda att försvara stridsställning för att lösgöra främre
+      grupper.
+
+      3.2.6 Plutons åtgärder vid sammanstöt i flanken
+      Plutonen vidtar samma åtgärder som vid tidigare exempel på sammanstöt
+      i fronten. Exemplet nedan visa åtgärder för kringgång.
+      Situation:
+      • Plutonen är under framryckning på stridskolonn,
+      • Sammanstöt i flanken där den grupp som får sammanstöt uppfattar
+        motståndaren som stark.
+
+      Plutonchefen nyttjar mindre del för att nedhålla motståndaren och huvud-
+      delen för att fortsätta mot objektet. De delar av plutonen som kan lösgöras
+      ansluter sedan i kön på plutonen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            95
+HANDBOK
+
+4
+I
+I
+I
+I
+I
+I
+I
+|
+I
+
+I
+
+[|
+3.grupp Å
+C Po
+
+-— -
+|
+
+Bild 3:30. Exempel på sammanstöt i sidan, kringgång.
+
+A. Gruppen som får sammanstöt agerar enligt grupps sammanstöt och tar
+
+stridsställning.
+Därefter fattar du beslut om att med understöd av två grupper göra kring-
+
+gång och fortsätta framryckningen med två grupper.
+
+B. Du ger order till din ställföreträdande plutonchef
+
+”Understöd 3. och 4.grupps kringgång höger med 1. och 2.grupp, skjut-
+gräns höger är...”
+
+Stf plutonchef samordnar understödet med 1. och 2.grupp.
+
+Du ger order till 3. och 4.grupp;
+
+96
+                          HANDBOK
+
+      ”Ori: Vi gör kringgång höger med 3. och 4.grupp. 1. och 2.grupp under-
+      stödjer. Skjutgräns höger är…. .
+
+      Order: 3.grupp ny förgrupp, gör kringgång till höger om höjden. 4.grupp
+      framrycker bakom 3.grupp. 4.grupp framryck bakom 3.grupp.”
+
+      Stf plutonchef med två st grupper nedhåller/nedkämpar motståndaren i
+      syfte att understödja övriga plutonens omfattning.
+      C. Plutonen gör kringgång höger med 3. och 4.grupp. 1. och 2,grupp
+      understödjer. När 3.och 4.grupp har passerat understödet fattar pluton-
+      chefen beslut om 1.och 2.grupp ska kvarstanna eller lösgöras.
+
+      3.2.7 Plutons sammanstöt i bebyggelse
+      3.2.7.1 Sammanstöt i front eller rygg
+
+      Om gruppen hamnar i sammanstöt med en svag motståndare i front/rygg
+      bör gruppen ta initiativet genom att agera offensivt. Gruppen bekämpar
+      om möjligt med eldhandvapen.
+
+      Grundmetod vid sammanstöt i front eller rygg är för pluton likväl som
+      för grupp ”Gata bakåt/framåt”. Om du som är plutonchef ger order ”Gata
+      bakåt/framåt” ska båda de två främre grupperna agera enligt principen
+      ”Gata bakåt/framåt”. Du bör dock inte detaljstyra hur gruppchefen ska
+      lösa situationen. Plutonen framrycker normalt på stridstriangel/kvadrat
+      och kan därmed ta och försvara närmaste skydd (sidogata eller motsv.)
+      med den eller de grupper som framrycker bakom. Vid sammanstöt i front
+      eftersträvas att genomföra omfattning alternativt kringgång.
+
+
+
+
+
+
+
+
+
+
+
+
+                            97
+                          HANDBOK
+
+
+
+                                  PC
+
+
+
+
+
+
+                            PC
+
+
+
+          Bild 3:31. Exempel på plutons åtgärder vid sammanstöt längs gata när plutonen gör kringgång.
+
+
+
+
+                                PC
+                           PC
+
+
+
+
+
+
+
+          Bild 3:32. Exempel på plutons åtgärder vid sammanstöt längs gata när plutonen gör omfattning
+          och nedkämpar motståndaren.
+
+
+
+
+
+
+
+
+
+
+                            98
+                          HANDBOK
+
+      3.2.7.2 Sammanstöt i front eller rygg
+      Vid en sammanstöt i front eller rygg sker förflyttning normalt till närmsta
+      skydd för att där omorganisera och ge order för fortsatt verksamhet, här-
+      vid kan gruppen framrycka:
+
+      Bakåt      Lösgöra sig från stridskontakten och tillbakarycka bort från motståndaren
+                 till närmsta skydd.
+      Framåt     Anfalla framåt mot motståndaren till närmsta skydd (t.ex. då motståndet
+                 ska nedkämpas direkt, inget bättre skydd erbjuds eller då avståndet till mot-
+                 ståndaren snabbt ska minskas).
+      In i byggnader Ta skydd inne i byggnader t.ex. då inget bättre skydd erbjuds. T.ex. då grup-
+                 pen fått flera skadade, motståndarens eldgivning inte tillåter förflyttningar
+                 längs gatan eller då anfallet fortsätter genom byggnaden.
+      Gruppen kan använda följande metoder vid sammanstöt i front eller rygg;
+      • Gata bakåt,
+      • blixtlås framåt/bakåt,
+      • korridor bakåt,
+      • gata framåt.
+      3.2.7.3 Sammanstöt i sida
+      Vid en sammanstöt i sida sker urdragning normalt i sida till närmsta
+      skydd där gruppen omorganiseras och order ges. Härvid har en grupp föl-
+      jande alternativ i prioritetsordning:
+
+      Urdragning i sida Till närmsta tidigare passerat skydd och i andra hand till närmsta okända ej
+                 tidigare passerat skydd.
+      In i byggnader Sker i då inget bättre skydd erbjuds, då gruppen fått flera skadade eller
+                 motståndarens eldgivning inte tillåter förflyttningar längs gatan.
+      Över gatan Förflyttning sker över gatan mot motståndarens sida för att komma ur mot-
+                 ståndarens eldgivning och för att komma till närmsta skydd. Metoden kan
+                 användas t.ex. då motståndaren grupperat på övre våningsplanen eller vid
+                 längre stridsavstånd där det finns skydd (t.ex. en mur) mellan motstånda-
+                 ren och gruppen. Förflyttningen sker antingen som vid övergång av väg
+                 med hela gruppen på en gång eller med en omgång i taget. Därefter kan
+                 gruppen beroende på situationen och motståndaren, antingen genomföra
+                 urdragning eller bryta in i byggnaden för nedkämpa motståndaren.
+
+
+
+
+                            99
+HANDBOK
+
+Gruppen kan vid sammanstöt framifrån eller i sida använda sig av:
+«  Korridor eller
+. Blixtlås
+
+Bild 3:33. Korridorförfarande.
+
+—H0o0oo000
+
+Bild 3:34. Blixtlåsförfarande.
+
+100
+                          HANDBOK
+
+      3.3   Hundtjänst
+
+      3.3.1 Hundtjänst allmänt
+      Genom att använda hund ökar plutonens möjlighet att få förvarning. Plu-
+      tonen kan med hjälp av hunden agera aktivt och i förhand. Störst effekt
+      erhålls om hundarna används tidigt och vid framskjutna platser/områden
+      i anslutning till där plutonen löser sin uppgift.
+
+      3.3.2 Ansvarsförhållanden
+      Du är i egenskap av plutonchef ansvarig för, samt leder plutonens hund-
+      tjänst. Du stöds av hundbefälet på kompaniet.
+
+
+      Som gruppchef ansvarar du för av plutonchefen tilldelat hundekipage,
+      d.v.s. hundförare och hund.
+
+      Hundföraren är ansvarig för hundens skötsel och tjänstbarhet.
+
+      3.3.3 Hundens kapacitet
+      Syn, lukt och hörsel är hundens viktigaste sinnen. Hunden fångar upp
+      vittring och ljud som avviker från omgivningen. Den använder alltid sina
+      sinnen även om den är i vila.
+
+      Patrullhunden har förmåga att;
+      Upptäcka spår som är helt nya till flera timmar gamla, känna vittring på
+      flera hundra meter (beroende på vindstyrka, vindriktning och terräng),
+      riktningsbestämma och att följa en ljudkälla, sortera bort ”normalt ljud”
+      som trafikbuller och andra kontinuerliga ljudkällor, se bättre i mörker
+      än en människa och har inga problem med att arbeta i mörker, upptäcka
+      rörelser i omgivningen på långa avstånd, men har begränsad förmåga att
+      urskilja konturer (stillastående objekt) och kan inte se färger.
+      Hunden kan arbeta under lång tid och en erfarenhet är att det ofta är
+      hundförarens stridsvärde som är gränssättande.
+      Kapaciteten varierar dock från hund till hund. Faktorer som stridsvärde,
+      väderlek m.m. påverkar också i hög grad hundens kapacitet.
+
+
+
+
+                            101
+                          HANDBOK
+
+          3.3.4 Användning
+          Hunden används vid fast och rörlig bevakning samt när ett objekt tas.
+          Den kan användas i alla typer av terräng, även den marina eller urbana
+          terrängen.
+          Den är utbildad att markera;
+          • Vittring av människa,
+          • föremål som vidrörts av människa,
+          • ljud som frambringats av människa,
+          • spår där människa tidigare gått.
+
+          3.3.5 Rutintjänst
+
+          Plutonens hundar ska minst en gång per dag visiteras för att tidigt upp-
+          täcka skador och sjukdomar. Vid kraftiga påfrestningar/hårt arbete
+          genomförs visitation flera gånger per dygn.
+          Plutonchefen har det slutliga ansvaret att visitationen genomförs.
+
+          Du ska i egenskap av plutonchef alltid ha kunskap om dressyrstatusen på
+          plutonens hundar. Vid behov ska du skapa förutsättningar att höja dres-
+          syrstatusen, anpassat till kommande uppgifter.
+
+          3.3.6 Förläggning
+          Plutonens hundar förläggs vid plutonen med sina förare. En så störnings-
+          fri miljö som möjligt ska eftersträvas så att hundens uthållighet hålls så
+          hög som möjligt.
+
+          3.3.7 Hundsjukvård
+
+          Hundföraren genomför visitation, första hjälpen, daglig sjukvård och
+          ordinerad medicinering, biträds om möjligt av kompaniets hundbefäl och
+          sjukvårdspersonal.
+          Vid akut skada fastställs i första hand hundens allmäntillstånd. Vid behov
+          sker transport till veterinär.
+
+
+
+
+
+
+                            102
+                          HANDBOK
+
+      3.3.8 Hundföraren
+      Hundföraren ansvarar för hunden avseende:
+      • Utfodring,
+      • rastning,
+      • vård,
+      • daglig och särskild tillsyn,
+      • förläggning,
+      • behandling av enklare skador,
+      • transport,
+      • tilldelad hundmateriel,
+      • rapporter avseende fortlöpande hundens stridsvärde,
+      • för dressyrjournal.
+
+      I god tid före arbete avseende:
+      • Rastning,
+      • vattning,
+      • visitation,
+      • kontroll av utrustning,
+      • vid behov utföra motivationsövning.
+
+      Under arbete:
+      • Vid behov vattna hunden,
+      • vid behov utföra motivationsövning.
+
+      Efter arbete:
+      • Rasta,
+      • vattna,
+      • genomföra daglig tillsyn,
+      • kontrollera utrustningen,
+      • föra dressyrjournal,
+      • vila hunden.
+
+
+
+
+
+
+
+
+                            103
+                          HANDBOK
+
+          3.3.9 Begrepp
+          Vindmarkering
+          Hunden vittrar med nosen högt upp. Vittring kan vara människor, spår,
+          eller materiel hanterad av människor som följer vinden och träffar hun-
+          dens nos. Vindmarkering är en direktmarkering vilket innebär att vi här
+          och nu har något. I en bra vind kan vindmarkeringar erhållas på flera
+          hundra meters håll. Det går dock inte identifiera vad det är förrän marke-
+          ringen följts upp.
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Bild 3:35. Vindmarkering. Luftburen vittring. Hunden strävar fram mot vittringskällan med
+          hög nos.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            104
+                          HANDBOK
+
+      Ljudmarkering
+      Hunden ”fryser till” och spetsar öronen. Hunden är tränad att ta ljudet
+      från människa som rör sig i terrängen till fots eller smygande samt kläder
+      som t.ex. skrapar mot ett träd. Hunden kan även tränas mot andra ljud
+      människan orsakar som t.ex. vapenmekanismljud. Väder, vind och ter-
+      räng styr hur långt hunden kan markera en ljudmarkering.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      Bild 3:36. Ljudmarkering. Hunden stannar med stel kroppshållning, nacken höjs, huvudet
+      riktad mot ljudkällan.          Bild: Försvarsmakten.
+      Spårupptag
+      Vittring av människa/människor som går i en viss riktning.
+
+
+      Hunden sätter ner nosen mot backen och analyserar riktningen. Vissa
+      hundar bestämmer riktning direkt och andra vill kontrollera båda hål-
+      len innan de bestämmer sig. När hunden bestämt sig har hundekipaget
+      ett spår att följa.
+
+
+
+
+
+
+
+                            105
+                          HANDBOK
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Bild 3:37. Spår markering. Markburen vittring. Hunden fångar upp vittringen på marken med
+          låg nos och följer markvittringen.
+          Att följa upp en markering (vind eller ljud)
+          När hunden får en markering kan plutonchefen ge order om att ”följa upp
+          markeringen”. Detta innebär att gruppen rör sig mot ljud- eller vittrings-
+          källan i lämplig formering kopplat till hotbilden i syfte att lokalisera ljud-
+          eller vittringskälla.
+
+
+          Att bibehålla en markering (vind eller ljud)
+          När hunden får en markering kan plutonchefen ge order om att ”bibehålla
+          markeringen”. Detta innebär att gruppen kvarstannar på platsen för att
+          hålla kvar markeringen. Alternativt hitta en bättre plats för hunden (kraf-
+          tigare/tydligare markering) att jobba mot i syfte att skapa tid för pluton-
+          chefen att fatta beslut.
+
+          Att förfölja ett spår
+          När hunden får ett spår kan plutonchefen ge order om att ”förfölja”(förfölja
+          upp till xx meter). Syftet med förföljning är att fastställa spårriktning,
+          eventuellt lokalisera motståndaren.
+          Detta innebär att gruppen grupperar för förföljning. Stridsgrupperings-
+          formerna kan variera beroenden på hotbild. Förföljningstempo bör ligga
+          på 3min/100m inklusive SOLO. Under förföljningen rapporterar gruppen
+          till plutonchefen så att denne kan markera spårets position kontinuerligt
+
+
+
+                            106
+                          HANDBOK
+
+      på sitt stridsledningsoleat. Det är viktigt att plutonchefen vet exakt var
+      patrullen är någonstans för att undvika vådabekämpning. Gruppen måste
+      ha utsett någon som ansvarar för radio, någon som stegar och någon som
+      kontroller kompassriktningen.
+
+      3.3.10 Åtgärder vid markering
+      Vid vind-, ljudmarkering samt spårupptag ska patrullen omedelbart grup-
+      peras för stillastående bevakning i markeringsriktningen. Plutonchef
+      avgör om patrulleringen ska fortsätta eller följa upp markeringen. Vid
+      markering utmärks platsen med exempelvis snitsel.
+      Exempel på gruppchef rapport till plutonchef:
+
+      Ropa upp –   Adam Qvintus, Adam Qvintus !
+      Plutonchef svarar: – Adam Qvintus, kom.
+      Från vem: –  Från Gustav Adam;
+      Tid:         Tid 18:35
+      Var:         UPK 105 ri 6300 avstånd 150m, alt UPK 105,
+                   6300, 150m.
+      Händelse:    V ind- (ljud)-markering, (ihållande/svag), /spår-
+                   markering, Ri 1500`
+
+      Order från plutonchef;
+      1. Följ upp/förfölj markering/spår. Rapport var 100 m vid riktnings-
+        förändring, upphittade föremål, tydliga terrängskiftningar och strids-
+        kontakt.
+      2. Märk upp, fortsätt patrulleringen, om man vet att det är egen personal
+        man har fått markering på.
+      3. Bibehåll markering, rapport om x minuter.
+
+      Meddelandet uppfattat (eller begär repetering vid oklarheter) – Gustaf
+      Adam uppfattat, klart slut. Rapportering får inte bli ett berättande, då kan
+      den bli svårtolkad för mottagaren och missförstånd kan lätt uppstå.
+
+
+
+
+
+
+
+                            107
+                          HANDBOK
+
+          Bildförteckning
+
+          I den här handboken förekommer följande bilder med verkshöjd:
+
+          Fotografer/illustratörer anges med namn och organisatorisk tillhörighet.
+          Alla bilder där FMV FSV GP anges är nyttjanderätten säkerställd genom
+          samarbetsavtal.
+
+          Bild nr Fotograf - illustratör Notering bildavtal
+          Omslagsbild Johan Sjödin/Hvtidningen
+
+          Bild 1:1.            Rättigheter enligt ursprunglig utgivning.
+          Bild 1:2.            Rättigheter enligt ursprunglig utgivning
+          Bild 1:3.            Rättigheter enligt ursprunglig utgivning
+          Bild 1:4.            Rättigheter enligt ursprunglig utgivning
+          Bild 1:5.            Rättigheter enligt ursprunglig utgivning
+          Bild 1:6. Anna-Karin Wetzig, FMV/FSV/
+                  Grafisk produktion
+          Bild 2:7.            Rättigheter enligt ursprunglig utgivning
+          Bild 2:8.            Rättigheter enligt ursprunglig utgivning
+          Bild 2:9.            Rättigheter enligt ursprunglig utgivning
+          Bild 3:10. Anna-Karin Wetzig, FMV/FSV/
+                  Grafisk produktion
+          Bild 3:11. Anna-Karin Wetzig, FMV/FSV/
+                  Grafisk produktion
+          Bild 3:12. Anna-Karin Wetzig, FMV/FSV/
+                  Grafisk produktion
+          Bild 3:13. Anna-Karin Wetzig, FMV/FSV/
+                  Grafisk produktion
+          Bild 3:14. Anna-Karin Wetzig, FMV/FSV/
+                  Grafisk produktion
+          Bild 3:15. Anna-Karin Wetzig, FMV/FSV/
+                  Grafisk produktion
+          Bild 3:16. Anna-Karin Wetzig, FMV/FSV/
+                  Grafisk produktion
+          Bild 3:17. Anna-Karin Wetzig, FMV/FSV/
+                  Grafisk produktion
+
+
+                            108
+                          HANDBOK
+
+       Bild 3:18. Anna-Karin Wetzig, FMV/FSV/
+              Grafisk produktion
+       Bild 3:19. Anna-Karin Wetzig, FMV/FSV/
+              Grafisk produktion
+       Bild 3:20. Anna-Karin Wetzig, FMV/FSV/
+              Grafisk produktion
+       Bild 3:21. Anna-Karin Wetzig, FMV/FSV/
+              Grafisk produktion
+       Bild 3:22.          Rättigheter enligt ursprunglig utgivning
+       Bild 3:23. Anna-Karin Wetzig, FMV/FSV/
+              Grafisk produktion
+       Bild 3:24. Anna-Karin Wetzig, FMV/FSV/
+              Grafisk produktion
+       Bild 3:25. Anna-Karin Wetzig, FMV/FSV/
+              Grafisk produktion
+       Bild 3:26. Anna-Karin Wetzig, FMV/FSV/
+              Grafisk produktion
+       Bild 3:27. Anna-Karin Wetzig, FMV/FSV/
+              Grafisk produktion
+       Bild 3:28. Anna-Karin Wetzig, FMV/FSV/
+              Grafisk produktion
+       Bild 3:29. Anna-Karin Wetzig, FMV/FSV/
+              Grafisk produktion
+       Bild 3:30. Anna-Karin Wetzig, FMV/FSV/
+              Grafisk produktion
+       Bild 3:31. Anna-Karin Wetzig, FMV/FSV/
+              Grafisk produktion
+       Bild 3:32. Anna-Karin Wetzig, FMV/FSV/
+              Grafisk produktion
+       Bild 3:33. Anna-Karin Wetzig, FMV/FSV/
+              Grafisk produktion
+       Bild 3:34. Anna-Karin Wetzig, FMV/FSV/
+              Grafisk produktion
+       Bild 3:35. Krister Bergkvist, Nimbus
+              Communication AB
+       Bild 3:36.          Rättigheter enligt ursprunglig utgivning
+       Bild 3:37. Krister Bergkvist, Nimbus
+              Communication AB
+
+                            109
+                          HANDBOK
+
+          Källförteckning
+
+          I den här utgåvan av handboken har följande källor använts:
+
+          HvR hvpluton 1996
+          InfR skgrupp 1991
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            110
+          Handbok Hemvärnspluton-grupp Del 1 Grunder beskriver grunderna för
+          strid med mera vid hvpluton och grupp. Handboken består av tre delar.
+
+          Innehållet är i sak detsamma som i Förb R hvplut-grupp 2013.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                           H HVPLUT-GRP 1
+    107 85 STOCKHOLM
+                                           M7739-352074
+    www.forsvarsmakten.se
+                                  *PM7739352074*
+

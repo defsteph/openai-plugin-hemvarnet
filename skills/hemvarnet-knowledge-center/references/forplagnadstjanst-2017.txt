@@ -1,0 +1,4736 @@
+                     Handbok
+
+                     Förplägnadstjänst
+
+
+
+
+                                                                     2017
+                                  [Avsiktligt tom sida]
+                                     HANDBOK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                         Handbok
+
+                                            Förplägnadstjänst
+
+
+
+                                                          H Förplägtj 2017
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                         2
+                                     HANDBOK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          © Försvarsmakten
+
+          Bilder på omslaget: Anna-Karin Wetzig, FMV FSV GP
+          Grafisk bearbetning: Annika Johansson TrängR; (Artur Szulc TrängR)
+          Produktionsid:    170630-002 (illustrationer)
+          Produktionsformat: Word
+          Publikationsområde: FLOG
+          Tryck:            Tryck vid behov
+
+
+
+                                         3
+                                     HANDBOK
+
+
+
+
+                                              VIDAR-handling: FM2016-22269:9
+
+
+           Beslut om fastställande av Handbok Förplägnadstjänst 2017
+
+
+           Handbok Förplägnadstjänst 2017 (H Förplägtj 2017) fastställs att gälla från och med
+           2017-12-01. Publikationen har inget registrerat M-nr.
+
+           Följande publikationer upphävs i och med fastställande av denna handbok:
+
+
+               M7739-350008 Förhandsutgåva Försvarsmaktsreglemente Förplägnad (Fu FM R
+               Förplägnad) 2009 års utgåva. Gällande från 2009-01-01
+
+
+               M7751-210111, Underhållsreglemente för Försvarsmakten, Förplägnadstjänst del
+               1 (UhR Förpl 1) 1999 år utgåva gällande från 1999-04-01
+
+               M7751-210121, Underhållsreglemente för Försvarsmakten, Förplägnadstjänst del
+
+               2 (UhR Förpl 2) 1999 år utgåvan gällande från 1999-04-01
+
+
+           Publikationen tillgängliggörs genom publicering på intranätet emilia och
+
+           www.hemvarnet.se. Tryckta exemplar distribueras direkt till mottagare.
+
+
+          Detta beslut har fattats av generallöjtnant Johan Svensson. I den slutliga hand-
+           läggningen har som föredragande deltagit brigadgeneral Michael Nilsson.
+
+
+
+           Johan Svensson
+           C PROD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                         4
+                                     HANDBOK
+
+
+
+            REVIDERING  - ÄNDRINGSLOGG
+
+
+            Nr   Mom   Omfattning av föränd- Datum föredragning VIDAR-handling nr
+
+                       ringar i stort    Beslut av
+            0          Ursprunglig utgåva 2017-10-17 C PROD FM2016-22269:9
+
+
+
+
+
+
+            KOM  IHÅG!
+            Om du läser denna publikation i pappersform – kontrollera att du har den senaste utgå-
+            van. Fastställd och gällande utgåva finns alltid publicerad på försvarsmaktens intranät.
+
+
+
+            Avvikelserapportering, förslag och behov att förtydliga, ändringar etc. sammanställs
+
+            publikationsområdesvis och sänds till Logskolan-fm@mil.se. Inkommande avvikelser
+            följs upp och återkopplas till berörda.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                         5
+                                     HANDBOK
+
+
+            Förord
+
+            Handbok
+            Handlingstyp för anvisningar med förklaringar och beskrivningar avseende en viss
+
+            verksamhet eller administration och förvaltning. I en handbok får man återge lagar,
+            förordningar, föreskrifter, reglementen och manualer. En handbok får även innehålla
+            riktlinjer, råd och rekommendationer med bilder för tillämpning av regler och bestäm-
+            melser. I en handbok kan även rutiner och processer beskrivas vilka kan publicera se-
+
+            parat på Försvarsmaktens intranät. De rutiner, processer, råd, riktlinjer och rekom-
+            mendationer m. m som anges bör alltid följas om inte särskilda skäl föreligger för att
+            genomföra verksamheten på annat sätt.
+                                                         Ref: FM ArbO 2016
+
+
+            Handbok Förplägnadstjänst (H Förplägtj 2017) riktar sig till chefer, instruktörer, använ-
+            dare och utbildare inom Försvarsmakten samt de organisationer som utbildar inom för-
+            plägnadstjänst åt Försvarsmakten som exempelvis Svenska Lottakåren.
+
+
+            Vatten och mat är en förutsättning för liv. Hygienen är ofta gränssättande för männi-
+            skans överlevnad, i synnerhet i enklare och primitiva förhållanden. Ett fullgott strids-
+            värde bidrar till att säkerställa personalens förmåga att fullgöra krävande arbetsuppgif-
+
+            ter, fatta riktiga beslut samt tänka klart i svåra situationer och i olika klimatzoner. En väl
+            fungerande förplägnadstjänst skapar förutsättningar för upprätthållande av förbandens
+            operativa effekt (stridsvärde).
+
+            Handboken innehåller anvisningar med förklaringar och beskrivningar för genomfö-
+
+            rande av förplägnadstjänst i Försvarsmakten. Ett komplement till handboken är övrig
+            publikation Försvarsmaktens receptsamling.
+
+            Handbok Förplägnadstjänst 2017 är ett stöd för att uppnå en rationell och kostnadsef-
+
+            fektiv process.
+
+            Handboken riktar sig främst mot nationella insatser inom Sveriges gränser, dock kan
+            den tillämpas vid internationella insatser med tillägg av de lagar och regler som gäller
+            för aktuellt insatsområde.
+
+
+            Chef organisationsenhets ansvar utöver sedvanligt arbetsgivaransvar är att säkerställa att
+            personalkategorin enligt ovan har adekvat utbildning och kunskap för sin befattning
+            enligt anvisningar i kapitel 1.3. och utifrån chefs ansvar i kapitel 2.0
+
+
+            Läsaren bör kontrollera om ändringar av angivna lagar, förordningar och föreskrifter
+            samt författningar har skett efter att handboken trätt i kraft.
+
+            Handboken gäller i alla konfliktnivåer och omfattas inte av sekretess.
+
+                                         6
+                                     HANDBOK
+
+
+
+            Läsanvisning
+
+            Denna handbok innehåller färgplattor och dessa färgplattor används när det är viktigt att
+            tydliggöra viss information i textmassan. I denna handbok förekommer följande färg-
+            plattor och respektive färg har betydelse enligt följande:
+
+
+
+             Lag, förordning, bestämmelse, direktiv etc.
+             Används när redaktören återger en lag, förordning, bestämmelse, direktiv, rutan
+             placeras före avsnittet det berör.
+
+
+                                                 Källan anges nedtill
+
+             Observera!
+             Används när redaktören vill få läsaren att notera viktiga partier, rutan placeras
+
+             före avsnittet som det berör.
+
+
+             FAKTA!
+             Används när redaktören vill summera fakta, rutan placeras på lämpliga ställen i
+             boken.
+
+
+
+
+             KOM IHÅG!
+             Används när redaktören vill summera eller påminna om viktiga delar för läsaren, rutan
+             placeras på lämpliga ställen i kapitlet.
+
+
+
+
+             Exempel
+             Används när redaktören vill förklara för läsaren genom ett ge ett eller flera exem-
+             pel.
+
+
+
+            Referens: Handbok Försvarsmaktens publikationer
+
+
+
+
+
+
+
+
+
+
+                                         7
+                                     HANDBOK
+
+
+            Innehåll
+
+            Förord ............................................................................................................................... 6
+            Läsanvisning ..................................................................................................................... 7
+
+            Historik ........................................................................................................................... 10
+            1. Grunder ................................................................................................................... 11
+
+             1.1.  Förplägnadstjänstens omfattning ................................................................... 11
+               1.1.1. Försörjningskedja livsmedelstjänst .......................................................... 11
+             1.2.  Övergripande regelverk.................................................................................. 14
+
+             1.3.  Utbildning förplägnadstjänst .......................................................................... 15
+               1.3.1. Utbildning i förplägnadstjänst inom Försvarsmakten .............................. 17
+
+               1.3.2. Förmåga .................................................................................................... 18
+             1.4.  Fysiskt stridsvärde och energibehov .............................................................. 18
+
+               1.4.1. Energibehov generellt ............................................................................... 19
+               1.4.2. Livsmedelsöverkänslighet (specialkost) ................................................... 20
+
+               1.4.3. Vätska ....................................................................................................... 21
+            2. Chefens ansvar ........................................................................................................ 23
+            3. System för egenkontroll ......................................................................................... 24
+
+             3.1.  Grundområden i system för egenkontroll ...................................................... 26
+               3.1.1. Flödesschema ........................................................................................... 27
+
+               3.1.2. Flexibilitet ................................................................................................. 28
+            4. Livsmedelshantering ............................................................................................... 30
+
+             4.1.  Livsmedelsanläggning ................................................................................... 32
+               4.1.1. Grundkrav på utformning ......................................................................... 33
+
+               4.1.2. Utrymmen ................................................................................................. 33
+             4.2.  Riskanalys (HACCP) ..................................................................................... 34
+
+             4.3.  Livsmedelshygien .......................................................................................... 36
+               4.3.1. Personalens förutsättningar ...................................................................... 36
+               4.3.2. Personlig hygien ....................................................................................... 36
+
+               4.3.3. Handhygien ............................................................................................... 37
+               4.3.4. Hälsoläge och sjuk personal ..................................................................... 38
+
+               4.3.5. Rengöring av utrustning och lokaler, disk ................................................ 39
+             4.4.  Förvaring, tid och temperatur......................................................................... 40
+
+               4.4.1. Förvaring .................................................................................................. 41
+               4.4.2. Temperaturdisciplin .................................................................................. 43
+
+               4.4.3. Livsmedel som kräver kylförvaring ......................................................... 43
+               4.4.4. Varuflöde mottagning ............................................................................... 43
+
+                                         8
+                                     HANDBOK
+
+
+               4.4.5. Förvaringstemperaturer ............................................................................ 45
+               4.4.6. Skydd mot CBRN ..................................................................................... 45
+               4.4.7. Speciallivsmedel/ration ............................................................................ 45
+
+            5. Vattenhantering ...................................................................................................... 46
+             5.1.  Lagstiftning och Försvarsmaktens regelverk ................................................. 46
+
+             5.2.  Vattenkvalité .................................................................................................. 47
+               5.2.1. Hygienvatten ............................................................................................. 48
+
+             5.3.  System för egenkontroll av vatten ................................................................. 48
+             5.4.  Dygnsbehov ................................................................................................... 49
+
+             5.5.  Rening av vatten ............................................................................................ 49
+               5.5.1. Klorering ................................................................................................... 50
+               5.5.2. Natriumypoklorit ...................................................................................... 51
+
+               5.5.3. Kalciumhypoklorit .................................................................................... 51
+            6. Fältkök .................................................................................................................... 53
+
+             6.1.  Grupperingsplats för fältkök .......................................................................... 54
+             6.2.  Upprättande av fältkök ................................................................................... 56
+
+               6.2.1. Viktigt att beakta vid upprättande av fältkök ........................................... 56
+             6.3.  Strömförsörjning och elsäkerhet .................................................................... 57
+
+             6.4.  Utlämningsplats färdiglagad mat ................................................................... 58
+             6.5.  Servering av tillagad mat ............................................................................... 59
+             6.6.  Brytande av fältkök ........................................................................................ 61
+
+            7. Avfall ...................................................................................................................... 62
+             7.1.  Avfallsinstruktioner ....................................................................................... 62
+
+               7.1.1. Allmänt ..................................................................................................... 62
+               7.1.2. Fältkok ...................................................................................................... 62
+
+               7.1.3. Gråvatten .................................................................................................. 63
+            8. Avvikelsehantering ................................................................................................. 65
+
+            Bilaga 1 Europaparlamentets förordning EU nr 178/2002 .......................................... 68
+            Bilaga 2 Europaparlamentets förordning EU nr 1169/2011 ......................................... 69
+
+            Bilaga 3 Europaparlamentets förordning EG nr 852/2004 ........................................... 70
+            Bilaga 4 Livsmedelsverkets föreskrifter om dricksvatten ........................................... 73
+            Bilaga 5 Generalläkarens föreskrifter ......................................................................... 75
+
+            Redaktionell information ................................................................................................ 79
+            Bildförteckning ............................................................................................................... 80
+
+            Källförteckning ............................................................................................................... 82
+
+
+
+                                         9
+                                     HANDBOK
+
+
+
+            Historik
+
+            Som tidigare nämnts i förordet är vatten och mat är en förutsättning för liv och ett full-
+
+            gott stridsvärde är avgörande för att säkerställa personalens förmåga att fullgöra krä-
+            vande arbetsuppgifter. Att fatta riktiga beslut samt tänka klart i svåra situationer och i
+            olika klimatzoner kan vara en avgörande framgångsfaktor. Det ställs höga krav på livs-
+            medelshantering och förplägnadstjänst och Försvarsmakten har idag en väl fungerande
+            förplägnadstjänst men det har inte alltid varit så.
+
+
+            I forna tiders bondehär tog den enskilde bonden med sig mat och dryck hemifrån och
+            krigade så länge maten räckte.
+
+
+            I mitten av 1500-talet, när Gustaf Vasa lade grunden till vår första nationella armé, såg
+            han behov av att lösa underhållsproblemet. Därför upprättades fältmagasin där arméns
+            proviantkolonner fick sitt underhåll. Maten bestod tills största delen av saltat fläsk, tor-
+            kad fisk, bröd och öl. Dessa livsmedel blev basföda för den svenska hären under några
+            hundra år framöver. Fältmagasinen fylldes på med det som fanns att tillgå i det område
+
+            där kriget pågick. Förmågan att skaffa mat liksom möjligheten att förhindra att fienden
+            fick mat, var ett medel att vinna framgång i krig.
+
+            Soldatens/sjömäns energi- och näringsintag i det militära kosthållet har varierat under
+
+            århundranden. Under 1600-talet var intaget 3 000 - 3 700 kcal, men under 1700-talet
+            ökade det till 4 700 kcal. Att energiintaget var lägre på 1600-talet berodde troligtvis på
+            svårigheten att få tag på livsmedel. Fram till början på 1900-talet var krigslivsmedels-
+            staten 4 000 kcal för att 1920 minskas till 3 600 kcal. Idag är energibehovet för aktiva
+            soldater/sjömän utomhus beräknat till 4 000 kcal.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Bild nr 1. Fotografiet visar en kokvagn under sommarövning 1935. (Foto: Garnisonsmuseet i Skövde).
+
+
+
+
+                                        10
+                                     HANDBOK
+
+
+
+            1.   Grunder
+
+            1.1. Förplägnadstjänstens omfattning
+
+
+             FAKTA!
+             Förplägnadstjänsten omfattas av försörjning, hantering och beredning av livsmedel,
+             utspisning, materieltjänst samt ansvar för avfallshanteringen som tillfaller vid produkt-
+             ion. Förplägnadstjänsten ska organiseras så att anbefalld underhållsäkerhet kan upp-
+
+             rätthållas. Varje soldat/sjöman ska erhålla måltider med erforderligt närings- och
+             energiinnehåll som tjänsten kräver.
+
+
+            Generellt indelas militär logistik och förplägnadstjänst i följande två resursnivåer:
+
+
+             Bakre nivån består av Försvarsmaktens egna resurser, vissa territoriellt bundna
+              resurser samt andra aktörers resurser - såsom civila och militära, nationella och in-
+              ternationella partners.
+
+
+             Främre nivån består av såväl förbandsbundna resurser som operativa logistikför-
+              band och enheter.
+
+
+            För att uppnå en rationell och kostnadseffektiv process vid hantering av förplägnads-
+            tjänst krävs samarbete mellan myndigheter och inom myndigheten. Flera aktörer sam-
+            verkar för att skapa en fungerande försörjningskedja och kan därmed säkerställa att
+            nödvändiga och livsviktiga förnödenheter kommer fram i rätt tid, plats och volym.
+            Totalförsvaret har här en viktig uppgift att under höjd beredskap, från den bakre nivån,
+
+            säkerställa, hantera, prioritera och leverera resurser (som livsmedel) i syfte att För-
+            svarsmakten kan lösa anbefallda uppgifter.
+
+            1.1.1. Försörjningskedja livsmedelstjänst
+
+
+             KOM IHÅG!
+             Illustrationen och texten nedan beskriver hur livsmedelstjänstens försörjningskedja
+             och dess aktörer ser ut i dagsläget (2017). Denna kedja och aktörer kan komma att
+
+             förändras i framtiden.
+
+
+            Försvarsmakten har delat in logistiken i en främre och en bakre nivå där den främre
+            nivån stöds av den bakre nivån. Den främre nivån indelas i en stöd- och förstärk-
+            ningsnivå samt en stridsfältsnivå. Denna indelning är i vissa fall något diffus och är
+
+            ibland inte direkt geografiskt kopplad. Syftet med indelningen är att förtydliga utform-
+            ningen av logistikresurser i ett insatsområde där miljö och uppgift kan variera.
+
+                                        11
+                                     HANDBOK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Bild nr 2. Försörjningskedja livsmdedelstjänst 2017. Anna-Karin Wetzig, FSV/GP.
+
+            Bakre nivån
+
+            Den bakre nivån utgörs av Försvarets materielverk (FMV) och av olika civila resurser.
+            Nivån består av civil produktion, förädling och distribution. Den civila produktionen
+
+            sker genom import eller är inhemsk. Förädling sker i olika former av livsmedelsindustri,
+            inhemsk eller utländsk. Distribution sker till olika former av lager hos grossister, i dag-
+            ligvaruhandeln eller till storköklager (hit räknas även garnisonernas militärrestau-
+            ranger).
+
+            FMV tjänsteförteckning omfattar ingen direkt livsmedels-/förplägnadstjänst utom vad
+
+            avser avtalsteckning. FMV tecknar avtal med civila leverantörer, understödjer hänvi-
+            sade förband och hänvisar understödda förband till leverantörer.
+
+            Försvarsmaktens egna lagerhållningsprinciper avseende livsmedel bygger på bedömd
+            hotnivå samt av högre chef ställda beredskapskrav och underhållssäkerhet. Dessa lager
+            kan t.ex. innehålla stridsportioner (rations), konserver eller annat livsmedel med en
+
+            längre hållbarhet.
+
+
+
+
+
+
+                                        12
+                                     HANDBOK
+
+
+
+            Främre nivån
+
+            Försvarsmaktens logistik (FMLOG) stödjer operativ chef (OPC, J4), i planering, sam-
+            ordnar livsmedelstjänstens genomförande genom sina fyra Nationella Stödenheter
+            (NSE) samt avropar avtalade tjänster från civila leverantörer. Distribution av livsmedel
+
+            från den bakre nivån sker vanligtvis direkt från en civil leverantör eller logistikbataljon
+
+            (LOGBAT) ut till respektive stridskrafts logistikförband som sedan tillser att stridskraf-
+            ter erhåller sina livsmedel. Vid leveranser som innehåller kylvaror är det viktigt att kyl-
+            kedjan kan hanteras utan störningar
+
+
+            På stöd- och förstärkningsnivån finns militär distributionskapacitet (lager, isärvägning,
+            transport) främst inom LOGBAT samt i viss mån inom marinbas och flygflottilj (flyg-
+            basområde).
+
+            Distribution stridsfältsnivå sker som regel genom att lägre förband hämtar vid upprättad
+            överlämningsplats, eller för mer stationära förband, t.ex. hemvärnet, en hänvisning di-
+
+            rekt mot civilt lager, butik eller storkök. På stridsfältsnivån sker sedan tillagning av
+            måltider.
+
+            I skrivande stund (2017) är variationen stor mellan de olika stridskrafterna. I arméns
+            bataljoner finns kapacitet för tillagning av färska livsmedel i förbandskok eller att sol-
+            dat/sjömän genomför enskild tillagning av hållbara livsmedel (t.ex. stridsportioner).
+
+
+            Flottan tillagar färska livsmedel i förbands kok iland (Marinbasen) och på fartyg.
+
+            I flygvapnet tillagas färska livsmedel vid restaurang på flottilj. Inom basområdet svarar
+            Flygbaskompani (FBK) med egna kok för tillagning av måltider baserade på färska och
+            hållbara livsmedel. Vissa flygvapenförband, med självständiga uppgifter, nyttjar i hög
+            grad stridsportioner.
+
+
+            Under vissa tillfällen, som övningar, kan även måltider distribueras direkt från bakre
+            nivå till stridsfältsnivå genom utkörning från t.ex. militärrestauranger, kravet är då att
+            varmhållningen/kylning av maten kan hanteras enligt gällande bestämmelser.
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        13
+                                     HANDBOK
+
+
+
+            1.2. Övergripande regelverk
+
+             Observera!
+
+             Försvarsmakten är ansvarig för att regler och föreskrifter följs. Försvarsmakten har
+             inte dispens eller motsvarande undantag gällande lagar och förordningar. Det är
+             alltid högste chefs ansvar att se till att detta följs.
+
+
+            Försvarsmakten följer de lagar och förordningar som finns samt upprättar interna regel-
+            verk och/eller styrningar och anvisningar för respektive fackområde, t.ex. denna hand-
+
+            bok.
+            Krav i form av kyla, värme, luftfuktighet etc. som beskrivs i denna bok härstammar från
+
+            lagar och förordningar.
+            Sveriges medlemskap i EU har inneburit att livsmedelstjänsten styrs av svensk lagstift-
+
+            ning med styrningar från EU-direktiv.
+
+            Livsmedelslagen med dess tillägg medger inga undantag för Försvarsmakten avseende
+            hantering, förvaring, distribution m.m. av livsmedel. Samma regler gäller för Försvars-
+            makten som exempelvis för skolor och sjukhus som serverar mat.
+
+            Följande regelverk reglerar Försvarsmaktens förplägnadstjänst:
+
+             EG-förordning 178/20021
+
+              Om allmänna principer och krav för livsmedelslagstiftning, om inrättandet av euro-
+              peiska myndigheten för livsmedelssäkerhet om förfaranden i frågor som gäller livs-
+              medelssäkerhet. (se bilaga 9.1)
+             Europaparlamentets och rådets förordning (EU) nr 1169/20111
+              Om tillhandahållande av livsmedelsinformation till konsumenterna.
+
+              (se bilaga 9.2)
+             Europaparlamentets och rådets förordning (EG) nr 852/20041
+              Om livsmedelshygien. (se bilaga 9.3)
+             Livsmedelsverkets föreskrifter om dricksvatten SLVFS 2001:301
+
+              Om dricksvatten. (se bilaga 9.4)
+             Försvarets författningssamling FFS 2012:42
+             Generalläkarens föreskrifter om livsmedelsverksamhet inom Försvarsmakten. (se
+
+              bilaga 9.5)
+
+
+            1 www.slv.se
+            2 www.forsvarsmakten.se
+
+
+
+
+                                        14
+                                     HANDBOK
+
+
+
+            Från och med 1 oktober 2017 har tillsyns- och kontrollmyndigheten Generalläkaren bytt
+            namn till Försvarsinspektören för hälsa och miljö (FIHM).
+
+            1.3. Utbildning förplägnadstjänst
+
+
+            All personal som hanterar oförpackade livsmedel ska vara hälsodeklarerade och ha ut-
+            bildning inom livsmedelstjänst enligt Generalläkarens föreskrifter, FFS 2012:4 hälso-
+            deklaration § 16 och utbildning § 13.
+
+            En instruktör inom Försvarsmakten ska ha genomgått motsvarande Fältförplägnadsin-
+
+            struktör (se PRIO kurskatalog) med godkänt resultat för att få utbilda livsmedelsperso-
+            nal. Värt att notera i detta sammanhang är att även dricksvatten är ett livsmedel.
+
+            Förutom nivåhöjande utbildning har Försvarsmakten ett stort behov av fördjupad kom-
+            petens och utveckling inom respektive fackområden. Behovet tillgodoses genom fack-
+
+            kurser och befattningsutbildningar såväl inom som utanför Försvarsmakten.
+
+            Utbildning genomförs mot krav som svarar mot Försvarsmakten befattningar inom re-
+            spektive fackområde. Det är väsentligt att Försvarsmaktens anställda upprätthåller en
+            hög yrkeskompetens minst i nivå med de krav som ställs dels från samhället, dels från
+
+            Försvarsmaktens egen verksamhet.
+
+            Utbildningar riktade mot olika nivåer för livsmedelshanterande personal inom För-
+            svarsmakten är framtagna vid Försvarsmaktens Logistik och Motorskola (LogS) samt
+            vid Sjöstridsskolan Intendentursektionen (SSS/IntS).
+
+
+            Försvarsmaktens kursutbud i förplägnadstjänst återfinns i PRIO kurskatalog. Vid frågor
+            rörande specifik utbildning kontakta ansvarig skola. Det framgår i PRIO vem som är
+            kurschef samt vem som är ansvarig för genomförande.
+
+
+            Illustrationerna på nästa sida beskriver utbildningsnivåer för olika befattningar inom
+            förplägnadstjänsten. Antal timmar kan förändras utifrån nya förutsättningar.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        15
+                                     HANDBOK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Bild nr 3. Marinens utbildningstrappa inom förplägnadstjänst. Anna-Karin Wetzig, FSV/GP.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Bild nr 4. Armèns och flygvapnets utbildningstrappa inom förplägnadstjänst. Anna-Karin Wetzig,
+            FSV/GP.
+
+
+
+
+
+
+
+
+
+
+
+                                        16
+                                     HANDBOK
+
+
+            Nedan beskrivs de lärandemål som klassas som den lägsta nivån för personal tilltänkt att
+            arbeta med livsmedelshantering.
+
+            Efter avslutad kurs ska kursdeltagaren kunna:
+
+                 Förklara innebörden av ett system för egenkontroll.
+
+                 Förklara skillnaden mellan olika typer av livsmedelsintoleranser.
+                 Tillämpa de hygienkrav som ställs på en kock vid livsmedelsproduktion.
+                 Använda de system som lagstiftningen kräver för livsmedelssäkerheten.
+
+
+
+            1.3.1. Utbildning i förplägnadstjänst inom Försvarsmakten
+
+            I PRIO utbildningskatalog finns nuvarande kurser att söka:
+
+
+                Livsmedelssäkerhet
+                Fältförplägnadsinstruktör
+
+                Fältförplägnad instruktör rep
+                Förplägnadstjänst grunder
+
+                Bageri 1 - inriktning matbröd
+
+                Fisk, skaldjur och mollusker
+                Fältförplägnadskurs 2 (FF2, omfattas av vinterförmåga i förplägnadstjänst samt
+                 slakt och styckning)
+
+                Specialkost
+
+                Livsmedelshantering och matlagning
+                Matsedelsplanering
+
+                Storköksutbildning
+
+            Vilken enhet som är ansvarig för respektive kurs står i kursplanen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        17
+                                     HANDBOK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Bild nr 5. Kockar tillreder middag i en koktraktorkärra. Fotograf: Martin Zetterman/TrängR.
+
+
+            1.3.2. Förmåga
+
+            Kokgruppens förmåga att tillhandahålla varm färdiglagad mat till x antal solda-
+            ter/sjömän ska styras av förbandens krigsförbandsspecifikationer (KFS).
+
+
+
+            1.4. Fysiskt stridsvärde och energibehov
+
+            En förutsättning för att en soldat eller sjöman ska kunna utföra sitt arbete på ett tillfreds-
+            ställande sätt är att individen befinner sig i energi- och vätskebalans.
+
+
+
+
+
+                                        18
+                                     HANDBOK
+
+
+            Vid otillräckligt intag av kost och vätska kommer soldatens/sjömannens fysiska ork och
+            prestationsförmåga samt även den psykiska orken och koncentrationsförmågan att för-
+            sämras på relativt kort tid.
+
+            Det finns stora variationer i energibehov mellan individer, vilket beror på arbetet som
+            utförs, vilken utrustning som bärs, vilket klimat som råder samt individuella faktorer
+
+            såsom ålder, kön och kroppsbyggnad.
+
+            Tillgänglighet och intag av energi och vätska i tillräcklig mängd är av största betydelse
+            för ett högt fysiskt stridsvärde och därmed en effektiv soldat/sjöman.
+
+            Kostråd och tillämpningar ska utföras i samråd med personal med kompetens i dessa
+            frågor. Att planera sitt kostintag i förhållande till aktiviteten är viktigt för att uppnå
+
+            maximal samverkan mellan aktivitet/utfört arbete och näringsintag.
+
+            1.4.1. Energibehov generellt
+            Soldatens/sjömannens energibehov påverkas av olika faktorer. Det finns ett grundläg-
+
+            gande behov, den basala energiomsättning (Basal Metabolic Rate, BMR), som innebär
+            att kroppen har ett visst energibehov under vila. BMR påverkas bland annat av:
+
+                Kön
+
+                Ålder
+                Muskelmassa
+
+                Klimat
+
+            För att soldaten/sjömannen ska kunna behålla sitt fysiska stridsvärde, är det nödvändigt
+            att hon eller han erhåller varm mat och dryck minst tre gånger per dygn; fördelat på fru-
+
+            kost, lunch och middag samt ev. kvällsmål.
+
+            Soldatens/sjömannens behov av dryck ska anpassas efter väder och klimat. Fältköket
+            ska tillhandahålla dricksvatten och vattnet ska vara uppvärmt vid kallt väder. Då för-
+
+            bandets uppgift så kräver ersätts fältkökets måltid av speciallivsmedel/rations en så kal-
+            lad stridsportion som tillagas enskilt.
+
+            Hur mycket och när soldater/sjömän ska äta styrs av yttre faktorer, som när och var det
+            finns tillfälle att äta. Maten bör dock ha en viss energifördelning och måltiderna ska
+
+            fördelas jämnt över dagen, oberoende om individen har ett högt eller lågt energibehov.
+            En jämn måltidsordning är alltid fördelaktig för individen, men av olika skäl.
+
+
+
+
+
+
+
+                                        19
+                                     HANDBOK
+
+
+
+            Lågenergiförbrukaren t.ex. stabspersonal som ska äta relativt lite mat kan – med en viss
+            måltidsordning – hålla jämn blodsockerkurva. Detta påverkar både koncentration och
+            aptit på ett positivt sätt.
+
+            Tallriksmodellen
+
+            Tallriksmodellen består av tre delar, kolhydrater 50–60 % protein 15 %, fett 25–30 %
+
+
+            Den beprövade tallriksmodellen är ett verktyg som kan användas. Modellen visar pro-
+            portionerna mellan olika näringsämnen i en måltid. Däremot säger tallriksmodellen
+            inget om hur mycket eller lite som ska ätas. Hunger och energibehovet får avgöra detta,
+            och ett enkelt sätt är att kontrollera vikten regelbundet och därmed få svar på om man
+            äter för mycket eller för lite.
+
+
+            Läs mer om näringslära i publikation Försvarsmaktens Receptsamling samt på
+            www.slv.se
+
+            1.4.2. Livsmedelsöverkänslighet (specialkost)
+
+            Olika komponenter i maten kan ge upphov till allergi eller överkänslighets- reaktioner,
+            vilket kan vara en anledning till att en individ äter specialkost.
+
+            Allergi innebär att immunförsvaret reagerar mot sådant som kroppen normalt ska tåla
+            och kan innebära livsfara för den allergiska personen, medan överkänslighet kan bero på
+
+            bland annat brist på speciella enzymer. Därför är det av yttersta vikt att kocken alltid vet
+            vad livsmedel innehåller och kan informera personalen.
+
+            Nedan beskrivs några vanliga allergier och överkänslighetsreaktioner:
+
+                Celiaki eller glutenintolerans innebär att man inte tål proteinet gluten som ingår i
+                 våra vanligaste sädesslag, korn, vete, råg och havre.
+
+                Laktosintolerans innebär att man är överkänslig mot mjölksocker i mer eller
+                 mindre omfattning beroende på känslighet. Mjölksocker finns i komjölksproduk-
+
+                 ter i större eller mindre omfattning.
+                Komjölksallergi eller mjölkallergi innebär att man inte tål proteinet som finns i
+                 komjölk.
+
+                Nötallergi kan innebära livsfara för den allergiska individen om den får i sig nå-
+                 gon form av nötter i maten.
+
+                Fiskallergi kan innebära livsfara för individen om den får i sig någon form av
+                 fisk i maten.
+
+            Det finns många olika födoämnesallergier och mer information kan hämtas från t.ex.
+
+            Livsmedelsverkets hemsida. www.slv.se
+
+                                        20
+                                     HANDBOK
+
+
+
+            1.4.3. Vätska
+
+
+             Observera!
+             Använd inte vätskesystemet till annat än rent dricksvatten.
+
+
+
+            Vatten ger ingen energi, men har flera väldigt viktiga funktioner i kroppen. Det trans-
+            porterar näring och slaggprodukter samt reglerar kroppstemperaturen. Människokroppen
+            består av ungefär 50–70% vatten och en människa klarar sig endast i några dygn utan
+
+            vätska. Normalt förlorar människan vätska i form av svettning, urin, avföring och and-
+            ning. För att täcka vätskeförlust måste det tillföras vätska.
+
+            Om vätskebalansen rubbas drabbas människan både fysiskt och psykiskt. Det kan leda
+            till bristande ork och koncentrations-svårigheter. Det kan vara stora individuella skill-
+            nader och vältränade personer klarar sig som regel bättre än otränade. Vätskeförlust får
+
+            större konsekvenser vid långtidsarbete.
+
+            Vätskebehovet beror dels på kroppsstorlek samt fysisk aktivitetsnivå och dels på yttre
+            faktorer så som klimat och luftfuktighet. Vid hård fysisk aktivitet och hög lufttempera-
+            tur kan förlusten uppgå till mer än 3 liter/timme, men kroppen har bara förmåga att ta
+            upp ca 1,2 liter/timme.
+
+
+            Behovet av vätska vid varm väderlek är väldigt stort eftersom kroppen reglerar kropps-
+            temperaturen genom att svettas. Vätskeförlusterna kan vara så stora som ett par liter per
+            timme, bara på grund av värmen. Stora vätskeförluster genom svettning innebär även en
+            förlust av stora mängder salt, detta måste också tillgodoses.
+
+            Behovet av vätska vintertid ökar beroende på ökad vätskeförlust via andningen och
+
+            ökad urinproduktion. Att förlusterna ökar via andningen beror på att kroppen måste
+            värma upp och fukta den torra samt kalla inandningsluften mer än normalt.
+
+            Ökad urinproduktion beror på att stora delen av kroppens blodvolym är koncentrerad till
+            “den inre kärnan”. Det innebär en ökad genomblödning av njurarna, vilket leder till
+            stora urinmängder. Behovet av vätska vintertid kan därför öka till det dubbla.
+
+
+
+             KOM IHÅG!
+             Vikten av att dricka tillräckligt vid kyla kan inte nog poängteras. Drycken bör vara
+
+             varm och innehålla energi.
+
+
+
+
+
+                                        21
+                                     HANDBOK
+
+
+
+            Man kan kontrollera vätskebalansen genom att titta på färgen på urinen. Ljust färgad
+            urin är ett tecken på att man fått i sig tillräckligt med vätska medan mörkt färgad urin är
+            tecken på vätskebrist.
+
+            En energidryck bör innehålla ca 2–7 % socker samt lite natrium (koksalt) som gör att
+
+            vätskan absorberas effektivt och hålls kvar i kroppen. Egen sådan dryck kan blandas
+            med 1 kryddmått koksalt, 0,5–0,6 dl druvsocker och 1–2 matskedar koncentrerad juice i
+            1 liter vatten. Energidryck blandas i en engångsflaska och inte i vätskesystemet.
+
+            Läs mer om klimatets påverkan i läroboken Fysisk Prestationsförmåga.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        22
+                                     HANDBOK
+
+
+
+            2.   Chefens ansvar
+
+
+             Observera!
+             De t är ansvarig chef som ansvarar för att rätt kompetens erhålls och finns hos livsme-
+             delshanterande personal samt kontrollerar att lagar och regelverk efterlevs och upp-
+
+             fyl ls.
+
+
+            Chef organisationsenhet (C OrgE) har det yttersta ansvaret för sin verksamhet. Arbets-
+            uppgifter kan delegeras till underställda chefer som i sin tur utser ansvariga instruktörer
+            och/eller kockar för i det här fallet livsmedelshantering.
+
+            Ett förband/företag som tillhandahåller eller serverar mat i Försvarsmaktens regi är an-
+
+            svarig för att se till att detta sker enligt gällande lagar och förordningar.
+
+            C OrgE är ur ett juridiskt perspektiv likställd med livsmedelsföretagare.
+
+            Juridiskt ansvar kan innebära både straffansvar och skadeståndsansvar för Försvarsmak-
+            ten och ansvarig C OrgE.
+
+            Dessa två dokument bör läsas av ansvariga chefer:
+
+                Grunden för all livsmedelshantering och utformning av lokaler styrs av EG för-
+
+                 ordning 852:4/2004 (bilaga 9.3).
+
+                Vissa delar förtydligar Försvarsinspektören för hälsa och miljö i de krav som
+                 framgår av FFS 2012 (bilaga 9.5).
+
+            Utifrån dessa regler ska varje livsmedelsföretagare göra en riskbedömning för all verk-
+            samhet och hantering enligt kapitel 3 system för egenkontroll.
+
+
+            Tillse att all personal som arbetar med livsmedelshantering har utbildning och kunskap
+            för sin befattning enligt kapitel 1.3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        23
+                                     HANDBOK
+
+
+
+            3.   System för egenkontroll
+
+
+
+             Egenkontroll
+
+             3 § De fysiska eller juridiska personer som ansvarar för att kraven i livsmedelslag-
+             stiftningen uppfylls i de livsmedelsföretag de bedriver (i enlighet med artikel 3.3 i
+             Europaparlamentets och rådets förordning (EG) nr 178/2002 av den 28 januari 2002
+             om allmänna principer och krav för livsmedelslagstiftning, om inrättande av Europe-
+             iska myndigheter för livsmedelssäkerhet och om förfaranden i frågor som gäller
+             livsmedelssäkerhet).
+
+             12 § Livsmedelsföretagare ska införa och upprätthålla ändamålsenliga rutiner för
+             egenkontroll av livsmedelsverksamhet.
+
+             13 § Livsmedelsföretagare ska ge personal inbegripna i livsmedelsverksamhet sådan
+             utbildning som är anpassad till de arbetsuppgifter som utförs. Utbildningen ska avse
+             grundläggande livsmedelshygien samt anläggningsspecifika rutiner nödvändiga för
+
+             att utföra anläggningens egenkontroll.
+                                                          FFS 2012:4
+
+
+
+
+            Ovanstående beskriver vilka regelverk som styr verksamheten. Utbildning krävs för att
+            personal som arbetar med förplägnadstjänst ska kunna förstå och applicera alla regler
+            och styrningar inom respektive kompetensområde.
+
+            HACCP (Hazard Analysis Critical Control Point) är ett kvalitetssäkringssystem framta-
+
+            get av NASA.
+
+            Inom ISO standard 22000 som är ett kvalitetsledningssystem för livsmedelsindustrin
+            ingår HACCP som en del av systemet. Detta för att systematiskt kunna kontrollera faror
+            i tillverkningen av livsmedel så att dessa är säkra.
+
+            Inom EU ställs krav på de företag som hanterar livsmedel att de ska tillämpa HACCP
+            och dess principer.
+
+
+            HACCP är en metod som används vid genomförande av risk och faroanalys för livsme-
+            delshantering. De risker och faror som ska belysas är fysikalisk-, mikrobiologisk- samt
+            kemikalisk påverkan vid livsmedelshantering.
+
+            Utifrån analysen utfärdas ett system för egenkontroll där det ska framgå vilken typ av
+            verksamhet som bedrivs, ett flödesschema ska beskrivas, vilka rutiner som är införda i
+
+            verksamheten samt en fastställd dokumentationshantering.
+
+
+                                        24
+                                     HANDBOK
+
+
+
+            God hygienpraxis (GHP) utgör grunden inom egenkontrollen. När grundförutsättning-
+            arna är goda inom alla kontrollområden (se kap. 3.1) kan beroende av typ och omfatt-
+            ningen av livsmedelsverksamheten en HACCP analys göras.
+
+            När förutsättningarna är goda inom alla dessa grundområden är det viktigt att gå igenom
+
+            vilka faror som kan finnas i verksamheten. För varje råvara och tillverkningssteg säker-
+            ställs att det inte finns några mikrobiologiska-, kemiska-, fysikaliska- och allergena fa-
+            ror eller vilka faror som måste bevakas. Detta är den första delen i ett HACCP-arbete.
+
+            Läs mer om grundförutsättningar och HACCP i branschriktlinjerna på livsmedelsver-
+
+            kets hemsida. www.slv.se
+
+            Författningstexten innebär att arbetstagaren måste genomföra en utbildning inom områ-
+            det livsmedelssäkerhet.
+
+
+            Utbildningen syftar till att kursdeltagaren efter avslutad kurs ska ha utvecklat en grund-
+            förståelse för och förmåga att kunna följa de regelverk och föreskrifter som finns för att
+            uppfylla livsmedelssäkerheten enligt EG förordning 178/2002 (se bilaga 9.1).
+
+
+            Livsmedelsföretagare, C OrgE, måste säkerställa att maten är säker och rätt märkt samt
+            att kraven i lagstiftningen är uppfyllda hela tiden. Detta säkerställs genom att upprätta
+            ett system för egenkontroll där alla åtgärder som vidtas eller kommer att vidtas doku-
+            menteras.
+
+
+            Vid hantering av livsmedel ska det finnas ett skriftligt system för egenkontroll. Vilka
+            kontroller som ska göras, när, och av vem, baseras på riskanalysen. Det är verksamhets-
+            utövarens ansvar att ta fram programmet.
+
+
+            För att system för egenkontroll ska vara aktuellt behöver det ses över regelbundet. Detta
+            sker i form av interna revisioner som bör göras minst årligen där en översyn av hela
+            verksamheten och systemet för egenkontroll granskas.
+
+
+            Revision av system för egenkontroll ska ske vid större förändringar av verksamheten.
+            Med större förändring avses t.ex. hantering av nya risklivsmedel eller större antal port-
+            ioner.
+
+
+
+
+
+
+
+
+
+
+                                        25
+                                     HANDBOK
+
+
+
+            Kontrollmyndigheter använder riskklassning, se www.slv.se vägledning Riskklassning
+            av livsmedelsanläggningar för planering av antalet kontroller/ inspektioner som en
+            livsmedelsföretagare ska ha samt avgift för detta. När en livsmedelverksamhet förändras
+            ska detta alltid anmälas till kontrollmyndigheten för ny riskklassning. Inom Försvars-
+
+            makten är Försvarsinspektören för hälsa och miljö kontrollmyndighet. Försvarsmakten
+            betalar inga kontrollavgifter.
+
+            Detta innebär att alla förband som hanterar livsmedel ska ha en egenkontroll.
+
+
+
+            3.1. Grundområden i system för egenkontroll
+
+            Exempel på grundområden.
+
+                Utbildning
+
+                 Inom Försvarsmakten måste det finnas kunskap om de varor och tillverknings-
+                 metoder som används. För att personal ska hålla kunskaperna aktuella och upp-
+                 rätthålla kompetens ska ansvarig chef se till att det finns en kompetensplan för
+                 de närmaste åren.
+
+
+                Personlig hygien
+                 Det ska finnas rutiner för personlig hygien, för att inte maten smittas av dem
+                 som hanterar den.
+
+
+                Vatten
+                 Vatten ingår i maten och används för rengöring, sköljning av livsmedel och ren-
+                 göring av utrustning. Vattnet måste därför vara rent och fritt från mikroorgan-
+                 ismer och kemikalier som kan vara farliga.
+
+
+                Rengöring
+                 Rengöring av lokaler och utrustning måste göras på rätt sätt. Skadliga mikroorg-
+                 anismer eller kemikalier får inte hamna i maten. Det är också viktigt att inte res-
+
+                 ter från någon ingrediens som kan orsaka allergi hamnar i mat som annars inte
+                 innehåller sådan ingrediens.
+
+                Skadedjur
+                 Skadedjur såsom gnagare och insekter kan föra med sig olika smittor till maten
+
+                 och ska därför hållas borta från ställen där mat hanteras. Säkerställ att skadedju-
+                 ren inte kommer in i livsmedelsutrymmen genom att systematiskt övervaka för
+                 att söka efter tecken på skadedjur. Vid indikation på att skadedjur förekommer
+                 måste åtgärder vidtas.
+
+
+
+                                        26
+                                     HANDBOK
+
+
+
+                Lokaler, utrustning och underhåll
+                 Lokaler måste kunna hållas rena. Varor och personal ska kunna förflytta sig i lo-
+                 kalerna, så att det inte blir korsande flöden. Råvaror ska till exempel inte förva-
+
+                 ras tillsammans med ätfärdig mat. Lokalerna och utrustningen ska hela tiden un-
+                 derhållas. Ta för vana att regelbundet göra en översyn av vilket underhåll som
+                 måste göras.
+
+                Mottagning av varor
+
+                 Varor som kommer in till Försvarsmakten måste kontrolleras, för att säkerställa
+                 att de uppfyller ställda krav. Dessutom måste alla förpackningar vara hela och
+                 rena, för att säkerställa att innehållet är opåverkat. Kylkedjan får inte brytas, va-
+                 ror som är beroende av en viss temperatur måste kontrolleras innan de tas emot.
+
+
+                Temperaturer
+                 Mat som måste förvaras kallt eller varmt, för att inte skadliga mikroorganismer
+                 ska kunna växa i den, måste förvaras i rätt temperatur. Livsmedelsföretagare, (C
+
+                 OrgE) måste veta vilken temperatur det ska vara och vid vilken temperatur va-
+                 rorna ska förvaras i.
+
+
+            3.1.1. Flödesschema
+
+            Flödesschema på nästa sida beskriver de olika stegen i livsmedelsverksamheten. Genom
+            analys kan vissa riskmoment identifieras. Genom styrning och kontroll av de riskfyllda
+
+            stegen ökar förutsättningarna för att säkra livsmedel kan levereras.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        27
+                                     HANDBOK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Bild nr 6. Flödeschema. Anna-Karin Wetzig, FSV/GP.
+
+
+
+            3.1.2. Flexibilitet
+            Stora delar av livsmedelslagstiftningen är flexibel. Det betyder att det är målet säkra
+
+            livsmedel som är det viktiga. Lagstiftningens krav kan uppfyllas på olika sätt.
+
+            Till exempel står det i lagstiftningen att ”livsmedel ska förvaras i en temperatur, där inte
+            skadliga mikroorganismer (mikroorganismer) kan växa eller bilda toxin (gift)”.
+
+            För livsmedelsföretagare, C OrgE, är formuleringen bra, reglerna anger inte i detalj hur
+            detta ska uppnås.
+
+
+            Ansvarig bedömer utifrån kunskap och kompetens vilka åtgärder som behöver vidtas för
+            att det ska bli rätt. Det räcker inte att säga: ”Så har vi alltid gjort och det är ingen som
+            har blivit sjuk av min mat.”
+
+
+
+
+
+                                        28
+                                     HANDBOK
+
+
+            Det är viktigt att kunna visa för myndigheten att verksamheten bedrivs på korrekt sätt
+            och att det bygger på kunskap.
+
+            Flexibiliteten är bra, men den kräver kunskap om vilka krav som finns. Se till att ha rätt
+            utbildning och ta stöd av kollegor.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        29
+                                     HANDBOK
+
+
+
+            4.   Livsmedelshantering
+
+            Grunden för all livsmedelshantering och utformning av lokaler styrs av EG förordning
+            852/2004 (bilaga 9.3) I vissa delar förtydligar Försvarsinspektören för hälsa och miljö
+
+            kraven i FFS 2012:4 (bilaga 9.5).
+
+            Därutöver finns flera specifika krav såsom informationsförordningen som bl.a. reglerar
+            hur livsmedel får märkas.
+
+            Utifrån dessa regler ska varje livsmedelsföretagare (C OrgE) göra en riskbedömning för
+            all verksamhet och hantering.
+
+            Samtliga livsmedelsbranscher har antagit riktlinjer/regler för t.ex. hur lokaler ska se ut,
+
+            livsmedel ska förvaras m.m. Dessa riktlinjer bygger på tidigare livsmedelslagar där t.ex.
+            temperaturerna tydligt angavs.
+
+            Frångår man dessa riktlinjer/regler får verksamhetsutövaren genom en egenkontroll och
+            konsekvensanalys bevisa att verksamheten ändå kan bedrivas säkert.
+
+            Innehållet i detta kapitel bygger mest på riktlinjer för storhushåll vilket är den verksam-
+
+            het som närmast liknar Försvarsmaktens.
+
+            När verksamhet bedrivs ute i fält kan det vara svårt att uppnå grundläggande hygieniska
+            krav och då blir livsmedelshanteringen extra viktig.
+
+            Lagar, regler och förordningar är till för att undvika problem och olyckor.
+
+            Exemplet här nedan beskriver att scenario som Försvarsmakten vill undvika. Konse-
+
+            kvenserna blir stora både för individer som blir drabbade men även för den ansvariga
+            chefen samt för arbetsgivaren Försvarsmakten.
+
+            På nästa sida finns ett övningsexempel på scenario. Läs exemplet och fundera på hur
+            händelsen skulle kunna hanteras på lämpligaste sätt. Kontrollera därefter i den egna
+            verksamheten vad som ska genomföras, d.v.s. hur ser just er rapporteringskedja ut. Be-
+
+            skriv rapporteringskedjan därefter i ert system för egenkontroll inom förplägnadstjänst.
+
+
+
+
+
+
+
+
+
+
+
+
+                                        30
+                                     HANDBOK
+
+
+
+
+             Övningsexempel på scenario
+
+             Vid övning matförgiftas 40 individer av EHEC-mikroorganismer.
+
+             Måltiden som ätits var grillade hamburgare serverade vid koket.
+
+             GL kontaktas och utredning påbörjas.
+
+
+             Det visar sig att livsmedelshygienen varit bristfällig på grund av materielbrister
+             samt att kokgruppen saknat kompetens i grundläggande livsmedelshygien.
+
+             Grupperingsplatsen var olämplig ur ett livsmedelshygieniskt perspektiv (på områ-
+             det fanns frigående kor).
+
+             Av de smittade så tillfrisknade 38 personer efter två veckors sjukskrivning. Två
+             personer blev inlagda på sjukhus varav en avled efter fyra veckor, den andra per-
+
+             sonen tillfrisknade men blev aldrig helt återställd på grund av njursvikt.
+
+             I det här fallet kommer det bli en civil rättegång där Försvarsmakten garanterat
+             blir skadeståndsskyldig till de drabbade.
+
+             Ansvarig chef för övningen är juridiskt ansvarig för verksamheten och i detta fall
+             kan chefen bli dömd till vållande av annans död och därmed också skadestånds-
+
+             skyldig.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        31
+                                     HANDBOK
+
+
+
+            4.1. Livsmedelsanläggning
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Bild nr 7. Tillredning av livsmedel i en koktraktorkärra. Foto: Martin Zetterman/TrängR.
+
+            Innan en livsmedelsverksamhet får påbörjas ska anläggningen, som omfattar både typ
+            av verksamhet samt lokal, vara registrerad hos Försvarsinspektören för hälsa och miljö.
+
+            Registreringsblankett tillhandahålls av densamma.
+
+            Lokalens inredning och utrustning måste anpassas efter livsmedelshanteringens omfatt-
+            ning och vad som avses utföras i lokalen: som t.ex. antal portioner som ska tillagas, ser-
+            veras eller sändas ut; vilka råvaror som ska använda och vilken kvalité de har.
+
+            Därefter får lokalens utformning, ytor och utrustning tillsammans med en faroanalys
+
+            bestämma vad lokalen kan användas till utifrån hygieniska krav.
+
+            Grundkraven på utformningen av lokal bestäms i huvudsak utifrån EG förordning nr
+            852, bilaga II. (se bilaga 9.3)
+
+
+
+
+
+
+
+
+
+
+
+
+                                        32
+                                     HANDBOK
+
+
+
+            4.1.1. Grundkrav på utformning
+            Försvarsmakten följer krav på utformning och utrymmen enligt nedan:
+
+
+                Lokal, inredning, utrustning ska vara lätt rengörbar och lätt att underhålla. För-
+                 orening och ansamling av smuts ska förhindras.
+                Skadedjur/insekter ska inte komma in och om de kommer in lätt kunna utrotas.
+
+                Smutsig och ren hantering måste hållas isär
+
+                Handtvättställ
+                Ventilation
+
+                Belysning
+
+
+            4.1.2. Utrymmen
+
+            Alla utrymmen i en livsmedelslokal samverkar. Flödet på hanteringen ska vara så livs-
+            medel aldrig kan förorenas. Förorening mellan produkter och ytor brukar kallas kors-
+
+            kontamination.
+
+                Varumottagning
+                Förrådsutrymmen
+
+                Renseri
+
+                Varmkök
+                Kallskänk, kallkök
+
+                Utlämnings, servering, paketering och förvaring av färdigmat för utlämning
+                Städutrymme
+
+                Diskutrymme
+
+                Personalutrymmen
+                Avfallsutrymmen
+
+                Transportfordon, matboxar, samt utrymme för dessa.
+
+
+
+
+
+
+
+
+
+
+
+
+                                        33
+                                     HANDBOK
+
+
+
+            4.2. Riskanalys (HACCP)
+
+            Bilderna här nedan beskriver hur förändringsprocessen genomfördes innan ombyggnat-
+            ionen startades. Första ritningen var den första utgåvan som erhölls av en kökskonsult.
+            Ägaren av projektet inför ombyggnation skickade ritningsförslaget till Försvarsinspek-
+
+            tören för hälsa och miljö. (f.d. Generalläkaren.) Svaret blev att ur en riskbedömning
+            kunde denna ombyggnation inte godkännas. Varför? Gör en egen analys av ritningen
+            och bedöm varför godkännande inte gavs.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Bild nr 8. Kök innan ombyggnation. Anna-Karin Wetzig, FSV/GP.
+
+
+                                        34
+                                     HANDBOK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Bild nr 9. Kök efter ombyggnation. Anna-Karin Wetzig, FSV/GP.
+
+
+
+
+
+
+                                        35
+                                     HANDBOK
+
+
+            4.3. Livsmedelshygien
+
+            Livsmedelshygien omfattar alla åtgärder som vidtas för att förhindra att livsmedel blir
+            skadliga att förtära eller förstörs. Säker hantering av livsmedel kräver kunskap hos de
+            chefer som ska kontrollera verksamheten samt ytterligare specialiserad kunskap hos den
+            personal som hanterar samt tillagar livsmedel.
+
+
+            Varmt klimat påverkar livsmedelshanteringen. Verksamheten måste planeras med hy-
+            gien i fokus då faktorer såsom värme, fukt, damm med mera gynnar faktorer för tillväxt
+            av sjukdomsframkallande mikroorganismer men även insekter. Ventilationen blir viktig
+            i köket då fukt och värme måste ledas ut.
+
+
+            4.3.1. Personalens förutsättningar
+
+            Livsmedelspersonalen bör ges möjligheter att duscha dagligen och ha tillgång till egna
+            toaletter. Toaletterna ska vara lätta att hålla rena och ge personalen möjlighet att tvätta
+
+            sina händer med tvål, varmt och kallt vatten. Toaletterna ska vara reserverade för livs-
+            medelshanterande personal.
+
+            Personalen ska också ha tillgång till handtvätt med tvål, varmt och kallt vatten i ome-
+            delbar anslutning till livsmedelshanteringen. Komplettera gärna med handdesinfektion.
+
+
+            Inget rökande, snusande eller ätande vid arbete med livsmedel.
+
+            Provsmakning ska ske på ett sådant sätt att kontaminering inte sker.
+
+
+            4.3.2. Personlig hygien
+
+            Personal som hanterar livsmedel ska vara utbildad. Utbildningen ska bland annat inne-
+            fatta hantering, skötsel och underhåll av aktuell utrustning samt livsmedelshygien.
+            Denna utbildning ingår i Fältförplägnadstjänst grunder.
+
+
+            God personlig hygien innebär:
+
+                Händerna tvättas:
+
+                     Efter toalettbesök
+                     Innan arbete återupptas efter att händerna har varit i oren hantering
+                     Vid byte av hantering från ex grönsakshantering till kötthantering.
+
+                Livsmedelshanterande personal bör duscha dagligen.
+
+                Personal med öppna sår på händerna ska inte hantera oförpackade livsmedel (läs
+                 punkt 4.3.4 Hälsoläge för sjuk personal).
+
+                Inte hosta eller nysa över maten.
+
+                                        36
+                                     HANDBOK
+
+
+                Skyddskläder ska användas, se till att ombyte finns. Ur livsmedelshygienisk
+                 synpunkt är skyddsklädernas främsta uppgift att skydda livsmedel från kontami-
+                 nation. De ska därför vara hela, rena och bäras på rätt sätt. Observera att detta
+                 även gäller besökare i livsmedelslokalen.
+
+                Ansiktspiercing, klockor, ringar och örhängen bärs inte.
+
+                Hårskydd ska användas.
+
+                Arbetskläder ska vara rena, och förvaras så att de inte förorenas då de inte an-
+                 vänds.
+
+
+            4.3.3. Handhygien
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Bild nr 10. Två stycken upprättade handtvättställ. Hygienutr kokgr/s M8220-506010 Foto: Martin Zet-
+            terman/TrängR.
+
+            Väl rengjorda händer är en förutsättning för en god hantering av livsmedel. Naglar ska
+
+            vara korta och omålade med hela nagelband. Händerna tvättas med tvål och varmt vat-
+            ten när så behövs, t.ex. före arbetet, efter toalettbesök, efter avfallshantering etc.
+
+            Nagelborste används vid behov. Torkning av händer sker med engångsmaterial. Kom-
+
+            plettera handtvätten med handsprit vid behov.
+
+
+
+
+
+                                        37
+                                     HANDBOK
+
+
+
+
+             Utdrag ur en detaljerad handtvätts-
+             instruktion.
+
+              Handflatorna mot varandra
+
+              Höger hand mot vänster handrygg
+               och tvärtom
+              Fläta fingrarna med handflatorna
+               mot varandra
+
+              Omslut fingrarna med motsatta
+               handens fingrar och gnid mot hand-
+               flatan
+              Grip om tummen med motsatta
+
+               handen och tvätta med roterande
+               rörelse
+              Gnugga handflatan med motsatta
+               handens fingertoppar
+
+
+
+
+
+
+            Bild nr 11. Handtvättsinstruktion. Anna-Karin Wetzig, FSV/GP.
+
+
+            4.3.4. Hälsoläge och sjuk personal
+
+            Personal som har infekterade sår på händerna ska normalt inte arbeta med oförpackade
+            livsmedel. Om så ändå måste ske ska såren täckas så att livsmedel inte kan kontamine-
+            ras. Det gäller även sår på andra exponerade kroppsdelar som armar eller ansikte.
+
+
+            Handskar i kombination med plåster kan användas för att skydda livsmedel vid hante-
+            ring men användning av handskar innebär inte automatiskt att hygienen är god. Det är
+            viktigt att handen är ren innan handsken tas på.
+
+            Handskar måste bytas kontinuerligt mellan och ibland under olika arbetsmoment.
+
+
+            Generellt ska handskar undvikas och händerna ska istället tvättas ofta. Tänk på att det i
+            handsken är en perfekt varm och fuktig miljö för tillväxt av mikroorganismer.
+
+            Om handsken går sönder kan mängder med mikroorganismer komma på livsmedel man
+            tar på.
+
+
+
+
+                                        38
+                                     HANDBOK
+
+
+
+            Nedan följer en lista på situationer där man inte ska arbeta med livsmedel:
+
+                Personal som har bandage som gör att god handhygien inte är möjlig ska heller
+                 inte hantera oförpackade livsmedel.
+
+
+                Personal som är förkyld eller har ont i halsen ska inte arbeta med oförpackade
+                 livsmedel så länge man har symptom.
+
+                Personal med diarré eller kräkningar ska inte arbeta med oförpackade livsmedel.
+
+                 48 timmars karens rekommenderas efter sista symptom innan arbete med oför-
+                 packade livsmedel återupptas.
+
+                Även infektioner i ögon, öron och hud kan vara anledning att inte hantera oför-
+
+                 packade livsmedel.
+
+                Lokalanställd personal bör, om de hanterar oförpackade livsmedel, ha ett doku-
+                 menterat hälsoläge och en dokumenterad kunskap om livsmedelshygien som
+
+                 motsvarar kraven för Försvarsmaktens personal.
+
+                Anmäl utlandsvistelser till högre chef.
+
+
+                Anmäl alltid ohälsa till högre chef.
+
+                Personal som hanterar oförpackade livsmedel ska lämna hälsodeklaration varje
+                 år med början vid anställningstillfället
+
+
+                Personal som hanterar oförpackade livsmedel ska efter utlandsvistelse utanför
+                 Norden lämna hälsodeklaration.
+
+            För vissa specifika infektionssjukdomar gäller att smittfrihet måste verifieras oavsett
+
+            hur personen mår innan arbete med oförpackade livsmedel kan tillåtas. Detta gäller till
+            exempel salmonella, shigella (dysenteri) och Enterohemorragisk E. coli-infektion
+            (EHEC)
+
+
+
+            4.3.5. Rengöring av utrustning och lokaler, disk
+            Utrustning som används vid hantering av livsmedel ska vara mycket väl rengjord.
+
+            Redskap som är slitna så att rengöringen försvåras ska kasseras och bytas ut.
+
+            Om ytor ska desinficeras, läs på förpackningen hur produkten ska hanteras.
+            Även rengöringsutrustning ska rengöras regelbundet och förvaras så att den inte åter-
+            kontamineras.
+
+                                        39
+                                     HANDBOK
+
+
+
+            Köket ska ha separat städutrustning som ska förvaras så att den lätt torkar. Lämpligen
+            märkt med annan färg för att inte sammanblandas med övrig städutrustning.
+
+            Moppgarner ska tvättas i minst 60°C.
+
+
+            4.4. Förvaring, tid och temperatur
+
+            Att förvara livsmedel på ett säkert och korrekt sätt är viktigt.
+            Nedan följer en lista på lämplig förvaring, tid och temperaturer för livsmedel:
+
+
+                Frysta varor ska tinas i upptiningskyl eller på avdelad plats i kyl, aldrig i
+                 rumstemperatur. Omfrysning får inte förekomma.
+
+
+                 Nedkylning av mat som ska kylförvaras ska ske snarast och nedkylningen ska
+                 därför ske under former så att detta underlättas. Kärl är lämpligen vida och nivån
+                 låg. Rostfritt kyls snabbare än plast och är därför att föredra.
+                 Kontamination från andra livsmedel ska undvikas.
+
+
+                 Värmebehandlade livsmedel ska ha en kärntemperatur under +8°C eller lägre
+                 inom 4 timmar från det att nedkylningen påbörjades.
+
+                 Infrysning. I förvaringsfrys ska normalt ingen infrysning ske, men om det är
+
+                 nödvändigt får infrysningsmängden, i förekommande fall, inte överskrida 10 %
+                 av frysens volym. Livsmedlet ska förpackas i så små förpackningar som möjligt
+                 och spridas i frysutrymmet. Dessa åtgärder gör att infrysningen sker snabbare
+                 och att den relativa påverkan på frysens temperatur blir mindre.
+
+
+                 Värmebehandling. Kärntemperaturen ska uppgå till minst 60°C.
+                 Vissa livsmedel kräver dock en högre kärntemperatur 72°C exempelvis kyck-
+                 ling. Varmhållning av tillredd mat ska ske vid lägst 60°C (läs mer i Generalläka-
+                 rens föreskrifter bilaga 9.5).
+
+
+                 Varmhållning bör inte ske längre tid än två timmar från det att rätten är färdigla-
+                 gad tills den serveras. Näringsvärdet försämras i livsmedlet vid varmhållning.
+                 Dessutom försämras textur och smakupplevelsen. Varmhållen mat som inte ut-
+                 spisas vid tillagningsplatsen ska vara märkt med tidpunkten då maten förpackats
+
+                 i isolerkärl eller motsvarande förvaringsutrustning.
+                Återuppvärmning av mat är en livsmedelshygienisk risk om temperaturen inte
+
+                 blir tillräckligt hög, och temperaturen ska då överstiga +72°C i hela maträtten.
+
+                Paketering/portionering av färdig mat ska ske i utrymme där den inte kan kon-
+                 tamineras.
+
+                                        40
+                                     HANDBOK
+
+
+
+                Behållare, förvaringslådor ska vara av sådant material så att livsmedlet inte kon-
+                 tamineras. Behållaren ska skydda livsmedlet och hålla rätt temperatur för livs-
+                 medlet. Behållaren ska vara lätt rengörbar och kunna desinficeras vid behov.
+
+
+                Utleverans. Fordon, värmeskåp, kylboxar m.m. ska hålla rätt temperatur.
+
+                Färdigförpackade livsmedel ska märkas och presenteras enligt (EU) nr
+
+                 1169/2011 (bilaga 9.2) Informationsförordningen samt SLVFS 2014:2.
+
+                 Om maten omedelbart kommer att förtäras ska information om matens innehåll
+                 kunna ges. Detta medför att vid mottagandet av redan tillagad mat som inte har
+                 förpackats ska information medfölja som antingen kan vara muntlig, skriftlig el-
+
+                 ler på annat sätt vara överförd för att rätt information om matens innehåll ska
+                 kunna ges på den plats där maten serveras.
+
+                 Soldaten/sjömannen ska alltid kunna få korrekt information om matens innehåll.
+
+                 Se SLVFS 2014:4, 8–10 §§.
+
+                 Bakning med mjöl. Mjöldamm är en livsmedelshygienisk risk då det innehåller
+                 både allergener (gluten) och sporer av bacillus cereus. Därför ska det normalt
+                 finnas separata utrymmen för deghantering.
+
+
+                 Mjöldamm får inte spridas utanför degrum till redskap, händer och arbetskläder.
+                 Ska bakning ändå ske behövs en noggrann faroanalys göras. Faroanalysen
+                 kanske visar att åtgärder som separata baktider med extra rengöring möjliggör
+
+                 bakning.
+                Specialkost. Personer med livsmedelsallergi, överkänslighet och annan sjukdom
+                 ställer krav på effektiv rengöring och separering då korskontamination kan ske
+
+                 med allvarliga konsekvenser. Faroanalys behöver göras med följande hänsyn:
+
+                      Typ av allergi, överkänslighet, intolerans eller annan sjukdom
+
+                      Sannolikhet för att specialkosten kan förorenas
+
+                      Konsekvens för den drabbade
+
+            4.4.1. Förvaring
+
+
+             Observera!
+
+             Det är viktigt att kylkedjan hålls intakt hela vägen. Se illustration livsmedelskedja
+             kapitel 1.1.1
+
+
+                                        41
+                                     HANDBOK
+
+
+
+            Vid hantering av livsmedel ska sådana försiktighetsmått vidtas att fara inte uppkommer
+            för att livsmedel förorenas eller blir otjänliga som människoföda. Detta innebär att ut-
+            rustning och fordon ska vara lämpliga för förvaring och transport av livsmedel.
+
+            Olika typer av livsmedel ska hållas åtskilda från varandra och separeras från gods som
+
+            kan inverka negativt på livsmedels användbarhet.
+
+            Förvaring sker i enlighet med information från leverantör vilket framgår av förpack-
+            ningen.
+
+            Då hållbarhetstiden passerat på en vara är det förbandet/Försvarsmakten som övertar
+            ansvaret för att bedöma om ett livsmedel kan användas eller måste kasseras.
+
+            Då egen tillagad mat kyls ner eller fryses in måste rutiner finnas för att bedöma hur
+
+            länge maten är hållbar d.v.s. bäst före datum, gäller även storpack av färska råvaror.
+
+            Extra känsliga råvaror där sista förbrukningsdag har passerat ska alltid kasseras.
+
+            Livsmedel ska förvaras i sina leveransförpackningar så länge som möjligt. Livsmedel
+            som inte kräver särskild förvaringsmiljö, förvaras täckt på läkt, trätrall, lastpallar eller
+            minst 12 cm över underlaget.
+
+
+            Vid förvaring utomhus ska såväl under- som översida täckas med presenning.
+
+            Vid risk för minusgrader ska vattenhaltiga livsmedel (grönsaker, frukt, potatis och rot-
+            frukter m.m.) förvaras frostfritt. Saknas tillgång till uppvärmda lokaler eller tält, skyd-
+            das varan mot kyla med hjälp av papper, träull eller liknande.
+
+            Vid högre förbands livsmedelsplats, som t.ex. trosskompani, marinbas, livsmedelstropp
+
+            och flygbasenhet förvaras livsmedel som kräver särskild förvaringsmiljö i kylbil, kyl-
+            släp, kylcontainer, fryscontainer eller förrådscontainer.
+
+            Funktionen hos kylande enheter ska kontrolleras enligt egenkontrollen. Läs mer under
+            kapitel 3.
+
+            Torrförvaring
+
+                Välventilerat och torrt
+
+                Skadedjurs säkrat
+
+                Lätt rengörbart
+
+                Temperaturen bör vara högst +20°C och luftfuktigheten högst 60 %.
+
+
+
+
+                                        42
+                                     HANDBOK
+
+
+
+            4.4.2. Temperaturdisciplin
+            Livsmedel ska hanteras, förvaras och transporteras på ett sådant sätt att ett eventuellt
+
+            smittämne inte kan tillväxa.
+
+            Temperatur ska mätas med kalibrerad utrustning. Tänk på att rengöra insticksdelar och
+            givare till termometern före och efter användning.
+
+            Kall mat, kyld mat, nedkylning och frysförvaring
+
+                Kylkedjan får inte brytas
+
+                Aktiv kyla krävs för hantering av vissa livsmedel, se tabell
+                Förvaring av kylvaror ska ske så att kärntemperaturen inte överstiger +2–8°C.
+
+                Infryst mat ska märkas med varuslag och datum för infrysningen.
+
+
+            4.4.3. Livsmedel som kräver kylförvaring
+
+            Livsmedel som kräver kylförvaring måste hanteras enligt system för egenkontroll. Läs
+            mer under kapitel 3.1
+
+
+            4.4.4. Varuflöde mottagning
+
+            Bilden på nästa sida visar varors flöde och vilka risker som finns i de olika momenten.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        43
+                                     HANDBOK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Bild nr 12. Varuflöde och mottagning. Anna-Karin Wetzig, FSV/GP.
+
+
+
+
+
+
+
+                                        44
+                                     HANDBOK
+
+
+
+            4.4.5. Förvaringstemperaturer
+
+
+            På förpackning av livsmedel framgår gällande förvaringstemperaturer.
+
+
+            4.4.6. Skydd mot CBRN
+
+
+            I händelse av krigföring med kemiska, biologiska, radiologa och nukleära medel finns
+            vissa åtgärder att vidta.
+
+
+            I Handbok CBRN Grunder finns att läsa ”God personlig hygien vid matlagning och ut-
+            spisning, rengöring av soldatkök och förvaringsutrymme för mat och dryck samt red-
+            skap och utrymmen för tillredning av föda är av avgörande betydelse.
+
+
+            Om möjligt, ät endast portionsförpackad mat/dryck eller ordentligt upphettad eller kokt
+            mat.
+
+            Bevakning av vattentäkter och matförråd ordnas för att försvåra sabotage.
+
+
+            Extra chock-klorering av vatten kan förberedas.
+
+            Läs mer i gällande Handbok CBRN Grunder
+
+
+
+            4.4.7. Speciallivsmedel/ration
+
+
+            Speciallivsmedel/ration uppfyller speciella krav på lagringsbeständighet, hanterbarhet
+            och tillagning med mera. Speciallivsmedel sammanförs med hänsyn till användningsän-
+            damål i satser, oftast dygnsportioner som finns med olika energiinnehåll.
+
+
+            Läs mer i gällande Handbok Förnödenhetsförsörjning.
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        45
+                                     HANDBOK
+
+
+
+            5.   Vattenhantering
+
+            Tillgång till rent vatten är en nödvändighet för soldatens/sjömannens överlevnad och för
+            upprätthållande av förbandets operativa effekt (stridsvärde).
+
+
+            Därför är vattentjänsten en viktig del av förplägnadstjänsten och omfattar bland annat
+            rekognosering av vattentäkt, rening, distribution och förvaring av renat vatten.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Bild nr 13. Bilden visar soldater som förbereder klorering av dricksvatten. Foto: Jonas Petters-
+            son/TrängR
+
+
+
+            5.1. Lagstiftning och Försvarsmaktens regelverk
+
+            Regler om dricksvatten återfinns i Livsmedelsverkets föreskrifter om dricksvatten.
+
+            Vid framställning av förpackat dricksvatten tillkommer även Livsmedelsverkets före-
+            skrifter om naturligt mineralvatten och källvatten samt Informationsförordningen och
+            SLVFS 2014:2 om livsmedelsinformation.
+
+            Generalläkarens föreskrifter om livsmedelsverksamhet inom Försvarsmakten inkluderar
+
+            vattenhantering. (bilaga 9.5)
+
+
+
+
+                                        46
+                                     HANDBOK
+
+
+
+            För att få rena vatten från vattentäkt (sjö) krävs tillstånd. Kontakta garnisonernas mark-
+            och miljöhandläggare för vidare information om hantering och handläggning av sådant
+            ärende.
+
+            . D ricksvatten
+
+             25 § Livsmedelsföretagare ska införa och upprätthålla ändamålsenliga rutiner för
+
+             egenkontroll av vattenverk och distributionsanläggning. I verksamhetsutövares egen-
+             kontroll ska ingå uppgifter om vattenvolym per dygn, mikrobiologiska och kemiska
+             parametrar som undersöks inklusive frekvens samt provtagningspunkter i enlighet med
+             Livsmedelsverkets föreskrifter (SLVFS 2001:30) om dricksvatten.
+
+
+             27 § För vattenverk och distributionsanläggningar av dricksvatten tillämpas Livsme-
+             delsverkets föreskrifter (SLVFS 2001:30) om dricksvatten. Avseende provtagningsfre-
+             kvenser tillämpas bestämmelserna i bilaga 3 avsnitt C tabell II i nämnda föreskrifter.
+                                                             FFS 2012:4
+
+
+             Kvalitetskrav
+
+             7 § Dricksvatten ska vara hälsosamt och rent. Det ska anses vara hälsosamt och rent
+             om det:
+
+               –  inte innehåller mikroorganismer, parasiter och ämnen i sådant antal eller såd-
+                  ana halter att de kan utgöra en fara för människors hälsa, och
+               –  uppfyller de gränsvärden som anges i bilaga 2, avsnitt A och B. (LIVSFS
+                  2015:3)
+
+
+                                                          SLVFS 2001:30
+
+
+            Författningstexten innebär att personal som distribuerar dricksvatten måste känna till
+
+            vilka parametrar som gäller för att säkerställa kvalitén.
+
+            Vatten klassificeras som ett livsmedel och följer därmed samtlig livsmedelslagstiftning.
+
+            Till skillnad från övrig livsmedelshantering kräver lagstiftningen gällande dricksvatten
+            att provtagning ska ske enligt en bestämd frekvens. Det som då ska kontrolleras är före-
+            komst av mikroorganismer samt kemikalier.
+
+
+            5.2. Vattenkvalité
+
+            Dricksvatten och vatten som används för beredning av livsmedel ska hålla dricksvatten-
+            kvalitet enligt svensk och europeisk livsmedelslagstiftning.
+
+
+
+                                        47
+                                     HANDBOK
+
+
+
+            Allt vatten som används till mat, dryck, disk, personlig hygien och för sjukvårdsbehov
+            ska renas, det vill säga filtreras och desinfekteras.
+
+            Vatten av dricksvattenkvalitet, vatten för livsmedelsberedning, vatten för sjukvårdsbe-
+            hov och hygienvatten benämns också renat vatten.
+
+
+            I de fall där Försvarsmakten under en pågående insats eller ombord på marinens fartyg
+            själv producerar vatten av dricksvattenkvalitet, alternativt har överlåtit denna uppgift till
+            en kontraktor, kan det av logistiska skäl eller andra orsaker vara svårt att utföra de mi-
+            krobiologiska och kemiska kontroller som civil lagstiftning kräver.
+
+
+            Vid rening av vatten i Försvarsmakten används metoden filtrering, omvänd osmos och
+            ultraviolett bestrålning (UV). Vid ytterligare desinfektion används klor till en nivå om
+            minst 0,2 mg/l och till max 0,4 mg/l fritt klor.
+
+
+            5.2.1. Hygienvatten
+            Vid bristsituation med dricksvatten kan Försvarsmakten övergå till hygienvatten. Med
+            detta avses vatten som används till personlig hygien. Hygienvatten ska vara hälsomäss-
+
+            igt säkert i förhållande till det avsedda ändamålet. I normalfallet innebär detta enligt
+            FMR Fömed G att vattnet ska vara filtrerat och desinfekterat till en nivå fritt klor om
+            minst 0,5 ppm (från reningssteg till användning).
+
+
+            Hygienvattnet är ett vatten som ska vara fritt från mikrobiella föroreningar, men som
+            inte är garanterat fritt med avseende på kemiska föroreningar. För att vattnet ska vara
+            fritt från de klorresistenta protozoerna innebär detta att filtreringssteget bör fånga upp
+            dessa vilket innebär en filterstorlek om ca 1 µm (enligt vedertagen vetenskap).
+
+
+
+            5.3. System för egenkontroll av vatten
+
+            När Försvarsmakten producerar vatten av dricksvattenkvalitet och hygienvatten ska det
+            finnas ett system för egenkontroll för vattenframställningen och vattenhanteringen.
+
+            Kontrollen ska inkludera alla delar i hanteringen från användning av råvatten till dess att
+
+            vattnet når slutanvändaren. Vid förändringar av verksamheten ska egenkontrollen revi-
+            deras.
+
+            Förband som producerar vatten av dricksvattenkvalitet registrerar verksamheten hos
+            Försvarsinspektören för hälsa och miljö (f.d.Generalläkaren)
+
+            Personal som hanterar vatten av dricksvattenkvalitet ska ha utbildning som omfattar:
+
+                Handhavande, skötsel och underhåll av vattenreningsutrustning
+                System för egenkontroll
+
+                                        48
+                                     HANDBOK
+
+
+
+            Utbildningen ska dokumenteras, läs mer i FMR Fömed G.
+
+
+            5.4. Dygnsbehov
+
+            Dygnsbehovet av vatten är ca 20 liter per person och ca 5 liter per tjänstehund. Fördel-
+
+            ning av vatten för dryck, matlagning, disk och personlig hygien enligt nedan:
+
+                Dryck och matlagning: 8 liter/dygn och person
+
+                Handdisk: 5 liter/dygn och person
+                Personlig hygien: 5 liter/dygn och person
+
+                Sjukvård vid främre enhet: 2 liter/dygn och person
+                Hund, vatten för dryck mat och hygien, 5 liter/dygn och hund
+
+
+
+            5.5. Rening av vatten
+
+            Riktvärden i detta kapitel baseras på Livsmedelsverkets föreskrifter samt avdömningar
+            Försvarsmakten gjort.
+
+            I Förvarsmakten är den vanligaste metoden vid vattenrening: förfiltrering, omvänd os-
+            mos, UV behandling och klorering.
+
+
+                Förfiltrering tar bort större partiklar ur vattnet som ska renas.
+
+                Omvänd osmos är ett membran (ytterst fint filter) där vattenmolekylerna pressas
+                 igenom och kemikalier samt mikroorganismer avskiljs.
+
+                Uv behandling förstör mikroorganismernas möjligheter till reproduktion d.v.s.
+                 steriliserar dem.
+
+                Klorering är mycket effektiv mot mikroorganismer men har dock inte alltid ef-
+                 fekt på virus samt ringa effekt på protozoer. Samtidigt att beakta är att pH värdet
+                 har stor betydelse på huruvida kloret har effekt eller inte.
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        49
+                                     HANDBOK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Bild nr 14. Bilden föreställer Vattenrenare omvänd osmosM2312-218021 lastad på rullflak. Fotograf,
+            Jonas Pettersson/TrängR
+
+            Kokning är annat utmärkt sätt att ta bort mikroorganismer, virus och parasiter från ett
+
+            vatten. Vattnet ska koka kraftigt för att säkerställa avdödning.
+
+            På hög höjd (2000 meter) rekommenderas att vattnet kokar någon minut då vattnets
+            koktemperatur minskar med avtagande tryck.
+
+            Kokning avlägsnar dock inte partiklar och de flesta kemikalieföroreningarna.
+
+
+            5.5.1. Klorering
+
+            Vid desinfektion av vatten tillsätts klor i form av hypoklorit (natriumhypoklorit eller
+            kalciumhypoklorit). Vilken halt fritt aktivt klor som uppnås är beroende av bland annat
+            vattnets pH-värde.
+
+            Vid högre pH-värden avtar klorets effekt (halten fritt aktivt klor minskar). För att få en
+
+            fullgod desinfektionseffekt måste en viss minimihalt av fritt aktivt klor alltid upprätthål-
+            las i alla delar av ett vattensystem.
+
+
+
+
+
+
+                                        50
+                                     HANDBOK
+
+
+
+            För desinfektion av vatten med klor används oftast en lösning av natriumhypoklorit el-
+            ler ett granulat i form av kalciumhypoklorit (se nedan). Oavsett vilket ska klornivåerna i
+            vattensystemets olika delar kontrolleras regelbundet.
+
+
+            Kontrollerna ska dokumenteras och ske inom ramen av system för egenkontroll.
+
+            Kontrollerna bör ske på utgående vatten (från vattenreningen) och på ledningssystemet,
+            förvaringstankarna eller vad som nu är aktuellt. Finns det ett ledningssystem (som ex-
+
+            empelvis på en camp) bör det finnas såväl fasta provtagningspunkter (så att det går att
+            följa förändringar över tid) som slumpmässigt valda provtagningspunkter.
+
+
+            5.5.2. Natriumypoklorit
+            Natriumhypoklorit förekommer endast som vattenlösning. Natriumhypoklorit är frä-
+
+            tande på vävnader och kan ge frätsår vid kontakt med hud och ögon. Det finns risk för
+            bestående synskada, blindhet vid stänk av lösningen.
+
+            Vanligen håller en koncentrerad natriumhypokloritlösning ca 150 g aktivt klor per liter
+            (15 %) vid leverans från produktionsställe.
+
+
+            Natriumhypoklorit bryts snabbt ner, men hastigheten är beroende av bland annat tempe-
+            ratur, ljus och eventuell kontakt med vissa metaller (bland annat järn).
+
+
+            Vid rumstemperatur minskar koncentrationen med ca 0,4 g/liter under de fem första
+            månaderna. En lösning på 150 g ClO-/l håller alltså efter 150 dagar ca 90 g ClO-/. Däref-
+            ter minskar hastigheten för att plana ut vid en koncentration om ca 40-50 g per liter.
+
+            Vid denna och lägre koncentrationer kan natriumhypoklorit betraktas som en relativt
+
+            stabil lösning.
+
+
+            5.5.3. Kalciumhypoklorit
+            Samma försiktighetsåtgärder gäller för kalciumhypoklorit som för natriumhypoklorit.
+
+
+            För desinfektion av dricksvatten ska ett drygt mått (=1 ml) kalciumhypoklorit upp-
+            slammas i ca 0,5 liter filtrerat vatten, varefter uppslamningen omedelbart och under om-
+            rörning tillsätts 1000 liter filtrerat vatten.
+
+
+
+
+
+
+
+
+                                        51
+                                     HANDBOK
+
+
+
+            För ett vatten som inte innehåller organiska föroreningar ger detta ett klorvärde om ca
+            0,4–0,5 mg/l.
+
+
+             KOM IHÅG!
+             Att klorberäkningen i H Prev med 2006 medför en koncentration av aktivt klor som –
+             då lösningen stabiliserats och förutsatt att vattnet inte är förorenat med organiska
+             föroreningar – är ca 10 ggr högre.
+
+
+            Kommunalt dricksvatten klassas som hälsomässigt säkert vid direkt förbrukning så
+
+            länge inget annat anges.
+
+            Vid längre tidsförvaring, längre än 24 timmar, ska vattnet desinficeras med klor för
+            livsmedelssäkerhetens skull.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        52
+                                     HANDBOK
+
+
+
+            6.   Fältkök
+
+            Förplägnadstjänsten uppgift är att upprätthålla det fysiska stridsvärdet och därmed den
+            operativa effekten på förbandet.
+
+
+            Då det inte finns möjligheter eller tillgång till att äta i matsal upprättas ett fältkök.
+
+            Fältköken varierar och det finns olika modeller av containerkök samt kokkärror.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Bild nr 15. Illustrationen visar hur amfibiekokets container är utformad i nuläget. Den är sjöklassad
+            vilket innebär att den kan förflyttas på fartyg och producera måltider, den kan även baseras på land med
+            samma typ av verksamhet. Anna-Karin Wetzig, FSV/GP.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        53
+                                     HANDBOK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Bild nr 16. Bilden visar ett fältgrupperat och maskerat fältkök med koktraktorkärra 112 och kyl/frys-
+            livsmedels container. Fotograf Martin Zetterman/TrängR
+
+
+
+            6.1. Grupperingsplats för fältkök
+
+            Nedanstående avstånd och riktvärden är vedertagna i Försvarsmakten.
+
+                Underlagets beskaffenhet ska vara plan, fast och torr. Därtill måste det fastställas
+                 hur avfallshantering ska ske på grupperingsplatsen. Läs mer under kapitel 7.1.2
+                 Eventuella frågor ställs till utsedd ansvarig på förbanden angående miljöfrågor.
+
+                 Avståndet till djurstallar eller soptipp ska minst vara 100 m i syfte att minimera
+                 kontamineringsrisker.
+
+                Plats för sopor ska finnas anordnad utanför fältkökets avspärrning. Kommunal
+
+                 lagstiftning gäller, men generellt ska sopor källsorteras och transporteras till mil-
+                 jöstation minst en gång varje dygn.
+
+                 Åtgärder bör vidtas så att skadedjur som t.ex. möss, råttor och fåglar inte kan
+                 komma åt matavfall och sopsäckar.
+
+
+
+
+
+
+                                        54
+                                     HANDBOK
+
+
+
+                Särskild plats för drivmedelsdunkar ska finnas utanför avspärrning. Drivmedels-
+                 dunkar ska placeras på spillduk.
+
+
+                 Det ska finnas utrustning för omhändertagande av spill på platsen, såsom spade,
+                 absorptionsmedel, och sopsäckar.
+
+            Avstånd i fältmiljö ska ses som riktvärden. I krigstid tillkommer mörkerdisciplin,
+            skydd, fienden m.m. som kan leda till att avstånden minskas. Dock måste principerna
+
+            kring den egna vattentäkten och hygien upprätthållas.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Bild nr 17. Schematisk bild av kokets gruppering med lämpliga avstånd till olika aktiviteter. Det finns
+
+            inga lagar och föreskrifter som angett de angivna avstånden. Avstånden som anges är erfarenhetsbase-
+            rade i Försvarsmakten. Anna-Karin Wetzig, FSV/GP.
+
+
+
+                                        55
+                                     HANDBOK
+
+
+
+            6.2. Upprättande av fältkök
+
+            Följande åtgärder vidtas när fältkök upprättas, efter att grupperingsplatsen har rekogno-
+            serats av köksutbildad personal eller kokgruppchef.
+
+            Att tänka på vid gruppering av fältkök utöver de vanliga åtgärderna vid gruppering.
+
+
+                Gruppera fältkök och fordon så att rena och smutsiga flöden om möjligt inte kor-
+                 sas.
+                El kablage dras i el-gator och elnätskiss över platsen upprättas. Tänk på att el-
+                 verk ska stå så långt bort att avgaser inte driver in i fältköket.
+
+                Ordna förplägnadsmateriel på grupperingsplatsen enligt gällande egenkontroll-
+                 program.
+                Byt om till rätt klädsel
+
+
+
+            6.2.1. Viktigt att beakta vid upprättande av fältkök
+
+
+                Avståndet mellan fältköket och utspisningsplatsen bör inte vara för stort.
+
+                Använd utbildad handräckningspersonal för diskning, spillvattengrop, sophante-
+                 ring och andra sysslor utanför avspärrningen.
+
+
+                Servera och utspisa om möjligt i uppvärmt utrymme, som tält eller motsvarande.
+
+                Tillhandahåll varmt vatten för uppvärmning av matkärl och diskning av kokkärl.
+
+
+                Skydda vattenmateriel mot kyla.
+
+                Använd granris eller annat underlag på arbetsplatser samt under materiel som
+                 ska skyddas.
+
+
+                Placera aldrig livsmedel direkt på marken eller snön.
+
+
+                Lämna aldrig materiel ute över natten, på grund av risk för snöfall och stöld av
+                 materiel.
+
+
+
+
+
+
+
+
+                                        56
+                                     HANDBOK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Bild nr 18. Fältgrupperat fältkök. Anna-Karin Wetzig, FSV/GP.
+
+
+
+            6.3. Strömförsörjning och elsäkerhet
+
+            Allt som berör el och strömförsörjning finns att läsa i Handbok Elsäkerhet.
+
+            Nedan följer det viktigaste vid upprättande av fältkök.
+
+                För att upprätta ett fältkök krävs det en eldriftsansvarig, behöver inte vara ur
+
+                 kokgruppen.
+                För att identifiera och dokumentera de olika rollerna inom elsäkerheten, kontak-
+
+                 tas förbandets elsäkerhetshandläggare.
+                För reparationer på elsystemet, kontakta förbandets elinstallatör.
+
+                Att koppla ihop el material på en fältköksplats (så länge man använder normsatt
+                 el-materiel, d.v.s. M- och F-nummersatt materiel levererad av FMV) kräver inte
+                 el-behörighet.
+
+
+
+                                        57
+                                     HANDBOK
+
+
+
+                Undvik att lägga elkablar över väg utan att använda överkörningsskydd. Vinter:
+                 Försök att hänga upp kablar för att undvika att de fryser fast i mark/is/snö.
+
+                Väder skydda elkablar under transport för att undvika nersmutsning och försök
+                 att minimera åverkan i form av hög värme samt fukt.
+                Genomför okulär besiktning av utrustningen i samband med att den tillfälliga el-
+
+                 anläggningen byggs upp. Anmäl felaktigheter (fortlöpande underhåll).
+                Den som utsatts för strömgenomgång ska transporteras till sjukhus för under-
+                 sökning.
+
+                Det är inte tillåtet att använda trasig eller felaktig el-materiel/ bruksföremål.
+
+                Generellt får endast el-materiel/bruksföremål som är verksamhetstillhörande
+                 (inga privatägda t.ex. MP3-spelare, stereoapparater, mobiler och datorer som
+                 inte är tillhandahållna av Försvarsmakten) anslutas/ användas i tjänsten.
+
+                Om två eller flera elverk, containerelverk eller elverksmoduler placeras nära
+                 varandra eller intill annat ledande föremål med jordpotential och avståndet mel-
+                 lan dessa i någon punkt understiger 2 meter, ska potentialutjämning utföras (jor-
+                 delektrod, d.v.s. ”spett”) Detta för att personal inte ska kunna utsättas för ström-
+                 genomgång om de tar i till exempel två moduler med olika spänningsnivåer.
+
+                I dagsläget (2017) finns det ingen metod för att potentialutjämna utan ett jord-
+                 spett.
+
+
+            Läs mer i gällande Handbok Elsäkerhet.
+
+
+            6.4. Utlämningsplats färdiglagad mat
+
+            Utlämningsplats finns till för att underordnade förband ska kunna hämta större mängder
+            färdiglagad mat, exempelvis i isoleringskärl.
+
+
+            Följande åtgärder vidtas för enhet som levererar färdiglagad mat.
+
+            Vid leverans av måltider är det viktigt att komma ihåg följande:
+                Termometer ska finnas
+
+                Varmt vatten för disk ska medfölja till utspisningsplatsen.
+
+                Isolerkärlen ska märkas med uppgifter om innehåll, antal och storlek på portion-
+                 er, vilken tid isolering sker, vem som ska ha maten, temperatur vid isolerings
+                 tillfället.
+
+                Utskicksrapport ska medfölja. Se exempel bild Utskicksrapport.
+                Matgästen ska informeras om livsmedels innehåll.
+
+            Dessa åtgärder ska vidtas vid varje leverans.
+
+                                        58
+                                     HANDBOK
+
+
+            Exempel Utskicksrapport
+
+                                 Utskicksrapport
+
+
+
+
+            Mottagare………………………………..   Datum…………….
+            Varm mat packad kl……………………..
+
+            Antal port………………………………..
+
+
+
+            Frukoststandard Lunchstandard Middagsstandard Kvällsmål
+
+            4 skivor mjukt bröd 2 skivor mjukt bröd 2 skivor mjukt bröd 4 skivor mjukt bröd
+            2 pkt margarin à 10 g 1 skiva hårt bröd 1 skiva hårt bröd 2 pkt margarin à 10 g
+            4 skivor ost à 10 g eller 1 pkt margarin à 10 g 1 pkt margarin à 10 g 2 port smältost à 15 g
+            motsv.        4 dl saft   4 dl saft    1 skiva leverpastej à15
+            2 dl varm dryck
+                                                   eller motsv.
+                                                   2 dl choklad
+            Måltidsinnehåll/port      Volym/mängd/port
+            …………………………………………………………    …………………………………………………………
+            …………………………………………………………    …………………………………………………………
+            …………………………………………          …………………………….......
+
+
+            Övrigt
+            …………………………………………………………………………………………………………………………
+            …………………………………………………………………………………………………………………………
+            …………………………………………………………………………
+
+
+            Utlämnad av……………………………………………………………………………………………
+
+            6.5. Servering av tillagad mat
+
+            Servering av tillagad mat sker vid en utspisningsplats.
+
+            Viktigt att beakta vid servering av tillagad mat
+
+                Utbildad personal serverar. (minst lägsta utbildningsnivå enligt kapitel 1.3)
+
+                Rätt serveringsutrustning.
+
+                Handtvättmöjlighet ska finnas.
+                Varmt vatten för diskning av utspisningskärl ska medfölja till utspisningsplatsen.
+
+                Det är förbjudet att återuppvärma isolerad mat som har passerat lägsta tempera-
+                 turen av + 60 ºC.
+
+                                        59
+                                     HANDBOK
+
+
+
+                Varmhållen mat ska temperatur kontrolleras, livsmedel som inte håller minst +
+                 60 °C får inte serveras och ska kasseras. Kylda livsmedel ska hålla en temperatur
+                 på max +8 ºC
+
+                All överbliven mat som varmhållits i isolerkärl eller på annat sätt varmhållits ska
+                 kasseras.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Bild nr 19. Exempel på arrangemang vid utspisningsplats. Anna-Karin Wetzig, FSV/GP.
+
+
+
+
+
+
+
+
+
+
+
+
+                                        60
+                                     HANDBOK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Bild nr 20. Fotografiet visar soldater vid utspisningsplats i fältmiljö. Fotograf Martin Zetterman/TrängR
+
+
+            6.6. Brytande av fältkök
+
+            Följande åtgärder vidtas när ett fältkök bryts för omgruppering.
+
+            Chef planerar i god tid i förväg och ger direktiv att förbereda sista måltiden på befintlig
+            plats samt första måltiden på ny grupperingsplats. En enkel måltid som kräver lite eller
+            ingen förberedelse är att föredra som sista och första måltid.
+
+            Planera i vilken ordning materielen ska brytas med hänsyn till pågående verksamhet.
+
+            Nedan följer ett exempel baserat på ett fältkök med funktionscontainrar:
+                Byt om till rätt klädsel.
+
+                Fyll upp vatten och drivmedel.
+
+                Gropar ska grävas igen och eventuellt matavfall tas omhand.
+
+
+             KOM IHÅG!
+             Sopor och latrin tas omhand av annan personal eller transporteras till därför av-
+             sedd plats före lastning och omgruppering.
+
+
+
+                                        61
+                                     HANDBOK
+
+
+
+            7.   Avfall
+
+            7.1. Avfallsinstruktioner
+
+
+            Observera!
+            Förbandschefs ansvarar för att lokala instruktioner för avfallshantering upprättas.
+            Arbetsuppgiften kan delegeras till enhets- och/eller skolchef.
+
+
+
+
+            7.1.1. Allmänt
+            Vid hantering av avfall gäller miljöbalkens hänsynsregler.
+
+
+            Grundläggande regler för hantering av avfall framgår av miljöbalken och avfallsförord-
+            ningen.
+
+            Varje förband och skola ansvarar för att lokala stående rutiner för insamling av avfall
+            upprättas.
+
+            I samband med övning görs en FRAGO (särskild order) där hänsyn tas till lokala in-
+
+            struktioner, kommunala renhållningsordningen, Generalläkarens föreskrifter samt åter-
+            vinningsföretagets regler.
+
+            I FMLOG rutin avfallstjänst (finns på intranätet emilia) framtagen av FMLOG Stab
+            framgår hur avfallsslag ska tas omhand.
+
+            Kommunala miljöstationer m.m. får endast användas om Försvarsmakten har ett avtal
+
+            med kommunen.
+
+            För mer information läs gällande Handbok Miljö.
+
+
+            7.1.2. Fältkok
+
+            Redan vid mottagningskontrollen sker en första sortering t.ex. av plast och papper som
+            läggs i lämpliga kärl.
+
+
+            FRAGO eller lokala instruktioner anger hur sorteringen ska genomföras. Sorteringen
+            ska göras så att avfallsslag separeras och förvaras avskilt.
+
+            Allt avfall ska förvaras i lämpliga kärl och inte ge upphov till problem med skadedjur
+
+            eller lukt.
+
+            I vissa fall kan det krävas tillgång till kylt soputrymme för blött köksavfall.
+
+                                        62
+                                     HANDBOK
+
+
+
+            7.1.3. Gråvatten
+            Användande av gråvatten i kök, disk och dusch (inte toalett)
+
+
+            Miljöbalken 1998:808 reglerar avloppsutsläpp i 9 kap miljöfarlig verksamhet och hälso-
+            skydd.
+
+            I miljöbalken anges bl.a. att ett utsläpp måste vara ringa och helt tillfälligt. Med ringa
+
+            menas att det inte stör omgivning eller miljö. Begreppet helt tillfälligt är mera oklart
+            men samråd med Försvarsinspektören för hälsa och miljö antyder att efter ca tre dygn
+            kan man inte längre säga att verksamheten är tillfällig.
+
+
+            Vid rekognosering av fältkökets tilltänkta grupperingsplats ska omhändertagande av
+            spillvatten särskilt beaktas.
+
+            Området bör inte vara belagt med restriktioner eller områdesskydd, t.ex. vattenskydds-
+            område. Vid tveksamhet, kontaktas Försvarsinspektören för hälsa och miljö tillsynssekt-
+
+            ion.
+
+            Kontrollera att det finns tillstånd för markberedning.
+
+
+            Grundkraven för fältkökets gruppering är följande:
+
+                Underlagets beskaffenhet ska vara plan, fast och torr. Därtill måste underlaget
+                 medge att små mängder av spillvatten från rengöring och matproduktion absor-
+                 beras samt inte bildar vattenansamling med stillastående vattenpölar. Vattenan-
+
+                 samlingar är en utmärkt grogrund för skadliga mikroorganismer samt vattenle-
+                 vande djur och drar till sig skadedjur.
+
+                Marken bör kunna dränera bort ~ 4–8 m3 spillvatten per dygn för ett fältkök.
+
+
+                Lämplig mark är morän eller stenbunden mark. Strävan bör dock
+                 vara att, om möjligt, avleda spillvatten till det kommunala avloppsnätet, alterna-
+                 tivt använda avloppstank när verksamhet förväntas pågå under tre dygn på
+
+                 samma plats. Ska infiltration fortgå efter tre dygn måste anmälan i god tid innan
+                 ha gjorts till Försvarsinspektören för hälsa och miljö tillsynsenhet. Efter tre dygn
+                 är avloppet inte tillfälligt utan ses som en avloppsanläggning.
+
+
+                Vid kall väderlek ska strävan vara att spillvatten kan ledas bort så att det kan ab-
+                 sorberas av marken eller övertäckas med grus för att förhindra att det bildas
+                 stora frusna ytor.
+
+
+
+                                        63
+                                     HANDBOK
+
+
+
+                Det är aldrig tillåtet att släppa ut matrester direkt i naturen utan en sil eller gran-
+                 ris bör användas till gråvattnet innan det går ut i natur. Det finns filter dock inte
+                 med M-nummer för utslagsvaskar samt durkslag som går att använda för att
+
+                 samla upp matrester. Förorenat granris kan därefter brännas innan platsen läm-
+                 nas.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        64
+                                     HANDBOK
+
+
+
+            8.   Avvikelsehantering
+
+
+
+             Definition och begrepp
+
+             Avvikelse: Felfunktion hos materiel eller felaktigt handhavande som har eller skulle
+             kunnat påverka säkerheten.
+
+
+             Tillbud: En avvikelse som inte lett till skada på person, materiel, egendom eller yttre
+             miljö.
+
+             Olycka: En avvikelse som orsakar skada på person, materiel, egendom eller yttre
+             miljö.
+
+                                                 Utdrag ur SäkR G 2017
+
+
+
+            Tillbudsrapportering är en viktig del i Försvarsmaktens systematiska arbetsmiljöarbete.
+
+            Syfte med rapportering av avvikelser är ytterst att åtgärder på lokal och central nivå ska
+            kunna ske för att förhindra att avvikelsen uppstår igen.
+
+            Rapportering av avvikelser kan ske till flera instanser beroende på vad det är som skett:
+
+
+                Generellt rapporteras avvikelser i avvikelsehanteringssystemet i PRIO.
+
+                Vid matförgiftningsfall ska alltid Försvarsinspektören för hälsa och miljö med-
+                 delas.
+
+                Avvikelse vid livsmedelsleverans t.ex. otjänliga livsmedel, utebliven leverans,
+                 kylkedja bruten ska även leverantören kontaktas för snabb åtgärd av ärendet.
+
+
+            Notera att allvarliga tillbud och olyckor ska anmälas till Arbetsmiljöverket.
+
+
+            Två incidenter med ohälsa som följd
+
+            På nästkommande sidor beskrivs två incidenter på utbrott av sjukdom kopplade mot
+            bristfällig livsmedelshantering. Båda exempel är förenklade för att passa i boken.
+
+
+
+
+
+
+
+
+                                        65
+                                     HANDBOK
+
+
+
+            Camp Marmal, Afghanistan
+
+            2006 drabbades ett hundratals norrmän av den allvarliga magsjukan shigella.
+
+            Tyskarna hade varit en tid på camp Marmal och de hade där öppnat ett serveringskök.
+            Tyskarna erbjöd norrmännen att äta hos dem och norrmännen tackade ja till erbjudan-
+
+            det.
+
+            Vid ett tillfälle drabbades norrmännen allvarligt av magsjuka och ett hundratal insjuk-
+            nade i shigella.
+
+            Shigella är en allvarlig matförgiftning som ger blodiga diarréer. Sjukdomen kallades
+            förr rödsot.
+
+            Händelseförloppet var följande.
+
+
+                 Soldaterna klagade på att de var trötta på rations.
+
+                 Den tyske befälhavaren beslutade att köket skulle öppnas för servering trots att
+                 det inte var färdigbyggt.
+
+                 I köket arbetade tyska kockar med matlagning och det fanns lokalanställda i dis-
+                 ken.
+
+                 En av diskarna visade sig senare vara frisk men var bärare utav shigellamikro-
+
+                 organismer i sin tarm.
+
+                 Diskaren diskade alla skärbrädor och la dessa blöta skärbrädor i en hög.
+
+
+                 Kökspersonalen hämtade skärbrädorna och skar kött och grönsaker.
+
+                 Köttet upphettades, grönsakerna lades i skålar på ett bord ute i serveringsdelen
+                 utan aktiv kyla.
+
+
+                 Serveringen tog ganska lång tid och när grönsakerna började ta slut i skålarna
+                 fyllde kockarna på med mera grönsaker
+
+            De norrmän som åt tidigt blev lindrigt sjuka och ju senare de åt desto svårare sjukdom
+
+            fick de. De insjuknade efter några timmar och som mest låg 100 personer sjuka och
+            många av dem krävde adekvat sjukvård med dropp.
+
+
+
+
+
+
+                                        66
+                                     HANDBOK
+
+
+
+            Abéché, Chad
+
+            2008 hade Sverige en styrka i Abéché. Till och från hade de haft problem med mag-
+            sjukdomar och då främst i form av cryptosporidier. Det svenska köket var stängt och
+
+            personalen var hänvisade till det franska köket.
+
+            Det franska köket sköttes av ett franskt köksbolag som uppvisade en gedigen egenkon-
+            troll och säkra livsmedel. Dock fanns starka indikationer på att det var vattnet som var
+            smittkällan. Det franska vattenverket fick inte man inte tillgång till att besikta men
+            franska köket visade upp ett protokoll från egenkontroll och intygade att vattnet var rent
+
+            från parasiter.
+
+            Ett par inspektioner utav köket genomfördes. Köket hade vatten från franska brunnen
+            som de renade i en egen anläggning. Vid tredje inspektionen var en veterinär från Sve-
+            rige med och denne såg att en av kockarna hämtade vatten från en annan kran och fyllde
+
+            en blomflaska med vatten. Det vattnet sprutade kocken på kall pastasallad för att den
+            skulle se aptitlig ut. Vattnet i den här kranen gick inte igenom kökets reningsverk utan
+            kom direkt från brunnen.
+
+            Det visade sig sedan att brunnen hade en extra rörledning ut till en annan brunn utanför
+            stängslet och den brunnen var förorenad.
+
+            Vattenverket hade inte en bra driftsinstruktion.
+
+
+            Vattenverket kontrollerade bara fritt klor och saknade kompetens och utrustning för
+            övrig provtagning.
+
+            Köket hade en kran med orenat vatten för golvstädning och som dessutom inte var
+            uppmärkt.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        67
+                                     HANDBOK
+
+
+
+            Bilaga    1
+                           Europaparlamentets förordning EU nr 178/2002
+
+            EUROPAPARLAMENTETS OCH RÅDETS FÖRORDNING (EG) nr 178/2002
+            av den 28 januari 2002 om allmänna principer och krav för livsmedelslagstiftning, om
+            inrättande av Europeiska myndigheten för livsmedelssäkerhet och om förfaranden i frå-
+            gor som gäller livsmedelssäkerhet
+
+            Artikel 3
+
+            Övriga definitioner
+
+            3. livsmedelsföretagare: de fysiska eller juridiska personer som ansvarar för att kraven i livsme-
+            delslagstiftningen uppfylls i det livsmedelsföretag de driver.
+
+            Artikel 14
+
+            Krav på livsmedelssäkerhet
+
+            1. Livsmedel skall inte släppas ut på marknaden om de inte är säkra.
+
+            2. Livsmedel skall anses som icke säkra om de anses vara
+            a) skadliga för hälsan,
+            b) otjänliga som människoföda.
+
+
+            Artikel 18
+
+            Spårbarhet
+
+            1. Livsmedel, foder, livsmedelsproducerande djur och alla andra ämnen som är avsedda för eller
+            kan antas ingå i ett livsmedel eller ett foder skall kunna spåras på alla stadier i
+            produktions-, bearbetnings- och distributionskedjan.
+            2. Livsmedels- och foderföretagarna skall kunna ange alla personer från vilka de har erhållit ett
+            livsmedel, ett foder, ett livsmedelsproducerande djur eller ett ämne som är avsett för eller som
+            kan antas ingå i ett livsmedel eller ett foder. I detta syfte skall livsmedels- och foderföretagarna
+            ha system och förfaranden för att på begäran kunna lämna denna information till behöriga myn-
+            digheter.
+
+
+               Denna förordning är till alla delar bindande och direkt tillämplig i alla medlemsstater.
+                             Utfärdad i Bryssel den 28 januari 2002.
+
+            På Europaparlamentets vägnar        På rådets vägnar
+            P. COX                              J. PIQUÉ I CAMPS
+            Ordförande                          Ordförande
+
+
+
+
+
+
+                                        68
+                                     HANDBOK
+
+
+
+            Bilaga    2
+                          Europaparlamentets förordning EU nr 1169/2011
+
+
+            EUROPAPARLAMENTETS OCH RÅDETS FÖRORDNING (EU) nr 1169/2011
+
+            25 oktober 2011
+            Om tillhandahållande av livsmedelsinformation till konsumenterna
+
+
+            ÄMNEN ELLER PRODUKTER SOM ORSAKAR ALLERGI ELLER INTOLERANS
+
+            1. Spannmål som innehåller gluten, dvs. vete, råg, korn, havre, spelt, kamut eller hybridiserade
+            sorter därav och produkter därav, med följande undantag:
+            a) vetebaserad glukossirap, inklusive glukos ( 1 ),
+            b) vetebaserade maltodextriner ( 1 ),
+            c) kornbaserad glukossirap,
+
+            d) spannmål som används för framställning av alkoholdestillat, inklusive jordbruksalkohol.
+
+            2. Kräftdjur och produkter därav.
+            3. Ägg och produkter därav.
+            4. Fisk och produkter därav, med följande undantag:
+
+            a) fiskgelatin som används som bärare för vitamin- eller karotenoidpreparat,
+            b) fiskgelatin eller husbloss som används som klarningsmedel i öl och vin.
+            5. Jordnötter och produkter framställda därav.
+            6. Sojabönor och produkter därav, med följande undantag:
+            a) fullständigt raffinerad sojaolja och fullständigt raffinerat sojafett ( 1 ),
+
+            b) naturliga blandade tokoferoler (E306), naturligt D-alfa-tokoferol, naturligt D-alfa-
+            tokoferolacetat, naturligt D-alfa- tokoferolsuccinat från sojabönor,
+            c) fytosteroler och fytosterolestrar framställda av vegetabilisk sojabönsolja,
+            d) fytostanolestrar framställda av steroler från vegetabilisk sojabönsolja.
+            7. Mjölk och produkter därav (inklusive laktos), med följande undantag:
+            a) vassle som används för framställning av alkoholdestillat inklusive jordbruksalkohol,
+
+            b) laktitol.
+            8. Nötter, dvs. mandel (Amygdalus communis L.), hasselnöt (Corylus avellana), valnöt (Juglans
+            regia), cashewnöt (Anacardium occidentale), pekannöt (Carya illinoinensis [Wangenh.] K.
+            Koch), paranöt (Bertholletia excelsa), pistaschmandel (Pistacia vera), makadamianöt och Que-
+            enslandsnöt (Macadamia ternifolia), samt produkter därav, med undantag av nötter som an-
+            vänds för framställning av alkoholdestillat inklusive jordbruksalkohol.
+            9. Selleri och produkter framställda därav.
+            10. Senap och produkter framställda därav.
+            11. Sesamfrön och produkter framställda därav.
+            12. Svaveldioxid och sulfit i koncentrationer totalt överstigande 10 mg/kg eller 10 mg/liter ut-
+            tryckt som SO 2 , vilket ska beräknas för produkter som saluförs konsumtionsfärdiga eller som
+            rekonstituerats enligt tillverkarens anvisningar.
+
+            13. Lupin och produkter framställda därav.
+            14. Blötdjur och produkter framställda därav.
+                                        69
+                                     HANDBOK
+
+
+
+            Bilaga    3
+                          Europaparlamentets förordning EG nr 852/2004
+
+
+            EUROPAPARLAMENTETS OCH RÅDETS
+            FÖRORDNING (EG) nr 852/2004
+            av den 29 april 2004
+            om livsmedelshygien
+            (1) Genomförandet av en hög skyddsnivå för människors liv och hälsa är ett av de grundläg-
+            gande målen med livsmedelslagstiftningen enligt förordning (EG) nr 178/2002. I den förord-
+            ningen fastställs också andra gemensamma principer och definitioner för medlemsstaternas och
+            gemenskapens livsmedelslagstiftning, inklusive syftet att uppnå fri rörlighet för livsmedel inom
+            gemenskapen.
+
+            (12) Livsmedelssäkerheten är resultatet av flera faktorer: lagstiftningen bör fastställa mini-
+            mikrav för hygien, offentlig kontroll bör genomföras för att kontrollera att livsmedelsföretagar-
+            na följer reglerna och livsmedelsföretagare bör upprätta och genomföra program och förfaran-
+            den för livsmedelssäkerhet som bygger på HACCP-principerna.
+
+            (13) För ett framgångsrikt genomförande av förfaranden som bygger på HACCP-principerna
+            krävs att anställda i livsmedelsföretag samarbetar och engagerar sig fullt ut. Därför bör anställda
+            vidareutbilda sig. HACCP-systemet är ett instrument som hjälper livsmedelsföretagarna att nå
+            en högre standard av livsmedelssäkerhet. HACCP-systemet bör inte betraktas som en metod för
+            självreglering och bör inte ersätta offentlig kontroll.
+
+            (15) HACCP-kraven bör ta hänsyn till principerna i Codex Alimentarius. De bör ge utrymme
+            för den flexibilitet som kan behövas i olika situationer, även inom småföretag. Det är särskilt
+            nödvändigt att inse att det i vissa livsmedelsföretag inte är möjligt att fastställa kritiska styr-
+            punkter och att god hygienpraxis i vissa fall kan ersätta övervakningen av kritiska styrpunkter.
+            På samma sätt innebär kravet att fastställa "kritiska gränsvärden" inte att det är nödvändigt att
+            alltid fastställa ett numeriskt gränsvärde. Kravet på att bevara dokument behöver dessutom vara
+            flexibelt, så att bördorna inte blir för stora för mycket små företag.
+
+            (20) Spårbarhet av livsmedel och livsmedelsingredienser genom livsmedelskedjan är väsentligt
+            för livsmedelssäkerheten. Förordning (EG) nr 178/2002 innehåller regler för att garantera att
+            livsmedel och livsmedelsingredienser kan spåras samt fastställer ett förfarande för att anta till-
+            lämpningsföreskrifter för dessa principer på särskilda områden.
+
+            Artikel 5
+
+            Faroanalys och kritiska styrpunkter
+            1. Livsmedelsföretagare skall inrätta, genomföra och upprätthålla ett eller flera permanenta för-
+            faranden, grundade på HACCP-principerna.
+            2. HACCP-principerna enligt punkt 1 utgörs av följande:
+
+            a) Att identifiera de faror som måste förebyggas, elimineras eller reduceras till en acceptabel
+            nivå.
+            b) Att identifiera kritiska styrpunkter i det steg eller de steg där kontroll är nödvändig för att
+            förebygga eller eliminera en fara eller för att reducera den till en acceptabel nivå.
+            c) Att fastställa kritiska gränser vilka skiljer acceptabelt från icke acceptabelt i de kritiska styr-
+            punkterna i syfte att förebygga, eliminera eller reducera identifierade faror.
+
+                                        70
+                                     HANDBOK
+
+
+
+            d) Att upprätta och genomföra effektiva förfaranden för att övervaka de kritiska styrpunkterna.
+            e) Att fastställa vilka korrigerande åtgärder som skall vidtas när övervakningen visar att en kri-
+            tisk styrpunkt inte är under kontroll.
+            f) Att upprätta förfaranden, vilka skall genomföras regelbundet, för att verifiera att de åtgärder
+            som avses i a−e fungerar effektivt.
+            g) Att upprätta dokumentation och journaler avpassade för livsmedelsföretagets storlek och art
+            för att visa att de åtgärder som avses i a–f tillämpas effektivt.
+            När en förändring sker i produkten, processen eller i något hanteringssteg skall
+            livsmedelsföretagarna ompröva förfarandet och göra nödvändiga ändringar.
+
+            4. Livsmedelsföretagare skall
+
+            a) visa den behöriga myndigheten att de uppfyller kraven i punkt 1 på det sätt som den behöriga
+            myndigheten kräver, med beaktande av livsmedelsföretagets storlek och art,
+            b) se till att all dokumentation som beskriver de förfaranden som utarbetats enligt denna artikel
+            alltid är aktuell,
+            c) bevara all annan dokumentation och alla andra journaler under lämplig tid.
+
+            5. Detaljerade bestämmelser för tillämpningen av denna artikel får fastställas i enlighet med
+            förfarandet i artikel 14.2. Sådana bestämmelser kan underlätta för vissa livsmedelsföretagare att
+            tillämpa denna artikel, särskilt om det fastställs att de förfaranden som beskrivs i riktlinjerna för
+            tillämpningen av HACCP-principerna skall användas för att uppfylla kraven i punkt 1. I sådana
+            bestämmelser får det också anges hur länge livsmedelsföretagarna skall bevara dokumentation
+            och journaler i enlighet med punkt 4 c.
+
+            BILAGA II
+
+            KAPITEL I
+            ALLMÄNNA REGLER FÖR LIVSMEDELSLOKALER
+            (MED UNDANTAG AV DE LOKALER SOM ANGES I KAPITEL III)
+
+            1. Livsmedelslokaler skall hållas rena och i gott skick.
+            2. Lokalernas planering, utformning, konstruktion, placering och storlek skall
+
+            a) möjliggöra adekvat underhåll, rengöring och/eller desinficering, vara sådana att
+            luftburen kontaminering undviks eller minimeras samt erbjuda adekvata
+            arbetsutrymmen för att alla steg som ingår i verksamheten skall kunna genomföras på
+            ett hygieniskt sätt,
+            b) vara sådan att den skyddar mot ansamling av smuts, kontakt med giftiga ämnen,
+            avgivande av partiklar till livsmedel och kondensbildning eller oönskat mögel på ytor,
+            c) möjliggöra god livsmedelshygien, vilket bland annat innebär skydd mot kontaminering och i
+            synnerhet skadedjursbekämpning, och
+            d) när det är nödvändigt erbjuda lämpliga temperaturreglerade hanterings- och
+            lagringsförhållanden med tillräcklig kapacitet att förvara livsmedel vid en lämplig
+            temperatur som kan kontrolleras samt, när det är nödvändigt, registreras.
+            3. Det skall finnas ett adekvat antal vattentoaletter, anslutna till ett effektivt avloppssystem.
+            Toaletterna får inte vara direkt förbundna med utrymmen där livsmedel hanteras.
+
+            4. Det skall finnas ett adekvat antal lämpligt placerade och utformade handtvättställ.
+            Handtvättställ skall ha varmt och kallt rinnande vatten, material för handtvättning och för hygi-
+            enisk torkning. Utrustning för sköljning av livsmedel skall när så är nödvändigt vara skilt från
+            anordningar för handtvätt.
+                                        71
+                                     HANDBOK
+
+
+
+            5. Det skall finnas ändamålsenlig och tillräcklig naturlig eller mekanisk ventilation. Mekaniskt
+            luftflöde från ett förorenat område till ett rent område skall förhindras. Ventilationssystem skall
+            vara konstruerade på ett sådant sätt att filter och andra delar som måste rengöras eller bytas ut är
+            lättillgängliga.
+            6. Sanitära utrymmen skall ha adekvat naturlig eller mekanisk ventilation.
+
+            7. Livsmedelslokaler skall ha adekvat naturlig och/eller artificiell belysning.
+
+            8. Avloppen skall vara adekvata för avsett ändamål. De skall vara utformade och konstruerade
+            på ett sådant sätt att risken för kontaminering undviks. Om avloppen är helt eller delvis öppna
+            skall de vara utformade så att avloppsvatten inte flödar från en kontaminerad yta mot eller in på
+            en ren yta, i synnerhet en yta där livsmedel som kan utgöra en allvarlig risk för konsumenterna
+            hanteras.
+
+            9. När det är nödvändigt skall det finnas adekvata omklädningsrum i tillräckligt antal för perso-
+            nalen.
+
+            10. Rengörings- och desinfektionsmedel får inte förvaras där livsmedel hanteras.
+
+            KAPITEL VIII
+            PERSONLIG HYGIEN
+
+            1. Alla personer som arbetar på platser där livsmedel hanteras skall iaktta god personlig
+            renlighet och bära lämpliga, rena och, när det är nödvändigt, skyddande kläder.
+
+            2. Personer som lider av eller är bärare av en sjukdom som kan överföras via livsmedel eller
+            som till exempel har infekterade sår, hudinfektioner, andra sår eller diarré får inte tillåtas att
+            hantera livsmedel eller vistas på en arbetsplats där livsmedel hanteras om det finns risk för di-
+            rekt eller indirekt kontaminering. Alla personer som har sådana åkommor och som är anställda i
+            ett livsmedelsföretag och som förmodas komma i kontakt med livsmedel skall omedelbart rap-
+            portera sjukdomen eller symtomen, och om möjligt deras orsaker, till livsmedelsföretagaren.
+
+            KAPITEL XII
+            UTBILDNING
+
+            Livsmedelsföretagare skall se till
+
+            1. att den personal som hanterar livsmedel övervakas och instrueras och/eller utbildas i
+            livsmedelshygien på ett sätt som är anpassat till deras arbetsuppgifter,
+            2. att de som ansvarar för utveckling och underhåll av det förfarande som avses i artikel 5.1 i
+            denna förordning eller för användning av relevanta riktlinjer har getts adekvat utbildning i
+            tillämpningen av HACCP- principerna, och
+
+            3. att alla krav i nationell lagstiftning när det gäller utbildningsprogram för personer som arbetar
+            inom vissa livsmedelssektorer uppfylls.
+
+
+
+
+
+
+
+                                        72
+                                     HANDBOK
+
+
+
+            Bilaga    4
+                           Livsmedelsverkets föreskrifter om dricksvatten
+
+            Livsmedelsverkets föreskrifter om SLVFS 2001:30
+            dricksvatten;                    (H 90)
+
+            Tillämpningsområde
+
+            2 § Dessa föreskrifter gäller hanteringen av och kvaliteten på dricksvatten, oavsett om hante-
+            ringen ingår i en yrkesmässig verksamhet eller inte.
+
+            Föreskrifterna gäller anläggningar för dricksvattenförsörjning
+
+            - som i genomsnitt tillhandahåller 10 m dricksvatten eller mer per
+                                    3
+            dygn, eller
+
+            - som försörjer 50 personer eller fler med dricksvatten.
+
+            Dricksvatten som tillhandahålls eller används som en del av en kommersiell eller offentlig verk-
+            samhet omfattas alltid av dessa föreskrifter, oavsett verksamhetens storlek. (LIVSFS 2013:4)
+
+            Allmänna hygienregler
+
+            2 a § Den som producerar dricksvatten eller tillhandahåller det från en distributionsanläggning
+            ska, när det är nödvändigt för att upprätthålla en till-fredsställande hygien, uppfylla kraven i
+            bilaga II till Europaparlamentets och rådets förordning (EG) nr 852/2004 av den 29 april 2004
+            om livsmedels-hygien enligt följande:
+
+            1. allmänna regler för lokaler i kapitel I,
+            2. särskilda regler för lokaler i kapitel II,
+            3. transport i kapitel IV, med undantag för punkt 4,
+            4. utrustning i kapitel V,
+            5. livsmedelsavfall i kapitel VI, med undantag för punkt 2,
+            6. vattenförsörjning i kapitel VII, punkt 1 a,
+            7. personlig hygien i kapitel VIII,
+            8. livsmedelsprodukter i kapitel IX, punkterna 3, 4 och 8, och
+            9. utbildning i kapitel XII. (LIVSFS 2011:3)
+
+
+            Faroanalys och kritiska styrpunkter
+
+            2 b § Den som producerar dricksvatten eller tillhandahåller det från en distributionsanläggning
+            ska, när det är nödvändigt för att uppfylla kraven i dessa föreskrifter,
+            1. inrätta, genomföra och upprätthålla ett eller flera permanenta förfaranden grundade på
+            HACCP-principerna i enlighet med artikel 5.2 i Europaparlamentets och rådets förordning (EG)
+            nr 852/2004 av den 29 april 2004 om livsmedelshygien,
+
+            2. se till att all dokumentation som beskriver de förfaranden som utarbetats enligt punkt 1 alltid
+            är aktuell, och
+
+            3. bevara all annan dokumentation och alla andra journaler under lämplig tid. (LIVSFS 2011:3)
+                                        73
+                                     HANDBOK
+
+
+
+            Kvalitetskrav
+            7 § Dricksvatten ska vara hälsosamt och rent. Det ska anses vara hälsosamt och rent om det
+
+            – inte innehåller mikroorganismer, parasiter och ämnen i sådant antal eller sådana halter att de
+            kan utgöra en fara för människors hälsa, och
+
+            – uppfyller de gränsvärden som anges i bilaga 2, avsnitt A och B. (LIVSFS 2015:3)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        74
+                                     HANDBOK
+
+
+
+            Bilaga    5
+                            Generalläkarens föreskrifter
+
+
+            FÖRSVARSMAKTEN    FÖRSVARETS                 FFS 2012:4
+            HÖGKVARTERET      FÖRFATTNINGSSAMLING
+            Generalläkarens föreskrifter om livsmedelsverksamhet inom Försvarsmakten
+            beslutade den 15 oktober 2012.
+
+            Generalläkaren föreskriver med stöd av 27 och 40 §§ livsmedelsförordningen (2006:813) och
+            efter samråd med Livsmedelsverket följande.
+
+            Inledande bestämmelser
+
+            1 § Dessa föreskrifter gäller i tillämpliga delar all livsmedelsverksamhet inom de geografiska
+            områden, lokaler, fordon, fartyg och luftfartyg m.m. som Försvarsmakten förfogar över. Före-
+            skrifterna ska inte tillämpas på annan plats där konsumentmålgruppen huvudsakligen utgörs av
+            annan målgrupp än Försvarsmakten.
+
+            2 § Försvarsmakten ska, med iakttagande av de tillägg och undantag som anges i dessa före-
+            skrifter, tillämpa reglerna i de EG-förordningar som anges i tillkännagivandet (2010:231) om de
+            EU-bestämmelser som kompletteras av livsmedelslagen (2006:804), livsmedelsförordningen
+            (2006:813), samt Livsmedelsverkets föreskrifter.
+
+
+            Definitioner
+
+            3 § I denna föreskrift avses med
+
+            anläggning       Varje enhet i ett livsmedelsföretag (i enlighet med artikel 2 c i Europaparla-
+                             mentets och rådets förordning (EG) nr 852/2004 av den 29 april 2004 om
+                             livsmedelshygien).
+
+            distributionsanläggning Sådan del av en anläggning för distribution av dricksvatten som avs
+                             rörledningar, pumpar, reservoarer eller liknande rörutrustning för dis-
+                             tribution av dricksvatten (i enlighet med 1 § 3 p Livsmedelsverkets
+                             göreskrifter (SLVFS 2001:30) om dricksvatten).
+
+            livsmedelsföretagare De fysiska eller juridiska personer som ansvarar för att kraven i livsmedels-
+                             lagstiftningen uppfylls i de livsmedelsföretag de bedriver (i enlighet med arti-
+                             kel 3.3 i Europaparlamentets och rådets förordning (EG) nr 178/2002 av den
+                             28 januari 2002 om allmänna principer och krav för livsmedelslagstiftning,
+                             om inrättande av Europeiska myndigheter för livsmedelssäkerhet och om
+                             förfaranden i frågor som gäller livsmedelssäkerhet).
+
+            vattenverk       Sådan del av en anläggning för dricksvattenförsörjning som avser uppford-
+                             ring, beredning eller liknande hantering av dricksvatten samt tillhörande re-
+                             servoarer eller liknande anordningar för förvaring av dricksvatten (i enlighet
+                             med 1 § 2 p Livsmedelsverkets föreskrifter (SLVFS 2001:30) om dricksvat-
+                             ten).
+
+
+                                        75
+                                     HANDBOK
+
+
+
+            Livsmedelsanläggning
+            4 § Livsmedelsanläggning ska, i förekommande fall, vara utrustad med
+            - separata enheter för kyl- och frysförvaring, avsvalning och varmhållning av livsmedel,
+            - utrymme eller utrustning för infrysning av livsmedel och
+            - utrymme eller utrustning för upptining av djupfrysta livsmedel.
+
+            5 § Förvaringsfrys, som är större än 10 m³, ska vara utrustad med larm eller utrustning som do-
+            kumenterar temperaturen.
+
+            6 § Isoleringskärl och annan utrustning för livsmedelsverksamhet i fält ska rengöras innan sådan
+            utrustning förs in i livsmedelsanläggning för förnyad användning eller lagerhållning.
+
+            7 § Information om tidpunkt för påfyllnad av varma livsmedel i isoleringskärl samt temperatur-
+            uppgift vid påfyllnad av isoleringskärl ska medfölja vid utleverans av isoleringskärlen.
+
+            8 § Livsmedelsanläggning för utspisning belägen i internationella insatsområden ska vara utrus-
+            tad med ändamålsenliga handtvättmöjligheter för matgäster.
+
+            Registrering och godkännande av livsmedelsanläggning
+
+            9 § Anmälan om registrering eller ansökan om godkännande av livsmedelsanläggning enligt
+            artikel 6 punkterna 2 och 3 i Europaparlamentets och rådets för-ordning (EG) nr 852/2004 om
+            livsmedelshygien och enligt 7 § Livsmedelsverkets föreskrifter (LIVSFS 2005:20) om livsme-
+            delshygien, ska ges in till Generalläkaren. Livsmedelsanläggning med dess inredning får inte tas
+            i bruk förrän Generalläkaren registrerat eller godkänt den samt utfärdat bevis härom.
+
+            10 § Livsmedelsföretagare ska vid planerad nybyggnation av livsmedelsanläggning eller väsent-
+            lig ändring av befintlig livsmedelsanläggning, liksom väsentlig ändring av inredning, utrustning
+            eller verksamhet i sådan anläggning, eller upphörande av livsmedelsanläggning anmäla detta till
+            Generalläkaren.
+
+            11 § Livsmedelsföretagare ska anmäla händelser i verksamheten som kan påverka konsumenters
+            hälsa, t.ex. matförgiftning och sabotage.
+
+
+            Egenkontroll
+
+            12 § Livsmedelsföretagare ska införa och upprätthålla ändamålsenliga rutiner för egenkontroll
+            av livsmedelsverksamhet.
+            13 § Livsmedelsföretagare ska ge personal inbegripna i livsmedelsverksamhet sådan utbildning
+            som är anpassad till de arbetsuppgifter som utförs. Utbildningen ska avse grundläggande livs-
+            medelshygien samt anläggningsspecifika rutiner nödvändiga för att utföra anläggningens egen-
+            kontroll.
+
+            Personalhygien
+
+            14 § Livsmedelsföretagare ska se till att personal som hanterar oförpackade livs-medel i livsme-
+            delsanläggning inom Försvarsmakten, vid anställningens början och därefter årligen, avger
+            hälsodeklaration. Av hälsodeklarationen ska framgå eventuell hälsostörning som kan innebära
+            att smitta överförs från personal till livsmedel.
+
+            Vid nyanställning ska personal alltid genomgå en ändamålsenlig läkarundersökning.
+                                        76
+                                     HANDBOK
+
+
+
+            15 § Personal som hanterar oförpackade livsmedel inom Försvarsmakten och som återvänder
+            efter vistelse utom Norden, ska snarast efter hemkomsten avge hälsodeklaration.
+            16 § Livsmedelsföretagare ska bedöma om avgiven hälsodeklaration som anges i 14 och 15 §§
+            ska kompletteras med läkarundersökning i syfte att utesluta personer som kan utgöra en smitt-
+            källa. Läkare ska efter undersökning avge en tjänstbar-hetsbedömning grundat på hälsodeklarat-
+            ionen och i förekommande fall kompletterande undersökningar.
+
+            17 § Livsmedelsföretagare ska på livsmedelsanläggning förvara aktuell dokumentation avse-
+            ende hälsodeklarationer och tjänstbarhetsbedömningar av personal som hanterar oförpackade
+            livsmedel.
+
+            Förvaring
+
+            18 § Rå köttfärs och marinerad, gravad eller rökt fisk ska förvaras så att temperaturen i varan
+            inte överstiger +4°C. För färsk icke isad fisk får temperaturen inte överstiga +2°C.
+
+            Angivna livsmedel får inte hanteras i fält, om inte särskild utrustning finns för kylförvaring
+            enligt första stycket.
+
+            19 § Färdiglagad varm mat ska varmhållas så att livsmedlets temperatur inte understiger +60°C.
+            Varmhållningstiden ska, om möjligt, inte överstiga två timmar. Återupphettning av redan tilla-
+            gad mat ska ske till en temperatur som överstiger +72°C. Nedkylning av värmeberedda livsme-
+            del ska ske så att livsmedlets kärntemperatur når +8°C eller lägre inom fyra timmar från det att
+            nedkylningen påbörjades.
+
+            Livsmedelshantering vid särskilda övningar under fältmässiga förhållanden
+
+            20 § Under fältmässiga förhållanden får livsmedelshantering i form av slakt och efterföljande
+            beredning av enstaka djur av ren, kanin eller fjäderfä ske för direkt konsumtion i samband med
+            den aktuella övningen endast om Försvarsmakten innan övningen påbörjats upprättat interna
+            instruktioner för hanteringen i samråd med Generalläkaren. Vid sådan slakt ska även 30 § djur-
+            skyddsförordningen (1988:539) och Statens jordbruksverks föreskrifter (SJVFS 2008:69) om
+            ändring i Statens jordbruksverks föreskrifter och allmänna råd (SJVFS 2007:77) om slakt och
+            annan avlivning av djur beaktas.
+
+            21 § Kontroll av slaktkropp och organ samt bedömning om dessa lämpar sig för konsumtion
+            under den aktuella övningen ska ske av veterinär. Vid slakt av ren ska även kontroll av det le-
+            vande djuret samt övervakning av slaktprocessen ske av veterinär.
+            Dricksvatten
+
+            22 § Generalläkaren får besluta om särskild desinfektion av dricksvatten som an-vänds inom
+            Försvarsmakten.
+
+            23 § Larm i vattenverk avseende pH, desinfektion och i förekommande fall turbiditet (vattnets
+            grumlighetsvärde) ska vara kopplat till tjänstgörande personal. Tjänstgörande personal ska ha
+            tillgång till en plan över åtgärder som ska vidtas vid larm. Planen ska upprättas och fastställas
+            av verksamhetsutövaren.
+
+            24 § Vid beredning av dricksvatten ur bergborrad brunn i berganläggning är det tillräckligt med
+            en säkerhetsbarriär mot mikrobiologisk förorening samt en barriär i beredskap.
+
+
+                                        77
+                                     HANDBOK
+
+
+
+            25 § Livsmedelsföretagare ska införa och upprätthålla ändamålsenliga rutiner för egenkontroll
+            av vattenverk och distributionsanläggning. I verksamhetsutövares egenkontroll ska ingå uppgif-
+            ter om vattenvolym per dygn, mikrobiologiska och kemiska parametrar som undersöks inklu-
+            sive frekvens samt provtagningspunkter i enlighet med Livsmedelsverkets föreskrifter (SLVFS
+            2001:30) om dricksvatten.
+            26 § I vattenverk får desinfektion av vatten ske med ultraviolett ljus (UV). Vattnet ska vara
+            filtrerat före desinfektion med UV. Även vatten som genomgått evaporering (förångning) eller
+            hyperfiltrering (omvänd osmos) ska desinficeras så att tillväxt av mikrober förhindras under
+            lagring och transport.
+
+            27 § För vattenverk och distributionsanläggningar av dricksvatten tillämpas Livsmedelsverkets
+            föreskrifter (SLVFS 2001:30) om dricksvatten. Avseende provtagningsfrekvenser tillämpas
+            bestämmelserna i bilaga 3 avsnitt C tabell II i nämnda föreskrifter.
+
+            28 § Vid användning av natrium- eller kalciumhypoklorit ska efter 30 minuters kontakttid halten
+            fritt kloröverskott i vattnet vara lägst 0,2 mg/l.
+
+            29 § Vid desinfektion genom kokning ska vattnet koka kraftigt under minst två minuter.
+
+            Undantag
+
+            30 § Generalläkaren får medge undantag från dessa föreskrifter.
+            ____________
+
+            Denna föreskrift träder i kraft den 2 november 2012.
+
+            Genom föreskriften upphävs Generalläkarens föreskrifter (FFS 1998:11) om livsmedelskontroll
+            inom Försvarsmakten, samt Generalläkarens föreskrifter (FIB 1998:6) om slaktutbildning inom
+            Försvarsmakten.
+
+            Siegfried de Joussineau
+                                                Stefan Ryding-Berg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        78
+                                     HANDBOK
+
+
+
+            Redaktionell information
+
+
+            Projektägare; kk Carl-Johan Andersson, TrängR
+
+            Ämnesansvarig och sakkunnig: fj Mikael Olofsson, TrängR
+
+            Redaktör; civ Annika Johansson, TrängR.
+
+            Huvudarbetsgrupp och ämnesexperter; 1:e Serg Martin Zetterman TrängR/2 Logbat,
+            Jörgen Nilsson SSS/IntS, fj Johan Schönberg SSS/IntS, Bo Forsberg FömedC, Publikat-
+            ionssamordnare FLOG civ Artur Szulc, TrängR.
+
+            Hemställan om synpunkter från OrgE på handbokens innehåll inhämtades i perioden
+            2017-05-05 – 2017-06-02 enligt VIDAR-handling FM2016-22269:4.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        79
+                                     HANDBOK
+
+
+
+            Bildförteckning
+
+            I denna publikation förkommer följande bilder och illustrationer med verkshöjd;
+            Fotograf/Illustratör anges med namn och organisatorisk tillhörighet.
+
+            Bild Fotograf/Illustratör          Notering
+
+             1   Foto: Garnisonsmuseet i Skövde. Hämtad ur Förhandsutgåva För-
+                                               svarsmaktsreglemente Förplägnad
+                                               2009 års utgåva.
+             2   Illustrationen grafiskt omarbetad av illust- Beskrivning och ritning: Kk Carl-
+                 ratör Anna-Karin Wetzig FSV GP. Johan Andersson
+
+             3   Illustrationen grafiskt omarbetad av illust- Beskrivning och ritning: Jörgen
+                 ratör Anna-Karin Wetzig FSV GP. Nilsson/SSS/IntS
+
+             4   Illustrationen grafiskt omarbetad av illust- Beskrivning och ritning: Jörgen
+                 ratör Anna-Karin Wetzig FSV GP. Nilsson/SSS/IntS
+             5   Foto: Martin Zetterman/TrängR. Fotoavtal finns i publikationens VI-
+                                               DAR ärende.
+
+             6   Illustrationen grafiskt omarbetad av illust- Beskrivning och ritning: Jörgen
+                 ratör Anna-Karin Wetzig FSV GP. Nilsson/SSS/IntS
+             7   Foto: Martin Zetterman/TrängR.
+
+             8   Illustrationen grafiskt omarbetad av illust- Beskrivning och ritning: Jörgen
+                 ratör Anna-Karin Wetzig FSV GP. Nilsson/ SSS/IntS
+
+             9   Illustrationen grafiskt omarbetad av illust-
+                 ratör Anna-Karin Wetzig FSV GP.
+
+             10  Foto: Martin Zetterman/TrängR.
+             11  Illustrationen grafiskt omarbetad av illust- Beskrivning och ritning: FömedC
+
+                 ratör Anna-Karin Wetzig FSV GP.
+             12  Illustrationen grafiskt omarbetad av illust- Beskrivning och ritning: FömedC
+                 ratör Anna-Karin Wetzig FSV GP.
+             13  Foto: Jonas Pettersson/TrängR Fotoavtal finns i publikationens VI-
+
+                                               DAR ärende.
+             14  Foto: Jonas Pettersson/TrängR
+
+             15  Illustrationen grafiskt omarbetad av illust- Beskrivning och ritning: Jörgen
+                 ratör Anna-Karin Wetzig FSV GP. Nilsson/SSS/IntS
+
+             16  Foto: Martin Zetterman/TrängR
+
+             17  Illustrationen grafiskt omarbetad av illust- Hämtad ur Underhållsreglemente för
+                 ratör Anna-Karin Wetzig FSV GP. Försvarsmakten Del 2, 1998
+             18  Illustrationen grafiskt omarbetad av illust- Hämtad ur Underhållsreg-lemente
+                 ratör Anna-Karin Wetzig FSV GP. för Försvarsmak-ten Del 1, 1998
+
+                                        80
+                                     HANDBOK
+
+
+            Bild Fotograf/Illustratör          Notering
+             19  Illustrationen grafiskt omarbetad av illust- Hämtad ur Underhållsreglemente för
+                 ratör Anna-Karin Wetzig FSV GP. Försvarsmakten Del 1, 1998
+
+             20  Foto: Martin Zetterman/TrängR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        81
+                                     HANDBOK
+
+
+
+            Källförteckning
+
+
+            Internetkällor
+            www.slv.se
+
+
+
+            Regler, bestämmelser och handböcker som påverkat innehållet i denna handbok
+
+
+            FFS 2012:4   Generalläkarens föreskrifter
+            FIB          -
+
+            Instruktion  -
+
+            Reglemente   FMR Fömed Grunder 2014
+
+            Manual       -
+            Handbok      H Logistik vid insats 2016
+                         H Förnödenhetsförsörjning 2015
+
+                         H Elsäk 2008
+                         H CBRN Grunder 2017
+                         H Miljö 2014
+
+            Lärobok      L Fysiskt prestationsförmåga 2015
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        82
+                                     HANDBOK
+
+
+
+                                   [Avsiktligt tom sida]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        83
+               Handbok Förplägnadstjänst 2017 beskriver och ger anvisningar om hur förplägnadstjänsten ska bedri-
+              vas under insats samt utbildnings- och övningsverksamhet.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     107 85 STOCKHOLM
+     www.forsvarsmakten.se
+

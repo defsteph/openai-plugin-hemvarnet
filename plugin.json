@@ -1,8 +1,8 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "hemvarnet",
-  "version": "0.1.2",
-  "description": "Search and explain Hemvärnet handbooks with named handbook and page references.",
+  "version": "0.1.4",
+  "description": "Search and explain bundled Hemvärnet and Försvarsmakten publications with named sources and page references.",
   "author": {
     "name": "Stephan Lonntorp"
   },
@@ -10,8 +10,8 @@
     "com.openai": {
       "interface": {
         "displayName": "Hemvärnet",
-        "shortDescription": "Sök och förstå Hemvärnets handböcker",
-        "longDescription": "Sök i Hemvärnets handböcker och få tydliga svar med hänvisningar till handbok och sida.",
+        "shortDescription": "Sök och förstå Hemvärnets publikationer",
+        "longDescription": "Sök i handböcker, direktiv och reglementen och få tydliga svar med hänvisningar till publikation och sida.",
         "developerName": "Stephan Lonntorp",
         "category": "Productivity",
         "capabilities": [

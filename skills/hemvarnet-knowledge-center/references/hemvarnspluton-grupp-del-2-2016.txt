@@ -1,0 +1,3245 @@
+               Handbok    Hemvärnspluton-grupp
+               Del  2 Objektet
+
+
+
+                                                2016
+                                    Handbok
+
+                Hemvärnspluton-grupp
+
+                             del  2 Objektet
+
+                                     H HVPLUT-GRP 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                             1
+                          HANDBOK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          © Försvarsmakten
+          Omslagsbild: Johan Sjödin/Hemvärnstidningen
+          Grafisk bearbetning: FMV FSV Grafisk produktion
+          Produktionsid: 151221-018
+          Produktionsformat: Indesign
+          Publikationsområde: Hemvärn
+          Förrådsbeteckning: M7739-352075
+          Tryck: XXXX
+
+
+                             2
+                          HANDBOK
+
+                           VIDAR-handling: FM2016-12285:2
+
+
+
+
+      Beslut fastställande av Handbok Hemvärnspluton-grupp del 2,
+      objektet 2016
+
+      Handbok hemvärnspluton-grupp del 2 Objektet (H HVPLUT-GRP 2)
+      fastställs att gälla från och med 2016-11-01. Publikationens registrerade
+      M-nr är: M7739-352075
+
+      Följande upphävs 2016-11-01:
+      M7739-353111 FörB R Hvplut/grupp del 2- 2013 gällande från 2013-10-01.
+
+      Publikationen tillgängliggörs genom publicering på intranätet emilia,
+      på www.forsvarsmakten.se samt hemvarnet.se
+
+      Publikationen distribueras och lagerhålls av FMCL/FBF.
+
+      Detta beslut är fattat av generallöjtnant Anders Silwer. I den slutliga hand-
+      läggningen har som föredragande deltagit brigadgeneral Roland Ekenberg.
+
+
+      Anders Silwer
+      C PROD
+
+
+                          Roland Ekenberg
+                          Rikshemvärnchef
+
+
+
+
+
+
+
+
+
+                             3
+                          HANDBOK
+
+          Revidering     - ändringslogg
+
+          Nr Sida Omfattning     Datum föredragning VIDAR
+                                 Beslut av   ärende nr
+          0     Ursprunglig fastställelse 2016-10-12 FM2016:12285:2
+                                 C PROD
+
+
+
+
+
+
+
+
+          Sida avser sidnummer i den rättade versionen.
+
+
+           Kom ihåg!
+           Om du läser denna publikation i pappersform – kontrollera att du
+           har den senaste utgåvan. Fastställd och gällande utgåva finns alltid på
+           Försvarsmaktens intranät.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                             4
+                          HANDBOK
+
+      Förord
+      I fält ändras ofta läget. Innehållet i boken kan inte täcka alla situationer.
+      Anvisningarna i denna handbok ska tillämpas med omdöme. Den som
+      handlar enkelt, praktiskt och konsekvent når säkrast målet. Obeslutsam-
+      het skadar mer än misstag vid val av metoder.
+
+
+      Chef är ansvarig för sitt förband och verksamheten vid detta. Chefens
+      duglighet, fasthet, föredöme och omvårdnad om underlydande är avgö-
+      rande för förbandets användbarhet och stridsvärde.
+
+      God anda, fast disciplin samt förmåga att härda ut under ansträngande
+      förhållanden är nödvändigt för framgång.
+
+      Handbok Hemvärnspluton/Hemvärnsgrupp (H HVPLUT GRP 1 - 3) byg-
+      ger på grunderna från Markstridsskolan. Handboken reglerar hemvärnets
+      verksamhet på plutons- och gruppnivå. H Hvplut/Hvgrp är anpassad för
+      hemvärnets uppgifter, organisation och materiel samt utbildningstid.
+
+      H Hvplut/Hvgrp vänder sig främst till:
+      • Chef för hemvärnspluton respektive hemvärnsgrupp samt hemvärns-
+        soldater,
+      • utbildare vid hemvärnets förband,
+      • lärare och elever främst vid HvSS, men även vid Försvarsmaktens
+        övriga skolor,
+      • krigsförbandschefer.
+
+      H Hvplut/Hvgrp består av följande tre publikationer som reglerar grund-
+      läggande verksamhet för hemvärnsförbandens verksamhet;
+      Del 1: Grunder
+      Del 2: Objektet
+      Del 3: Anvisningar
+
+      Handboken gäller såväl enskild hemvärnssoldat som hemvärnsförband
+      och syftar främst till att underlätta ledning av förbanden och kontroll
+      av utrustningen före och under strid och insats samt att skapa ett enhet-
+
+
+
+                             5
+                          HANDBOK
+
+          ligt uppträdande. Förbanden kan, beroende på organisation, uppgift och
+          utbildningstid, sedan bygga vidare på de metoder som beskrivs i hand-
+          boken.
+
+          Handboken innehåller i flera fall endast grundläggande anvisningar för viss
+          verksamhet. Grundläggande bestämmelser finns då i andra reglementen,
+          främst sakreglementen på andra nivåer och soldatböcker. Bestämmelser
+          och anvisningar för handhavande av eldhandvapen och annan allmänt
+          förekommande materiel finns i respektive manual.
+
+          Förbandschefen kan vid behov ge ut lokala instruktioner eller order för att
+          komplettera handboken och övriga sakreglementen.
+
+          När orden han, honom, hans, -man och -män används i handboken repre-
+          senterar de båda könen.
+
+          Innehavare av tryckt exemplar av Förb R Hvplut/grupp 2013 kan fort-
+          sätta tillämpa dess innehåll som om det vore en handbok intill Hand-
+          bok hemvärnspluton/grupp-2016 ändras eller upphävs.
+
+          Innehållet i denna publikation omfattas inte av sekretess.
+
+                 De begrepp, kommandon och tecken som beskrivs i
+                    handboken får inte ges annan innebörd.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                             6
+                          HANDBOK
+
+      Innehållsförteckning
+
+      4. Uppgifter och exempel ........................................................................................... 9
+         4.1 Ta objekt ........................................................................................................ 9
+            4.1.1 Allmänt ........................................................................................... 9
+            4.1.2 Ta objekt med stridsindelad pluton i betäckt terräng .............10
+            4.1.3 Ta terräng hitom objektet ...........................................................10
+            4.1.4 Ta terräng bortom objektet .........................................................11
+            4.1.5 Försvar av tagen terräng .............................................................14
+            4.1.6 Kontroll av objektet .....................................................................14
+            4.1.7 Nyttjande av hund vid tagande av objekt (genomsök
+                med hund) ....................................................................................16
+            4.1.8 Genomsöksmetoder ....................................................................16
+            4.1.9 Ta objekt med stridsindelad pluton i bebyggelse .....................23
+      5. Allmänt om uppgiften Skydda samt uppgiften Bevaka ..................................31
+         5.1 Patrullering med hund .............................................................................34
+            5.1.1 Patrullsträckor .............................................................................34
+      6. Bevaka ....................................................................................................................35
+         6.1 Innebörd .....................................................................................................35
+         6.2 Gruppering vid uppgiften bevaka ...........................................................35
+         6.3 Genomförande av bevaka-uppgift ...........................................................36
+
+            6.3.1 Pluton bevakar flera objekt i skog ..............................................38
+            6.3.2 Pluton bevakar ett objekt i skog .................................................38
+            6.3.3 Grupp bevakar flera objekt i skog ..............................................40
+            6.3.4 Grupp bevakar objekt i skog.......................................................41
+            6.3.5 Pluton bevakar objekt i bebyggelse ............................................41
+            6.3.6 Grupp bevakar objekt i bebyggelse ............................................42
+         6.4 Infartspost ...................................................................................................43
+         6.5 Fast bevakning med hund ........................................................................43
+      7. Skydda ....................................................................................................................44
+         7.1 Innebörd .....................................................................................................44
+            7.1.1 Gruppering vid uppgiften skydda..............................................44
+            7.1.2 Genomförande av skyddauppgift...............................................45
+            7.1.3 Pluton skyddar objekt i skog ......................................................45
+
+
+
+
+                             7
+                          HANDBOK
+
+                7.1.4 Stridens förande vid uppgiften skydda ....................................46
+                7.1.5 Exempel på avlösningsscheman.................................................51
+                7.1.6 Övriga förberedelser för lösande av uppgiften skydda .........53
+             7.2 Exempel på insats med larmstyrka ..........................................................56
+             7.3 Skydd av flygbas ........................................................................................56
+             7.4 Postering .....................................................................................................58
+                7.4.1 Vägspärr ........................................................................................61
+          8. Försvar ....................................................................................................................64
+             8.1 Försvar allmänt ..........................................................................................64
+                8.1.1 Plutons försvar med ingående befästningsarbeten ..................64
+                8.1.2 Plutons försvar vid kort förberedelsetid ...................................69
+                8.1.3 Plutons försvar i bebyggelse........................................................72
+          9. Eldöverfall ..............................................................................................................74
+             9.1 Eldöverfall allmänt ....................................................................................74
+                9.1.1 Plutons eldöverfall mot en motståndare som är under
+                    förflyttning ....................................................................................74
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                             8
+                          HANDBOK
+
+      4.    Uppgifter     och  exempel
+
+      4.1   Ta objekt
+
+      Stridsuppgift som syftar till att besätta viss terräng eller objekt i visst syfte.
+
+      4.1.1 Allmänt
+
+      Objektet är taget när du behärskar objektets närområde med eld och att
+      hela objektet är genomsökt.
+
+      Val av plats för fordonsavlämningsplats (FAP) och metod styrs av hot-
+      bild, terrängen och tid. Möjligheten att inhämta underrättelser om möj-
+      liga framryckningsvägar och objektet ska tillvaratas. Detta kan ske genom
+      att tidigt med förpatrull för att spana mot objektet eller utgå med en för-
+      patrull. Förpatrullen kan bestå av en omgång med ingående skarpskyttar
+      då de har bästa optiken och speciell träning på att observera. Förpatrullen
+      kan även med fördel tilldelas hundekipage.
+
+      Då plutonen fått order att bevaka eller skydda ett objekt måste du som plu-
+      tonchef göra en bedömning utefter aktuell hotbild med hänsyn till inhäm-
+      tade underrättelser om objektet måste tas genom anfall eller om plutonen
+      kan köra (framrycka upplastat) direkt till objektet.
+
+      Du inhämtar underrättelser genom att:
+      • Söka samband med objektet/objektsägaren,
+      • spana mot objektet,
+      • stridsspana/spana med förpatrull mot objektet,
+      • framrycka med hund och genomföra sök runt/mot objektet.
+
+
+
+
+
+
+
+
+
+
+                             9
+                          HANDBOK
+
+          4.1.2 Ta objekt med stridsindelad pluton i betäckt
+                terräng
+          Plutonen som tar objekt i betäckt terräng tar objektet enligt följande prin-
+          cip:
+          • Ta terräng hitom objektet,
+          • gruppera understöd,
+          • ta terräng bortom objektet,
+          • försvar av tagen terräng,
+          • genomsök av objektet.
+
+          Får plutonen stridskontakt under framryckning mot objektet måste du
+          som plutonchef snabbt med hänsyn till din uppgift och insatsregler,
+          bedöma om plutonen ska vidta åtgärderna 1, 2 eller 3 enligt nedan. Alter-
+          nativt kan behov av 4 föreligga eller också kan kompanichef besluta om att
+          sätta in ytterligare en pluton för uppgiftens lösande.
+          1. Ta objektet med eget understöd,
+          2. understödja sidoplutons tagande av objektet,
+          3. försvara tagen terräng,
+          4. omgruppera bakåt och observera/hålla stridskontakt.
+
+          När plutonen tar objekt får gruppen i uppgift att:
+          • Framrycka och ta stridsställning,
+          • understödja,
+          • försvara stridsställning,
+          • genomsöka,
+          • och att stridsspana/spana.
+
+          4.1.3 Ta terräng hitom objektet
+
+          Inledningsvis tas terräng hitom objektet för att kunna observera mot
+          objektet. Från denna stridsställning ska ett understöd kunna grupperas
+          för vidare framryckning mot objektet. Disponeras hundar på hemvärns-
+          plutonen kan dessa nyttjas för stillastående bevakning. Pluton chefen väl-
+          jer med hänsyn till läget om det ska göras en observationshalt och om
+          understöd ska avges med en eller flera grupper.
+
+
+
+
+                            10
+HANDBOK
+
+OBJEKT
+
+Bild 4:1. Exempel på pluton grupperad på stridstriangel som har tagit terräng hitom
+objektet.
+
+4.1.4 Taterräng bortom objektet
+
+Plutonen tar därefter terräng bortom objektet. Detta sker med en eller
+flera grupper, med understöd av minst en grupp. Du som plutonchef väl-
+jer väg med hänsyn till terrängen samt hotbild.
+
+11
+HANDBOK
+
+OBJEKT
+
+| 2.grupp H
+
+föl 1. plut
+H 3. grupp
+
+H 4. grupp
+
+Bild 4:2. Exempel på pluton grupperad på stridstriangel som tar terräng bortom objektet.
+
+”V
+
+H 3.grupp
+
+C1. plut
+
+OBJEKT
+4. grupp
+
+LB
+= Hä
+
+1.grupp Stf 1.plut — 2-grupp
+
+Bild 4:3. Exempel på pluton som tar objektet med understöd av två grupper.
+
+12
+HANDBOK
+
+| 4. grupp
+jä C1. plut
+
+1. grupp
+
+OBJEKT
+
+1.grupp Stf 1. plut 2.grupp
+
+"re,
+
+(6)
+
+OBJEKT
+
+Bild 4:5.  Plutons tagande av objekt.
+
+13
+HANDBOK
+
+1. Tidig observation mot objektet från ÅSEN, med sambandsmedel.
+Skarpskyttepar.
+
+Komplettera så fort som möjligt med ytterligare understöd för tagande
+av objektet. KSP/GRG.
+
+Tag objektet. Utnyttja terrängen.
+
+Eventuellt flankskydd framrycker i höjd med täten på plutonen.
+Gruppera för försvar/skydd/bevakning av objektet.
+
+Genomsök och kontrollera objektets status: inbrott, sabotage, försåt.
+
+N
+
+Nn
+
+4.1.5 Försvar av tagen terräng
+
+När plutonen tagit terräng bortom objektet vidtar grupperna åtgärder för-
+svar av tagen terräng. Finns det delar av objektet som inte är kontrollerade
+ska dessa hållas under uppsikt.
+
+OBJEKT
+
+Bild 4:6. Exempel på pluton som är grupperad för försvar av tagen terräng.
+
+4.1.6 Kontroll av objektet
+
+Kontroll av skyddsobjekt sker genom metoden ”genomsök” i syfte att fast-
+ställa att;
+« Objektet är intakt och att någon åverkan inte har skett,
+
+14
+HANDBOK
+
+«  aptering av laddningar inte har skett,
+«  mineringar inte har utförts,
+« ingen obehörig finns i eller vid objektet.
+
+Kontrollera med objektsägaren/säkerhetschefen på objektet så att du vet
+var objektets vitala delar finns.
+
+Viktigare delar på objektet kan vara;
+
+« Inslag vid berganläggning samt ventilation på hjässan,
+« elinstallationer,
+
+« radio och radarmaster,
+
+« förrådsutrymmen.
+
+a 2.grupp
+1. grupp
+OBJEKT
+
+[ Pad
+
+—
+
+Bild 4:7. Exempel på grupp som genomsöker objektet när plutonen tagit terrängen runt
+objektet- 360 grader!
+
+15
+                          HANDBOK
+
+          4.1.7 Nyttjande av hund vid tagande av objekt
+                (genomsök med hund)
+          Disponerar plutonen hundar nyttjas dessa till att få indikation på om det
+          finns personal på objektet eller om det har passerat in eller ut personal
+          från objektet.
+          Hunden används för att söka genom ett angivet terrängområde/plats, for-
+          don, personal, materiel och/eller spår av verksamhet. Beroende på syftet
+          väljs lämplig metod. Det förbereds så att den direkt kan övergå i rensning
+          alternativt urdragning.
+          Faktorer som styr genomsöksmetoden är bland annat:
+          • Tid till förfogande,
+          • terrängen,
+          • ljusförhållanden,
+          • hundekipagets kapacitet och utbildningsnivå/erfarenhet,
+          • vindstyrka,
+          • väderlek,
+          • eftersträvad noggrannhet,
+          • hotbild, läge, underrättelser.
+
+          4.1.8 Genomsöksmetoder
+
+          Rutsök – kontroll av bland annat in- och utgående spår vid objekt, mate-
+          rielgömma, stridsområdet efter strid samt vid spårtapp under förföljning
+          eller vid osäkerhet om spårriktning även vid ett spårupptag. Har plutonen
+          två hundekipage kan framryckningen ske från två håll med gemensam
+          slutpunkt. När detta har skett tar plutonen objektet.
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            16
+                          HANDBOK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      Bild 4:8. Exempel på rutsök runt objektet.
+
+      Slalomsök – Hög noggrannhet men tidskrävande. Ställer stora krav på
+      orienteringsförmåga hos gruppen. Bredden på slagen i söket styrs av vind-
+      hastigheten, hundens kapacitet och vad man söker efter. Ett litet föremål
+      ger mindre vittring än ett större föremål eller en människa.
+
+
+
+
+
+
+
+
+
+
+
+
+                            17
+                          HANDBOK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Bild 4:9. Exempel på slalomsök runt ett terrängparti.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            18
+                          HANDBOK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      Bild 4:10. Z-sök – Mindre noggrann och mindre tidskrävande än slalomsök.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            19
+                          HANDBOK
+
+          Kombinerat sök – Oftast används en kombination av olika sökmetoder.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Bild 4:11. Kombinerat sök – Oftast används en kombination av olika sökmetoder.
+
+
+
+
+
+
+
+
+                            20
+                          HANDBOK
+
+      Parallellsök – Två hundpatruller genomför sökuppgiften parallellt under
+      ett genomsök i terräng för att nyttja båda hundarna optimalt med vinden
+      i sidan. En omgång släpar tidsförskjutet för att inte störa ut varandra med
+      egen vittring.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      Bild 4:12. Exempel på parallellsök i anslutning till ett objekt.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            21
+HANDBOK
+
+Sök mot vinden
+
+Om inte tidsförhållandena, terrängen eller storleken på objektet medger
+att genomföra rutsök tas objekten från läsidan. Inledningsvis genomförs
+en råpatrullering i läsidan från objektet och framryckning sker sedan mot
+vinden. Plutonen tar därefter objektet.
+
+5)
+
+Bild 4:13. Exempel på framryckning mot vinden.
+
+Ledstångssök
+
+Medger inte tiden eller terrängen att sök genomförs runt objektet eller
+mot vinden framrycker plutonen längs en ledstång eller i lämplig ter-
+räng mot objektet. Hundekipaget används som sensor vid den grupp som
+framrycker som förpatrull.
+
+22
+HANDBOK
+
+=)
+
+Bild 4:14. Exempel på framryckning längs ledstång mot objektet.
+
+4.1.9 Ta objekt med stridsindelad pluton i bebyg-
+gelse
+
+Kompani eller pluton som tar objekt i bebyggelse tar objektet enligt föl-
+jande princip;
+
+Inledningsvis avgränsar en pluton uppgiftsområdet och hindrar motstån-
+daren och civila att ta sig ifrån eller till uppgiftsområdet. Den yttre spärren
+isolerar själva insatsområdet.
+
+Därefter skapas en inre spärr med en pluton som syftar till att förhindra
+motståndaren att förflytta sig till/från eller mellan objekt. Inre spärr ska
+möjliggöra förbandets fortsatta anfall. Den är grupperad i direkt anslut-
+ning till objektet.
+
+L-gruppering är ett sätt att genomföra inre spärr. Vid L-gruppering kan
+eld avges mot två fasader. Samtidigt som eld kan avges längs de andra två
+fasaderna.
+
+Risken för vådabekämpning minimeras.
+
+23
+HANDBOK
+
+Bild 4:15. Exempel på plutonens gruppering vid tagande av objekt i bebyggelse.
+
+Finns motståndaren i objektet ska planerad inbrytning alltid ske efter-
+som motståndaren haft möjlighet att genomföra försvarsåtgärder och
+därmed kan ha ett högt stridsvärde. Detta gäller även om motstånda-
+ren endast består av ett stridspar. Förberedelser i form av terrängvärde-
+ring, identifiering av nyckelterräng samt förövning ska ske. Skenåtgärd/
+vilseledning/överraskning ska genomföras.
+
+En planerad inbrytning tar tid att planera och organisera. Det krävs
+mycket erfarenhet hos både chef och förband för att kunna göra det direkt
+ur marschgruppering och på stridsledning.
+
+En grundregel är: Order för inbrytningen bör ske på en plats varifrån man
+kan se anfallsmålet.
+
+Alternativet är att man har tillgång till detaljerade skisser eller bygg-
+ritningar. Minst gruppchef ska ha sett anfallsmålet på bild eller i verklig-
+heten. Håll ordergivningen kort genom att använda fastställda uttryck och
+begrepp. Risken för upptäckt och bekämpning måste beaktas under plane-
+ringsfasen. Finns möjlighet är samlad ordergivning att föredra. Anfall kan
+förövas, t.ex. med cheferna i en stor terrängskiss eller med hela förbandet
+i liknande terräng.
+
+24
+HANDBOK
+
+Då byggnaden tas uppifrån och ner kan motståndaren pressas ut från
+objektet. Det är alltid lättare att anfalla nerför en trappa än uppför. Anfal-
+let genomförs genom att ett våningsplan i taget tas. (kamprincipen).
+Antingen genomförs hög inbrytning varefter plutonen anfaller neråt,
+eller så genomförs låg inbrytning. Vid låg inbrytning arbetar sig plutonen
+uppåt genom att ta en ledstång i byggnaden, vanligtvis trapphuset. Pluto-
+nen tar en inbrytningszon på varje våning och slutligen anfaller plutonen
+uppifrån och ner.
+
+Hög inbrytningspunkt Låg inbrytning, men sedan snabbt upp för
+att sedan arbeta sig nedåt.
+
+(På en liten byggnad kommer buffertarna
+runt trappen att täcka hela huset.)
+
+Inbrytningszon. ”Entrén” + ett
+rum, runt om som buffert.
+
+Hunden kan hjälpa gruppen med markering av ljud/vittring
+och eventuellt in/ut spår vid inbrytningspunkten.
+
+Om normal civil/mil. aktivitet råder inom objektet begränsas
+nyttan av ett hundekipage.
+
+Hundekipaget saknar offensiv förmåga och går in efter
+
+att inbrytningszonen är säkrad,
+
+GENOMSÖK I BYGGNAD
+
+Hundekipaget kan hjälpa gruppen att finna gömda
+
+personer eller materiel.
+
+VIKTIGT!
+
+Hemvärnet har inga hundar med tilläggsdressyr
+
+för frisök.
+
+ALL SÖKVERKSAMHET I BYGGNAD SKER I KOPPEL eller SPÅR-
+LINA.
+
+25
+HANDBOK
+
+Den byggnadsdel som ska genomsökas ska vara säkrad.
+
+Hundekipaget åtföljs av minst en säkrare.
+
+Ekipaget kan scanna av dörrar och tidskrävande objekt som lagerhyllor,
+pallställ och större upplagsplatser.
+
+Vid markering övertar gruppen uppföljningen av markeringen enligt che-
+fens order.
+
+Hunden kan användas som distraktor vid ex. ett omhändertagande.
+
+Exempel på plutonchefs order
+
+Ordergivning Manöver
+
+Ta fram kartor och ant mtrl
+
+Närvaro kontroll
+
+Stridsvärde (PeDARS) från grupperna
+
+- Tid...
+
+Kompaniet är anfallsberett om 45 minuter
+
+= Vi befinner oss vid VARUHUSETS parkering
+= Norr är över BENSINMACKEN
+
+Terrängen
+
+- Utgångspunkter för målangivning
+
+26
+                          HANDBOK
+
+      Beskrivning av anfallsmålet
+      – Anfallsmål är STABSBYGGNADEN vid höjden, benämns GULA
+        HUSET
+      – Skyddsnivå, betonghus med innerväggar av murade betongstenar
+      – Planlösning-GULA HUSET är ett betonghus med 4 våningar, källare
+        och vind
+      – Inga begränsningar avseende framryckningsvägar finns genom
+        radhusområdet till parkområdet intill GULA HUSET.
+
+      Påverkan i Terräng
+      – ROTA inga kända
+      – Motståndarens fältarbeten inte troligt
+      – Egna Fältarbeten, inga
+      – Civila finns terräng hitom anfallsmålet, i anfallsmålet kan egen
+        personal finnas som har tagit skydd.
+
+      1. ORIENTERING
+      Motståndaren
+      Motståndaren har varit synlig med minst grupp i GULA HUSET för en
+      timme sedan. Bedömt gott stridsvärde.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            27
+                          HANDBOK
+
+          Vi
+          Kompaniets uppgift är att ta förrådsområdet i syfte att...
+          Understöd; Vi har understöd av AS
+
+          2. Plutonens Uppgift
+          BS tar inbrytningszon samt trapphuset, beredd ta och, genomsöka vån 2.
+
+          3. Genomförande
+          BESLUT I STORT
+          Inledningsvis ska skeninbrytning genomföras i sektor A, västra sidan, i
+          form av chockhgr.
+          Därefter tar en grupp inbrytningszon i sektor B via garagetaket, med
+          understöd av en grupp höjden.
+          Slutligen tar två grupper trapphuset till 4.e våningen.
+
+          ORDER
+          1.grp, genomför skeninbrytning i sektor A Västra delen, två chockhgr i
+          fönstren, beredd utgöra anfallsgrp 2.
+          2. grp, understödsgrp, stridsställning i HÖJDEN, understödjer mot GULA
+          HUSET, sektor A,C och D, beredd……
+          3. grp, inbrytningsgrupp tar, genomsöker, inbrytningszon i sektor B,
+          framrycker via garagetaket, beredd……
+          4. grp, anfallsgrupp 1, framrycker omedelbart bakom 3. grp, beredd ta och
+          genomsöka trapphuset.
+          Insatsregler…..
+          Sidoförband/Gränser
+
+          4. Sjukvårdstjänst
+          Kompanisamlingsplats inledningsvis bakom höjden därefter i inbryt-
+          ningszon.
+
+          5. Ledning
+          – Jag bakom främsta grupp, stf inledningsvis vid understödsgruppen
+
+          Slut Frågor Repetera, Verkställ!
+
+
+
+
+                            28
+                          HANDBOK
+
+      Vid inbrytning i byggnad kan plutonen indelas i;
+      • Understödsgrupp,
+      • fältarbetsgrupp,
+      • inbrytningsgrupp,
+      • anfallsgrupp/er.
+
+      Hur den aktuella stridsindelningen ser ut i den specifika situationen
+      avgörs av plutonchef från fall till fall. Begreppen är till för att underlätta
+      ordergivning då de olika grupperna, om inget annat anges, medför olika
+      utrustning och löser olika uppgifter. Tanken är alltså inte att plutonens
+      grupper ska ha fasta uppgifter utan alla grupper ska kunna lösa alla upp-
+      gifter. Den materiel som medförs av respektive grupp regleras av pluto-
+      nens stående order (SO).
+
+      När plutonen ska genomsöka mindre byggnad kan gruppen ges följande
+      uppgifter;
+      • Understöd,
+      • öppna inbrytningspunkten,
+      • genomföra skeninbrytning,
+      • ta och försvara inbrytningszon,
+      • ta ledstång (trapphus).
+
+      Exempel på gruppchefs order för genomsök
+      ”Manöver ordergivning
+      Orientering:
+      Inget fientligt eller främmande har påträffats hitintills i huset.
+      2. grupp har genomsökt till och med nästa rum (pekar) där deras främsta
+      stridspar finns.
+      Två civila familjer ska enligt uppgift finnas kvar i huset, de är inte lokalise-
+      rade än.
+      Trapporna till övervåningen och källaren är inte lokaliserade.
+      Order:
+      Karlsson, Andersson, 1:a och 2:a, Eriksson, Bengtsson, 3:e och 4:e, ....5:e och
+      6:e.
+      Siggesson medför bår, Torsson medför brytverktyg och dörrstoppar
+      1:an, 2:an ta genomsök, tre rum framför 2.grupp.
+
+
+
+                            29
+                          HANDBOK
+
+          Slut!
+          Frågor?
+          Repetera eget nummer!
+          Karlsson repetera egen uppgift!
+          (Karlsson repeterar)
+          Rätt!
+          Framåt!”
+
+
+          Grundmetoder för hur gruppen och plutonen ska genomföra strid i
+          bebyggelse finns i FMR MOUT och HBok SIB.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            30
+                          HANDBOK
+
+      5.    Allmänt    om   uppgiften
+
+            Skydda    samt    uppgiften
+
+            Bevaka
+
+      Ur KFS 14 2011-12-16
+
+      Förmåga att skydda objekt på marken mot angrepp.
+      Samtliga hemvärnsförband (utom vissa funktionsförband) ska, oavsett
+      samhällstillstånd, inom ramen för skyddslagen ha förmåga att bevaka och
+      skydda objekt mot infiltration och olovlig underrättelseinhämtning.
+      Samtliga hemvärnsförband ska även ha förmåga att i krig med stöd av sol-
+      datreglerna i folkrätten eller vid överraskande angrepp med stöd av nöd-
+      värnsrätten skydda objekt mot överfall eller eldöverfall med direktriktad
+      eld.
+
+      Hemvärnsförbanden kan i fredstid bevaka och/eller skydda eget förbands
+      verksamhet enligt eget behov, Försvarsmaktens objekt och verksamhet (till
+      exempel amförråd/kassuner, anläggningar, transporter, egna/utländska for-
+      don/fartyg/flygplan, högvakt m.m.).
+
+      Hemvärnsförband kan vid en begränsad kris bevaka och/eller skydda mili-
+      tära skyddsobjekt, militära transporter och efter framställan från andra
+      myndigheter civila skyddsobjekt.
+
+      Hemvärnsförband ska vid en allvarlig kris kunna bevaka och/eller skydda
+      militära skyddsobjekt, transporter och samhällsviktig civil infrastruktur
+      samt stödja insatsförbandens verksamhet och försvara viktigare knutpunk-
+      ter/områden/objekt.
+      Denna typinsats är dimensionerande för utformningen av målsätt-
+      ningar för hemvärnsförband.
+
+      Det innebär att hemvärnsförbanden beroende på uppgifter kan komma
+      att gruppera samlat i bataljon eller utspridd över mycket stor yta ner till
+
+
+
+
+                            31
+                          HANDBOK
+
+          enskilda plutonsenheter. Hemvärnsförbanden ska kunna uppträda i för
+          förbandet förekommande terrängtyper inklusive urban miljö och kunna
+          verka under alla terräng-, sikt- och klimatförhållanden. Hemvärnsförban-
+          den ska kunna verka under hela dygnet. Detta ska kunna ske under dygn
+          till månader.
+
+          Som en konsekvens av hemvärnsförbandens önskade förmågor och typin-
+          satser ska plutonen kunna:
+
+          Inom ramen för bevaka;
+              a. Transportera/framrycka till objektet,
+              b. gruppera,
+              c. genomsöka objekt,
+              d. ta objekt,
+              e. upprätta avspärrningar och larmanordningar,
+              f. upprätta inpassering/vägspärr,
+              g. genomföra patrullering,
+              h. upprätta larmstyrka,
+              i. upprätta och maskera stridsställningar och värn,
+              j. upprätta och maskera lednings-, fordons/båt- och underhålls-
+                plats,
+              k. upprätta samlingsplats för skadade,
+              l. upprätta förläggning för personal och hundar.
+          Inom ramen skydda (uppgifter i likhet med bevaka) samt:
+              a. upprätta postering(ar)
+
+          Kompani kan bevaka och/eller skydda ett eller flera objekt. Plutonen kan
+          då få uppgift att bevaka och/eller skydda objekt alternativt att försvara
+          stridsställning. I den kompletta ordern till förbandet ska syftet med upp-
+          giften tydliggöras. Ett objekt kan bestå av flera byggnader.
+
+          När kompaniet genomför uppgiften bevaka och/eller skydda och pluto-
+          nen bevakar, skyddar eller försvarar stridsställning samordnar kompani-
+          chefen följande inom ramen för kompaniets strid på objektet;
+          • Skjutgränser,
+          • larmstyrka,
+
+
+
+                            32
+                          HANDBOK
+
+      • tillträdeskontroll,
+      • patrullslingor,
+      • fast spaning,
+      • samlingsplats för skadade,
+      • förläggning,
+      • återhämtning.
+
+      Exempel på order:
+      1.pluton, försvara stridsställning väster sida objekt Telemasten minst intill
+      xxxx,, eld mellan… och. Patrullerar längs patrullslinga xxxxxx beredd
+      betjäna inpasseringskontroll från xxxx.
+
+      När plutonen löser bevaka eller skydda uppgift kan gruppen lösa följande
+      uppgifter;
+      • Bevaka,
+      • skydda,
+      • försvara stridsställning,
+      • avdela lyspatrull,
+      • upprätta och betjäna infartspost,
+      • upprätta och betjäna post/dubbelpost,
+      • utgöra larmstyrka,
+      • patrullera,
+      • larmminera, upprätta larmanordningar,
+      • (spärra, minera,)
+      • spana,
+      • genomsöka terräng/byggnad,
+      • upprätta postering/Vägspärr.
+
+           När pluton/grupp tagit ett objekt, grupperas inledningsvis
+           plutonen/gruppen för försvar intill objektet och dess när-
+           område genomsökts. Därefter övergår plutonen/gruppen
+            till att inta gruppering för given uppgift SKYDDA eller
+                        BEVAKA .
+
+
+
+
+
+
+                            33
+                          HANDBOK
+
+          5.1   Patrullering med hund
+
+          Patrullering syftar till att längs en patrullsträcka upptäcka motståndarens
+          aktivitet samt avvikelser från normalbilden. Iakttagelser ska omedelbart
+          kunna rapporteras till högre chef.
+          Patrulleringstempot ska vara lågt cirka 3min/100m. Patrulleringen ska
+          innehålla stillastående bevakning t.ex. vid nytt terrängskifte för att under-
+          lätta möjligheten att upptäcka något avvikande för både människa och
+          hund.
+          RASSOIKA är ett lämpligt stöd för gruppchefen.
+
+          5.1.1 Patrullsträckor
+          Patrullering kan genomföras på patrullsträckor som är förberedda, tillfäl-
+          liga eller som genomförs i obanad terräng.
+          Patrullering på en patrullsträcka kan genomföras som:
+          Upprepad, det vill säga att sträckan patrulleras fram och tillbaka inom
+          angiven tid.
+          Kontinuerligt hela tiden under angiven tidsperiod, någon är på sträckan
+          hela tiden.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            34
+                          HANDBOK
+
+      6.    Bevaka
+
+      6.1   Innebörd
+
+      Uppgift som syftar till att observera, rapportera och försvåra viss typ av
+      hot mot visst objekt eller viss verksamhet.
+
+
+      6.2   Gruppering  vid uppgiften bevaka
+
+      Huvuddelen av förbanden inom bataljonen kan få uppgiften att bevaka.
+      Rapportering sker under lösandet av uppgiften genom att i första hand
+      nyttja Försvarets telenät eller civil infrastrukturs samband, ex. fast telefon.
+      Om sådana inte finns tillgängliga, används förbandets egen radio materiel.
+
+      Samverkan sker med objektsägare/betjäningspersonal över tiden.
+
+      Om underrättelseläget visar med säkerhet att ingen direkt hotbild förelig-
+      ger vid objektet kan samtliga plutoner/kompanier efter kontroll av objek-
+      tet, framrycka/åka uppsuttet, och gruppera vid/på det.
+      Om underrättelseläget läge visar en oklar/tydlig hotbild vid objektet så
+      måste bataljonens insatsplutoner/kompanier ta och därefter genomsöka
+      objektet, (se kapitlet ”ta objekt”). Vid behov kan därefter en avlösning ske
+      till Hvbevakningspluton/kompani som övertar uppgiften och bevakar
+      objektet. Hund används som en fast och rörlig underrättelsesensor.
+
+      Vid objektet upprättas och betjänas vid behov inpassering/vägspärrar.
+      Patrullering genomförs kontinuerligt och patrull/larmstyrka avdelas.
+      Efterhand sker en utbyggnad av fältarbeten och tekniska hjälpmedel vid
+      objektet.
+
+      Åtgärder för att lokalisera motståndaren/hotet;
+      • Patrullering genomförs utanför objektet,
+      • larmsystem upprättas i objektets omedelbara närhet, redan befintliga
+        larmsystem kompletteras,
+
+
+
+
+                            35
+                          HANDBOK
+
+          • bevakning och tillträdesskydd upprättas med fast bemannade poster.
+            Bevakning inne på objektet sker med patrullerande post samt med
+            poster på vitala delar av objektet.
+
+          Kompani kan bevaka och/eller skydda ett eller flera objekt. Du kan då
+          med din pluton få uppgift att bevaka och/eller skydda del av objektet eller
+          försvara stridsställning.
+
+          6.3   Genomförande   av bevaka-uppgift
+
+          Har objektet en fast bemannad bevakning ska samverkan med denna sna-
+          rast göras.
+
+          Inledningsvis tar och genomsöker plutonen objektet. Därefter grupperar
+          du plutonen (hela eller delar av) och tilldelar respektive grupp stridsställ-
+          ningar, då det är tillämpbart även växelstridsställningar. Senare rekogno-
+          seras och förbereds alternativa stridsställningar. Varje grupp tilldelas eld-
+          områden.
+
+          Förberedelser för att lösa uppgifter i mörker genomförs i dagsljus. Detta
+          kan vara t.ex. olika postställen och platser för hund beroende på dags-
+          ljus, lyspatrulls uppträdande i olika scenarior, utmärkning av platser för
+          att lättare hitta i mörker etc etc.
+
+          Som plutonchef förövar du besättande av stridsställningar, växelstrids-
+          ställningar och alternativa stridsställningar. (Motstöt inom objektet för-
+          bereds och övas.)
+
+          Bevakningen upprättas omedelbart med inpasseringskontroll och arbets-
+          poster vid respektive grupp. Efterhand som arbetena blir färdigställda
+          dras arbetsposterna in. Samtliga postställen tilldelas tillfällig postinstruk-
+          tion BSÖ (Bevakningsområde, Sätt att tillkalla chef, Öppna eld), efterhand
+          upprättas fullständiga postinstruktioner, enligt OBSLÖSA.
+
+
+
+
+
+
+                            36
+                          HANDBOK
+
+      Larmanordningar typ CIM, bevakningslarm och larmminor m.m. upp-
+      rättas efterhand. Skisser på larm och larmminor upprättas skyndsamt och
+      överlämnas till dig som plutonchef. Har objektet fasta larm kompletteras
+      dessa med tillfälliga larmanordningar.
+      Därefter genomförs mer omfattande fältarbeten. Stridsställningar och
+      postställen grävs ut så att all personal skyddsgrop/ståvärn och maskeras.
+      Skyddet av objektet förstärks. Detta kan t.ex. göras med sandsäckar eller
+      containrar. Andra typer av insynsskydd skapas med maskeringsnät och/
+      eller presenningar. Mer omfattande varaktiga åtgärder på objekten ansva-
+      rar objektsägaren för.
+
+      Förläggning förbereds i kvarter eller i tält. Tillför rastslinga för hund och
+      plats för motivationsövningsplatser, samt planera för hur dessa kan använ-
+      das inom ramen för bevakauppgiften.
+
+      Sjukvård med samlingsplats för skadade förbereds.
+
+      Andra åtgärder som du genomför vid plutonen är att avdela larmstyrka
+      som kan lösa uppgifter inom och utom objektet.
+
+      Slutligen görs förberedelser för att bibehålla stridsvärdet på förbandet.
+      Förberedelserna omfattar även återhämtning med del av förbandet från
+      andra insatsveckan och framåt.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            37
+                          HANDBOK
+
+          6.3.1 Pluton bevakar flera objekt i skog
+
+                                  ORIENTERING
+                                  BESLUT
+                                  ORDER
+                                  1.pluton bevakar objekt A
+                                  Bevakar dessutom objekt B och D
+                                  genom oregelbunden patrullering. E ller
+                                  patrullerar 4 gånger per dygn objekt B
+                                  och D.
+                                  Beredd bevaka objekt C två timmar
+                                  efter order
+
+
+
+          Bild 6:16. Pluton som bevakar flera objekt.
+          6.3.2 Pluton bevakar ett objekt i skog
+
+          Exempel på inledande order då plutonen gjort avsittning vid objektet
+          Förutsättning: Oförsvarat objekt, plutonen i förhand.
+                                   ORIENTERING
+                                   Vi ska bevaka objekt A samt objekt B,
+                                   och D genom patrullering. Vi ska vara
+                                   beredda att bevaka objekt C tv å
+                                   timmar efter order
+                                   BESLUT
+                                   Vi ska utgångsgruppera i syfte att
+                                   bevaka objekt A
+                                   ORDER
+                                   1.grupp stridsstä llning….bevakar…
+                                   Upprättar och bemannar infartspost…
+                                   2.grupp stridsställning….bevakar…
+                                   beredd bevaka objekt B och D genom
+                                   oregelbunden patrullering
+                                   3.grupp stridsställning….bevakar…
+                                   beredd bevaka objekt C…
+                                   4.grupp stridsställning….bevakar…
+                                   …beredd
+                                   Insats regler:
+                                   Skyddslagen, genomför
+                                   tillträdeskontroll
+          Bild 6:17. Plutons gruppering vid bevaka objekt.
+                            38
+                          HANDBOK
+
+      Därefter byggs objektet ut efterhand utifrån plutonchefens målbild och
+      genomförandeidé.
+      Även larmminor, bevakningssystem, osv byggs ut beroende uppgiftens
+      innebörd, tidsförhållanden m.m.
+
+                                Beslut i stort:
+                                Över tiden ska infartspost vara
+                                upprättad och betjänad vid objekt A.
+                                Patrullering sker längs patrullslinga
+                                utanför objektet.
+                                En grupp ska utgöra larm styrka
+                                beredd förstärka postställen och
+                                bevaka objekt B,C,D
+                                Stridens förande :
+                                All verksamhet som avviker från
+                                normalbilden rapporteras
+                                Tillträdeskontroll genomförs
+                                Obehörig personal avvisas och
+                                hänvisas vid behov till högre chef
+                                Objekt B och D bevakas genom
+                                fordonsburen patrullering.
+      Bild 6:18. Plutonchefs målbild vid bevakning av objekt.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            39
+                          HANDBOK
+
+          6.3.3 Grupp bevakar flera objekt i skog
+          Exempel på grupp som bevakar objekt genom patrullering med fordon
+
+                                  ORDER
+                                  FA bevakar B och D genom
+                                  oregelbunden fordonsburen
+                                  patrullering….beredd bevaka objekt C
+                                  Genomförande exempel 1
+                                  Vid objektet sker avsittning
+                                  Igelkottförsvar
+                                  Patrullering runt objektet
+                                  Kontrollerar avvikelser från normalbild
+                                  Genomförandeexempel 2
+                                  Stannar fordonet, avsittning –
+                                  observerar - l yssnar
+                                  Kontrollerar avvikelser från normalbild
+                                  Därefter rapporterar chefen och
+                                  fortsätter sin uppgift
+                                  Genomförandeexempel 3
+                                  Stannar på långt avstånd. Lyssna
+                                  framryckning till fots – avpatrullera
+                                  objektet – återgå
+                                  Genomförandeexempel 4
+                                  Kör runt
+          Bild 6:19. Skiss exempel på bevakning genom patrullering med fordon.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            40
+HANDBOK
+
+6.3.4 Grupp bevakar objekt i skog
+
+ORDER
+GA Bevakar objekt C minst
+intill....beredd
+
+Objekt C
+
+AO
+
+Exempel på hur uppgiften kan lösas;
+All verksamhet som avviker från
+normalbilden rapporteras
+
+Bevakning minst dubbelpost vid
+ingången dygnet runt
+
+Tillträdeskontroll
+
+Stridställningar i omedelbar närhet till
+objektet
+
+Alternativa stridsställningar finns för
+gruppen
+
+Även larmminor, bevakningssystem,
+osv byggs ut beroende uppgiftens
+innebörd, tidsförhållanden mm
+
+Bild 6:20. Exempel på grupp som bevakar objekt.
+
+6.3.5 Pluton bevakar objekt i bebyggelse
+
+gRYPpSsseR
+
+Mosse see"”
+
+Bild 6:21. Exempel på pluton som bevakar objekt i bebyggelse.
+
+41
+HANDBOK
+
+6.3.6 Grupp bevakar objekt i bebyggelse
+
+Bild 6:22. Grupp bevakar objekt i bebyggelse.
+
+42
+                          HANDBOK
+
+      6.4   Infartspost
+
+      I bevakningsinstruktionen kan ingå en särskild förteckning över de perso-
+      ner som är behöriga att få tillträde till bevakningsobjektet. I instruktionen
+      kan också anges vilka handlingar som kan godtas som behörighetsbevis
+      för tillträde till objektet. Kontrollera att
+      – uppvisad handling avser innehavaren,
+      – handlingen gäller det aktuella bevakningsobjekt,
+      – handlingen är giltig såvitt avser tiden, och att
+      – handlingen inte är ändrad.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      Bild 6:23. Infartspost.
+
+
+      6.5   Fast bevakning med  hund
+
+      Uppträdandet kan vara dolt och platsen bör väljas så att man kan obser-
+      vera, rapportera och lösa elduppgifter inom ett tilldelat område. Uppgiften
+      kan lösas från exempelvis postställen och/eller gruppens stridsställning
+      kortare eller under längre tid. Oftast skiljer man på platsens belägenhet
+      mht om det är mörker eller dagsljus.
+
+
+
+
+
+                            43
+                          HANDBOK
+
+          7.    Skydda
+
+          7.1   Innebörd
+
+          Uppgift som syftar till att förhindra motståndaren att ingripa mot viss ter-
+          räng, verksamhet eller anläggning så att syftet med den strid eller verk-
+          samhet som ska skyddas inte äventyras.
+
+          7.1.1 Gruppering vid uppgiften skydda
+
+          Skillnaden mot att gruppera för att bevaka objekt är att upprättandet och
+          betjäningen av inpassering/vägspärrar sker även i terräng längre ut ifrån
+          objektet varifrån en motståndare kan påverka vår verksamhet på objektet.
+          Posteringar och stridsställningar med fältarbeten och tekniska hjälpme-
+          del finns utanför objektet på vitala punkter. För att skyddslagen ska kunna
+          nyttjas i fred och kris kan det finnas ett behov av att utöka skyddsobjektet
+          (större område). Patrullering runt objektet sker till fots och/eller med for-
+          don. Larmstyrka avdelas.
+
+          Åtgärder för att lokalisera motståndaren/hotet
+          Motståndaren ska tidigt lokaliseras genom att;
+          • Spaning (fast och rörligt) sker genom kompanichefs försorg tidigt och
+            ”långt” från objektet,
+          • patrullering (med fordon) och genomsök av terräng sker ” långt –
+            närmare” från objektet,
+          • postställe kan grupperas i sådan terräng där vi kan förvänta oss att
+            påverka motståndaren tidigt,
+          • vägspärr upprättas i anslutning till infarten till objektet (kan även
+            upprättas vid framskjuten gruppering),
+          • kontroll/genomsök sker på andra väsentliga platser utanför objektet
+            (t.ex. tele, el och vatteninstallationer),
+          • patrullering (till fots) genomförs utanför objektet,
+          • larmsystem upprättas i objektets omedelbara närhet, redan befintliga
+            larmsystem kompletteras,
+          • bevakning och tillträdesskydd upprättas med fast bemannade poster,
+          • bevakning inne på objektet sker med poster på vitala delar av objektet
+            samt med patrullerande post.
+
+
+                            44
+HANDBOK
+
+patrull
+
+Bild 7:24. Exempel på pluton som löser uppgiften skydda.
+
+7.1.2 Genomförande av skyddauppgift
+
+Utöver vad som beskrivs under bevakauppgift kan följande genomföras:
+
+Upprätta och betjäna postställe/vägspärr utanför ordinarie (den tidigare
+gränsen) skyddsobjektsgräns. Detta sker vid utökat skyddsobjekt eller
+med stöd av polisen.
+
+Genomföra fast spaning eller terränggenomsök i syfte att upptäcka/störa
+motståndare/hot tidigt.
+
+7.1.3 Pluton skyddar objekt i skog
+
+Exempel på inledande order då plutonen gjort avsittning och genomsökt
+objektet
+Förutsättning: Oförsvarat objekt, plutonen i förhand
+
+45
+                          HANDBOK
+
+                            ORIENTERING
+                            BESLUT
+                            Vi ska skydda objektet vid.. b eredd…
+                            ORDER
+                            1.grupp skyddar ... bevakar infarten… beredd…
+                            2.grupp skyddar ... bevakar ingången till objektet…
+                            beredd…
+                            3.grupp skyddar... larmstyrka, beredd stridspana…
+                            4.grupp skyddar ... patrullerar …
+                            Signalist upprättar ledningsplats vid…
+                            Hundekipage underställes 1.grupp samt 4.grupp
+          Bild 7:25. Gruppering efter inledande order enligt ovan.
+          Därefter byggs skyddet av objektet ut efterhand utifrån plutonchefens
+          målbild och genomförandeidé.
+          7.1.4 Stridens förande vid uppgiften skydda
+          Plutonchefens målbild.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            46
+                          HANDBOK
+
+                            Beslut i stort
+                            Över hela tiden ska infartspost och
+                            post vid ingången till objektet vara
+                            grupperad och bemannad.
+                            Patrullering längs patrullslinga sker
+                            regelbundet.
+                            En grupp ska utgöra larmstyrka
+                            beredd att (strids)spana alt förstärka
+                            postställen.
+                            Stridens förande:
+                            Om CIM utlöser ska larmstyrka
+                            strids/spana l ängs patrullslinga i den
+                            sektor som CIM utlöst. Larmstyrkan
+                            ska förstärkas med hundekipage.
+                            Övriga ska vara beredda att besätta
+      Bild 7:26. Gruppering och patrullslinga. stridsställningar.
+                            Om motståndaren med eller utan
+                            stridshandling besätter terräng /
+                            plats varifrån han kan utgöra direkt
+                            hot mot vår uppgift ska denna
+                            terräng / plats återtas.
+                            Om hotbilden förändras att
+                            motståndaren bedöms uppträda
+                            fordonsburen ska plutonen upprätta
+                            och betjäna vägspärr vid…
+      Bild 7:27. Sektorsindelning för larmsystem,
+      patrullering och rapportering.
+
+
+
+
+
+
+      Bild 7:28. Larmminor samt bevakningssystem CIM.
+
+
+
+
+
+                            47
+                          HANDBOK
+
+          Du som plutonchef genomför lämpligen, om möjligt en sammanfattande
+          ordergivning för lösandet av uppgiften över tiden med samlad pluton.
+          Det genomförs när plutonen byggt ut objektet ”tillräckligt” och läget med-
+          ger.
+          Använd ett överskådligt stridsledningsoleat (plansch).
+          Denna används för att förtydliga samordningen samtidigt som du pekar/
+          visar i terrängen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            48
+                          HANDBOK
+
+      Tid
+      Terräng
+      1 ORIENTERING
+      Motståndaren
+      Parter/Civila
+      Egna förband
+
+      Sidoförband
+      Terrängen, Minor
+      Understöd
+      2 UPPGIFT       Vår pluton ska skydda ledningscentralen under minst fem
+                      dygn, beredd…..
+      3 GENOMFÖRANDE  MÅLBILD
+      Beslut          När uppgiften är löst har vi med bibehållet stridsvärde, skyddat
+                      ledningscentralen utan någon påverkan av motståndaren.
+                      Jag har tänkt lösa uppgiften på följande sätt:
+                      Över hela tiden ska infartspost och post vid ingången till
+                      objektet vara grupperad och bemannad. Patrullering längs
+                      patrullslinga sker regelbundet.
+                      En grupp utgör larmstyrka beredd att strids-spana alt förstärka
+                      postställen. När objektet är fullt utbyggt ska ”rutinsystem” för
+                      avlösning upprättas i syfte att skapa uthållighet inom plutonen.
+      ORDER           1.grupp skyddar från stridsställning 1 beredd skydda från sst 2
+      Grupperna       och 3. Skyddar över tiden infarten samt ingången till objektet.
+                      2.grupp skyddar från stridsställning … beredd skydda från sst
+                      … och … Patrullerar längs patrullslinga minst en gång per var-
+                      annan timma.
+                      3.grupp skyddar stridsställning … beredd skydda från sst …
+                      och … Larmstyrka, (upprättar plats för omhändertagna) beredd
+                      stridspana inom objektet.
+                      4.grupp skyddar stridsställning … beredd skydda från sst …
+                      och … Reservgrupp tillika daggrupp. Förbereder utspisning
+                      samt UH-transport till…(Upprättar samlingsplats för skadade
+                      och sjuka vid)
+                      (Tpgrp)…
+                      Signalist, betjänar ledningsplatsen…
+                      Hundförare, underställes 1.grupp samt 4.grupp
+                      ALLA
+                      Beredd upprätta oplats (postering) alternativt vägspärr vid…
+                            49
+                          HANDBOK
+
+          Insatsregler    Skyddslagen gäller.
+                          Eld med andra vapen än handeldvapen endast på order (från
+                          högre chef efter begäran)
+          Samordning      Skjutgränser….
+                          Skyddsobjektets gräns är utmärkt med…
+          Rapportering    Patrullen anmäler då den utgår för patrullering. Rapporterar
+                          efter hand händelser/i akttagelser som avviker från normalbil-
+                          den.
+                          Om CIM utlöser ska insatsgrupp ”stridsspana” längs
+                          patrullslinga i den sektor som CIM utlöst. Övriga ska vara
+                          beredda att besätta stridställningar.
+          Riktlinjer      Om hund indikerar främmande verksamhet i viss riktning, ska
+                          spaning insättas i denna sektor.
+                          Om larmmina utlöser ska plutonen besätta stridställningar.
+                          Om motståndaren med eller utan stridshandling besätter ter-
+                          räng/plats varifrån han kan utgöra direkt hot mot vår uppgift
+                          ska denna terräng/plats återtas.
+                          Om hotbilden förändras att motståndaren bedöms uppträda
+                          fordonsburet ska plutonen upprätta och betjäna vägspärr
+                          vid…
+          4 LOGISTIK      Kompanisamlingsplats för skadade är…
+                          Plutonsamlingsplats för skadade är vid….
+                          ERSÄTTNING
+                          vatten
+                          förnödenheter
+                          drivmedel
+                          livsmedel
+                          ackar/batterier
+                          m.m.
+          5 LEDNING       Plutonchefens ledningsplats är vid….
+                          Stridsledningsoleat (plansch) finns och förs vid plutonlednings-
+                          platsen
+                          Från dygn 2 klockan… gäller upprättat avlösningssystem…
+                          larmstyrkan uppehåller sig vid….
+                          SAMBAND
+                          Från fasta postställen till plutonstab utnyttjas fälttelefon
+                          Patrull rapporterar via RA 180
+          Slut! Frågor?
+          Repetera! Verkställ!
+                            50
+                          HANDBOK
+
+      7.1.5 Exempel på avlösningsscheman
+      7.1.5.1 Exempel avlösningsschema för respektive grupp.
+
+             Bevakning Infart Vila Larmstyrka Daggrupp/ Reserv
+             och patrullering
+      Dygn 1
+      06-14  3           1     2        4
+      14-22  3           1     2        4
+      22-06  2           3     1        4
+      Dygn 2
+      06-14  4           2     3        1
+      14-22  4           2     3        1
+      22-06  3           4     2        1
+      Dygn 3
+      06-14  1           3     4        2
+      14-22  1           3     4        2
+      22-06  4           1     3        2
+      Dygn 4
+
+      06-14  2           4     1        3
+      14-22  2           4     1        3
+      22-06  1           2     4        3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            51
+                          HANDBOK
+
+          7.1.5.2 Exempel avlösningsschema för Plutonchef med ”stab”.
+                 Plutch Plutch stf Fofö Hundfö Signalist Signalist
+          Dygn 1
+          06-14  Leder 2)    1)    1)    Tjänst 2)
+          14-22  2)    Leder             2)    Tjänst
+
+          22-06  Vila  Leder             Vila  Tjänst
+          Dygn 2
+          06-14  2)    Leder             2)    Tjänst
+          14-22  Leder 2)                Tjänst 2)
+          22-06  Leder Vila              Tjänst Vila
+          Dygn 3                         2)
+          06-14  Leder 2)                Tjänst 2)
+          14-22  2)    Leder             2)    Tjänst
+          22-06  Vila  Leder             Vila  Tjänst
+          Dygn 4
+          06-14  2)    Leder             2)    Tjänst
+          14-22  Leder 2)                Tjänst 2)
+          22-06  Leder Vila              Tjänst Vila
+
+          1. Minst en fordonsförare och hundförare insatsberedd
+          2. Rutintjänster, planering, vila
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            52
+                          HANDBOK
+
+      7.1.6 Övriga förberedelser för lösande av uppgif-
+            ten skydda
+      Exempel på plutonchefens order och åtgärder efter hand som kan ges
+      intill dess att plutonen byggt ut sitt objekt och plutonchefen har en sam-
+      lad ordergivning.
+
+
+      Vem   Åtgärd            Ex på Order
+      Plutch Gruppera infartspost, upprätta postställe ”1.grupp
+            (En grupp betjänar den omedelbart och Upprätta tillfällig infartspost vid … under
+            en annan grupp inreder ett fast postställe minst 3 timmar.
+            fullt utbyggt).   (B, S, Ö”)
+                              ”2.grupp
+                              Upprätta och inred fast infartspostställe
+                              vid…
+                              Upprätta plats för visitation av personal och
+                              fordon vid…”
+                              ”Signalist.
+                              Dra tråd för fast telefoni till ledningsplats
+                              vid…”
+      Plutch Upprätta ledningsplats (Skiss på områ- ”Signalist och ordonnans
+            det, sektorsindelning, samband till högre Upprätta ledningplats vid….
+            chef m.m.)        Rita skiss över området så det täcker…
+                              Upprätta samband till kompanichef…
+                              Upprätta telefon till postställe – samverka
+                              med 2.grp som drar tråd”
+      Plutch Reka, märk patrullslinga, Tilldela uppgift ”C 1.grupp
+            för larmminor och CIM Märk ut patrullslingan med snitsel efter hand
+            (Sker tillsammans med gruppch runt som vi framrycker.”
+            objektet)
+                              ”C 2.grupp
+                              Upprätta CIM 1, fästpunkt vid…. Slinga ett
+                              mellan…och….Slinga två mellan… och…
+                              Upprätta larmmina mellan … och… fäst-
+                              punkt vid…
+                              Dra tråd från CIM till ledningsplats.
+                              Märk ut avstickare från patrullrundan till
+                              fästpunkt magnetgivare och fästpunkt larm-
+                              mina med lysstav”
+                              ”C 3.grupp…”
+                              ”C 4.grupp”
+                            53
+                          HANDBOK
+
+          Vem   Åtgärd            Ex på Order
+          Plutch Visa postställe patrullslinga, CIM, larm- ”Orientering
+                minor. (Samlat för hela plutonen med bör- Postställe infartspost här. (OBSLÖSA)
+                jan på poststället). Patrullslinga startar och slutar här.
+                                  Kolonn följ mig”.
+                                  ”Halt
+                                  Larmmina nr 1 är upprättad vid… mellan
+                                  … och …
+                                  CIM nr 1 upprättad vid… slinga mellan …
+                                  och …”
+          Plutch Samlad (sammanfattande) ordergivning Enligt ordermallar i tillämpliga delar
+                (Avlösningsschema) OBSLÖSA
+                                  Avlösningsschema
+          Plutch Rek beredduppgifter
+          Plutch Föröva patrull   ”Orientering.
+                                  CIM nr 4 utlöst i sektor G 2
+                                  4.grp
+                                  Stridsspana längs patrullstigen i sektor G.
+                                  Återställ magnet givare nr 4.
+                                  Rapportera via radio när patrullen utgår
+                                  samt när ni passerar in i sektor G.
+                                  Framåt”
+          Plutch Upprätta parkeringsplats för besökande. ”4 grp
+                Utanför objektet och infartsposten. Upprätta parkeringsplats för fordon vid…”
+          Exempel på plutonchef stf uppgifter och som han ansvarar för vid utbygg-
+          naden av objektet, samt exempel på order och åtgärder efter hand
+          Vem   Åtgärd            Ex på Order
+          Plutch stf Hämta fordon, tilldela uppställningsplats ”Fofö. Hämta fordon vid FAP, ordna upp-
+                                  ställningsplats vid….Påbörja avlastning av
+                                  materiel. Genomför därefter åtgärder efter
+                                  körning”
+          Plutch stf Upprätta förläggning ”1.grupp
+                                  förläggningplats…”
+                                  ” Plutch förläggs vid…”
+                                  ”Plutstab
+                                  förläggs vid…”
+
+
+
+                            54
+                          HANDBOK
+
+      Vem   Åtgärd            Ex på Order
+      Plutch stf Upprätta rutiner inom objektet (Vatten, ”1.grupp
+            hygien, sophantering, förplägnad, dag- städområde…”
+            grupp m.m.)       ”2.grupp
+                              inledningsvis daggrupp”
+                              ”Daggruppens ansvarar för följande…
+                              Hämtar dygnsranson av förplägnad vid…
+                              Sopor lämnas dagligen vid…”
+
+
+      Plutch stf Upprätta hundförläggning och tilldela ”Hundförare
+            plats för rastning av hundar Upprätta hundförläggning vid…tillfällig
+                              material hämtas vid…
+                              Upprätta och avgränsa rastplats inom
+                              område…”
+      Plutch stf Upprätta samlingsplats för skadade ”3.grupp
+                              upprätta samlingsplats för s kadade vid…”
+
+      Plutch stf Tilldela motivationsövnplats för hun- 1-4 grp och hundförare
+            dar (Sker i samband när man visar ”Motivationsövningplats för hundar är längs
+            patrullslingan för hela plutonen i punk- patrullslingan mellan… och … Figurant får
+            ten ovan)         endast befinna sig inom område…”
+
+      Plutch stf Upprätta plats för omhändertagna per- ”3.grp
+            soner. Inomhus om möjligt och under Upprätta plats för omhändertagna perso-
+            uppsikt.          ner vid…
+                              Materiel finns vid…”
+
+      Exempel på gruppchefen/stf åtgärder och order som genomförs efter hand
+      och på uppdrag av plutonchef/stf
+
+
+
+
+
+
+
+
+
+                            55
+                          HANDBOK
+
+          Vem   Åtgärd            Ex på Order
+          Grpch stf Tilldela växel- och alternativa eldställ- ”Johansson, Petersson, eldställning här, eld
+                ningar (Tilldelar alla soldater i gruppen mellan…och…”
+                sina eldställningar)
+
+          Grpch Föröva växel- och alternativa eldställ- ”1.grp eldställningar.”
+                ningar.
+                (Kontroll all personal hamnar rätt, har rätt
+                eldområde m.m.).
+          Grpch Inrätta postställe ”XXX bygg maskerat liggvärn för skydd mot
+                                  finkalibrig eld och skydd för regn”.
+                                  ”XXX upprätta fartdämpande hinder för
+                                  standardfordon vid…”
+                                  ”XXX Upprätta plats för ID kontroll vid…”
+                                  ”XXX Upprätta vägbom vid…”
+                                  ”XXX När liggvärnet är klart, inred poststäl-
+                                  let med följande vapen och mtrl…”
+                                  ”XXX Upprätta plats för visitation av per-
+                                  sonal vid…”
+                                  ”XXX Upprätta plats för visitation av for-
+                                  don vid…”
+          Grpch Upprätta larmminor och CIM
+          7.2   Exempel  på insats HA Marschfärdiga
+                                   ORIENTERING
+                med larmstyrka     CIM har utlöst i sektor B 2
+                                   BESLUT
+          Exempel på order till larmstyrka då HA spana/stridsspana söder om objek-
+                                   tet samt återställ magnetgivare”
+          bevakningssystem CIM utlöst.
+                                   ORDER
+                                   HA Framryck längs patrullslinga till
+                                   sektor B1. Spana/tridsspana längs
+          7.3   Skydd av flygbas   patrullslinga i sektor B 1,2,3 återställ
+                                   magnetgivare i sektor B 2. Beredd
+                                   Spana/stridsspana i angränsande sek-
+          En del hemvärnsbataljoner kommer att
+                                   torer. Rapportera då ni passerar in i
+          tilldelas uppgiften skydd av flygbas. sektor B 1.”
+          För plutonen innebär det att uppgifterna
+          som ska lösas är: bevaka, skydda, väg-
+          spärr, post etc.
+          Dock är miljön runt detta skyddsobjekt
+          annorlunda.
+                            56
+HANDBOK
+
+Hemvärnsbevakningsplutoner kommer att lösa sina uppgifter i nära anslut-
+ning till landningsbanan samt bevakning av ammunition, drivmedelsupp-
+lag och flygplan.
+
+Hemvärnsinsatsplutoner kommer tillsammans med flygbassäk och flyg-
+basjägarförband skydda flygbasen från grupperingsplatser en bit ut från
+landningsbanan.
+
+Miljön att verka i kan vara bullrig, dels av flygplan men också av mängden
+underhållstransporter som en aktiv flygbas kräver.
+
+Uppgiften ställer också krav på stor samordning mellan flygvapenenheter
+och hemvärnsförband för att undvika vådabeskjutning.
+Markstridsförbanden kommer att ha begränsningar vad avser använ-
+dande av lys och signalammunition då basen används för flygning.
+Hemvärnsförbanden kommer av anledning inte kunna nyttja hemvärns-
+flyget som stöd för sin strid i den utsträckning man är van vid.
+
+Flygbas -—
+
+Flygbassäk
+
+Bild 7:29. Principskiss för hvbataljon skyddar flygbas tillsammans med flygvapnets markför-
+band.
+
+57
+                          HANDBOK
+
+          7.4   Postering
+
+          Uppgift
+
+          En posterings uppgift är att Bevaka = observera, rapportera och försvåra
+          motståndarens framträngande och verksamhet från en viss plats.
+          En postering kan även utgöras av vägspärr
+
+          En postering består vanligen av en förstärkt hemvärnsgrupp.
+          Ska posteringen vara grupperad under längre tid, avlöser man den vanli-
+          gen en gång per dygn.
+
+          Före utgåendet
+          Posteringen vidtar åtgärder före utgåendet samt framrycker enligt kapit-
+          let Patruller.
+
+          Om posteringens exakta gruppering inte bestämts ska du som chef för
+          posteringen välja en plats där uppgiften går att lösa på bästa sätt med hän-
+          syn till erhållen uppgift.
+
+          Postering bör medge:
+          • Bra observationsmöjligheter, frontalt skydd och flankerande skjut-
+            riktning,
+          • terrängen ska skydda mot eld, insyn och överfall,
+          • in- och utpassering ska kunna ske dolt,
+          • ordonnanser ska kunna förflytta sig dolt,
+          • terrängen ska medge att man ska kunna gräva ner sig eller ordna eld-
+            ställningar med skydd för direkt och indirekt eld.
+
+          Posteringschefen sätter ut post och rekognoserar eldställningar.
+
+          Posteringschefens åtgärder på platsen
+          1. Låt personalen stanna i skydd strax innan ni når posteringens plats,
+            gruppera i igelkottsförsvar,
+          2. genomför eldförberedelser,
+          3. arbeta dolt,
+
+
+
+                            58
+                          HANDBOK
+
+      4. sätt vid behov ut post även vid vägen för kontroll av in- och utpasse-
+        ring, om det är långt till posteringens huvuddel bör dubbelpost s ättas
+        ut,
+      5. förbered minering om du fått order om detta, sätt ut minlots om så
+        behövs.
+      6. inred postställena,
+      7. ge postinstruktion (OBSLÖSA). Indela i postavlösningar,
+      8. gräv skyddsgropar, skottfälts röj och fortsätt bygga ut stridsställningen.
+        Ordna bland annat växel- och alternativa eldställningar samt larman-
+        ordningar,
+      9. samverka med annan postering/förband om sådan finns grupperat i
+        närheten orientera om posteringens uppgift, plats och bevakningsom-
+        råde. Orientera din chef om samverkan med andra förband.
+      Chefen för posteringen tilldelar eldställningar och anger eldområde
+      (skjutgränser)
+      10. Ge efterhand order för;
+      • Åtgärder vid mörker,
+      • åtgärder vid överraskande anfall,
+      • stridsberedskap,
+      • sjukvårdstjänst,
+      • tält- och fordonsplatser,
+      • utspisning.
+      11. Föröva posterna i att uppträda i olika situationer
+      • genomför avlösning.
+
+      Posteringschefen ger order om att inreda det slutliga poststället
+      Öva posteringen i att;
+      • Besätta eldställningarna,
+      • uppträda i olika stridssituationer,
+      • rycka tillbaka och ta hand om skadade,
+      • öva ordonnanser (rapportkarlar) i att ta sig fram längs rapport vägen
+        så att de hittar även i mörker.
+      12. Rapportera enligt erhållen order samt så snart något viktigt inträffar.
+        Samband med tråd bör eftersträvas.
+
+      Rapportera enligt ”7 S”.
+
+
+
+                            59
+HANDBOK
+
+Spårsystem
+
+Ordna ”spårsystem” även om det inte finns snö.
+
+Använd alltid samma punkt vid in- och utpassering från posteringen.
+Utgående spår för patruller läggs i en båge framför posteringen
+
+(sk. metkrok), så att fienden kan beskjutas om han använder sig
+
+av spåret.
+
+Det är förbjudet att göra spår utöver dem som chefen bestämt.
+
+Bild 7:30. Exempel på spårsystem vid postering.
+
+Bevakning
+Bevakningen och stridsberedskapen anpassas till uppgiften och aktuell
+hotbild.
+
+Avlösning
+
+Avgående personal svarar för bevakning och stridsberedskap under avlös-
+ningen.
+
+Avgående styrka omgrupperar inte förrän överlämning skett vad avser:
+Läget vid grupperingen, att den pågående styrkan förövat besättande av
+eldställningarna samt att rapportera till pågående personal hur ”normal-
+bilden” ser ut, t.ex. trafik på vägen och civila i området.
+
+Omgruppera därefter dolt, så att posteringens plats inte röjs.
+
+60
+                          HANDBOK
+
+      Strid
+      • Nedkämpa mindre patruller och avdelningar,
+      • fördröj starkare avdelningars framryckning,
+      • understöd sidoavdelningar och patruller.
+      Om posteringen tvingas utrymma ställningen, tillbakatryck växelvis till
+      återsamlingsplatsen (ÅSA).
+      Håll stridskänning under tillbakaryckningen och fördröj motståndaren
+      från förberedda eldöverfallsplatser längs tillbakaryckningsvägen/spåret.
+      Eventuella skadade och stupade ska medföras tillbaka. Var beredd att göra
+      motanfall för att ta tillbaka skadade eller stupade.
+
+      7.4.1 Vägspärr
+      En postering kan grupperas som vägspärr. Uppgiften innebär då även att
+      genomgående trafik ska kontrolleras, genomsökas eller hejdas.
+
+      Gruppering sker då så att:
+      • Hastigheten på fordon som närmar sig eller ska passera reduceras
+        genom hinder,
+      • hinder (t.ex. egna fordon och fyllda tunnor) kan flyttas så att fordon
+        lättare kan passera,
+      • personal som kontrollerar fordon kan ges understöd och snabbt ta
+        skydd,
+      • eld, inklusive pansarvärnseld, kan avges mot fordon i vägspärren men
+        även mot fordon som stannat utanför spärren,
+      • vägspärren snabbt kan mineras med fordons- och/eller stridsvagns-
+        minor,
+      Efter ingripande ska chefen för posteringen skriva insatsrapport.
+
+
+
+
+
+
+
+
+
+
+
+
+                            61
+HANDBOK
+
+Främre
+
+Säkrare Stoppost
+
+Bild 7:31. Exempel på vägspärr.
+
+Kontroll av fordon
+
+Osäkra och håll vapnen eldberedda,
+
+postettan (i detta fall du) ger ett tydligt och bestämt stopptecken.
+Under mörker ges i regel stopptecken med avskärmat rött ljus (fick-
+lampa),
+
+posttvåan är hela tiden eldberedd i sin eldställning.
+
+beordra: ”Tänd innerbelysningen och släck strålkastarna;
+
+stå kvar på din plats, låt föraren stiga ur.
+
+begär att få se passersedel och legitimation. Ta inte emot en legiti-
+mationshandling ”ur hand” utan låt föraren lägga den på en bestämd
+plats. Innan du granskar handlingarna beordrar du föraren att ställa
+sig framför fordonet. Du måste veta hur gällande passersedlar och
+legitimationskort ser ut,
+
+om något verkar misstänkt beordrar du samtliga att stiga ur bilen och
+lämna dörrarna öppna. Stå inte i vägen om din kamrat måste skjuta,
+innan du granskar legitimationshandlingarna eller visiterar fordo-
+net, beordrar du föraren och passagerarna att ställa sig på betryg-
+
+62
+                          HANDBOK
+
+        gande avstånd och vända åt annat håll. Misstänker du att allt inte står
+        rätt till beordrar du dem att hålla händerna över huvudet eller bakom
+        nacken,
+      • låt föraren öppna samtliga dörrar, luckor och presenningar,
+      • kontrollera att ingen finns kvar i fordonet och därefter att det inte
+        finns någon förbjuden last, kontroll till viss del kan med fördel ske
+        med kikare från några meters avstånd
+      • rör dig inte så att du försvårar för posttvåan att hålla misstänkta
+        under uppsikt eller att öppna eld,
+      • om inte förare och passagerare har klara papper håller du dem kvar
+        under bevakning och rapporterar till din chef,
+      • även om någon kan styrka vem han är så är det inte säkert att han har
+        rätt att passera.
+
+      Tillfälliga vägspärrar
+      Tillfälliga vägspärrar har generellt samma funktion som fasta vägs pärrar
+      men är inte anvisad till en viss plats. Gruppering av en tillfällig vägspärr
+      är begränsad under en viss tid, vanligtvis under några timmar eller några
+      dagar.
+
+      Mängden utrustning bestäms efter patrullens kapacitet att bära utrust-
+      ningen samt efter uppgift och behov. En tillfällig vägspärr ska dock minst
+      ha sambandsutrustning och utrustning för att visitera människor och
+      genomsöka fordon.
+
+      Tillfälliga vägspärrar får över tiden bevaka områden och händelser av
+      olika slag som inte kan bevakas från en fast vägspärr och är således en
+      vanligt förekommande uppgift för markstridsgrupper. Kan exempelvis
+      användas vid en plats för lastning av personal eller materiel för transport.
+      En transport som senare ska eskorteras.
+
+
+
+
+
+
+
+
+
+                            63
+                          HANDBOK
+
+          8.    Försvar
+
+          8.1   Försvar allmänt
+
+          Stridsuppgift som syftar till att förhindra motståndaren att ta och ut nyttja
+          angiven terräng eller anläggning.
+
+          För plutoner ska uppgiften ställas under en begränsad tid. Generellt gäller
+          att om förberedelsetiden är kort eller obefintlig genomförs striden rörligt
+          med försvar av stridsställningar under begränsad tid. Om så god förbere-
+          delsetid föreligger att skyddsnivån kan höjas till att omfatta grävda värn,
+          splitterskydd och skyddsrum kan striden föras under längre tid på samma
+          plats. Oavsett förberedelsetiden är strävan att striden ska föras med rörliga
+          inslag samt med stöd av fältarbeten och indirekt eld.
+          En pluton som får uppgift att försvara objekt eller terrängområde när mot-
+          ståndaren utgörs av reguljära förband bör tillföras omfattande fältarbets-
+          resurser och disponera understöd från artilleriförband.
+
+          8.1.1 Plutons försvar med ingående befästningsar-
+
+                beten
+          Ett motståndsnäste försvaras i regel av halvpluton till pluton. Ett sken-
+          motståndsnäste försvaras av en stridspatrull (grupp förstärkt med granat-
+          gevärsomgång)
+
+          Motståndsnästen ska samtidigt kunna försvaras åt alla håll. Platsen bör
+          dessutom uppfylla följande krav;
+          • Flankerande eld med pansarvärnsvapen ska kunna avges mot vägar
+            eller stråk där motståndarens framryckning bedöms sannolik och i
+            anslutning till utlagda mineringar,
+          • insats av motståndarens artilleri försvåras,
+          • platsen ska om möjligt vara undandragen frontal bekämpning med
+            direktriktad eld, främst granateld,
+          • nästet bör grupperas i terräng som är svårframkomlig och svår att
+            kringgå för stridsfordon,
+
+
+
+
+                            64
+                          HANDBOK
+
+      • skottfälten bör vara högst så långa som våra vapens effektiva skottvid-
+        der,
+      • marken bör vara grävbar och grundvattennivån låg,
+      • skogsbrynsställning ska undvikas,
+      • i öppen terräng ska motståndsnästena grupperas på baksluttningar,
+      • stridsvagnsmineringar utförs framför nästena,
+      • trådhinder och larmmineringar utförs för att komplettera skyddet
+        mot truppinbrytning, Försvarsladdningar används som komplement
+        till övrig direkt eld.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      Bild 8:32. Exempel på motståndsnäste.
+
+      Direkt och indirekt eld från olika vapen förbereds så att den kan kraft-
+      samlas till tid och plats. Ett överraskande eldöppnande och eldöverlägsen-
+      het eftersträvas. I mörker och nedsatt sikt ska eld med kulsprutor och
+      eldhandvapen kunna utlösas som fast eld. Pansarbekämpning utförs i
+      stridsfältsbelysning.
+
+      Ett förlorat näste eller en del av ett näste återtas genom motstöt. Man kvar-
+      lämnar då en säkerhetsbesättning för bevakning och skydd av det egna
+
+
+
+
+                            65
+                          HANDBOK
+
+          nästet. Motstötar förbereds dels inom motståndsnäste för att återta del av
+          detta, dels mot närliggande motståndsnästen.
+          Förberedelser vidtas så att;
+          • Motstötar kan sättas igång omedelbart efter motståndarens storm-
+            ning,
+          • en skyddad (dold) väg finns till utgångsläget för motstöten och för
+            understödet,
+          • genomgångar i hinder finns för den styrka som ska utföra (under-
+            stödja) motstöten,
+          • mineringar inte ordnas där motstöt planeras,
+          • understöd förbereds med eld från artilleri- och granatkastarförband,
+          • flanker kan skyddas med rök,
+          • understöd kan ges från närliggande motståndsnästen.
+
+          8.1.1.1 Förberedelser
+          Rekognosering och samverkan ska närmast besvara följande frågor;
+          • Var har motståndarens stridsfordon lättast och svårast att komma
+            fram samt varifrån kan eld mot dem avges?
+          • Var kan motståndarens fottrupp dolt komma inpå nästet samt vari-
+            från kan eld mot denna terräng bäst avges?
+          • Markens grävbarhet och grundvattennivå?
+          • Hur ordnas sammanhängande eldsystem inom nästet samt med sido-
+            nästen, gäller även i mörker och nedsatt sikt?
+          • Var bör stridsvagnsmineringar läggas ut?
+          • Var kan försvarsladdningar bli effektiva?
+          • Var ska eldlägen förberedas och hur ska dessa utlösas? Eldobservatö-
+            rer förbereds,
+          • Hur ska motstötar utföras och understödjas?
+          • Vilka fältarbeten ska utföras och vilket behov av materiel och maski-
+            ner finns?
+
+          Poster/observatörer i varje näste bör ha bildförstärkare, kikare och peri-
+          skop.
+
+
+
+
+
+
+                            66
+                          HANDBOK
+
+      Spanings- och stridspatruller avdelas i varje motståndsnäste. Patrullerna
+      ska skaffa sig lokalkännedom så att de snabbt kan sändas ut för att klar-
+      lägga anfallsförberedelser m.m. mot kompaniet eller plutonen.
+
+      Sambandet med kompanichef och sidonäste/-n hålls som regel genom för-
+      bindelse på tråd, med ordonnanser samt med tecken eller signaler. Radio-
+      tystnad tillämpas som regel fram till dess striden inletts. Endast huvudsta-
+      tionen har passning.
+
+      Fältarbeten påbörjas snarast. Befästningar byggs så att de kan användas
+      innan de helt färdigställts. Stridsvagnsminering läggs inte ut längre än att
+      den kan försvaras med pansarvärnseld. Försvarsladdningar anordnas nära
+      stridsställningarna på sådana platser där motståndaren väntas rycka fram
+      till fots. Minröjning ska kunna förhindras med eld. Larmanordningar
+      sätts upp för att underlätta bevakningen i mörker och nedsatt sikt.
+
+      Underhållsvägar rekognoseras och märks ut mellan motståndsnästena
+      och trosstroppens näste i samverkan med kompanikvartermästaren.
+      Vägen bör vara så skyddad som möjligt. Den tillförda ammunitionen för-
+      delas dels på stridsvärnen, dels på ett centralt nedgrävt ammunitionsupp-
+      lag inom nästet. Stridsportion fördelas dels på personalen, dels läggs den
+      upp centralt t.ex. i skyddsrum. Varm mat transporteras ut (hämtas) från
+      trosstroppen så länge som möjligt. Vatten (minst fem liter per person och
+      dygn) ska finnas i varje näste i transportflaskor och dunkar.
+
+      Tillfälliga bårar tillverkas. En samlingsplats för skadade upprättas i varje
+      näste i ett värn eller i skyddsrummet. Stridssjukvårdarna organiserar upp-
+      lag av extra sjukvårdsförnödenheter.
+
+      Nästeschefen kontrollerar försvarsförberedelserna genom att öva nästes-
+      besättningen i att genomföra striden. Övningen bör omfatta;
+      • Observation med rapportering,
+      • utlösande av eld från artilleri och andra understödjande förband,
+      • snabbt besättande av stridsställningar (alternativa och växelstrids-
+        ställningar),
+
+
+
+
+                            67
+                          HANDBOK
+
+          • motstötar – med olika styrkestorlek- såväl inom nästet som mot en
+            annan del av kompaniets område samt eldunderstöd,
+          • sambands- och ordonnanstjänst,
+          • skydd mot CBRN,
+          • ammunitions- och sjukvårdstjänst.
+
+          8.1.1.2 Genomförande
+          När motståndaren anfaller, öppnar post/-er eld omedelbart och övrig
+          personal så snart de besätter eldställningarna. Eld med artilleri- och
+          granatkastarförband utlöses.
+
+          Om elden kan observeras, anpassas den efter motståndarens framryck-
+          ning och riktas främst mot stridsfordon samt mot trupp som försöker
+          ta upp genomgångar i hinder och mineringar eller anfalla genom dessa.
+          Stridsfordon och andra vapen utanför granatgevärens skottvidd förblin-
+          das eller avskärmas med rök. Fast eld utlöses på nästeschefens order.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Bild 8:33. Exempel på förberedelser för fast eld med hjälp av stockar.
+
+          Om motståndaren anfaller in i plutonens motståndsnäste, återtas förlorad
+          del av detta genom motstöt. Ett sidonäste som anfalls, understöds med så
+
+
+
+                            68
+                          HANDBOK
+
+      stark eld som möjligt utan att försvaret av det egna nästet eftersätts. En
+      motstöt som utförs av ett annat förband understöds på kompanichefs eller
+      nästeschefs order.
+      Om motståndaren tränger fram vid sidan om motståndsnästet, fördröjs
+      hans framträngande med eld från motståndsnästet och/eller genom att
+      stridspatruller grupperas om till förberedda, alternativa stridsställningar
+      Vid uppehåll i striden;
+      • Repareras sönderskjutna befästningar,
+      • återställs fria skottfält,
+      • fördelas (hämtas) ammunition,
+      • tas skadade och stupade om hand,
+      • återupprättas brutet samband,
+      • avges rapport till kompanichefen,
+      • behålls stridskänningen genom observation och stridspatruller,
+      • ska vapen och personal fördelas om så att granatgevär och kulsprutor
+        kan betjänas.
+
+      8.1.1.3 Försvar i mörker
+      Förberedelser för strid i mörker genomförs i tillämpliga delar enligt övriga
+      kapitel.
+      För försvar av motståndsnäste gäller särskilt;
+      • Vid mörkrets inbrott bör bevakningen förstärkas genom att en eller
+        flera dubbelposter avdelas med observation 360 grader,
+      • sträva efter en tätare gruppering,
+      • särskilt svårövervakad terräng mellan nästen kan bevakas av
+        postering,
+      • vid eldplanläggningen förbereds lyseldlägen,
+      • flera lyspatruller förbereds och övas för att kunna belysa runt n ästet,
+      • nästets skjutgränser märks ut så att de uppfattas i mörkret,
+      • föröva olika tänkbara alternativ.
+
+      8.1.2 Plutons försvar vid kort förberedelsetid
+      Plutonen bör kunna;
+      • Försvara stridsställning minst tills ställningarna bekämpas med indi-
+        rekt eld,
+
+
+
+
+                            69
+                          HANDBOK
+
+          • omgruppera ur motståndarens artillerield till växelstridsställning
+            inom 15 min samt, senare, kunna återbesätta den ordinarie strids-
+            ställningen inom 15 min,
+          • inom 2 timmar ha grävt skyddsgrop, ståvärn för plutonen i ordinarie
+            stridsställning,
+          • leda indirekt eld med hjälp av eldobservatör,
+          • förbereda nya stridsställningar under pågående strid,
+          • minera som stöd för striden,
+          • lösgöra sig under strid.
+
+          8.1.2.1 Förberedelser
+          En pluton som fått uppgiften att försvara förbereder striden i tillämpliga
+          delar som vid försvar ingående befästningar på följande sätt;
+
+          • En stridspatrull/postering grupperas i stridsställning långt fram i
+            syfte att erhålla förvarning,
+          • plutonen grupperas i stridsställning i det viktigaste området, där
+            skyddsgrop och ståvärn grävs,
+          • området framför stridsställningen mineras,
+          • övriga fältarbeten påbörjas (skottfältsröjning, maskering, hinder),
+          • omgruppering till annan (andra) stridsställning (-ar) förbereds
+            genom rekognosering med gruppchefer m.fl. Avståndet mellan strids-
+            ställningar bör vara 300-500 m med hänsyn till motståndarens artil-
+            leri,
+          • utgångsgruppering i den första stridsställningen görs sedan befäst-
+            ningsarbetena avslutats, dock i god tid innan fienden når strids-
+            terrängen,
+          • plutonchefen samverkar med eventuell eldledningsgrupp för plan-
+            läggning av den indirekta elden.
+          • om tid finns förövas, praktiskt eller muntligt, valda delar av stridspla-
+            nen.
+
+          8.1.2.2 Genomförande
+          Striden genomförs med upprepade eldöppnanden från stridsställning,
+          växelstridsställning eller från alternativa stridsställningar. Om indirekt eld
+
+
+
+
+                            70
+HANDBOK
+
+disponeras utnyttjas den så länge som möjligt. Alla möjligheter att under
+striden kunna gruppera i nya stridsställningar och på så sätt kunna över-
+raska fienden med eld ska tillvaratas.
+
+Bild 8:34. Plutonens och stridspatrullens stridsställningar, fältarbeten m.m.
+
+Frontalt skydd och flankerande skjutriktning ska framgå tydligare av skis-
+
+sen
+
+«  Stridspatrullen öppnar överraskande eld så fort motståndaren närmar
+sig. Patrullen behåller stridskontakten så länge som möjligt i syfte att
+skapa mer förberedelsetid för plutonens huvuddel,
+
+«  plutonens huvuddel öppnar eld när motståndaren kör in i (stannar
+framför) mineringen(-arna) eller förberedda bro- och vägspräng-
+ningar,
+
+«  omgruppering till en ny stridsställning sker direkt efter eldöppnan-
+det,
+
+« striden förs sedan rörligt med eldöppnande från nya stridsställningar
+följda av snabba omgrupperingar.
+
+« möjligheten att göra förnyad insats med stridspatrullen eller grupp
+(-er) i gamla eller helt nya stridsställningar tillvaratas.
+
+71
+HANDBOK
+
+8.1.3 Plutons försvar i bebyggelse
+
+En pluton som ska försvara motståndsnästen i bebyggelse bör utöver den
+fastställda/beslutade utrustningen tillföras;
+
+« Handverktyg,
+
+« motorsågar, motorspett,
+
+« taggtråd, sandsäckar, nät, armeringsjärn, balkar, betong, spik, virke
+och sand,
+
+«  plutonen bör understödjas av förband med arbetsmaskiner.
+
+Bild 8:35. Försvar i bebyggelse.
+
+Plutonen försvarar i regel två nästen med en halvpluton i vardera näste.
+Nästen grupperas bakom breda gator, vattendrag eller parker för att få
+goda skottfält.
+
+Nästen bör grupperas om möjligt i motståndskraftiga hus och indraget
+i bebyggelsen för att öka skyddet mot den direkta och indirekta elden
+samt mot brand- och rasrisken. Husen ska vara byggnadstekniskt lämp-
+
+72
+                          HANDBOK
+
+      liga i stridstekniskt rätt placerade. Nästena grupperas i källar- och botten-
+      våningar så att elden blir bestrykande. Hus kan sprängas ner för att öka
+      skyddet över källarvåningar, som förstärks med stöttor. Fönster och dör-
+      rar förses med nät, taggtråd och blockeras.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      Bild 8:36. Exempel på motståndsnäste i byggnad.
+
+      Stridsvagnsminor och pansarhinder läggs ut och ordnas på vägar, gator
+      och stråk som leder in mot nästet. Underjordiska vatten- och avloppsled-
+      ningar blockeras eller försvaras.
+
+      För varje näste gäller;
+      • Eldledare, skarpskyttar och observatörer grupperas högt i byggnader,
+      • kulsprutor och granatgevären grupperas så att de skyddas av grup-
+        perna,
+      • vapen med gasutströmning bakåt grupperas utanför slutna rum,
+      • stridspatruller organiseras,
+      • framrycknings-, ordonnans- och motstötsvägar märks ut.
+
+
+
+
+
+                            73
+                          HANDBOK
+
+          9.    Eldöverfall
+
+          9.1   Eldöverfall allmänt
+
+          Genom överraskande beskjutning med direkt och/eller indirekt eld inklu-
+          sive minor av tillfällig materiel i syfte att tillfoga motståndaren förluster.
+
+          Eldöverfall är en övrig uppgift för hemvärnsförband och övas endast på
+          särskild order. Befälsträning får dock genomföras.
+
+          Ett eldöverfall utförs i regel med en samlad pluton. Sättet att genomföra
+          eldöverfall varieras från gång till gång. Kompanichefen (ställföreträdaren)
+          samordnar oftast två eller flera plutoners strid till ett och samma område.
+          Undantagsvis kan även enskilt uppträdande grupp utföra eld överfall.
+
+          9.1.1 Plutons eldöverfall mot en motståndare som
+                är under f örflyttning
+
+          Stridsställningar för eldöverfall väljs så, att
+          • Naturliga front- och flankskydd kan utnyttjas, t.ex. vattendrag eller
+            höjder, samt
+          • utrymningen av stridsställningarna och tillbakaryckningen under-
+            lättas.
+
+          Terrängen framför stridsställningarna bör vara öppen och jämn och helst
+          också kanaliserande, så att motståndaren inte har några möjligheter att ta
+          skydd eller dra sig undan. Verkan av eldöverfallet kan ofta ökas genom att
+          motståndarens tät först hejdas, t.ex. av stridsvagnsminering.
+
+
+
+
+
+
+
+
+
+
+
+                            74
+HANDBOK
+
+9.1.1.1 Förberedelser
+
+Minering
+
+Mållägetör indirekt eld
+
+rslå — LL
+
+HuvuäStyrka / JINGE
+
+punkt SO
+
+Flankskydd
+
+Bild 9:37. Förberedelser för eldöverfall.
+
+Ett eldöverfall förbereds så här:
+
+Rekognosera och ställ i ordning stridsställningar för grupperna i de
+tänkbara alternativen. Rekognosera om möjligt även från motstånda-
+rens sida. Var listig — lämna kvar prickskyttepatrull, använd försvars-
+laddningar och fordonsminor, variera metoden vid eldöverfall,
+avdela patrull för förvarning såvida inte detta ges av kompanichefen
+eller sidopluton,
+
+avdela flankskydd,
+
+mät avstånd,
+
+röj skottfält,
+
+planlägg den indirekta elden,
+
+organisera sjukvårdstjänsten (transport av skadade och stupade från
+eldställningarna och bakåt),
+
+75
+                          HANDBOK
+
+          • vidta åtgärder så att en fordonsburen motståndare kan stoppas, t.ex.
+            minering, sprängning, syftminering. Min- och sprängarbetena ska
+            syfta till att minst ett fordon förstörs och hejdar motståndarens fram-
+            ryckning. Försvarsladdningar kan användas där motståndarens skyt-
+            tetrupp förväntas göra avsittning och för att skydda plutonen, t.ex.
+            vid flank och vid urdragning.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Bild 9:38. Exempel på enkelt minprotokoll.
+
+          Kom ihåg att protokollföra utlagda minor, så att inte egna soldater eller
+          civila skadas eller dödas!
+
+          Om tiden räcker till, vidta också följande åtgärder;
+          • Maskera eldställningarna (skydd även från luften),
+          • rensa fram- och tillbakarycknings vägar från eldställningarna,
+          • utför skenspårning vintertid. Slå bort snö från buskar och grenar i
+            anslutning till skenspårningen,
+          • föröva eldöverfallet,
+          • samla plutonens huvuddel i utgångsläge för eldöverfall och ge
+            kompletterande order.
+
+
+
+
+
+                            76
+HANDBOK
+
+9.1.1.22 Genomförande
+
+Eldöverfallet genomförs så här:
+
+«  Besätt eldställningarna dolt och i så god tid att plutonen är eldberedd
+när motståndaren kommer eller låt de eventuella skyddsstyrkor som
+rensar terrängen upp till 500 m från vägen passera och besätt eldställ-
+ningarna därefter,
+
+«  utlös förberedda mineringar för att hejda motståndaren, men inte all-
+tid hans tät,
+
+« öppna eld på signal (tecken, kommando) med de vapen som kan ge
+verkan i de aktuella målen, utlös den indirekta elden och minorna
+men inte i samma ordningsföljd varje gång.
+
+Vid eldöverfall mot stridsfordon som är grupperade eller hejdade i anslut-
+
+ning till förbindelseavbrott (minering) kan eldöverfallet inledas med indi-
+
+rekt eld med spränggranater. På så sätt försvåras observation och eldled-
+ning från fordonen.
+
+Bild 9:39. Eldöverfall mot stridsfordon.
+
+77
+                          HANDBOK
+
+          • omgruppera dolt och, om möjligt, på tecken till återsamlingsplats,
+          • flankpatrull (efterpatrull) skyddar urdragningen,
+          • överväg möjligheterna till ett förnyat eldöverfall från samma strids-
+            ställning eller från en växelstridsställning,
+          • stridspatrull (ställföreträdaren, skarpskytt/prickskytt, eldlednings-
+            grupp m.fl.) kan fullfölja striden upp till flera timmar i området efter
+            eldöverfallet.
+          Du ska välja plutonens skyddsställning på en sådan plats att plutonen vid
+          omgrupperingen bakåt kan skydda sig. Skyddsställningen är då lämplig
+          även för förberedelser, t.ex. ordergivning. Den ska vara så nära stridsställ-
+          ningarna att plutonen i god tid hinner besätta dessa men så långt bort att
+          plutonen inte råkar i strid med eventuella fientliga skyddsstyrkor. Pluto-
+          nens skyddsställning och återsamlingsplats (ÅSA) kan vara samma.
+          Grupperna ordnar vid behov skyddsställning bakom respektive strids-
+          ställning.
+          Du leder som plutonchef eldöverfallet med den för tillfället viktigaste
+          delen av plutonen, men så att han kan hålla samband med samtliga grup-
+          per och observera eldöverfallsterrängen. Hos plutonchefen kan en t.ex.
+          eldobservatör/eldledningsgrupp och ett skarpskyttestridspar finnas grup-
+          perade. Du leder flankpatrullens (efterpatrullens) tillbakaryckning efter
+          eldöverfallet.
+
+          Ställföreträdaren leder sådan del av plutonen som du som chef inte kan
+          överblicka.
+
+          Ställföreträdaren kan också;
+          • Uppehålla sig vid dig, beredd att ta över ledningen,
+          • leda plutonens huvuddel vid tillbakaryckningen eller
+          • förbereda ett nytt eldöverfall på en annan plats.
+
+          De bästa gruppcheferna leder helt självständiga uppgifter. Stridssjukvår-
+          daren uppehåller sig omedelbart bakom stridsställningarna. Bårar ska
+          medföras och bårplatser ska vara förberedda i plutonens fordon. Dessa
+          grupperas så långt fram som möjligt med hänsyn till buller, risken för
+          upptäckt och bekämpning.
+
+
+
+
+                            78
+                          HANDBOK
+
+      Förberedelserna för eldöverfall i mörker sker på samma sätt som i dags-
+      ljus. Eldöverfallet utförs normalt i stridsfältsbelysning från plutonens sig-
+      nalpistoler och närlysraketer. Lysgranater från granatkastar- eller artilleri-
+      förband kan eventuellt disponeras.
+      Stor uppmärksamhet ägnas åt ljud- och ljusdisciplin. Stor vikt läggs vid att
+      hitta fram till respektive grupps stridsställningar samt att säkerställa fritt
+      skottfält. Vägarna och skottfälten kan märkas ut.
+
+      I gynnsamma fall ska eldöverfallet upprepas. Det kan ske från samma
+      stridsställning eller från en rekognoserad växelstridsställning. Efter utfört
+      eldöverfall kan det ibland bli nödvändigt att en spräng- och minpatrull
+      (motsv.) med understöd av plutonens huvuddel sänds fram för att spränga
+      (tända eld på) inte bekämpade fordon och för att utföra kompletterande
+      mineringar.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            79
+                          HANDBOK
+
+          Bildförteckning
+
+          I den här handboken förekommer följande bilder med verkshöjd:
+
+          Fotografer/illustratörer anges med namn och organisatorisk tillhörighet.
+          Alla bilder där FMV FSV GP anges är nyttjanderätten säkerställd genom
+          samarbetsavtal.
+
+          Bild nr Fotograf - illustratör Notering - bildavtal
+          Omslagsbild Johan Sjödin/Hemvärnstidningen
+
+                 Anna-Karin Wetzig, FMV/FSV/Grafisk
+          Bild 4:1.              .
+                 produktion
+                 Anna-Karin Wetzig, FMV/FSV/Grafisk
+          Bild 4:2.
+                 produktion
+                 Anna-Karin Wetzig, FMV/FSV/Grafisk
+          Bild 4:3.
+                 produktion
+                 Anna-Karin Wetzig, FMV/FSV/Grafisk
+          Bild 4:4.
+                 produktion
+                 Anna-Karin Wetzig, FMV/FSV/Grafisk
+          Bild 4:5.
+                 produktion
+                 Anna-Karin Wetzig, FMV/FSV/Grafisk
+          Bild 4:6.
+                 produktion
+                 Anna-Karin Wetzig, FMV/FSV/Grafisk
+          Bild 4:7.
+                 produktion
+                 Anna-Karin Wetzig, FMV/FSV/Grafisk
+          Bild 4:8.
+                 produktion
+                 Anna-Karin Wetzig, FMV/FSV/Grafisk
+          Bild 4:9.
+                 produktion
+                 Anna-Karin Wetzig, FMV/FSV/Grafisk
+          Bild 4:10.
+                 produktion
+                 Anna-Karin Wetzig, FMV/FSV/Grafisk
+          Bild 4:11.
+                 produktion
+                 Anna-Karin Wetzig, FMV/FSV/Grafisk
+          Bild 4:12.
+                 produktion
+                 Anna-Karin Wetzig, FMV/FSV/Grafisk
+          Bild 4:13.
+                 produktion
+                 Anna-Karin Wetzig, FMV/FSV/Grafisk
+          Bild 4:14.
+                 produktion
+                            80
+                          HANDBOK
+
+              Anna-Karin Wetzig, FMV/FSV/Grafisk
+       Bild 4:15.
+              produktion
+       Bild 6:16.             Rättigheter enligt ursprunglig utgivning.
+       Bild 6:17.             Rättigheter enligt ursprunglig utgivning.
+       Bild 6:18.             Rättigheter enligt ursprunglig utgivning..
+       Bild 6:19.             Rättigheter enligt ursprunglig utgivning.
+       Bild 6:20.             Rättigheter enligt ursprunglig utgivning.
+              Anna-Karin Wetzig, FMV/FSV/Grafisk
+       Bild 6:21.
+              produktion
+              Anna-Karin Wetzig, FMV/FSV/Grafisk
+       Bild 6:22.
+              produktion
+              Anna-Karin Wetzig, FMV/FSV/Grafisk
+       Bild 6:23.
+              produktion
+              Anna-Karin Wetzig, FMV/FSV/Grafisk
+       Bild 7:24.
+              produktion
+       Bild 7:25.             Rättigheter enligt ursprunglig utgivning.
+       Bild 7:26.             Rättigheter enligt ursprunglig utgivning.
+       Bild 7:27.             Rättigheter enligt ursprunglig utgivning.
+       Bild 7:28.             Rättigheter enligt ursprunglig utgivning.
+       Bild 7:29.             Rättigheter enligt ursprunglig utgivning.
+              Anna-Karin Wetzig, FMV/FSV/Grafisk
+       Bild 7:30.
+              produktion
+              Anna-Karin Wetzig, FMV/FSV/Grafisk
+       Bild 7:31.
+              produktion
+       Bild 8:32.             Rättigheter enligt ursprunglig utgivning.
+       Bild 8:33.             Rättigheter enligt ursprunglig utgivning.
+       Bild 8:34.             Rättigheter enligt ursprunglig utgivning.
+       Bild 8:35.             Rättigheter enligt ursprunglig utgivning.
+       Bild 8:36.             Rättigheter enligt ursprunglig utgivning.
+       Bild 9:37.             Rättigheter enligt ursprunglig utgivning.
+              Anna-Karin Wetzig, FMV/FSV/Grafisk
+       Bild 9:38.
+              produktion
+              Anna-Karin Wetzig, FMV/FSV/Grafisk
+       Bild 9:39.
+              produktion
+                            81
+                          HANDBOK
+
+          Källförteckning
+
+          I den här utgåvan av handboken har följande källor använts:
+
+          HvR hvpluton 1996
+          InfR skgrupp 1991
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            82
+          Handbok Hemvärnspluton-grupp Del 2 Objektet beskriver grunderna för
+          strid med mera vid hvpluton och grupp. Handboken består av tre delar.
+
+          Innehållet är i sak detsamma som i Förb R hvplut-grupp 2013.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                           H HVPLUT-GRP 2
+    107 85 STOCKHOLM
+                                           M7739-352075
+    www.forsvarsmakten.se
+                                  *PM7739352075*
+
